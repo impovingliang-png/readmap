@@ -1,0 +1,273 @@
+{
+  "generatedAt": "2026-05-22",
+  "countries": [
+    {
+      "slug": "canada",
+      "nameEn": "Canada"
+    },
+    {
+      "slug": "france",
+      "nameEn": "France"
+    },
+    {
+      "slug": "japan",
+      "nameEn": "Japan"
+    },
+    {
+      "slug": "singapore",
+      "nameEn": "Singapore"
+    },
+    {
+      "slug": "south-korea",
+      "nameEn": "South Korea"
+    },
+    {
+      "slug": "united-kingdom",
+      "nameEn": "United Kingdom"
+    },
+    {
+      "slug": "germany",
+      "nameEn": "Germany"
+    },
+    {
+      "slug": "russia",
+      "nameEn": "Russia"
+    },
+    {
+      "slug": "india",
+      "nameEn": "India"
+    },
+    {
+      "slug": "italy",
+      "nameEn": "Italy"
+    },
+    {
+      "slug": "brazil",
+      "nameEn": "Brazil"
+    },
+    {
+      "slug": "australia",
+      "nameEn": "Australia"
+    },
+    {
+      "slug": "spain",
+      "nameEn": "Spain"
+    },
+    {
+      "slug": "mexico",
+      "nameEn": "Mexico"
+    },
+    {
+      "slug": "thailand",
+      "nameEn": "Thailand"
+    },
+    {
+      "slug": "turkey",
+      "nameEn": "Turkey"
+    },
+    {
+      "slug": "vietnam",
+      "nameEn": "Vietnam"
+    },
+    {
+      "slug": "saudi-arabia",
+      "nameEn": "Saudi Arabia"
+    },
+    {
+      "slug": "indonesia",
+      "nameEn": "Indonesia"
+    },
+    {
+      "slug": "malaysia",
+      "nameEn": "Malaysia"
+    },
+    {
+      "slug": "philippines",
+      "nameEn": "Philippines"
+    },
+    {
+      "slug": "north-korea",
+      "nameEn": "North Korea"
+    },
+    {
+      "slug": "ukraine",
+      "nameEn": "Ukraine"
+    },
+    {
+      "slug": "israel",
+      "nameEn": "Israel"
+    },
+    {
+      "slug": "egypt",
+      "nameEn": "Egypt"
+    },
+    {
+      "slug": "argentina",
+      "nameEn": "Argentina"
+    },
+    {
+      "slug": "netherlands",
+      "nameEn": "Netherlands"
+    },
+    {
+      "slug": "switzerland",
+      "nameEn": "Switzerland"
+    },
+    {
+      "slug": "sweden",
+      "nameEn": "Sweden"
+    },
+    {
+      "slug": "norway",
+      "nameEn": "Norway"
+    },
+    {
+      "slug": "greece",
+      "nameEn": "Greece"
+    },
+    {
+      "slug": "portugal",
+      "nameEn": "Portugal"
+    },
+    {
+      "slug": "united-arab-emirates",
+      "nameEn": "United Arab Emirates"
+    },
+    {
+      "slug": "qatar",
+      "nameEn": "Qatar"
+    },
+    {
+      "slug": "pakistan",
+      "nameEn": "Pakistan"
+    },
+    {
+      "slug": "new-zealand",
+      "nameEn": "New Zealand"
+    },
+    {
+      "slug": "ireland",
+      "nameEn": "Ireland"
+    },
+    {
+      "slug": "iceland",
+      "nameEn": "Iceland"
+    },
+    {
+      "slug": "poland",
+      "nameEn": "Poland"
+    },
+    {
+      "slug": "austria",
+      "nameEn": "Austria"
+    },
+    {
+      "slug": "belgium",
+      "nameEn": "Belgium"
+    },
+    {
+      "slug": "denmark",
+      "nameEn": "Denmark"
+    },
+    {
+      "slug": "finland",
+      "nameEn": "Finland"
+    },
+    {
+      "slug": "south-africa",
+      "nameEn": "South Africa"
+    },
+    {
+      "slug": "nigeria",
+      "nameEn": "Nigeria"
+    },
+    {
+      "slug": "kenya",
+      "nameEn": "Kenya"
+    },
+    {
+      "slug": "morocco",
+      "nameEn": "Morocco"
+    },
+    {
+      "slug": "peru",
+      "nameEn": "Peru"
+    },
+    {
+      "slug": "chile",
+      "nameEn": "Chile"
+    },
+    {
+      "slug": "colombia",
+      "nameEn": "Colombia"
+    },
+    {
+      "slug": "venezuela",
+      "nameEn": "Venezuela"
+    },
+    {
+      "slug": "cuba",
+      "nameEn": "Cuba"
+    },
+    {
+      "slug": "czech-republic",
+      "nameEn": "Czech Republic"
+    },
+    {
+      "slug": "hungary",
+      "nameEn": "Hungary"
+    },
+    {
+      "slug": "romania",
+      "nameEn": "Romania"
+    },
+    {
+      "slug": "croatia",
+      "nameEn": "Croatia"
+    },
+    {
+      "slug": "serbia",
+      "nameEn": "Serbia"
+    },
+    {
+      "slug": "iran",
+      "nameEn": "Iran"
+    },
+    {
+      "slug": "iraq",
+      "nameEn": "Iraq"
+    },
+    {
+      "slug": "syria",
+      "nameEn": "Syria"
+    },
+    {
+      "slug": "afghanistan",
+      "nameEn": "Afghanistan"
+    },
+    {
+      "slug": "kazakhstan",
+      "nameEn": "Kazakhstan"
+    },
+    {
+      "slug": "mongolia",
+      "nameEn": "Mongolia"
+    },
+    {
+      "slug": "nepal",
+      "nameEn": "Nepal"
+    },
+    {
+      "slug": "united-states",
+      "nameEn": "United States"
+    },
+    {
+      "slug": "china",
+      "nameEn": "China"
+    },
+    {
+      "slug": "taiwan",
+      "nameEn": "Taiwan"
+    }
+  ]
+}
