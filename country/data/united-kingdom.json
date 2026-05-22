@@ -1,0 +1,357 @@
+{
+  "name": {
+    "en": "United Kingdom",
+    "zh": "英國"
+  },
+  "nativeName": "United Kingdom",
+  "capital": {
+    "en": "London",
+    "zh": "倫敦"
+  },
+  "population": "68M",
+  "area": "243,000 km²",
+  "density": "281/km²",
+  "continent": "Europe",
+  "flagEmoji": "🇬🇧",
+  "dataEstYear": 2025,
+  "description": {
+    "en": "The United Kingdom of Great Britain and Northern Ireland, commonly known as the United Kingdom (UK) or Britain, is an island nation in northwestern Europe. Comprising England, Scotland, Wales, and Northern Ireland, the UK was once one of the largest empires in history. It continues to exert global political, legal, economic, and cultural influence today.",
+    "zh": "United Kingdom是位於歐洲西北部的島國，由英格蘭（England）、蘇格蘭（Scotland）、威爾斯（Wales）和北愛爾蘭（Northern Ireland）共同組成。英國曾建立世界歷史上規模最大的殖民帝國之一，對現代政治、法律、金融、工業與語言發展具有深遠影響。"
+  },
+  "seoText": {
+    "en": "Explore quick facts about the United Kingdom — population, land area, capital city, and a short overview. Discover its geography, rich history, robust financial services, and iconic landmarks like Big Ben and Buckingham Palace.",
+    "zh": "快速了解英國的基本資料：人口、面積、首都與簡短概述。探索其地理環境、悠久歷史、強大的金融服務業以及大笨鐘與白金漢宮等著名地標。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Island nation located in northwestern Europe",
+          "Composed of four constituent countries",
+          "Birthplace of the Industrial Revolution",
+          "Immense global financial and cultural influence"
+        ],
+        "text": "Composed of the island of Great Britain, the northeastern part of the island of Ireland, and numerous smaller islands, the UK is separated from continental Europe by the North Sea. Its history has profoundly shaped the global political and economic order, and the English language has become the world's primary international language due to British colonial and cultural expansion.\n\nAs a highly developed country, the UK continues to maintain global influence in finance, education, technology, creative arts, and diplomacy. London is widely recognized as one of the world's most prominent international financial hubs."
+      },
+      "zh": {
+        "list": [
+          "位於歐洲西北部的島國",
+          "由四個構成國共同組成",
+          "工業革命發源地之一",
+          "全球金融與文化影響力強大"
+        ],
+        "text": "英國由大不列顛島、北愛爾蘭與周邊島嶼構成，東隔北海與歐洲大陸相望。其歷史長期深刻影響全球政治與經濟秩序，英語亦因英國殖民與文化擴張而成為世界主要國際語言。\n\n作為高度已開發國家，英國在金融、教育、科技、文化創意與外交領域持續保持全球影響力。倫敦（London）更被視為世界最重要的國際金融中心之一。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Located off the northwestern coast of mainland Europe",
+          "Composed of England, Scotland, Wales, and Northern Ireland",
+          "Extensive coastline with numerous natural harbors",
+          "Terrain includes plains, highlands, and rolling hills"
+        ],
+        "text": "The UK has a total area of approximately 243,000 square kilometers. The terrain of England consists mostly of lowland terrain, while Scotland features rugged mountains, highlands, and numerous lochs (lakes).\n\nSurrounded by major bodies of water, the UK's extensive coastline historically favored maritime power and international trade. Its proximity to mainland Europe has historically ensured that the UK remains key to European political and economic structures."
+      },
+      "zh": {
+        "list": [
+          "位於歐洲西北外海",
+          "由英格蘭、蘇格蘭、威爾斯與北愛爾蘭組成",
+          "海岸線綿長",
+          "地形包含平原、高地與丘陵"
+        ],
+        "text": "英國國土面積約 24.3 萬平方公里，主要由大不列顛島與愛爾蘭島東北部構成。英格蘭（England）南部以平原與低地為主，而蘇格蘭（Scotland）則擁有大量高地、山區與湖泊地形。\n\n英國四面多數被海洋包圍，天然港口眾多，歷史上有利於海權與貿易發展。由於地理位置接近歐洲大陸，英國長期在歐洲政治與經濟體系中具有重要地位。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Pronounced temperate maritime climate",
+          "Frequent rainfall throughout the year",
+          "Mild winters and cool summers",
+          "Highly changeable daily weather"
+        ],
+        "text": "Influenced by the North Atlantic Drift, the UK enjoys a relatively mild climate, with winter temperatures generally higher than inland areas at similar latitudes.\n\nWestern and northern regions receive higher precipitation, particularly the Scottish Highlands and Welsh mountains. The highly changeable weather and frequent overcast skies are a major characteristic of daily life in the UK."
+      },
+      "zh": {
+        "list": [
+          "海洋性氣候明顯",
+          "全年降雨頻繁",
+          "冬季溫和、夏季涼爽"
+        ],
+        "text": "英國受北大西洋暖流影響，整體氣候相對溫和，即使位於高緯度地區，冬季氣溫通常仍高於同緯度內陸地區。\n\n西部與北部降雨量較高，尤其是蘇格蘭（Scotland）高地與威爾斯（Wales）山區。英國天氣變化快速、陰雨頻繁，是當地日常生活的重要特色之一。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Population of approximately 68 million",
+          "Highly urbanized population",
+          "Significant population concentration in London",
+          "Multi-ethnic and diverse immigrant society"
+        ],
+        "text": "According to official census data, the population of the United Kingdom has become increasingly multi-ethnic. White individuals constitute approximately 81.7% of the total population, which includes White British, White Irish, and other European backgrounds. Asian or Asian British communities represent the largest minority group at around 9.3%, with people of Indian (3.1%), Pakistani (2.7%), and Bangladeshi (1.1%) heritage forming the largest segments. Black, Black British, Caribbean, or African individuals account for approximately 4.0% of the citizenry. Mixed or multiple ethnic groups comprise about 2.9%, while Other ethnic groups (including Chinese and Arab communities) make up the remaining 2.1%. Demographically, England is the most diverse constituent country, particularly within major metropolitan hubs like London, Birmingham, and Leicester."
+      },
+      "zh": {
+        "list": [
+          "人口總數約 6,800 萬人",
+          "都市化程度高且英格蘭地區人口最為稠密",
+          "大倫敦都會區為最核心的跨國人口集聚地",
+          "官方普查顯示多元族群比例持續顯著增長"
+        ],
+        "text": "根據英國國家統計局（ONS）最新官方人口普查數據，英國人口結構呈現明顯的多元民族與國際化特徵。全國人口的族群分布具體比例統計如下：\n\n白人（White）依然為最主要群體，約占總人口的 81.7%（包含英格蘭、蘇格蘭、威爾斯與愛爾蘭等本土裔，以及其他歐洲移民後裔）。\n\n亞洲裔或亞裔英國人（Asian or Asian British）為最大的少數族群，約占總人口的 9.3%，其中以印度裔（3.1%）、巴基斯坦裔（2.7%）和孟加拉裔（1.1%）比例最高，另包含華裔等其他亞裔背景。\n\n黑人、黑裔英國人、加勒比海或非洲裔（Black, Black British, Caribbean or African）約占總人口的 4.0%。\n\n混血或多元族群（Mixed or Multiple ethnic groups）約占總人口的 2.9%。\n\n其他族群（Other ethnic groups，如阿拉伯裔等）則占總人口的 2.1%。\n\n各大行政構成國中，英格蘭的族群多樣性最為突出。首府倫敦（London）以及伯明罕（Birmingham）、萊斯特（Leicester）等核心都市圈，少數族群與國際移民後裔的分布密度尤其顯著。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "One of the world's major developed economies",
+          "Highly advanced financial and service sectors",
+          "London stands as a preeminent global financial hub",
+          "Vibrant creative, tech, and aerospace industries"
+        ],
+        "text": "The UK economy is dominated by the service sector, with finance, insurance, law, media, and education enjoying strong global competitiveness. The City of London has long been a premier international hub for foreign exchange, banking, and insurance trading.\n\nBeyond financial services, the UK holds global sway in biotechnology, aerospace, automotive design, and cultural creative industries. Artificial intelligence and fintech have grown rapidly in recent years, with Cambridge and London serving as vital hubs of innovation."
+      },
+      "zh": {
+        "list": [
+          "全球主要已開發經濟體之一",
+          "金融與服務業高度發達",
+          "倫敦（London）為世界金融中心",
+          "創意與科技產業重要"
+        ],
+        "text": "英國經濟以服務業為主，金融、保險、法律、媒體與教育產業在全球具有高度競爭力。倫敦（London）金融城長期是全球外匯、銀行與保險交易的重要中心。\n\n除了金融業外，英國在科技、生技、航空、設計與文化創意產業亦具有國際影響力。近年人工智慧與金融科技產業成長快速，劍橋（Cambridge）與倫敦（London）成為重要創新聚落。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Constitutional monarchy",
+          "Parliamentary democracy (Westminster system)",
+          "The Prime Minister serves as the head of government",
+          "The Monarch acts as the ceremonial head of state"
+        ],
+        "text": "The UK is one of the world's most iconic constitutional monarchies, with King Charles III currently serving as the head of state. Executive power is held by the Prime Minister and the Cabinet.\n\nThe British parliamentary system has deeply influenced many democracies worldwide. While the central government is located in London, Scotland, Wales, and Northern Ireland enjoy varying degrees of devolved administrative powers."
+      },
+      "zh": {
+        "list": [
+          "君主立憲制國家",
+          "採議會民主制度",
+          "首相為政府領袖",
+          "國王為象徵性元首"
+        ],
+        "text": "英國為世界最具代表性的君主立憲國家之一，目前國家元首為查爾斯三世（Charles III）。實際行政權力由首相與內閣掌握。\n\n英國國會制度深刻影響全球許多民主國家。中央政府設於倫敦（London），而蘇格蘭（Scotland）、威爾斯（Wales）與北愛爾蘭（Northern Ireland）則擁有不同程度的地方自治權。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Comprehensive public healthcare system",
+          "World-class higher education institutions",
+          "Highly diverse social and cultural fabric",
+          "High cost of living, particularly in major cities"
+        ],
+        "text": "The UK features the state-funded National Health Service (NHS), providing comprehensive healthcare services to all residents. Higher education is a key strength of the UK, with prestigious institutions attracting large numbers of international students.\n\nConversely, London and other major metropolitan areas face persistent challenges such as rising housing costs and inflation, contributing to a high cost of living."
+      },
+      "zh": {
+        "list": [
+          "公共醫療制度完善",
+          "高等教育享譽全球",
+          "社會文化高度多元",
+          "生活成本偏高"
+        ],
+        "text": "英國擁有由政府主導的國民保健署（NHS）公共醫療體系，居民可取得基本醫療服務。\n\n高等教育為英國重要優勢之一，吸引大量國際學生。另一方面，倫敦（London）等大型城市近年面臨房價與生活成本持續上升問題。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "Global birthplace of the English language",
+          "Royal family culture enjoys worldwide prominence",
+          "Deep-seated and globally influential football culture",
+          "Strong literature, theater, and music industries"
+        ],
+        "text": "British culture exerts massive global influence, from language and drama to pop music and sports. William Shakespeare stands as one of the most representative figures in English literature.\n\nIn modern pop culture, the UK has produced world-renowned music and literary works, including the legacy of The Beatles, Adele, and the Harry Potter series. Football is the country's most representative sport, and the Premier League is the world's most-watched football league."
+      },
+      "zh": {
+        "list": [
+          "英語文化核心發源地",
+          "王室文化全球知名",
+          "足球文化影響深遠",
+          "文學與音樂產業強大"
+        ],
+        "text": "英國文化長期對全球具有巨大影響力，從語言、戲劇到流行音樂皆深刻影響世界。莎士比亞（William Shakespeare）被視為英語文學最具代表性人物之一。\n\n現代流行文化方面，英國孕育大量國際知名音樂與影視作品，例如披頭四（The Beatles）、愛黛兒（Adele）與哈利波特（Harry Potter）等。\n\n足球則是英國最具代表性的運動文化，英超聯賽（Premier League）更是全球影響力最大的足球聯賽之一。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Economic adjustments post-Brexit",
+          "Inflation and cost-of-living crises",
+          "Debates over migration and border policies",
+          "Ongoing questions regarding Scottish independence"
+        ],
+        "text": "Since Brexit, the UK has faced ongoing trade and economic restructuring, including shifts in labor markets and supply chain dynamics. Energy prices and public service financing also represent critical domestic issues, while discussions around Scottish independence continue to influence political identity."
+      },
+      "zh": {
+        "list": [
+          "脫歐後經濟調整",
+          "通膨與生活成本問題",
+          "移民與邊境政策爭議",
+          "蘇格蘭獨立議題持續"
+        ],
+        "text": "英國自脫歐（Brexit）後持續面臨經濟與貿易結構調整問題，包括勞動力、市場與供應鏈變化。\n\n此外，能源價格、住房成本與公共財政壓力也是近年重要政治議題。蘇格蘭（Scotland）獨立問題則持續影響英國內部政治與國家認同。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "London — Capital and global financial heart",
+          "Edinburgh — Scotland's historical and cultural core",
+          "Manchester — Symbol of the Industrial Revolution",
+          "Big Ben — The iconic clock tower"
+        ],
+        "text": "London serves as the political, financial, and cultural nucleus of the country, blending rich history with cutting-edge finance. Edinburgh is renowned for its historic castle and arts festivals, while Manchester stands as a monument to the industrial age. Landmarks like Big Ben and Buckingham Palace represent the political and royal heritage."
+      },
+      "zh": {
+        "list": [
+          "倫敦（London）—— 首都與全球金融中心",
+          "愛丁堡（Edinburgh）—— 蘇格蘭歷史與文化核心",
+          "曼徹斯特（Manchester）—— 工業革命代表城市",
+          "大笨鐘（Big Ben）—— 英國代表性地標"
+        ],
+        "text": "倫敦（London）為英國政治、金融與文化核心，擁有世界級金融市場與大量歷史建築。\n\n愛丁堡（Edinburgh）以古城景觀與藝術節聞名，而曼徹斯特（Manchester）則是英國工業革命的重要象徵。大笨鐘（Big Ben）與白金漢宮（Buckingham Palace）等地標則代表英國王室與議會文化。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "Permanent member of the UN Security Council",
+          "Core member of NATO",
+          "G7 member state",
+          "Head of the Commonwealth of Nations"
+        ],
+        "text": "The UK is a leading diplomatic and military power, playing a significant role in international security and finance. Despite leaving the European Union, it maintains close political, defense, and economic relationships with Europe, the United States, and Commonwealth nations."
+      },
+      "zh": {
+        "list": [
+          "聯合國（UN）安全理事會常任理事國",
+          "北約（NATO）核心成員",
+          "G7 成員國之一",
+          "大英國協核心國家"
+        ],
+        "text": "英國長期為全球主要外交與軍事強國之一，在國際安全、金融與外交事務中具有高度影響力。\n\n雖然已退出歐洲聯盟（EU），但英國仍與歐洲、美國與大英國協國家保持密切政治與經濟關係。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Stable trade and educational exchanges",
+          "Popular destination for Taiwanese students",
+          "Growing cooperation in technology and green energy",
+          "Vibrant cultural cooperation"
+        ],
+        "text": "The UK and Taiwan maintain a strong unofficial relationship, with robust exchanges in education, technology, finance, and culture. Cooperation has surged in green energy, semiconductor supply chains, and AI development, while the UK remains a top study-abroad destination for Taiwanese students."
+      },
+      "zh": {
+        "list": [
+          "經貿與文化交流穩定",
+          "英國為熱門留學目的地",
+          "科技與金融合作增加",
+          "文化交流活躍"
+        ],
+        "text": "英國與台灣維持穩定非官方交流關係，在教育、科技、金融與文化領域往來密切。\n\n近年雙方於半導體、綠能與人工智慧等產業合作增加，英國亦為台灣學生重要留學目的地之一。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "Home to the English language",
+          "Birthplace of the Industrial Revolution",
+          "Has one of the world's oldest parliamentary systems",
+          "London is a premier global financial center",
+          "Football culture has massive worldwide appeal"
+        ]
+      },
+      "zh": {
+        "list": [
+          "英語主要發源地之一",
+          "工業革命起源地",
+          "擁有世界歷史最悠久議會制度之一",
+          "倫敦（London）為全球金融中心代表城市",
+          "足球文化具世界級影響力"
+        ]
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": "£ Pound Sterling"
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "English",
+        "zh": "英語"
+      }
+    },
+    {
+      "label": "GDP (nom.)",
+      "value": "$3.4T"
+    },
+    {
+      "label": "Time zones",
+      "value": {
+        "en": "UTC+0 (GMT) / UTC+1 (BST)",
+        "zh": "UTC+0 (GMT) / UTC+1 (BST)"
+      }
+    },
+    {
+      "label": "Calling code",
+      "value": "+44"
+    },
+    {
+      "label": "ISO code",
+      "value": "GB / GBR"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "⏰",
+      "text": {
+        "en": "Big Ben (Elizabeth Tower) — The iconic clock tower of the Palace of Westminster",
+        "zh": "大笨鐘（伊麗莎白塔）——西敏宮著名的標誌性鐘樓"
+      }
+    },
+    {
+      "icon": "🏰",
+      "text": {
+        "en": "Buckingham Palace — The official London residence and administrative headquarters of the monarch",
+        "zh": "白金漢宮——英國君主的倫敦官方住所與行政總部"
+      }
+    },
+    {
+      "icon": "🎡",
+      "text": {
+        "en": "London Eye — A giant Ferris wheel on the South Bank of the River Thames, offering panoramic views",
+        "zh": "倫敦眼——泰晤士河南岸的巨型摩天輪，可鳥瞰整個倫敦市景"
+      }
+    },
+    {
+      "icon": "🪨",
+      "text": {
+        "en": "Stonehenge — Prehistoric monument in Wiltshire, consisting of a ring of standing stones",
+        "zh": "巨石陣——位於威爾特郡的史前遺產，由環狀立石群構成"
+      }
+    },
+    {
+      "icon": "⚽",
+      "text": {
+        "en": "Premier League — The most-watched football league in the world, originating in England",
+        "zh": "英超聯賽——全球觀看人數最多的職業足球聯賽，起源於英格蘭"
+      }
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/62149",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=-8.5%2C49.9%2C2.0%2C60.9&layer=mapnik"
+}

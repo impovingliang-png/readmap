@@ -1,0 +1,353 @@
+{
+  "name": {
+    "en": "Austria",
+    "zh": "奧地利"
+  },
+  "nativeName": "Republik Österreich",
+  "capital": {
+    "en": "Vienna",
+    "zh": "維也納"
+  },
+  "population": "9.1M",
+  "area": "83,879 km²",
+  "density": "109/km²",
+  "continent": "Europe",
+  "flagEmoji": "🇦🇹",
+  "dataEstYear": 2025,
+  "description": {
+    "en": "Austria, officially the Republic of Austria, is a landlocked sovereign state located in Central Europe, bordered by Switzerland and Liechtenstein to the west, Germany and the Czech Republic to the north, Slovakia and Hungary to the east, and Italy and Slovenia to the south. Situated at the very crossroads of Europe, Austria is world-famous for its unparalleled classical music legacy, breath-taking Alpine topography, and highly advanced quality of life.",
+    "zh": "奧地利（Austria），正式國名為奧地利共和國，是位於中歐的內陸國家，西鄰瑞士（Switzerland）與列支敦斯登（Liechtenstein），北接德國（Germany）與捷克（Czech Republic），東連斯洛伐克（Slovakia）與匈牙利（Hungary），南接義大利（Italy）與斯洛維尼亞（Slovenia）。奧地利地處歐洲心臟地帶，以音樂文化、阿爾卑斯山（Alpine）景觀與高生活品質聞名。"
+  },
+  "seoText": {
+    "en": "Explore quick facts about Austria — population, land area, capital city, and a short overview. Learn about Vienna classical opera, Salzburg Mozart baroque streets, Schönbrunn Palace history, Alpine ski trails, and Viennese coffee house culture.",
+    "zh": "快速了解奧地利的基本資料：人口、面積、首都與簡短概述。探索維也納古典音樂、薩爾斯堡莫札特故鄉、美泉宮皇家宮廷、阿爾卑斯滑雪勝地以及維也納經典咖啡館文化。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Sovereign landlocked federation situated in Central Europe",
+          "Alpine core state dominated by spectacular glacier massifs",
+          "Pivotal member nation of the European Union block",
+          "Celebrated globally for classical music, operas, and royal architecture"
+        ],
+        "text": "Draped across the majestic peaks of the eastern Alps and watered by the flowing Danube River, Austria (Österreich) represents the cultural heart of old-world European elegance. As the historic epicenter of the mighty Habsburg Empire, the nation boasts grand imperial palaces like Schönbrunn and Hofburg.\n\nToday, Austria stands as an advanced, highly prosperous parliamentary republic, balancing highly integrated industrial engineering with premium eco-tourism and winter skiing sports."
+      },
+      "zh": {
+        "list": [
+          "位於中歐的內陸國家",
+          "阿爾卑斯山核心區域國家",
+          "歐盟成員國",
+          "以古典音樂與文化遺產著稱"
+        ],
+        "text": "Austria是位於中歐的內陸國家，西鄰瑞士（Switzerland）與列支敦斯登（Liechtenstein），北接德國（Germany）與捷克（Czech Republic），東連斯洛伐克（Slovakia）與匈牙利（Hungary），南接義大利（Italy）與斯洛維尼亞（Slovenia）。奧地利地處歐洲心臟地帶，以音樂文化、阿爾卑斯山景觀與高生活品質聞名。\n\n奧地利首都為維也納（Vienna），是國家政治、經濟與文化中心，同時也是全球重要的國際會議城市與音樂之都。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Topography characterized by the dramatic Alps mountain system",
+          "High peaks and sprawling valleys cover the majority of the land area",
+          "Lush Danube River basin serves as a major agricultural and shipping route",
+          "Landlocked nation containing no direct access to ocean coastlines"
+        ],
+        "text": "Covering approximately 83,879 square kilometers, Austria is one of the most mountainous countries in Europe, with the Eastern Alps covering over 60 percent of its territory. High peaks like Großglockner attract ski sports and mountain climbers.\n\nThe iconic Danube River flows through the north of the country, acting as a historical trading canal connecting Central Europe with Eastern Europe."
+      },
+      "zh": {
+        "list": [
+          "以阿爾卑斯山地形為主",
+          "山地與高原占國土大部分",
+          "多瑙河貫穿國境",
+          "內陸國家無海岸線"
+        ],
+        "text": "奧地利（Austria）地形以阿爾卑斯山（Alps）為主，約三分之二國土為山區，適合滑雪與登山活動。多瑙河流經北部地區，連接西歐與東歐，是重要的航運與歷史貿易通道。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Temperate transitional climate heavily influenced by elevation",
+          "Alpine regions experience long, snowy, and chilly winter months",
+          "Lowland plains enjoy four highly distinct and mild seasons",
+          "Excellent conditions for world-class winter snow skiing"
+        ],
+        "text": "Austria experiences a temperate continental climate, highly moderated by elevation. Western Alpine valleys face freezing winters with abundant snow, making them ideal for winter sports.\n\nIn contrast, the eastern plains around Vienna enjoy warmer, milder summers that support fertile viticulture valleys."
+      },
+      "zh": {
+        "list": [
+          "溫帶過渡性氣候",
+          "山區氣候寒冷多雪",
+          "平原區四季分明",
+          "冬季適合滑雪運動"
+        ],
+        "text": "奧地利氣候受地形影響明顯，西部與南部山區冬季寒冷且降雪豐富，而東部平原則較溫和。冬季滑雪產業發達，使奧地利成為歐洲重要冬季旅遊目的地。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Sizable population of approximately 9 million residents",
+          "Concentrated along metropolitan centers and fertile river valleys",
+          "Highly urbanized demographic profile centered around Vienna",
+          "Steady immigration of skilled international workers"
+        ],
+        "text": "Austria has a population of 9 million, mostly living in urban basins and along the Danube River.\n\nVienna is the most densely populated region, housing nearly a quarter of the nation. The country has a diverse community, attracting professionals from Eastern Europe, the Balkans, and Germany."
+      },
+      "zh": {
+        "list": [
+          "人口約 900萬左右",
+          "人口分布集中於城市與河谷地區",
+          "城市化程度高",
+          "移民比例逐年上升"
+        ],
+        "text": "奧地利（Austria）人口主要集中於維也納（Vienna）及多瑙河沿線城市。維也納（Vienna）是國家人口最密集地區，吸引大量國際移民與專業人才。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "Highly prosperous and advanced social market economy",
+          "Equal prominence in high-tech manufacturing and tourism sectors",
+          "Strong banking, asset management, and international finance",
+          "Tightly integrated trade partnership with Germany's industrial core"
+        ],
+        "text": "Austria operates an advanced, export-driven market economy. Highly specialized industrial sectors lead in luxury automotive parts, complex machinery, steel, and chemical manufacturing.\n\nServices, finance, and winter tourism also drive GDP. The country maintains deep trade and economic integration with Germany."
+      },
+      "zh": {
+        "list": [
+          "高度發達的市場經濟",
+          "工業與服務業並重",
+          "觀光與金融業重要",
+          "與德國經濟高度整合"
+        ],
+        "text": "奧地利經濟穩定且高度發達，汽車零件、機械製造與化工產業為主要工業支柱。同時，維也納（Vienna）作為國際金融與會議中心，服務業與觀光業占 GDP 重要比例。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Constitutional federal parliamentary democracy system",
+          "Composed of nine self-governing federal states (Bundesländer)",
+          "President acts as ceremonial head representing state dignity",
+          "Chancellor heads the federal government directing civil policies"
+        ],
+        "text": "Austria is a federal parliamentary republic. The Federal President is elected by popular vote to serve as the symbolic head of state.\n\nThe Chancellor leads the Cabinet and holds executive authority. The bicameral parliament comprises the National Council and the Federal Council representing the nine states."
+      },
+      "zh": {
+        "list": [
+          "議會制民主國家",
+          "聯邦共和國體制",
+          "歐盟成員國",
+          "地方邦制度明確"
+        ],
+        "text": "奧地利（Austria）為聯邦制國家，共分為九個邦，各邦擁有一定自治權。政治體制穩定，總統為國家元首，總理負責實際行政。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Consistently ranks at the pinnacle of global quality of life indices",
+          "Comprehensive and generous social security and welfare systems",
+          "Highly developed and efficient clean public transit networks",
+          "Exceptional standards in secondary schooling and public health"
+        ],
+        "text": "Austrians enjoy a highly comfortable lifestyle, with Vienna consistently voted the world's most liveable city. A stable welfare state provides excellent universal healthcare, tuition-free education, and extensive public parks.\n\nPublic services are exceptionally modern, and high ecological standards protect the pristine Alpine lakes and forests."
+      },
+      "zh": {
+        "list": [
+          "高生活品質國家",
+          "社會福利完善",
+          "公共交通發達",
+          "教育與醫療水準高"
+        ],
+        "text": "奧地利多次被評為全球宜居國家之一，特別是維也納（Vienna）常年位居世界生活品質排行榜前列。社會整體穩定、安全性高，公共服務體系完善。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "Classical music heartland serving as the global capital of opera",
+          "Prominent historical center for European fine arts and philosophy",
+          "Famed traditional Viennese coffee house culture (Kaffeehaus)",
+          "Central core of the German-speaking European cultural sphere"
+        ],
+        "text": "Austria is the undisputed historic heartland of Western classical music, serving as the home to Wolfgang Amadeus Mozart, Ludwig van Beethoven, and Franz Schubert.\n\nVienna is famous for its grand Opera House, Philharmonic Orchestra, and UNESCO-listed Kaffeehaus coffee culture, representing the heights of old-world European elegance."
+      },
+      "zh": {
+        "list": [
+          "古典音樂重鎮",
+          "歐洲藝術與哲學中心之一",
+          "咖啡館文化發達",
+          "德語文化圈核心國家"
+        ],
+        "text": "奧地利是古典音樂的重要發源地，孕育了莫札特、貝多芬與舒伯特等作曲家。維也納（Vienna）以音樂廳、歌劇院與咖啡館文化聞名，被視為歐洲文化象徵城市之一。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Managing rapid demographic aging and vocational workforce shortages",
+          "Promoting immigrant social integration and language schooling",
+          "Scaling renewable hydro-energy under EU carbon-reduction goals",
+          "Addressing metropolitan housing demand and real estate costs"
+        ],
+        "text": "Austria faces typical European demographic pressures due to low birth rates. Integrating foreign professionals to support its manufacturing sector is an ongoing task.\n\nAdditionally, transitioning its energy grid to clean hydropower while preserving pristine Alpine river ecosystems is a major policy focus."
+      },
+      "zh": {
+        "list": [
+          "人口老化問題",
+          "移民與社會融合",
+          "能源轉型與減碳政策",
+          "房價與城市壓力"
+        ],
+        "text": "奧地利面臨與多數歐洲國家類似的人口老化問題，同時需調整移民政策以維持勞動力供應。能源轉型與減碳政策也是當前政府的重要施政方向。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Vienna — Imperial capital famous for grand architecture and opera houses",
+          "Salzburg — Birthplace of Mozart boasting baroque domes and fortresses",
+          "Innsbruck — Alpine capital surrounded by towering snowy ski peaks",
+          "Schönbrunn Palace — Majestic Habsburg summer palace and baroque gardens"
+        ],
+        "text": "Vienna is famous for the majestic Gothic St. Stephen's Cathedral and the Imperial Palace. Salzburg is the birthplace of Mozart, boasting baroque streets nestled below the Hohensalzburg Fortress.\n\nInnsbruck is a winter sports capital surrounded by the Alps. The grand Schönbrunn Palace features beautiful baroque rooms representing the height of Habsburg imperial history."
+      },
+      "zh": {
+        "list": [
+          "Vienna —— 首都與文化中心",
+          "Salzburg —— 莫札特故鄉與音樂城市",
+          "Innsbruck —— 阿爾卑斯山滑雪城市",
+          "Schönbrunn Palace —— 皇室歷史地標"
+        ],
+        "text": "維也納（Vienna）以宏偉的哥德式聖史蒂芬大教堂與霍夫堡皇宮聞名。薩爾斯堡（Salzburg）以音樂與巴洛克建築著稱，坐落於薩爾斯堡要塞腳下，同時也是莫札特的故鄉；而因斯布魯克（Innsbruck）則是冬季運動與阿爾卑斯山地旅遊中心。宏偉的美泉宮（Schönbrunn Palace）則擁有美麗的巴洛克式房間，代表了哈布斯堡帝國歷史 transition 的巔峰。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "Pivotal Central European voice inside the European Union",
+          "Maintains a constitutionally declared stance of military neutrality",
+          "Deep commitment to multilateral diplomacy and global treaties",
+          "Vienna acts as a primary international headquarters and meeting city"
+        ],
+        "text": "Austria acts as a vital bridge between Western and Eastern Europe, maintaining a constitutional policy of military neutrality.\n\nVienna serves as a major UN headquarters city, hosting the IAEA, OPEC, and OSCE, making it a prominent global diplomatic meeting point for international peace negotiations."
+      },
+      "zh": {
+        "list": [
+          "歐盟核心成員國",
+          "外交中立傳統（歷史上）",
+          "重視多邊合作",
+          "國際組織重要會議地"
+        ],
+        "text": "奧地利（Austria）作為歐盟（European Union）成員國，在歐洲政治與經濟合作中扮演穩定角色。維也納（Vienna）同時是聯合國多個機構所在地，是重要國際外交城市。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Stable trade focusing on high-tech machinery and auto parts",
+          "Strong exchange programs in classical music and fine arts",
+          "Increasing bilateral tourism visits to Vienna and Salzburg",
+          "Productive tech research and green energy cooperation"
+        ],
+        "text": "Taiwan and Austria share a strong friendship focused on technology and culture. High-quality Austrian precision machinery and automotive parts are imported into Taiwan.\n\nBilateral cultural ties are highly active, with many Taiwanese musicians studying at Vienna's music universities. Tourism and educational exchanges continue to bring both societies closer together."
+      },
+      "zh": {
+        "list": [
+          "經貿與文化交流穩定",
+          "教育與觀光互動增加",
+          "科技合作具潛力",
+          "民間往來友好"
+        ],
+        "text": "奧地利與台灣之間維持非官方但友好的交流關係，在科技、音樂教育與觀光方面有一定互動。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "Renowned global hub for winter skiing and Alpine mountain recreation",
+          "Historical seat of the mighty and culturally rich Habsburg Empire",
+          "Vienna regularly voted the world's most liveable city for high life quality",
+          "Heartland of classical music, opera houses, and baroque architecture"
+        ]
+      },
+      "zh": {
+        "list": [
+          "阿爾卑斯山重要旅遊國家",
+          "世界音樂文化中心之一",
+          "維也納多次被評為最宜居城市",
+          "歷史上為奧匈帝國核心地區"
+        ]
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": "Euro (EUR)"
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "German",
+        "zh": "德語"
+      }
+    },
+    {
+      "label": "GDP (nom.)",
+      "value": "$520B"
+    },
+    {
+      "label": "Time zone",
+      "value": "UTC+1 / +2"
+    },
+    {
+      "label": "Calling code",
+      "value": "+43"
+    },
+    {
+      "label": "ISO code",
+      "value": "AT / AUT"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🇦🇹",
+      "text": {
+        "en": "Red and White Flag — The horizontal bands representing Duke Leopold V's blood-stained white tunic at the Siege of Acre with only a white belt zone remaining",
+        "zh": "奧地利紅白雙色旗——簡潔橫向紅白紅白三條紋，歷史起源於1191年阿卡圍城戰中利奧波德五世公爵血染白色戰袍，僅腰帶處留下一抹白色的傳奇"
+      }
+    },
+    {
+      "icon": "🎼",
+      "text": {
+        "en": "Capital of Classical Music — The legendary home to Mozart, Beethoven, Schubert, and Strauss, hosting world-famous annual Vienna Philharmonics",
+        "zh": "古典音樂之都——古典音樂史上的金色殿堂，孕育了莫札特、貝多芬、舒伯特與史特勞斯等偉大巨匠，維也納金色大廳每年上演全球矚目的新年音樂會"
+      }
+    },
+    {
+      "icon": "🏔️",
+      "text": {
+        "en": "Alps & Ski Resorts — Sprawling mountain glaciers of Tyrol, snow-draped ski tracks of Innsbruck, and summer hiking Alpine routes",
+        "zh": "阿爾卑斯山與冬季滑雪——奧地利擁有三分之二的阿爾卑斯高山國土，蒂羅爾州的皚皚白雪、因斯布魯克的專業滑雪賽道，是全球冬季滑雪者朝聖地"
+      }
+    },
+    {
+      "icon": "🏰",
+      "text": {
+        "en": "Schönbrunn Palace — The monumental Habsburg imperial baroque summer residence featuring glorious gilded halls and labyrinth gardens",
+        "zh": "美泉宮 (Schönbrunn)——哈布斯堡王朝宏偉無雙的巴洛克風夏宮，擁有無數金碧輝煌的帝國宮殿大廳與迷人的法式園林，見證奧匈帝國的百年霸權"
+      }
+    },
+    {
+      "icon": "☕",
+      "text": {
+        "en": "Viennese Kaffeehaus — The beloved UNESCO-listed marble coffee houses serving legendary Sachertorte pastries inside elegant imperial spaces",
+        "zh": "維也納咖啡館文化——被列入聯合國非物質文化遺產，維也納經典的大理石圓桌、優雅服務與傳奇薩赫蛋糕（Sachertorte），是品味慢生活與哲學的象徵"
+      }
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/16239",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=9.5%2C46.3%2C17.2%2C49.1&layer=mapnik"
+}

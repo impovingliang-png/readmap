@@ -1,0 +1,358 @@
+{
+  "name": {
+    "en": "Australia",
+    "zh": "澳洲"
+  },
+  "nativeName": "Australia",
+  "capital": {
+    "en": "Canberra",
+    "zh": "坎培拉"
+  },
+  "population": "26M",
+  "area": "7.69M km²",
+  "density": "3.4/km²",
+  "continent": "Oceania",
+  "flagEmoji": "🇦🇺",
+  "dataEstYear": 2025,
+  "description": {
+    "en": "Australia, officially the Commonwealth of Australia, is a sovereign country comprising the mainland of the Australian continent, the island of Tasmania, and numerous smaller islands. It is the largest country in Oceania and the world's sixth-largest country by total area. Renowned for its unique wildlife, rich natural resource economy, and exceptionally high quality of life, Australia is a prominent multicultural nation.",
+    "zh": "Australia 是位於南半球、大洋洲的聯邦國家，也是世界唯一覆蓋整個大陸的國家。澳洲以高生活品質、自然生態多樣性與資源型經濟聞名，同時是全球重要的移民國家之一。"
+  },
+  "seoText": {
+    "en": "Explore quick facts about Australia — population, land area, capital city, and a short overview. Discover its unique desert geography, rich mineral exports, iconic landmarks like the Sydney Opera House, and the Great Barrier Reef.",
+    "zh": "快速了解澳洲的基本資料：人口、面積、首都與簡短概述。探索其獨特的沙漠與沿海地理環境、豐富的礦產出口、雪梨歌劇院等著名地標以及大堡礁等自然景觀。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Federal nation located in the Southern Hemisphere and Oceania",
+          "The only country in the world covering an entire continent",
+          "Exceptionally unique and biodiverse ecological environment",
+          "Highly developed nation with premium global quality of life"
+        ],
+        "text": "Australia's history is anchored by the ancient cultures of Aboriginal Australians, who represent the earliest historical foundation of the continent. During the 18th century, it became a colony of the British Empire, eventually federating in 1901 to establish modern Australia. As a highly advanced economy, Australia excels in mining, agriculture, international education, financial services, and tourism, playing a highly pivotal economic and strategic role in the Asia-Pacific region."
+      },
+      "zh": {
+        "list": [
+          "位於南半球的大洋洲國家",
+          "唯一獨占整個大陸的國家",
+          "自然生態極度多樣且獨特",
+          "高度已開發與高生活品質國家"
+        ],
+        "text": "澳洲由原住民文化（Aboriginal Australians）構成最早歷史基礎，後於 18 世紀成為大英帝國（British Empire）殖民地，並於 1901 年聯邦化後成為現代澳洲。\n\n作為高度已開發國家，澳洲在礦業、農業、教育、金融與觀光產業方面表現突出，同時也是亞太地區重要的經濟與戰略國家。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Situated between the Indian and Pacific Oceans in the Southern Hemisphere",
+          "Territory encompasses the entire Australian mainland",
+          "Extensive interior landscapes dominated by deserts and grasslands",
+          "Population heavily concentrated along the eastern and southern coastlines"
+        ],
+        "text": "Spanning approximately 7.69 million square kilometers, Australia is the sixth-largest country in the world. Its vast geography is characterized by the arid Outback interior, with high plateaus and deserts in the west, and fertile coastal plains and mountain ranges in the east. The world-famous Great Barrier Reef, the largest coral reef system on Earth, lies off the northeastern coast. Due to the extremely dry interior, the population is heavily concentrated along the temperate southeastern coastal ribbon."
+      },
+      "zh": {
+        "list": [
+          "位於南半球與印度洋—太平洋交界",
+          "國土涵蓋整個澳洲大陸",
+          "沙漠與草原面積廣大",
+          "東部與沿海人口集中"
+        ],
+        "text": "澳洲國土面積約 769 萬平方公里，是世界第六大國家。地形以內陸乾燥的澳洲內陸荒原（Outback）為主，西部為高原與沙漠，東部則有較適宜居住的沿海平原與山地。\n\n大堡礁（Great Barrier Reef）位於東北沿海，是世界最大珊瑚礁系統之一。由於內陸乾燥，人口主要集中於東南沿海城市帶。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Highly diverse climate profiles across the continent",
+          "Northern territories dominated by tropical climate zones",
+          "Southern regions experience temperate climates with distinct seasons",
+          "Extremely hot and arid conditions throughout the vast interior"
+        ],
+        "text": "The northern reaches of Australia experience a tropical climate split into distinct wet and dry seasons, while the southern states enjoy a temperate climate with four fully defined seasons. The massive interior consists mostly of deserts and semi-arid basins where rainfall is extremely scarce. This stark climatic variation is a major factor shaping the country's population distribution."
+      },
+      "zh": {
+        "list": [
+          "氣候類型多樣",
+          "北部為熱帶氣候",
+          "南部為溫帶氣候",
+          "內陸乾燥炎熱"
+        ],
+        "text": "澳洲北部屬熱帶氣候，分為明顯雨季與乾季；南部則較接近溫帶氣候，四季分明。\n\n內陸大部分為沙漠與半乾燥地帶，降雨稀少。氣候差異極大，是影響人口分布的重要因素。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Population of approximately 26 million people",
+          "Exceptionally high level of urban concentration",
+          "High proportion of first and second-generation immigrant demographics",
+          "Highly diverse and tolerant multicultural society"
+        ],
+        "text": "The vast majority of Australia's population resides in its coastal metropolises, primarily Sydney, Melbourne, and Brisbane. Driven by decades of proactive immigration policies, Australia has fostered a highly diverse multicultural society. While English is the dominant language, the population possesses rich ancestral heritages spanning Europe, Asia, and the Middle East."
+      },
+      "zh": {
+        "list": [
+          "人口約 2,600 萬",
+          "高度都市集中",
+          "移民比例高",
+          "多元文化社會"
+        ],
+        "text": "澳洲人口主要集中於東南沿海城市，如雪梨（Sydney）、墨爾本（Melbourne）與布里斯本（Brisbane）。\n\n由於長期移民政策，澳洲形成高度多元文化社會，英語為主要語言，但族群背景涵蓋歐洲、亞洲與中東等地。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "A highly advanced and developed global economy",
+          "Immensely powerful mining and natural resource export sectors",
+          "International education and service industries serve as major pillars",
+          "Maintains deep-seated and critical trade relations with Asia"
+        ],
+        "text": "Australia's economy is highly service-oriented, complemented by major resource and commodity exports. Iron ore, coal, and liquefied natural gas (LNG) serve as primary exports, showing high integration with major Asian markets like China, Japan, and South Korea. International education represents another major economic pillar, with Sydney and Melbourne standing as top global destinations for international students."
+      },
+      "zh": {
+        "list": [
+          "高度已開發經濟體",
+          "礦業與資源出口強大",
+          "教育與服務業重要",
+          "亞洲貿易關係密切"
+        ],
+        "text": "澳洲經濟以服務業與資源出口為核心。鐵礦、煤炭與天然氣為主要出口商品，其中對中國、日本與韓國等亞洲國家依賴度較高。\n\n教育產業也是重要經濟支柱，雪梨（Sydney）與墨爾本（Melbourne）為國際學生熱門城市。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Federal parliamentary constitutional monarchy",
+          "A key member of the Commonwealth of Nations",
+          "Operates under a democratic Westminster parliamentary system",
+          "Strong autonomy and powers held by state governments"
+        ],
+        "text": "Australia is structured as a federation consisting of six states and multiple territories, each possessing robust self-governing powers. While the British Monarch remains the symbolic ceremonial head of state represented by a Governor-General, actual executive power is held by the Prime Minister. Canberra is the master-planned capital and political center of the nation."
+      },
+      "zh": {
+        "list": [
+          "聯邦制君主立憲國家",
+          "英聯邦成員國",
+          "採議會民主制度",
+          "州政府權力較高"
+        ],
+        "text": "澳洲為聯邦制國家，由 6 個州與多個領地組成，擁有較高自治權。\n\n國家元首為英國君主（象徵性），實際行政由總理領導。堪培拉（Canberra）為首都與政治中心。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Frequently ranked at the absolute top globally for quality of life",
+          "High level of public safety and comprehensive social welfare",
+          "Vibrant outdoor lifestyle deeply embedded in daily routine",
+          "Strong societal tolerance and inclusivity for immigrant cultures"
+        ],
+        "text": "Celebrated for its exceptionally high quality of life and extremely livable cities, Australia is consistently ranked among the world's most desirable places to live. Its egalitarian culture strongly values diversity, and outdoor pursuits like surfing, camping, and team sports are deeply integrated into the typical Australian lifestyle."
+      },
+      "zh": {
+        "list": [
+          "生活品質全球領先",
+          "社會安全度高",
+          "戶外活動文化盛行",
+          "移民社會包容性強"
+        ],
+        "text": "澳洲以高生活品質與宜居城市聞名，多次被評為全球最適合居住地之一。\n\n社會文化重視平等與多元，戶外活動如衝浪、露營與運動在日常生活中非常普遍。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "Rich integration of British heritage and Asian migration influences",
+          "Aboriginal Australian culture holds ancient and rich traditions",
+          "Sporting culture is a central pillar of national identity",
+          "Classic and iconic beach-centric lifestyle"
+        ],
+        "text": "Australian culture is a unique blend of British colonial roots and diverse Asian and global migration, while deeply honoring its ancient Indigenous heritage. Athletes like Cathy Freeman symbolize Australia's pride in sporting achievements, while cricket, rugby, and Australian rules football (AFL) reign as the premier national sports."
+      },
+      "zh": {
+        "list": [
+          "多元移民文化融合",
+          "原住民文化歷史悠久",
+          "運動文化非常盛行",
+          "海灘生活方式典型"
+        ],
+        "text": "澳洲文化融合英國傳統與亞洲移民文化，同時保留原住民文化特色。\n\n凱茜·弗里曼（Cathy Freeman）等運動員象徵澳洲體育文化，而板球、橄欖球與澳式足球則是主流運動。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Climate change resulting in severe bushfires and droughts",
+          "Rising cost of living and metropolitan housing affordability",
+          "Ongoing social focus on Aboriginal rights and historical reconciliation",
+          "Critical water management and environmental conservation challenges"
+        ],
+        "text": "In recent years, Australia has faced severe challenges from extreme weather events, including devastating bushfires and prolonged droughts that threaten ecosystems and urban safety. Domestically, high housing prices in major capitals have driven up the cost of living, while social justice and constitutional recognition for Indigenous Australians remain central to national discourse."
+      },
+      "zh": {
+        "list": [
+          "氣候變遷與森林大火",
+          "房價與生活成本上升",
+          "原住民權益議題",
+          "水資源與生態保護"
+        ],
+        "text": "澳洲近年面臨極端氣候帶來的森林大火與乾旱問題，對生態與城市安全造成挑戰。\n\n此外，主要城市房價高漲，以及原住民族歷史與社會地位問題也持續受到關注。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Canberra — Planned capital and federal political heart",
+          "Sydney — Largest metropolis and primary international financial hub",
+          "Melbourne — Renowned capital of culture, arts, and gastronomy",
+          "Sydney Opera House — Internationally iconic masterpiece of modern architecture"
+        ],
+        "text": "Sydney is celebrated globally for its stunning natural harbor and prominent financial standing, while Melbourne is renowned as a capital of arts, coffee culture, and urban design. The architectural masterpiece of the Sydney Opera House alongside the monumental Harbour Bridge stand as the definitive world-class symbols of Australia."
+      },
+      "zh": {
+        "list": [
+          "堪培拉（Canberra）—— 首都與政治中心",
+          "雪梨（Sydney）—— 最大城市與金融中心",
+          "墨爾本（Melbourne）—— 文化與藝術重鎮",
+          "雪梨歌劇院（Sydney Opera House）—— 代表性地標"
+        ],
+        "text": "雪梨（Sydney）以港灣與國際金融地位聞名，墨爾本（Melbourne）則以文化、藝術與宜居度著稱。\n\n雪梨歌劇院（Sydney Opera House）與雪梨港灣大橋（Harbour Bridge）是澳洲最具代表性的世界級地標。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "A core and active member state of the Five Eyes alliance",
+          "Bound by the vital ANZUS security treaty",
+          "Wields substantial diplomatic and strategic weight in the Indo-Pacific",
+          "Maintains deep-seated security ties with the US and trade ties with Asia"
+        ],
+        "text": "Australia plays a key role in international intelligence and defense coordination, and is deeply engaged in shaping Asia-Pacific security frameworks. It maintains close partnerships with the United States, Japan, South Korea, and Southeast Asian nations, acting as a critical strategic anchor in the Indo-Pacific."
+      },
+      "zh": {
+        "list": [
+          "五眼聯盟（Five Eyes）成員國",
+          "太平洋安全保障條約（ANZUS）安全同盟",
+          "亞太地區重要國家",
+          "與美國與亞洲關係密切"
+        ],
+        "text": "澳洲在國際安全與情報合作中扮演重要角色，同時積極參與亞太地區經濟與安全事務。\n\n與美國、日本、韓國及東南亞國家關係密切，是區域戰略重要支點。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Close and stable technological and commercial relations",
+          "Extremely popular destination for Taiwanese students and working holidays",
+          "Pivotal trading partner in mineral resources, coal, and agricultural goods",
+          "Expanding bilateral cooperation in high-tech talent and research"
+        ],
+        "text": "Australia and Taiwan share highly active and stable unofficial relations, with robust exchanges across education, commerce, and technology. Australia is one of the premier destinations for Taiwanese students and young adults participating in working holiday programs, and stands as a key partner in raw mineral energy commodities and high-quality agricultural imports."
+      },
+      "zh": {
+        "list": [
+          "經貿與教育交流密切",
+          "澳洲為留學熱門國家",
+          "礦產與農產品貿易重要",
+          "科技與人才合作增加"
+        ],
+        "text": "澳洲與台灣維持穩定非官方關係，在教育、貿易與科技領域互動頻繁。\n\n澳洲是台灣學生重要留學目的地之一，同時雙方在能源、礦產與農業貿易上亦有穩定合作。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "The only sovereign country covering an entire continent",
+          "Features exceptionally high levels of unique endemic wildlife",
+          "Houses the Great Barrier Reef, the world's largest coral ecosystem",
+          "One of the world's highest proportions of overseas-born residents",
+          "Consistently ranks among the top globally for overall quality of life"
+        ]
+      },
+      "zh": {
+        "list": [
+          "唯一覆蓋整個大陸的國家",
+          "擁有高度獨特動植物生態",
+          "大堡礁（Great Barrier Reef）世界最大珊瑚礁",
+          "移民國家比例極高",
+          "生活品質全球名列前茅"
+        ]
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": "A$ Australian Dollar"
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "English",
+        "zh": "英語"
+      }
+    },
+    {
+      "label": "GDP (nom.)",
+      "value": "$1.7T"
+    },
+    {
+      "label": "Time zones",
+      "value": {
+        "en": "UTC+8 to UTC+10.5 (AEST/AEDT)",
+        "zh": "UTC+8 至 UTC+10.5（包含夏令時間）"
+      }
+    },
+    {
+      "label": "Calling code",
+      "value": "+61"
+    },
+    {
+      "label": "ISO code",
+      "value": "AU / AUS"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🏛️",
+      "text": {
+        "en": "Sydney Opera House — The stunning 20th-century expressionist architectural masterpiece on Sydney Harbour",
+        "zh": "雪梨歌劇院——聳立於雪梨港灣的 20 世紀表現主義現代建築傑作，澳洲最著名的世界文化遺產"
+      }
+    },
+    {
+      "icon": "🪸",
+      "text": {
+        "en": "Great Barrier Reef — The world's largest coral reef system stretching over 2,300 kilometers off the Queensland coast",
+        "zh": "大堡礁——全球最大規模的珊瑚礁群生態系，沿著昆士蘭海岸線延綿 2,300 多公里"
+      }
+    },
+    {
+      "icon": "🦘",
+      "text": {
+        "en": "Unique Endemic Wildlife — Home to unique marsupials found nowhere else, including kangaroos, koalas, and wombats",
+        "zh": "獨特本土生態——袋鼠、無尾熊、袋熊等眾多獨特有袋類與珍稀動植物的棲息天堂"
+      }
+    },
+    {
+      "icon": "⛰️",
+      "text": {
+        "en": "Uluru (Ayers Rock) — The massive sacred sandstone monolith in the Red Centre, rich in Aboriginal creation history",
+        "zh": "烏魯魯——位於紅色內陸中心的巨型聖石，對澳洲原住民擁有極為崇高神聖的創世信仰價值"
+      }
+    },
+    {
+      "icon": "🏄",
+      "text": {
+        "en": "Beach & Surf Culture — Over 10,000 spectacular beaches defining a vibrant outdoor coastal lifestyle",
+        "zh": "海灘與衝浪文化——全國擁有上萬個優美海灘，共同形塑了充滿活力的戶外運動與沿海休閒生活"
+      }
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/80500",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=112.0%2C-44.0%2C154.0%2C-10.0&layer=mapnik"
+}

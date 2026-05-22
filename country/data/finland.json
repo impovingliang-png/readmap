@@ -1,0 +1,353 @@
+{
+  "name": {
+    "en": "Finland",
+    "zh": "芬蘭"
+  },
+  "nativeName": "Suomen tasavalta / Republiken Finland",
+  "capital": {
+    "en": "Helsinki",
+    "zh": "赫爾辛基"
+  },
+  "population": "5.6M",
+  "area": "338,455 km²",
+  "density": "18/km²",
+  "continent": "Europe",
+  "flagEmoji": "🇫🇮",
+  "dataEstYear": 2025,
+  "description": {
+    "en": "Finland, officially the Republic of Finland, is a sovereign Nordic nation located in Northern Europe, bordered by Sweden to the west, Russia to the east, Norway to the north, and Estonia to the south across the Gulf of Finland. Renowned for its world-class education system, booming high-tech sectors, vast boreal forests, and exceptionally high quality of life, Finland consistently ranks as one of the most stable, secure, and happiest nations in the world.",
+    "zh": "Finland是位於北歐的諾迪克共和國，西鄰瑞典（Sweden），東接俄羅斯（Russia），北連挪威（Norway），南面隔著芬蘭灣與愛沙尼亞（Estonia）相望。芬蘭以享譽全球的世界級教育體系、蓬勃發展的高科技產業、廣袤的北方針葉林資源以及極高的生活品質聞名，長年被評為全球最穩定、最安全且最幸福的國家之一。"
+  },
+  "seoText": {
+    "en": "Explore quick facts about Finland — population, land area, capital city, and a short overview. Discover Finland's 188,000 lakes, Lapland Aurora, Nokia high-tech telecom, public sauna culture, and world-renowned education.",
+    "zh": "快速了解芬蘭的基本資料：人口、面積、首都與簡短概述。探索「千湖之國」的地理美景、拉普蘭極光、諾基亞高科技通訊、公共桑拿洗浴文化以及享譽全球的芬蘭式教育體系。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Sovereign Northern European Nordic republic bordering the Baltic Sea",
+          "Boasts exceptionally rich boreal forest and pristine lake networks",
+          "Global leader in educational standards and dynamic high-tech growth",
+          "Consistently ranks as the happiest nation in the world"
+        ],
+        "text": "Crowned as the 'Land of a Thousand Lakes' and blanketed by infinite green pine forests, Finland represents the pinnacle of modern Nordic equality, civic trust, and technological ingenuity. Historically bridging the Germanic Nordic sphere and Eastern Europe, the nation has evolved into a highly advanced, ultra-modern parliamentary democracy.\n\nFrom the architectural wonders of Helsinki to the snowy wilderness of Lapland, Finland combines a deep love of untouched nature with an incredibly active startup culture."
+      },
+      "zh": {
+        "list": [
+          "位於北歐的高福利國家",
+          "湖泊與森林資源極為豐富",
+          "教育與科技發展領先",
+          "全球幸福指數長年前列"
+        ],
+        "text": "被譽為「千湖之國」並被無垠綠色針葉林覆蓋的芬蘭（Finland），代表了現代北歐社會平等、高度公民互信與科技創新能力的巔峰。在歷史上，芬蘭扮演著日耳曼北歐圈與東歐之間的橋樑，如今已發展成為高度發達、極度現代化的議會制民主國家。從首都赫爾辛基（Helsinki）的建築美學奇蹟，到拉普蘭（Lapland）白雪皚皚的荒野，芬蘭完美將對純淨大自然的深厚熱愛，與活力四射的新創科技文化融合在一起。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Covered in massive networks of lakes and dense boreal pine forests",
+          "Topography characterized by flat terrains and glacial shield rocks",
+          "Northern reaches contain the Arctic Lapland wilderness",
+          "Extensive Baltic coastlines featuring thousands of archipelago islands"
+        ],
+        "text": "Spanning approximately 338,455 square kilometers, Finland is one of the most heavily forested countries in Europe, with woodlands covering over 70 percent of its land. It is famously home to over 180,000 lakes, earning it the title 'Land of a Thousand Lakes'.\n\nThe far north is defined by Lapland, a pristine Arctic wilderness where the Northern Lights dance across winter skies and the midnight sun shines all summer long."
+      },
+      "zh": {
+        "list": [
+          "湖泊與森林遍布全國",
+          "地形平坦且冰河地貌明顯",
+          "北部屬拉普蘭地區",
+          "海岸線與群島眾多"
+        ],
+        "text": "芬蘭國土面積約 338,455 平方公里，是歐洲森林覆蓋率最高的國家之一，全國有超過 70% 的土地被樹林覆蓋。境內實際坐擁超過 18 萬個湖泊，因而獲得「千湖之國」的美譽。地貌主要受到古代冰河作用形塑，地形相對平緩且多基岩。國土最北端為拉普蘭（Lapland）地區，這是一片純淨的北極荒野，冬季有絢麗的北極光劃過夜空，夏季則有整季不落的午夜太陽。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Varies from subarctic inland to cold temperate along coastlines",
+          "Endures long, snowy, and freezing winter seasons",
+          "Summer is relatively short but features extended daylight hours",
+          "Arctic north experiences severe sub-zero temperatures and polar nights"
+        ],
+        "text": "Finland's climate is characterized by cold, snowy winters and mild, bright summers. Due to its high latitude, winter brings long periods of darkness, particularly in Lapland where the sun does not rise for weeks (polar night).\n\nIn contrast, the summer is short but offers long daylight hours, resulting in the spectacular midnight sun phenomenon where the sun never fully sets."
+      },
+      "zh": {
+        "list": [
+          "寒冷溫帶至亞寒帶氣候",
+          "冬季漫長寒冷",
+          "夏季短暫但日照時間長",
+          "北部氣候更為嚴寒"
+        ],
+        "text": "芬蘭的氣候型態從沿海的冷溫帶延伸到內陸的亞寒帶。冬季漫長、寒冷且積雪深厚；受高緯度影響，冬季伴隨長時間的黑夜，特別是在極北的拉普蘭地區，會出現太陽數週不升起的「極夜」現象。相反地，芬蘭的夏季雖然短暫，但日照時間極長，能觀賞到太陽大半夜仍不西沉的「午夜太陽（永晝）」奇景，這使得夏季氣候溫和且明亮。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Compact population of approximately 5.6 million residents",
+          "Very low population density outside of urban centers",
+          "Heavy demographic cluster around the southern coastal plains",
+          "Facing typical European trends of rapid demographic aging"
+        ],
+        "text": "Finland has a population of 5.6 million, making it one of the most sparsely populated countries in Europe. The vast majority of citizens reside in the milder southern coastal regions, heavily concentrated around the Helsinki metropolitan area.\n\nLike many advanced European nations, Finland faces an aging population and a low birth rate, which is increasingly balanced by welcoming international professionals."
+      },
+      "zh": {
+        "list": [
+          "人口約 560萬左右",
+          "人口密度低",
+          "城市集中於南部",
+          "高齡化趨勢明顯"
+        ],
+        "text": "芬蘭總人口約 560 萬人，是歐洲人口密度最低的國家之一。在族群結構上，**芬蘭族（Finns）佔絕對多數，約佔總人口的 86.9%**；其次為官方傳統少數族群**瑞典裔芬蘭人（Swedish-speaking Finns），約佔 5.2%**；北部的世居原住民族**薩米人（Sámi）**則約佔 0.1%（約 1 萬人）。隨著全球化發展，外來移民裔人口目前約佔 7.8%，主要來源包含俄羅斯裔（1.7%）、愛沙尼亞裔（0.9%）與伊拉克裔（0.4%）。全國人口高度集中在氣候較溫和的南部沿海平原，尤其是赫爾辛基（Helsinki）大都會圈。如同多數歐洲發達國家，芬蘭正面臨少子高齡化與勞動力緊縮的挑戰，政府也正積極透過引進國際專業人才來平衡人口結構。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "Highly advanced, export-driven knowledge and tech economy",
+          "Famous for communications, startups, and software engineering",
+          "Traditional strengths in high-quality forestry, timber, and pulp",
+          "Outstanding focus on clean energy, bio-products, and circular economics"
+        ],
+        "text": "Finland operates an advanced, highly industrialized economy centered on knowledge and innovation. The nation famously pioneered global mobile communications with Nokia and continues to lead in software engineering, mobile gaming, and clean energy startups.\n\nIts vast woodlands also support world-class forestry, high-quality timber, and advanced biomaterials industries."
+      },
+      "zh": {
+        "list": [
+          "高度發達的知識型經濟",
+          "科技與通訊產業重要",
+          "林業與紙漿工業發達",
+          "綠色能源與創新能力強"
+        ],
+        "text": "芬蘭擁有高度發達、以知識與創新為核心的出口導向型現代化經濟。該國過去曾以諾基亞（Nokia）引領全球行動通訊產業的發展，如今則在軟體工程、行動遊戲（如《憤怒鳥》、《部落衝突》）及網通科技領域持續保持領先地位。此外，豐富的森林資源支撐了其世界級的現代林業、高品質木材與先進生物材料產業，政府目前也正大力投資綠色科技、清潔能源與循環經濟。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Highly stable parliamentary representative democratic republic",
+          "Maintains an exceptionally transparent and cooperative political model",
+          "President directs foreign policies and defense operations",
+          "Chancellor or Prime Minister directs the federal cabinet and state policy"
+        ],
+        "text": "Finland is a parliamentary republic with a semi-presidential system. The President is responsible for directing foreign policy and defense in cooperation with the cabinet, while the Prime Minister leads the government.\n\nKnown for its high transparency and low levels of corruption, Finland is a member of the EU and recently joined the NATO alliance to secure its borders."
+      },
+      "zh": {
+        "list": [
+          "議會制共和國",
+          "北歐民主制度代表",
+          "歐盟與北約成員國",
+          "地方自治制度完善"
+        ],
+        "text": "芬蘭是一個政治局勢極其穩定的議會制共和國。在權力架構上，經全民直選的總統與內閣合作，共同負責外交政策與國防戰略；總理（Prime Minister）則作為政府首腦，領導內閣主持國內各項政務與國家政策。芬蘭政治體制以極高的透明度與極低的貪腐率享譽全球。作為歐盟（EU）與北歐理事會的核心成員，芬蘭近年也正式加入了北大西洋公約組織（NATO），以全面確保其漫長東部邊境的國家安全。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Exceptional social welfare guaranteeing high equity and education",
+          "Outstanding levels of general social trust and local security",
+          "Deep cultural value for gender equality and work-life balance",
+          "Highly modernized and clean state services and public systems"
+        ],
+        "text": "Finnish society is built on the values of equity, public trust, and social welfare. Its public education system is celebrated globally for its focus on equal opportunities and student-centered learning rather than testing.\n\nWith low crime rates, pristine environments, and subsidized healthcare, Finns enjoy an exceptionally high standard of well-being."
+      },
+      "zh": {
+        "list": [
+          "高福利與高教育水準",
+          "社會信任度極高",
+          "重視平等與個人空間",
+          "公共服務完善"
+        ],
+        "text": "芬蘭社會建立在公平、高度公共互信與完善的北歐福利制度基石上。其公共教育體系舉世聞名，強調機會均等、免學費以及以學生為中心的啟發式學習，而非傳統的死記硬背與頻繁考試。憑藉著極低的犯罪率、純淨無污染的自然環境與高度補助的醫療體系，芬蘭國民享有極高的生活福祉與安全感。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "Beautiful blend of Nordic heritage and indigenous Sámi folklore",
+          "Deep-seated traditional sauna culture integrated into daily life",
+          "Pioneered minimalist, organic designs and architecture",
+          "Profound spiritual respect for nature, forests, and quietude"
+        ],
+        "text": "Finnish culture is deeply connected to its beautiful landscapes. At the heart of Finnish lifestyle is the Sauna—a UNESCO-listed bathing ritual of quiet heat, with over 3 million saunas in the country.\n\nFinns also value simplicity, which is reflected in their world-famous clean modern design, alongside a deep cultural right to roam freely in nature."
+      },
+      "zh": {
+        "list": [
+          "北歐文化與薩米文化並存",
+          "桑拿文化極具代表性",
+          "設計與建築風格簡約",
+          "重視自然與寧靜生活"
+        ],
+        "text": "芬蘭文化與其壯麗的自然景觀有著不可分割的深厚連結。芬蘭生活方式的靈魂核心無疑是桑拿（Sauna）——這是一項名列聯合國教科文組織（UNESCO）非物質文化遺產的傳統洗浴儀式，在人口僅560萬的芬蘭，全國竟擁有超過300萬座桑拿房。此外，芬蘭人崇尚簡約與自然寧靜，這完美體現在其享譽國際的極簡主義現代設計（如 Iittala、Marimekko）中，而法律保障的「每個人權利（Everyman's Right）」也讓全民能自由親近森林與自然採集。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Coping with rapid workforce deficits and low birth rates",
+          "Navigating new geopolitical security realities along the eastern border",
+          "Scaling clean bio-energy solutions to meet strict EU climate goals",
+          "Maintaining tech industry leadership against global competition"
+        ],
+        "text": "Finland's primary internal issue is its rapidly aging population, which strains its welfare state. Securing its long border with Russia and integrating its new role in NATO are major strategic priorities.\n\nIn addition, the government is working to balance its traditional timber industry with strict ecological conservation and green energy targets."
+      },
+      "zh": {
+        "list": [
+          "人口老化與勞動力不足",
+          "對俄安全政策轉變",
+          "能源自主與綠能轉型",
+          "科技產業國際競爭"
+        ],
+        "text": "芬蘭目前面臨的核心國內問題是急劇的人口老化與少子化，這為其高福利社會體制帶來了長期的財政壓力。在地緣政治上，如何確保與俄羅斯（Russia）長達千公里的邊境安全，並在加入北約（NATO）後整合其全新的國防戰略角色，是近年最重大的國家方針。此外，政府也正努力在維持傳統核心林業經濟，與遵守歐盟嚴格的減碳生態保育目標之間取得雙贏平衡。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Helsinki — Elegant capital famous for the white Cathedral and Baltic docks",
+          "Tampere — Industrial innovation hub nestled between scenic lakes",
+          "Turku — Historic medieval castle town and ancient port city",
+          "Santa Claus Village — Magical Arctic park located in Rovaniemi, Lapland"
+        ],
+        "text": "Helsinki features the iconic neoclassical Senate Square and the pristine white Cathedral. Tampere is a vibrant educational hub set between two large blue lakes.\n\nTurku is the country's oldest medieval capital, and the magical Santa Claus Village in Rovaniemi draws thousands of visitors to the Arctic Circle each year."
+      },
+      "zh": {
+        "list": [
+          "赫爾辛基（Helsinki）—— 首都與科技中心",
+          "坦佩雷（Tampere）—— 工業與教育城市",
+          "土庫（Turku）—— 歷史古城",
+          "聖誕老人村（Santa Claus Village）—— 北極圈觀光景點"
+        ],
+        "text": "首都赫爾辛基（Helsinki）以優雅的新古典主義參議院廣場與莊嚴純白的赫爾辛基大教堂（Helsinki Cathedral）名揚海外。第二大城坦佩雷（Tampere）是座落於兩大蔚藍湖泊之間、充滿活力的創新與高等教育重鎮。位於西南沿海的土庫（Turku）則是芬蘭最古老的中世紀歷史首都與古老海港。而位於拉普蘭（Lapland）地區羅瓦涅米（Rovaniemi）的「聖誕老人村（Santa Claus Village）」，每年冬季更是吸引全球成千上萬的遊客跨越北極圈，前來體驗夢幻的北國童話世界。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "Pivotal member of European Union and Nordic Council groups",
+          "Newest member state of the NATO defense alliance block",
+          "Strong advocate for human rights, gender equality, and peace brokering",
+          "Global voice on digital governance and educational diplomacy"
+        ],
+        "text": "Finland is an active EU and Nordic Council member, known for promoting regional security. Its recent entry into NATO marks a historic shift in its defense policy.\n\nThe country is also a leading global voice in digital governance, cyber security, and using educational diplomacy to support developing nations."
+      },
+      "zh": {
+        "list": [
+          "北歐合作重要成員",
+          "歐盟與北約成員國",
+          "重視國防與區域安全",
+          "科技與教育外交活躍"
+        ],
+        "text": "芬蘭是歐盟（EU）以及北歐理事會（Nordic Council）中不可或缺的堅實成員，長年積極推動區域多邊合作與和平調停。其近年正式加入北約（NATO）防衛陣營，標誌著該國國防戰略方針發生了歷史性的劃時代轉變。此外，芬蘭在數位治理、網路資訊安全、人權保障以及透過「教育外交」援助發展中國家等國際議題上，皆擁有極高的全球話語權與正面形象。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Growing ties in advanced telecommunications and clean energy research",
+          "Highly active trade channels for engineering parts and tech paper",
+          "Outstanding academic exchange between research institutions",
+          "Shared commitment to democratic values and digital transparency"
+        ],
+        "text": "Taiwan and Finland share a productive partnership focused on technology and education. High-quality Finnish telecommunications equipment and forestry pulp are imported into Taiwan.\n\nBilateral university exchange programs allow students to study in Finland's highly regarded schools, and representative offices in Helsinki and Taipei facilitate annual digital trade and startup forums."
+      },
+      "zh": {
+        "list": [
+          "科技與教育交流穩定",
+          "半導體與通訊產業合作潛力高",
+          "民間往來逐漸增加",
+          "北歐市場合作窗口之一"
+        ],
+        "text": "芬蘭與台灣之間在科技創新、數位轉型與現代教育領域維持著穩健成長的實質合作。台灣長年引進芬蘭高品質的尖端行動通訊設備、精密機械零件與優質森林紙漿；兩國的高等教育機構與研究單位亦有高度活躍的交換學生計畫。透過設於赫爾辛基與台北的互設代表處，雙方每年定期舉辦數位經貿論壇與新創產業媒合，在5G/6G次世代通訊、潔淨能源研發以及資安防護方面展現了極高的合作潛力。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "Famously celebrated as the 'Land of a Thousand Lakes'",
+          "Ranked as the happiest country on Earth for seven consecutive years",
+          "Deep-seated traditional sauna culture with over 3 million saunas",
+          "Education system universally regarded as a world-class model"
+        ]
+      },
+      "zh": {
+        "list": [
+          "被稱為「千湖之國」",
+          "全球幸福指數長年第一",
+          "桑拿文化極具代表性",
+          "教育制度享有國際聲譽"
+        ]
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": "Euro (EUR)"
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "Finnish, Swedish",
+        "zh": "芬蘭語、瑞典語"
+      }
+    },
+    {
+      "label": "GDP (nom.)",
+      "value": "$305B"
+    },
+    {
+      "label": "Time zone",
+      "value": "UTC+2 / +3"
+    },
+    {
+      "label": "Calling code",
+      "value": "+358"
+    },
+    {
+      "label": "ISO code",
+      "value": "FI / FIN"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🇫🇮",
+      "text": {
+        "en": "The Siniristilippu — The elegant blue cross flag representing the clear blue lakes and the sparkling white winter snows",
+        "zh": "芬蘭藍十字旗——簡潔美麗的白底藍十字旗（Siniristilippu），藍色象徵成千上萬清澈美麗的湖泊與蔚藍天空，白色代表冬日鋪滿大地的皚皚白雪"
+      }
+    },
+    {
+      "icon": "🌊",
+      "text": {
+        "en": "Land of a Thousand Lakes — Boasting over 188,000 crystalline blue lakes nestled inside massive, lush green pine forests",
+        "zh": "千湖之國與茂密森林——芬蘭實際擁有多達18.8萬個如水晶般清澈的湖泊，全國森林覆蓋率超過70%，水陸交融呈現最純淨的自然風光"
+      }
+    },
+    {
+      "icon": "🧖",
+      "text": {
+        "en": "UNESCO Sauna Culture — Over 3 million traditional saunas forming a beloved national ritual of steam, quiet heat, and cold plunges",
+        "zh": "正宗芬蘭桑拿（Sauna）——被列入聯合國非物質文化遺產，全國擁有超過300萬座桑拿房，是芬蘭人洗滌心靈、社交放鬆與家庭團聚至高無上的靈魂儀式"
+      }
+    },
+    {
+      "icon": "🎅",
+      "text": {
+        "en": "Official Santa Claus — Located in Rovaniemi along the Arctic Circle boundary, hosting the official magical post office and year-round reindeer",
+        "zh": "正宗聖誕老人故鄉——座落於拉普蘭地區北極圈邊界上的羅瓦涅米（Rovaniemi），擁有官方認證的聖誕老人辦公室、精靈郵局與雪地馴鹿，童話感十足"
+      }
+    },
+    {
+      "icon": "🎓",
+      "text": {
+        "en": "Pinnacle of Education — The world-renowned tuition-free high-equity school system focusing on critical thinking, play, and equal opportunities",
+        "zh": "全球教育典範——芬蘭式教育體系享譽國際，強調完全平等、無學雜費、注重學生自主性與學思並重，被譽為最人性化且高成效的典範教育"
+      }
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/54224",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=19.0%2C59.5%2C31.6%2C70.1&layer=mapnik"
+}

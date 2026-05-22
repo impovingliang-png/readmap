@@ -1,0 +1,353 @@
+{
+  "name": {
+    "en": "China",
+    "zh": "中國"
+  },
+  "nativeName": "中华人民共和国",
+  "capital": {
+    "en": "Beijing",
+    "zh": "北京"
+  },
+  "population": "1.40B",
+  "area": "9,600,000 km²",
+  "density": "146/km²",
+  "continent": "Asia",
+  "flagEmoji": "🇨🇳",
+  "dataEstYear": 2025,
+  "description": {
+    "en": "China is a major country in East Asia, facing the Pacific Ocean to the east and bordering Russia and Mongolia to the north, several Southeast Asian countries to the south, and extending west toward Central Asia and the Himalayas. With a civilization spanning thousands of years, China is one of the world’s most influential economic and political powers. Beijing is the capital, while Shanghai is among its largest global cities.",
+    "zh": "China是位於東亞的國家，東臨太平洋，北接俄羅斯（Russia）與蒙古（Mongolia），南鄰東南亞多國，西部則延伸至中亞與喜馬拉雅山區。中國是世界人口第二多與面積第四大的國家，也是全球最具影響力的經濟與政治大國之一。首都為北京（Beijing），最大城市之一為上海（Shanghai）。"
+  },
+  "seoText": {
+    "en": "Explore quick facts about China — population, area, capital city, and a short overview. Discover Beijing and Shanghai, the Great Wall, high-speed rail, manufacturing and technology strength, and China’s role in global economics and geopolitics.",
+    "zh": "快速了解中國的基本資料：人口、面積、首都與簡短概述。探索北京與上海、萬里長城、高速鐵路、製造與科技實力，以及中國在全球經濟與地緣政治中的影響力。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Large country in East Asia with a long coastline",
+          "One of the world’s major economies",
+          "Continuous civilization history spanning millennia",
+          "A global manufacturing and technology powerhouse"
+        ],
+        "text": "China’s scale, population, and industrial capacity have made it a central actor in modern globalization. Its economy spans manufacturing, infrastructure, and rapidly advancing technology sectors, while its political and diplomatic influence continues to shape regional and global dynamics."
+      },
+      "zh": {
+        "list": [
+          "位於東亞的大型國家",
+          "世界主要經濟體之一",
+          "歷史文明延續數千年",
+          "全球製造與科技強國"
+        ],
+        "text": "China是位於東亞的國家，東臨太平洋，北接Russia與Mongolia，南鄰東南亞多國，西部則延伸至中亞與喜馬拉雅山區。中國是世界人口第二多與面積第四大的國家，也是全球最具影響力的經濟與政治大國之一。\n\n中國首都為Beijing，最大城市之一為Shanghai。中國擁有悠久歷史與龐大人口，在政治、經濟、科技、軍事與文化層面皆對全球具有重大影響力。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "East Asia with long Pacific coastline",
+          "One of the world’s largest countries by area",
+          "Extremely diverse landforms across west-to-east gradients",
+          "Major river systems include the Yangtze and Yellow River"
+        ],
+        "text": "China’s geography ranges from high plateaus, deserts, and mountain systems in the west to densely populated plains and coastal megacities in the east. The Tibetan Plateau and Himalayas define much of the southwest’s elevation and climate systems."
+      },
+      "zh": {
+        "list": [
+          "位於東亞核心地區",
+          "國土面積世界第四大",
+          "地形差異極大",
+          "擁有長海岸線"
+        ],
+        "text": "China國土面積約 960 萬平方公里，地形從西部高原、沙漠與山脈一路延伸至東部平原與沿海城市。\n\n西部有青藏高原（Tibetan Plateau）與喜馬拉雅山脈（Himalayas），東部則分布大量人口與主要經濟城市。長江（Yangtze River）與黃河（Yellow River）是中國最重要 river。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Highly diverse climate zones across latitude and elevation",
+          "Cold winters in the north",
+          "Hot and humid summers in parts of the south and east",
+          "Monsoon dynamics strongly shape seasonal rainfall"
+        ],
+        "text": "China’s vast north–south span creates sharp climate contrasts. Coastal and southern regions can be humid and monsoon-influenced, while inland plateaus and deserts are drier with large temperature swings."
+      },
+      "zh": {
+        "list": [
+          "氣候類型多樣",
+          "北方冬季寒冷",
+          "南方濕熱明顯",
+          "季風氣候影響大"
+        ],
+        "text": "中國南北跨度廣，因此氣候差異非常大。\n\n東南沿海地區夏季潮濕炎熱，北部冬季寒冷乾燥，而西部高原與沙漠地區則較乾燥且溫差劇烈。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Population around 1.4 billion",
+          "High urbanization with major coastal and river-basin metros",
+          "56 officially recognized ethnic groups",
+          "Population aging and low birth rates have increased in significance"
+        ],
+        "text": "According to official data from the National Bureau of Statistics of China, the population is comprised of 56 officially recognized ethnic groups. Han Chinese form the overwhelming majority, accounting for approximately 91.1% of the total population. The remaining 55 ethnic minority groups collectively constitute about 8.9% of the citizenry. Among these minority groups, the largest by population include the Zhuang (approx. 1.3%), Uyghur (approx. 0.8%), Hui (approx. 0.8%), Miao (approx. 0.8%), Manchu (approx. 0.7%), Tujia (approx. 0.7%), Tibetan (approx. 0.5%), Mongol (approx. 0.4%), and Yi (approx. 0.7%). Minority populations are primarily concentrated across autonomous regions, provinces in the west, southwest, and northeast, such as Guangxi, Xinjiang, Tibet, Inner Mongolia, and Ningxia."
+      },
+      "zh": {
+        "list": [
+          "人口總數約 14 億人",
+          "官方認定 56 個法定民族",
+          "漢族人口占據全國絕大多數",
+          "少數民族多分布於邊疆與西部自治區"
+        ],
+        "text": "根據中國國家統計局最新的官方人口普查數據，中國人口結構以漢族為主體，並由 56 個官方認定的民族共同組成。全國人口的民族比例具體分布如下：\n\n漢族（Han Chinese）為最主要群體，約占全國總人口的 91.1%。\n\n少數民族（Ethnic Minorities）群體合計占全國總人口的 8.9%。在 55 個法定少數民族中，人口規模較大的民族比例分布如下：\n壯族（Zhuang）約占 1.3%；\n維吾爾族（Uyghur）約占 0.8%；\n回族（Hui）約占 0.8%；\n苗族（Miao）約占 0.8%；\n滿族（Manchu）約占 0.7%；\n土家族（Tujia）約占 0.7%；\n彝族（Yi）約占 0.7%；\n藏族（Tibetan）約占 0.5%；\n蒙古族（Mongol）約占 0.4%。\n\n少數民族人口主要分布在廣西、新疆、西藏、內蒙古、寧夏等五大自治區，以及雲南、貴州、青海等西部與西南省份。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "One of the world’s largest economies",
+          "Major global manufacturing center and supply-chain hub",
+          "Strong technology and e-commerce sectors",
+          "Large-scale infrastructure development"
+        ],
+        "text": "Since economic reforms, China has become a central manufacturing base and a major force in global trade. In recent years, sectors including AI, electric vehicles, and advanced manufacturing have expanded rapidly, alongside world-leading infrastructure scale."
+      },
+      "zh": {
+        "list": [
+          "世界第二大經濟體",
+          "全球製造業中心",
+          "科技與電商產業強大",
+          "基礎建設規模龐大"
+        ],
+        "text": "中國改革開放後經濟快速成長，成為全球最大製造基地之一。\n\n近年科技、人工智慧、電動車與半導體產業快速發展，Huawei、Tencent與Alibaba Group等企業具有國際影響力。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Socialist state led by the Chinese Communist Party",
+          "Strong central governance structure",
+          "Large multi-level administrative system",
+          "Major state capacity in planning and infrastructure"
+        ],
+        "text": "China’s political system is characterized by centralized leadership and extensive administrative capacity. Provinces, autonomous regions, municipalities, and special administrative regions form a complex governance structure across a vast territory."
+      },
+      "zh": {
+        "list": [
+          "社會主義國家",
+          "中國共產黨長期執政",
+          "中央集權體制明顯",
+          "地方行政層級龐大"
+        ],
+        "text": "China由中國共產黨（CCP）領導，政治體制以中央集權為主。\n\n中央政府設於Beijing，地方則分為省、自治區、直轄市與特別行政區等行政層級。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Rapid urban development and infrastructure buildout",
+          "Highly adopted digital payments and e-commerce",
+          "Intense education competition in many regions",
+          "Persistent regional and urban–rural disparities"
+        ],
+        "text": "Large cities have highly modern services and dense transit systems, while disparities in income, education access, and healthcare resources persist across regions. Digital platforms and mobile payments are deeply integrated into daily urban life."
+      },
+      "zh": {
+        "list": [
+          "都市發展快速",
+          "數位支付高度普及",
+          "教育競爭激烈",
+          "城鄉差距仍存在"
+        ],
+        "text": "中國大型城市現代化程度高，電子支付、外送與電商服務相當普及。\n\n不過，不同地區之間在收入、教育與醫療資源方面仍存在一定差異。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "One of the world’s oldest continuous civilizations",
+          "Chinese characters and cultural influence across East Asia",
+          "Highly diverse regional cuisines and traditions",
+          "Coexistence of traditional and modern cultural industries"
+        ],
+        "text": "Chinese cultural influence spans language, philosophy, art, and festivals across East Asia. Classical traditions coexist with rapidly evolving modern media, online culture, and global-facing entertainment industries."
+      },
+      "zh": {
+        "list": [
+          "中華文明歷史悠久",
+          "漢字文化影響深遠",
+          "飲食文化多元",
+          "傳統與現代文化並存"
+        ],
+        "text": "中國擁有超過數千年歷史，是世界最古老文明之一。\n\n儒家思想、書法、京劇與傳統節慶對東亞文化影響深遠，而現代影視、網路文化與流行娛樂近年也快速發展。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Economic transition and growth slowdown pressures",
+          "Real estate and local government debt concerns",
+          "Technology and geopolitical competition",
+          "Population aging and low birth rates"
+        ],
+        "text": "China faces a complex transition toward higher-value growth amid domestic structural challenges and intensifying external competition in technology and supply chains. Demographic aging has also become a prominent long-term policy issue."
+      },
+      "zh": {
+        "list": [
+          "經濟成長放緩",
+          "房地產與地方債問題",
+          "科技與國際競爭",
+          "人口老化與少子化"
+        ],
+        "text": "中國近年面臨經濟轉型壓力，包括房地產市場調整、青年就業與產業升級等問題。\n\n此外，中美科技競爭、供應鏈安全與人工智慧發展也是重要國家戰略方向。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Beijing — capital and political-cultural center",
+          "Shanghai — major finance and commercial hub",
+          "Shenzhen — technology and innovation city",
+          "Great Wall of China — iconic historical landmark"
+        ],
+        "text": "China’s major cities reflect different economic roles, while heritage sites such as the Great Wall and the Forbidden City represent powerful symbols of historical continuity and statecraft."
+      },
+      "zh": {
+        "list": [
+          "Beijing—— 首都與政治文化中心",
+          "Shanghai—— 金融與商業中心",
+          "Shenzhen—— 科技與創新城市",
+          "Great Wall of China—— 世界著名歷史地標"
+        ],
+        "text": "Shanghai是中國國際金融與航運中心，而Great Wall of China則是中國最具代表性的歷史文化象徵之一。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "Permanent member of the UN Security Council",
+          "Major global economic and military power",
+          "Promoter of large-scale connectivity initiatives",
+          "Expanding influence across Asia and beyond"
+        ],
+        "text": "China plays a central role in global trade, industrial supply chains, and international diplomacy. Competition and cooperation with other major powers shape many of its external relationships."
+      },
+      "zh": {
+        "list": [
+          "聯合國安理會常任理事國",
+          "全球主要經濟與軍事大國",
+          "「一帶一路」倡議推動者",
+          "在亞太與全球影響力擴大"
+        ],
+        "text": "China近年積極擴大國際經濟與外交影響力，在亞洲、非洲與拉丁美洲投資與合作增加。\n\n同時，中國與United States之間的科技、貿易與地緣政治競爭亦受到全球關注。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Cross-strait relations are highly sensitive",
+          "Deep economic and supply-chain links",
+          "Security and political issues draw significant attention",
+          "Large-scale people-to-people interaction in multiple domains"
+        ],
+        "text": "China and Taiwan are deeply connected economically and culturally, while political and sovereignty disagreements remain central. Cross-strait dynamics continue to be a major regional security and diplomatic issue."
+      },
+      "zh": {
+        "list": [
+          "兩岸關係高度敏感",
+          "經貿與供應鏈連結深",
+          "政治與安全議題受關注",
+          "民間交流規模龐大"
+        ],
+        "text": "台灣與中國之間在經濟、文化與人員往來上具有深厚連結，但政治與主權議題長期存在分歧。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "One of the world’s largest economies",
+          "World’s largest high-speed rail network",
+          "Core homeland of Chinese civilization",
+          "Major global manufacturing and supply-chain hub",
+          "Rapidly growing technology sectors"
+        ],
+        "text": "China’s modern position is shaped by scale, infrastructure, industrial capacity, and a long civilizational tradition that continues to influence regional culture and global affairs."
+      },
+      "zh": {
+        "list": [
+          "世界第二大經濟體",
+          "擁有全球最大高鐵網路",
+          "中華文明核心國家",
+          "全球主要製造業中心",
+          "科技與電動車產業快速成長"
+        ],
+        "text": "中國以龐大人口與市場規模、製造與基礎建設能力，以及快速演進的科技產業，長期在全球經濟與政治結構中扮演關鍵角色。"
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": "Renminbi (CNY)"
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "Chinese (Mandarin)",
+        "zh": "漢語（普通話）"
+      }
+    },
+    {
+      "label": "Time zone",
+      "value": "UTC+8"
+    },
+    {
+      "label": "Calling code",
+      "value": "+86"
+    },
+    {
+      "label": "ISO code",
+      "value": "CN / CHN"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🏯",
+      "text": {
+        "en": "Forbidden City — iconic imperial palace complex in Beijing",
+        "zh": "故宮（Forbidden City）——中國古代皇宮代表建築"
+      }
+    },
+    {
+      "icon": "🧱",
+      "text": {
+        "en": "Great Wall — world-famous ancient defensive system",
+        "zh": "萬里長城（Great Wall of China）——世界著名古代防禦工程"
+      }
+    },
+    {
+      "icon": "💹",
+      "text": {
+        "en": "World’s second-largest economy — central to global supply chains and manufacturing",
+        "zh": "世界第二大經濟體——全球供應鏈與製造中心"
+      }
+    },
+    {
+      "icon": "🚄",
+      "text": {
+        "en": "High-speed rail — the largest HSR network in the world by scale",
+        "zh": "高速鐵路——全球規模最大的高鐵系統"
+      }
+    },
+    {
+      "icon": "🚀",
+      "text": {
+        "en": "Technology and space — rapidly advancing sectors including AI and space programs",
+        "zh": "科技與航太發展——太空與AI產業快速成長"
+      }
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/270056",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=73.5%2C18.1%2C134.8%2C53.6&layer=mapnik"
+}

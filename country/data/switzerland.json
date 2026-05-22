@@ -1,0 +1,353 @@
+{
+  "name": {
+    "en": "Switzerland",
+    "zh": "瑞士"
+  },
+  "nativeName": "Schweiz / Suisse / Svizzera",
+  "capital": {
+    "en": "Bern",
+    "zh": "伯恩"
+  },
+  "population": "9M",
+  "area": "41,285 km²",
+  "density": "218/km²",
+  "continent": "Europe",
+  "flagEmoji": "🇨🇭",
+  "dataEstYear": 2025,
+  "description": {
+    "en": "Switzerland is a landlocked nation situated in the heart of Central Europe, bordered by Germany, France, Italy, Austria, and Liechtenstein. Renowned for its spectacular Alpine landscapes, highly stable financial sector, historic stance of diplomatic neutrality, and exceptional standard of living, Switzerland ranks as one of the wealthiest and most politically stable nations in the world.",
+    "zh": "Switzerland是位於中歐核心地帶的內陸國家，四周與德國（Germany）、法國（France）、義大利（Italy）、奧地利（Austria）及列支敦斯登（Liechtenstein）接壤。瑞士以其壯麗無匹的阿爾卑斯山（Alps）自然景觀、底蘊深厚且高度穩定的金融體系、享譽歷史的永久中立國外交方針，以及頂尖卓越的生活品質聞名於世，是全球最富裕且政治環境最穩固的現代國家之一。"
+  },
+  "seoText": {
+    "en": "Explore quick facts about Switzerland — population, land area, capital city, and a short overview. Learn about Swiss watches, direct democracy, Matterhorn mountains, Geneva UN organizations, and premium Swiss chocolates.",
+    "zh": "快速了解瑞士的基本資料：人口、面積、首都與簡短概述。探索瑞士精密機械鐘錶、直接民主公投體系、馬特洪峰阿爾卑斯山雪景、日內瓦聯合國外交總部以及頂級瑞士巧克力與起司文化。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Nestled at the crossroads and geographical heart of Central Europe",
+          "Home to the legendary Alps and pristine high-altitude glaciers",
+          "Global titan in international banking, finance, and wealth management",
+          "Upholds a historic and globally recognized policy of permanent diplomatic neutrality"
+        ],
+        "text": "Switzerland evolved from a confederation of historic cantons, pioneering a unique system of direct democracy alongside extensive local self-governance. Thanks to its central location and peaceful stability, it acts as a premier headquarters for multinational organizations and international diplomacy.\n\nAs a leading advanced economy, Switzerland consistently dominates global tables for quality of life, public safety, scientific research, state-of-the-art medicine, and per capita income."
+      },
+      "zh": {
+        "list": [
+          "位於中歐核心地帶",
+          "阿爾卑斯山國家代表之一",
+          "金融與銀行業全球知名",
+          "長期維持中立外交政策"
+        ],
+        "text": "瑞士是由歷史上多個主權獨立的邦聯州逐步發展演變而成的聯邦共和國，不僅首創了舉世矚目的直接民主制度，也保留了極為廣泛的地方自治傳統。得益於其位居歐洲心臟地帶的優越地理位置與長期的和平穩定，它已成為無數跨國巨頭企業、跨國非政府組織以及國際外交談判的首選總部所在地。作為全球領先的高級經濟體，瑞士在人均收入、公共安全、生醫與科學研究、醫療水準以及居民綜合生活品質等多項國際評估中，長期居於世界霸主地位。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Spectacular mountainous geography dominated by the Alps",
+          "Dotted with countless crystal-clear glacial lakes and valley systems",
+          "Compact European land area packed with majestic nature",
+          "Highly engineered, state-of-the-art mountain transport networks"
+        ],
+        "text": "Spanning approximately 41,285 square kilometers, Switzerland is defined by its mountainous terrain, with the majestic Alps covering nearly 60% of the territory.\n\nIts geography is enriched by scenic valleys and world-famous deep lakes, such as Lake Geneva, Lake Zurich, and Lake Lucerne. To conquer its mountain topography, the Swiss have engineered some of the world's most sophisticated and highly integrated rail, bridge, and tunnel networks on Earth."
+      },
+      "zh": {
+        "list": [
+          "阿爾卑斯山地形明顯",
+          "湖泊與山谷眾多",
+          "國土面積相對較小",
+          "山地交通系統高度發達"
+        ],
+        "text": "瑞士國土面積約 41,285 平方公里，全境以鬼斧神工的山嶽地形為主要特徵，雄偉的阿爾卑斯山脈（Alps）便覆蓋了全國將近 60% 的國土。其地理景觀由無數如畫的深邃山谷與清澈見底的冰河湖泊共同編織而成，包括著名的日內瓦湖（Lake Geneva）、蘇黎世湖（Lake Zurich）與琉森湖（Lake Lucerne）。為了克服重山峻嶺的地理障礙，瑞士人發揮精準的工藝精神，建造出了世界上最精密、整合度最高且如時鐘般精準的鐵路網、高空橋樑與高山隧道工程系統。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Predominantly classified as a temperate seasonal continental climate",
+          "Substantial weather and snowfall variations based on elevation",
+          "Abundant winter snowfall ideal for winter sports",
+          "Mild and pleasantly cool summer months in lowlands"
+        ],
+        "text": "The Swiss climate is heavily influenced by alpine elevations. Low-lying plateau cities like Zurich and Geneva experience distinct seasons, with chilly, snow-dusted winters and warm, mild summers.\n\nHigh mountain ranges receive heavy snowfall throughout the winter, transforming the country into an elite global destination for skiing, snow sports, and alpine tourism."
+      },
+      "zh": {
+        "list": [
+          "溫帶氣候為主",
+          "山區氣候差異大",
+          "冬季適合滑雪活動",
+          "夏季氣候舒適"
+        ],
+        "text": "瑞士氣候主要屬於溫帶大陸性氣候，並深受阿爾卑斯山海拔高度的強烈調節。位於低地平原與高原的都會城市如蘇黎世（Zurich）與日內瓦（Geneva）四季分明，冬季寒冷且偶飄落雪，夏季則溫和、清爽宜人。與此同時，高海拔的山脈地帶在冬季會迎來極為豐沛的降雪，將整個國家打造成全球金字塔頂端名流首選的滑雪勝地、冬季運動天堂與高山生態觀光中心。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Prosperous population of approximately 9 million citizens",
+          "Highly cohesive multi-lingual society with four official languages",
+          "Highly concentrated population on the central Swiss Plateau",
+          "High ratio of skilled expatriate residents and international workforce"
+        ],
+        "text": "Switzerland is home to around 9 million residents, with an exceptionally high concentration living on the Swiss Plateau between the Jura and Alpine ranges.\n\nThe country is famously multilingual, recognizing four official languages: German, French, Italian, and Romansh, each dominant in different geographic regions. Its exceptional stability and economic strength attract highly educated global professionals, resulting in a large and diverse expatriate community."
+      },
+      "zh": {
+        "list": [
+          "人口約 900 萬",
+          "多語言社會特色明顯",
+          "高度城市化",
+          "外籍人口比例高"
+        ],
+        "text": "瑞士全境擁有約 900 萬常住人口，絕大多數居民高度集中居住在汝拉山脈與阿爾卑斯山脈之間的中央瑞士高原區。瑞士是一個極具凝聚力的典型多語言與多民族社會，憲法賦予了四種官方語言平等的法律地位。在語言族群分布上，德裔瑞士人（Swiss German）佔絕對多數，比例約 62%，主要分布在中部與北部；法裔瑞士人（Swiss French）約佔 23%，集中在西部羅曼地地區；義大利裔瑞士人（Swiss Italian）約佔 8%，分布於南部提契諾州；而古老的原住民羅曼什人（Romansh）則僅佔約 0.5%，居住在東部格勞賓登州。由於瑞士極其發達的經濟、優厚薪資環境與政治穩定性，吸引了全球大量高素質、高學歷的外籍專業人才移居，使得外籍常住常任人口比例高達 26% 以上（主要來自義、德、葡、法等國），呈現高度國際化的大都市人口結構。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "One of the most powerful and secretive financial hubs on Earth",
+          "World-class pharmaceutical giants and precision manufacturers",
+          "Consistently ranks among the top globally for per capita GDP",
+          "Highly anchored by high-margin and highly specialized industries"
+        ],
+        "text": "Switzerland boasts a highly competitive, high-value-added economy. Zurich and Geneva are dominant global financial capitals, while multinational companies like Novartis and Roche lead the global pharmaceutical industry.\n\nSwitzerland is also world-renowned for its high-end watchmaking heritage (with legendary brands like Rolex, Omega, and Patek Philippe) and precision engineering, exemplifying the premium Swiss brand quality."
+      },
+      "zh": {
+        "list": [
+          "全球金融中心之一",
+          "製藥與精密工業強大",
+          "人均GDP世界前列",
+          "高附加價值產業為主"
+        ],
+        "text": "瑞士擁有一座在國際上極具競爭力、以高附加價值為核心的發達經濟體。蘇黎世（Zurich）與日內瓦（Geneva）長年穩坐全球最頂級金融資本與資產管理中心的王座；在生技醫療領域，跨國醫藥巨擘諾華（Novartis）與羅氏製藥（Roche）更是引領著全球製藥與生技創新的巨輪。此外，瑞士憑藉無懈可擊的精密工程美學與百年傳承，孕育出了享譽全球的高端鐘錶工業（如 Rolex、Omega、Patek Philippe 等殿堂級品牌）以及高端精密機械儀器，成為頂級品質與世界最高工藝標準的同義詞。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Democratic federal republic comprised of semi-autonomous states",
+          "Universally admired system of continuous direct democracy",
+          "Exceptional localized powers delegated to the 26 cantons",
+          "Strict constitutional commitment to military and diplomatic neutrality"
+        ],
+        "text": "Switzerland is a federal republic comprised of 26 sovereign cantons, which hold extensive administrative and fiscal powers. The national government features a unique consensus-led seven-member executive council.\n\nMost famously, citizens exercise direct democracy, utilizing national referendums to vote directly on constitutional and legislative revisions. Its permanent armed neutrality has been legally established since the 1815 Congress of Vienna."
+      },
+      "zh": {
+        "list": [
+          "聯邦制共和國",
+          "直接民主制度著名",
+          "地方自治程度高",
+          "長期維持中立政策"
+        ],
+        "text": "瑞士政治體制為聯邦共和國，由 26 個擁有高度獨立行政、司法與財政稅收自主權的聯邦州（Cantons）所組成。國家最高行政機關非常獨特，是由七位委員組成的聯邦委員會，採行集體領導與共識決。瑞士最為全世界讚譽的是其歷史悠久且運作純熟的「直接民主制度」，全國公民可透過定期舉辦的全民公投（Referendums），直接對憲法修正案、重大法規與國家政策行使最終否決或同意權。而其著名的「武裝永久中立」方針，自 1815 年維也納會議確立以來便被奉為不移的立國基石。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Consistently ranks at the absolute top for global quality of life",
+          "Superb levels of public security, education, and healthcare",
+          "Extremely safe, quiet, and civic-minded community lives",
+          "Challenged by some of the highest cost of living indexes globally"
+        ],
+        "text": "Swiss society enjoys exceptional standards of public transit, top-tier municipal safety, clean infrastructure, and universal healthcare. The domestic rail system (SBB) is legendary for its clockwork punctuality.\n\nHowever, this exceptional standard of living is paired with some of the highest consumer prices on Earth, with cities like Zurich and Geneva consistently ranking among the most expensive places to live."
+      },
+      "zh": {
+        "list": [
+          "生活品質全球頂尖",
+          "公共服務水準高",
+          "社會秩序穩定",
+          "生活成本偏高"
+        ],
+        "text": "瑞士社會享有令全球欽羨的極致公共服務水準，包括高效率且乾淨的城市基礎設施、極低的犯罪率、卓越的義務教育以及高福利的全民醫療保障體系。其國家鐵路系統（SBB）更以如時鐘發條般精確無誤的驚人準時性名噪國際。然而，這樣近乎完美的優渥生活品質背後，代價是冠絕全球的高昂物價與消費水準，蘇黎世（Zurich）與日內瓦（Geneva）長年高居全球生活成本最貴都會區的前三名，對一般外來居民帶來不小的經濟壓力。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "Organic blend of German, French, and Italian cultural assets",
+          "Deep-seated alpine traditions, farming customs, and hiking",
+          "World-class classical music festivals and artistic venues",
+          "Globally celebrated culinary icons like chocolate and fondue"
+        ],
+        "text": "Swiss culture is a beautiful synthesis of its neighbors, creating distinct linguistic regions with local customs. Alpine traditions remain deeply cherished, from summer high-pasture farming to winter skiing.\n\nSwiss chocolate and mountain cheeses (such as Gruyère and Emmental) are world-famous culinary symbols, representing a deep heritage of luxury farming and precision."
+      },
+      "zh": {
+        "list": [
+          "多語言文化融合",
+          "山岳文化特色鮮明",
+          "古典音樂與藝術發展成熟",
+          "巧克力與起司聞名世界"
+        ],
+        "text": "瑞士文化是周邊歐陸大國文明的精緻交融體，德語區、法語區與義語區各自保留了強烈的在地文化認同與獨特民俗。深深植根於高山環境的阿爾卑斯山傳統依然受到舉國上下的熱烈珍視，包括夏季的傳統高山放牧（阿爾卑斯長號、牛鈴文化）與冬季滑雪運動。在美食方面，瑞士頂級手工巧克力以及格呂耶爾（Gruyère）與艾曼塔（Emmental）等高山熟成起司是名揚世界的文化名片，體現了瑞士人將精緻農業與極致工藝精神完美結合的傳統。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Addressing municipal housing shortages and escalating living costs",
+          "Navigating international pressures over banking confidentiality laws",
+          "Managing immigration policies and domestic labor demands",
+          "Mitigating the rapid retreat of glaciers due to climate change"
+        ],
+        "text": "Switzerland faces domestic challenges regarding high housing costs in core economic hubs. Internationally, the historic secrecy of its banking sector has been progressively phased out in favor of global tax transparency standards.\n\nFurthermore, rising global temperatures are causing the rapid melting of Alpine glaciers, threatening the winter tourism industry, hydroelectric power, and long-term freshwater reserves."
+      },
+      "zh": {
+        "list": [
+          "移民與人口結構變化",
+          "金融監管與國際壓力",
+          "房價與生活成本上升",
+          "氣候變遷影響冰川"
+        ],
+        "text": "在國內民生層面，瑞士核心經濟據點面臨嚴重的城鎮住宅短缺與房價飆漲挑戰。在國際金融領域，過去引以為傲且具備極高歷史法律效力的瑞士銀行保密制度（Banking confidentiality），近年在歐美等國的聯合施壓與國際反洗錢與反逃稅標準下，已逐步走向資訊透明化與自動資訊交換。最令環保與科學家憂心的是，全球氣候變遷正導致阿爾卑斯山冰川（Alpine glaciers）以驚人的速度融化消退，這不僅嚴重衝擊了國家的冬季觀光產業，也直接威脅到其引以為傲的水力發電能效與歐陸長期的淡水儲備安全。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Zurrich — Global banking capital situated alongside a scenic lake",
+          "Geneva — Diplomatic powerhouse hosting UN and global bodies",
+          "Bern — Picturesque federal capital with medieval old quarters",
+          "Matterhorn — Breathtaking pyramid-shaped Alpine peak"
+        ],
+        "text": "Zurich is a pristine global financial hub offering world-class shopping and scenic lake cruises. Geneva acts as a cosmopolitan center of world affairs, housing the UN headquarters and the Jet d'Eau.\n\nBern, the charming federal capital, features a beautifully preserved medieval Old Town, a UNESCO Heritage Site. The majestic, sharp pyramid of the Matterhorn stands as Switzerland's ultimate natural icon, celebrated worldwide."
+      },
+      "zh": {
+        "list": [
+          "Zurich——最大城市與金融中心",
+          "Geneva——國際外交重鎮",
+          "Bern——聯邦首都",
+          "Matterhorn——世界知名山峰"
+        ],
+        "text": "第一大城蘇黎世（Zurich）是一座一塵不染的全球金融與財富管理中心，擁有享譽世界的班霍夫大道頂級購物體驗與詩情畫意的湖泊遊船巡航。日內瓦（Geneva）則是推動全球地緣政治與人道事務的無冕之王，不僅設有聯合國（UN）歐洲總部、世界衛生組織（WHO）等關鍵機構，其地標「大噴泉（Jet d'Eau）」亦極具視覺震撼。作為聯邦首都的伯恩（Bern）則散發著古樸沉靜的魅力，其完整保存的中世紀老城區被聯合國教科文組織（UNESCO）列為世界文化遺產。而矗立於南方邊境、線條如剃刀般犀利的金字塔形「馬特洪峰（Matterhorn）」，則是瑞士最傲人、最無可取代的阿爾卑斯山自然奇景標誌。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "Pioneering state of armed permanent diplomatic neutrality",
+          "Host to the European headquarters of the United Nations",
+          "Key diplomatic mediator and provider of 'good offices'",
+          "Deeply integrated in Europe while choosing not to join the EU"
+        ],
+        "text": "Although Switzerland lies in the heart of Europe, it has chosen not to join the European Union, preserving its political and monetary sovereignty. Nonetheless, it is a key member of the Schengen Area.\n\nGeneva is a premier hub of global governance, hosting the UN, WHO, WTO, and the Red Cross. Switzerland actively serves as an impartial diplomatic mediator, representing international interests in global conflicts."
+      },
+      "zh": {
+        "list": [
+          "長期中立國",
+          "United Nations重要據點",
+          "國際外交角色突出",
+          "非European Union成員"
+        ],
+        "text": "儘管瑞士在地緣與文化上位於歐洲（Europe）的正核心，但為了確保其絕對的政治獨立、法律完整性與瑞士法郎的貨幣主權，瑞士公民多次透過公投否決加入歐洲聯盟（European Union），但仍透過雙邊協定深度加入了申根區（Schengen Area）。日內瓦（Geneva）至今仍是全球治理的頂級樞紐，匯聚了聯合國歐洲總部、世界衛生組織（WHO）、世界貿易組織（WTO）與紅十字國際委員會（ICRC）等重要國際組織。瑞士長期作為各方大國絕對信賴的中立第三方調停者，廣泛提供「斡旋（Good offices）」服務，在多次國際危機中代表衝突各方處理敏感利益。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Strong trade ties in high-end machinery and precision tools",
+          "Productive collaborations in micro-electronics and pharma research",
+          "Steady growth in university links and tourism markets",
+          "Friendly non-official relationship focused on technology sectors"
+        ],
+        "text": "Switzerland and Taiwan enjoy close non-official economic relations, anchored by precision manufacturing, luxury watch imports, and pharmaceutical industries.\n\nTaiwan imports significant amounts of advanced Swiss industrial equipment, while Swiss universities maintain active academic links with Taiwanese research institutes. The scenic Alps also make Switzerland a top travel destination for Taiwanese tourists."
+      },
+      "zh": {
+        "list": [
+          "金融與科技交流存在",
+          "精密工業合作增加",
+          "教育與觀光往來穩定",
+          "無正式外交關係"
+        ],
+        "text": "瑞士與台灣之間維持著極為緊密且穩健發展的非官方經貿與科技夥伴關係，雙方的實質互利建構在高端精密製造、精品鐘錶進口以及先進生物醫藥研發上。台灣長期進口大量昂貴的瑞士高精密工業機床、半導體製程零組件與實驗室檢測設備；同時，瑞士多所世界頂尖名校（如蘇黎世聯邦理工學院 ETH）與台灣的一流科研機構和大學保持著高度活躍的學術鏈結。而阿爾卑斯山如詩如畫的絕美雪景與頂級登山鐵道，亦使瑞士長年高居台灣觀光客心目中頂級歐洲旅遊的首選目的地。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "Globally celebrated pioneer of continuous direct democracy",
+          "Consistently ranks among the wealthiest nations in the world",
+          "Classic global symbol of pristine Alpine nature and tourism",
+          "Legendary traditions in luxury watchmaking and chocolates"
+        ]
+      },
+      "zh": {
+        "list": [
+          "直接民主制度世界知名",
+          "全球最富裕國家之一",
+          "阿爾卑斯山觀光代表國家",
+          "鐘錶與巧克力具有高度代表性"
+        ]
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": "Swiss Franc (CHF)"
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "German, French, Italian, Romansh",
+        "zh": "德語、法語、義大利語、羅曼什語"
+      }
+    },
+    {
+      "label": "GDP (nom.)",
+      "value": "$900B"
+    },
+    {
+      "label": "Time zone",
+      "value": "UTC+1"
+    },
+    {
+      "label": "Calling code",
+      "value": "+41"
+    },
+    {
+      "label": "ISO code",
+      "value": "CH / CHE"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🏔️",
+      "text": {
+        "en": "Matterhorn — The legendary, razor-sharp pyramid peak in the Swiss Alps representing the world's most photographed mountain",
+        "zh": "馬特洪峰與阿爾卑斯山——矗立於阿爾卑斯山脊、呈完美金字塔形的不朽名峰，是瑞士最傲人且聞名遐邇的自然奇景標誌"
+      }
+    },
+    {
+      "icon": "⌚",
+      "text": {
+        "en": "Precision Watches — Centuries-old watchmaking excellence and legendary horology brands representing the ultimate global luxury standard",
+        "zh": "精密機械鐘錶——數百年來引領全球的鐘錶製造工藝，匯聚勞力士、百達翡麗等頂級製錶品牌，是極致精準與奢華的代名詞"
+      }
+    },
+    {
+      "icon": "🍫",
+      "text": {
+        "en": "Swiss Chocolates — World-famous premium milk chocolates and gourmet confectioneries crafted by master Swiss chocolatiers",
+        "zh": "頂級瑞士巧克力與起司——享譽世界的頂級牛奶巧克力工藝與濃郁山區起司，以無可比擬的絲滑口感與傳統配方風靡全球"
+      }
+    },
+    {
+      "icon": "🏛️",
+      "text": {
+        "en": "Geneva Diplomacy — Host to the United Nations, World Health Organization, and numerous crucial global institutions",
+        "zh": "日內瓦國際外交樞紐——聯合國歐洲總部、世界衛生組織與紅十字會等多個頂尖國際組織所在地，是全球和平協商與人道援助重鎮"
+      }
+    },
+    {
+      "icon": "🇨🇭",
+      "text": {
+        "en": "Direct Democracy — Unique political system allowing Swiss citizens to vote directly on constitutional and state issues through referendums",
+        "zh": "直接民主公投體系——瑞士獨一無二的立國基石，公民可定期透過公投直接決定憲法與國家重大法規，地方自治程度極高"
+      }
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/51701",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=5.9%2C45.8%2C10.5%2C47.8&layer=mapnik"
+}

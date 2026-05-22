@@ -1,0 +1,355 @@
+{
+  "name": {
+    "en": "Iceland",
+    "zh": "冰島"
+  },
+  "nativeName": "Ísland",
+  "capital": {
+    "en": "Reykjavík",
+    "zh": "雷克雅維克"
+  },
+  "population": "390K",
+  "area": "103,000 km²",
+  "density": "3.8/km²",
+  "continent": "Europe",
+  "flagEmoji": "🇮🇸",
+  "dataEstYear": 2026,
+  "description": {
+    "en": "Iceland is a Nordic island country in the North Atlantic, situated between Greenland and Norway, just south of the Arctic Circle. Renowned for its volcanoes, glaciers, hot springs, and auroras, it is one of the most sparsely populated nations in the world while consistently ranking among the global leaders in quality of life and human development.",
+    "zh": "Iceland是位於北大西洋的北歐島國，緊鄰北極圈南緣，介於格陵蘭（Greenland）與挪威（Norway）之間。冰島以其驚心動魄的活火山、無垠冰川、噴涌地熱與夢幻極光等極端自然地貌聞名於世。它是全球人口密度最低的國家之一，同時在聯合國人類發展指數（HDI）、生態永續、兩性平等以及全民生活品質等指標上，長期穩居全球領先地位。"
+  },
+  "seoText": {
+    "en": "Explore quick facts about Iceland — population, land area, capital city Reykjavík, and an overview. Discover how glaciers, volcanoes, and active geothermal fields shape this unique Nordic island nation.",
+    "zh": "快速了解冰島（Iceland）的基本資料：包括人口、面積、首都雷克雅維克與簡短概述。探索冰島獨特的火山、冰川與地熱地貌，以及領先全球的再生能源應用。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Nordic island country in the North Atlantic",
+          "Unique terrain where volcanoes and glaciers coexist",
+          "Global pioneer in geothermal energy utilization",
+          "Sparsely populated with an exceptional quality of life"
+        ],
+        "text": "The capital of Iceland is Reykjavík, which also serves as the nation's largest city as well as its political and economic hub."
+      },
+      "zh": {
+        "list": [
+          "位於北大西洋的北歐島國",
+          "火山與冰川並存的特殊地形",
+          "地熱能源利用全球領先",
+          "人口稀少但生活品質極高"
+        ],
+        "text": "冰島的首都為雷克雅維克（Reykjavík），它不僅是全國的第一大城市，更是整個國家的政治、經濟、高科技創新與北歐文化精華的交 heart 樞紐。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Situated on the active North Atlantic volcanic belt",
+          "Highly distinct glacial and volcanic landforms",
+          "Abundant in geothermal and hot spring resources",
+          "Rugged coastline characterized by dramatic fjords"
+        ],
+        "text": "Iceland is situated on the Mid-Atlantic Ridge, resulting in highly active geological systems. The island is dominated by active volcanoes, massive glaciers, vast lava fields, and rich geothermal areas, with Vatnajökull being one of the largest glaciers in Europe."
+      },
+      "zh": {
+        "list": [
+          "位於北大西洋火山帶",
+          "冰川與火山地貌極為鮮明",
+          "地熱與溫泉資源豐富",
+          "海岸線曲折且多峽灣"
+        ],
+        "text": "冰島（Iceland）正巧坐落於大西洋中洋脊（Mid-Atlantic Ridge）的分裂板塊交界上，這種獨特的地理位置使其擁有極其活躍的地質構造。島上地形由間歇噴發的活火山、廣袤無垠的黑色熔岩荒漠、沸騰的地熱溫泉與巨大的高原冰帽共同雕琢而成，呈現出「冰與火之歌」的極致視覺張力。其中，位於東南部的瓦特納冰川（Vatnajökull）高居歐洲最大冰川之一，而其曲折崎嶇的海岸線則點綴著由萬年冰河侵蝕而成的壯麗峽灣。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Cold maritime climate",
+          "Relatively mild winters influenced by ocean currents",
+          "Short and cool summers",
+          "Rapidly shifting weather patterns"
+        ],
+        "text": "Despite its proximity to the Arctic Circle, Iceland's winters are remarkably mild for its high latitude due to the warming influence of the North Atlantic Current. Winter days feature extremely short daylight hours, while summer brings the midnight sun."
+      },
+      "zh": {
+        "list": [
+          "屬寒冷海洋性氣候",
+          "冬季寒冷但受海流影響較溫和",
+          "夏季短暫涼爽",
+          "天氣變化快速"
+        ],
+        "text": "雖然冰島在地理位置上緊鄰北極圈，但由於發源自墨西哥灣的北大西洋暖流（North Atlantic Current）源源不絕地輸送熱量，使其冬季氣溫較同緯度的內陸地區（如西伯利亞或格陵蘭）要溫和得多，屬於典型的寒冷副極地海洋性氣候。島上天氣以變幻莫測著稱，常有「如果你不喜歡現在的天氣，等五分鐘就好」的民諺。此外，高緯度也帶來了劇烈的日照變化：冬季黑夜漫長，每日僅有數小時微弱曙光；而盛夏則會迎來極具魔幻色彩的「永晝（Midnight Sun）」地景。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Population around 400,000",
+          "One of the least populated countries in Europe",
+          "Highly concentrated in the capital region",
+          "Highly urbanized society"
+        ],
+        "text": "Iceland is extremely sparsely populated, with the vast majority of residents residing in Reykjavík and the surrounding southwestern region. The society is highly educated, boasting world-leading literacy rates and advanced digital connectivity."
+      },
+      "zh": {
+        "list": [
+          "人口約 40萬左右",
+          "歐洲人口最少國家之一",
+          "人口集中於首都周邊",
+          "社會高度都市化"
+        ],
+        "text": "冰島（Iceland）國土面積廣大但人口僅約 39 萬人，是全歐洲人口最稀疏的國家。人口分布呈現高度的城鄉集中化，超過八成的居民居住在首都雷克雅維克（Reykjavík）及西南部的周邊大眾圈。在族群與人口結構上，**冰島本土的維京人後裔佔總人口的 81.3%（約 32 萬人）**，為傳統主體；**波蘭裔移民佔 6.2%（約 2.4 萬人）**，為最大外國移民族群；**其他歐洲裔移民（如德國、立陶宛裔等）共佔 7.8%**，亞裔等其他族群則佔 4.7%。冰島社會教育水準極高，不僅識字率長年高居 99.9%，更擁有冠絕全球的數位化網路覆蓋率與高度開放的包容思維。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "High-income developed economy",
+          "Vital fishing and energy sectors",
+          "Rapidly expanding tourism industry",
+          "Extremely high ratio of renewable energy usage"
+        ],
+        "text": "Iceland has historically relied heavily on fishing and marine product exports, though tourism has grown rapidly to become a primary economic driver in recent years. Abundant geothermal and hydroelectric resources supply virtually all of the nation's electricity, creating a highly decarbonized power grid."
+      },
+      "zh": {
+        "list": [
+          "高收入已開發經濟體",
+          "漁業與能源產業重要",
+          "觀光業成長快速",
+          "再生能源使用比例極高"
+        ],
+        "text": "冰島是一個高收入的知識型已開發經濟體。歷史上，高科技深海漁業與精緻海產品出口是其經濟的傳統命脈。然而近年來，以生態體驗與北極冒險為核心的觀光旅遊業已爆發式成長，一躍成為最主要的外匯收入來源。更引人注目的是，冰島充分利用其得天獨厚的地理優勢，全境幾乎 100% 的電力與溫室供暖皆由純淨的地熱（Geothermal）與水力發電（Hydroelectric）提供，成功打造出全球碳中和與綠能應用的頂尖標竿。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Nordic democratic republic",
+          "Exceptional political transparency",
+          "Comprehensive social welfare systems",
+          "Strong focus on gender equality and green policies"
+        ],
+        "text": "Iceland is a parliamentary representative democratic republic characterized by political stability and high government transparency. The nation consistently ranks at the top globally in gender equality, human rights, and environmental protection initiatives."
+      },
+      "zh": {
+        "list": [
+          "北歐民主共和國",
+          "政治透明度高",
+          "社會福利制度完善",
+          "重視性別平等與環保政策"
+        ],
+        "text": "冰島（Iceland）擁有世界上最古老的議會民主體制（可追溯至西元 930 年的古議會），現行為議會民主共和國。政局長年極其穩定，政府運作具有世界領先的廉潔度與透明度。秉持著典型的北歐福利國家模式（Nordic Model），冰島在性別平等（連續多年蟬聯全球兩性差距最小國家）、全民基本人權保障、同性婚姻合法化以及前瞻性綠色環保政策等領域，皆是全球秩序的進步倡議者。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "World-class quality of life",
+          "Extremely low crime rates",
+          "Excellent public healthcare and welfare systems",
+          "High emphasis on work-life balance"
+        ],
+        "text": "Consistently recognized as one of the safest countries in the world, Iceland enjoys outstanding social trust and citizen happiness. Public services heavily subsidize education and healthcare, underpinning a comprehensive welfare system."
+      },
+      "zh": {
+        "list": [
+          "生活品質世界領先",
+          "犯罪率極低",
+          "社會福利與醫療完善",
+          "重視工作與生活平衡"
+        ],
+        "text": "冰島在「全球和平指數（GPI）」中長年雄踞世界最安全國家榜首。島上犯罪率微乎其微，社會成員間互信度極高，孕育出樂天幸福的國民性格。國家提供極高補貼的全面免費公立醫療體系與高等教育，並強力實施每週彈性工時，高度強調「工作與生活間的完美平衡（Work-Life Balance）」，這也是其國民幸福感高居世界前列的底氣所在。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "Rich Nordic cultural identity",
+          "Deeply rooted literary and mythological traditions",
+          "Music and arts with global renown",
+          "Important Viking history and heritage"
+        ],
+        "text": "Icelandic culture is profoundly influenced by its Nordic Viking heritage, with the ancient prose Sagas remaining a prized national literary treasure. In modern arts, singer Björk is one of the nation's most internationally recognized icons."
+      },
+      "zh": {
+        "list": [
+          "北歐文化特色鮮明",
+          "文學與神話傳統深厚",
+          "音樂與藝術具國際影響力",
+          "維京歷史文化重要"
+        ],
+        "text": "冰島文化是北歐古維京傳統與現代前衛藝術的完美混血。冰島人對文學情有獨鍾，中世紀流傳下來的散文史詩「薩迦（Sagas）」至今仍是全體國民引以為傲的國寶級文學資產，民間也依然保留著相信精靈（Elves）傳說的浪漫情懷。而在當代前衛音樂與視覺藝術領域，冰島憑藉迷幻、空靈的風格獨樹一幟，享譽歐美的傳奇歌后碧玉（Björk）與後搖滾天團 Sigur Rós，皆是冰島向世界展示其空靈精神的國寶級藝術名片。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Overtourism pressures on infrastructure",
+          "Ongoing risk of volcanic and natural disasters",
+          "Rising housing and living costs",
+          "Climate change impact accelerating glacial melt"
+        ],
+        "text": "A significant surge in tourist arrivals in recent years has put pressure on local infrastructure and fragile ecosystems. Concurrently, managing volcanic and seismic activity hazards remains constant, and climate change is causing glaciers to retreat rapidly."
+      },
+      "zh": {
+        "list": [
+          "觀光過度發展壓力",
+          "火山與自然災害風險",
+          "住房與生活成本上升",
+          "氣候變遷影響冰川"
+        ],
+        "text": "近年來爆發式增長的國際旅客量，已對冰島脆弱的極地生態環境與城鎮基礎設施帶來了「過度旅遊（Overtourism）」的嚴峻考驗。同時，由於大西洋中洋脊的板塊運動，頻繁的地震與火山噴發（如西南部雷克雅內斯半島的岩漿活動）是居民日常必須面對的自然災害風險。此外，全球氣候變遷正導致島上古老冰川急速消融，這項環境危機已成為冰島政府當前面臨的重要環境議題。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Reykjavík — Capital and largest city",
+          "Blue Lagoon — World-renowned geothermal mineral spa",
+          "Vatnajökull — Massive glacier among the largest in Europe",
+          "Golden Circle — Famed driving route of natural wonders"
+        ],
+        "text": "The spectacular Blue Lagoon spa and the dancing Northern Lights stand as two of the most iconic natural wonders attracting visitors to Iceland."
+      },
+      "zh": {
+        "list": [
+          "雷克雅維克（Reykjavík）——首都與最大城市",
+          "藍湖（Blue Lagoon）——世界知名地熱溫泉",
+          "瓦特納冰原（Vatnajökull）——歐洲大型冰川之一",
+          "金圈（Golden Circle）——著名自然景觀路線"
+        ],
+        "text": "大名鼎鼎的藍湖（Blue Lagoon）地熱礦物溫泉，以其仙氣飄渺的乳藍色泉水與火山岩交織的地景聞名於世；而每逢寒冬在漆黑夜空中如夢似幻般翩翩起舞的綠色北極光（Northern Lights），則是冰島最無可取代的終極自然奇觀。這兩大世界級地標與集結了辛格韋德利國家公園、間歇泉及雙層黃金瀑布的「金圈（Golden Circle）」精華觀光路線，共同交織出冰島最令全球旅人神往的冒險藍圖。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "Key member of Nordic cooperation",
+          "Founding member state of NATO",
+          "Focus on environmental protection and human rights diplomacy",
+          "Deeply integrated with the European economy"
+        ],
+        "text": "While not a member of the European Union, Iceland maintains close economic ties with Europe via the EEA. It plays an active role in Arctic Council affairs, ocean conservation, and global climate negotiations."
+      },
+      "zh": {
+        "list": [
+          "北歐合作重要成員",
+          "NATO 成員國",
+          "重視環境與人權外交",
+          "與歐洲經濟聯繫密切"
+        ],
+        "text": "冰島（Iceland）雖因保護本國獨佔漁業權益而選擇不加入歐盟（EU），但透過身為歐洲經濟區（EEA）與申根公約國的成員身份，與歐洲大陸的經貿、人員往來保持著深度一體化。它是北大西洋公約組織（NATO）唯一的無常備軍創始成員國（防務由美國與北約盟軍協防）。冰島在國際舞台上高度專注於北極理事會（Arctic Council）事務、全球海洋資源永續管理，並在聯合國氣候變遷外交談判中展現出獨特的低碳綠能影響力。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Bilateral interactions remain modest",
+          "Growing tourism and cultural exchanges",
+          "Cooperation potential in renewable energy",
+          "Stable unofficial relations"
+        ],
+        "text": "Bilateral relations between Iceland and Taiwan are primarily unofficial, with growing potential for collaboration in tourism, trade, and geothermal energy technologies."
+      },
+      "zh": {
+        "list": [
+          "雙方互動規模有限",
+          "觀光與文化交流增加",
+          "再生能源經驗具合作潛力",
+          "非官方關係穩定"
+        ],
+        "text": "冰島與台灣之間目前無正式官方外交關係，雙邊互動以高度互信的非官方民間往來與實質商務交流為主。領事事務主要由台灣「駐英國台北代表處」跨國兼轄。近年來，冰島已成為台灣民眾最熱門的北歐蜜月、極光觀光與公路自助旅行目的地，民間文化交流呈現穩定成長。此外，由於台灣正積極開發大屯山與宜蘭等地的本土深層地熱發電，冰島領先全球的地熱鑽探技術、電廠商轉管理經驗與碳補集（Carbon Capture）綠能科技，已成為台冰雙邊政府科技部門與民間能源企業近年積極展開經貿合作與實務考察的關鍵潛力領域。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "One of the most sparsely populated countries in the world",
+          "Stunning landscapes featuring volcanic glaciers",
+          "Global pioneer in geothermal energy utilization",
+          "Famous worldwide for Northern Lights sightseeing"
+        ],
+        "text": "Iceland provides a uniquely pristine and raw natural environment that leaves an unforgettable impression on all who visit."
+      },
+      "zh": {
+        "list": [
+          "全球人口密度最低國家之一",
+          "火山與冰川並存極具特色",
+          "地熱能源利用世界領先",
+          "極光觀光聞名全球"
+        ],
+        "text": "冰島為尋求極致自然景觀與純淨環境的旅人提供了最獨特難忘的體驗。"
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": "Icelandic Króna (ISK)"
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "Icelandic",
+        "zh": "冰島語"
+      }
+    },
+    {
+      "label": "GDP (nom.)",
+      "value": "$31B"
+    },
+    {
+      "label": "Time zone",
+      "value": "UTC"
+    },
+    {
+      "label": "Calling code",
+      "value": "+354"
+    },
+    {
+      "label": "ISO code",
+      "value": "IS / ISL"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🌋",
+      "text": {
+        "en": "Blue Lagoon — world-famous geothermal spa rich in silica and sulfur",
+        "zh": "藍湖地熱溫泉——火山黑岩環抱下的乳藍色夢幻仙境，泉水富含二氧化矽與天然礦物質，是享譽全球的頂級皮膚療養與天然美容聖地"
+      }
+    },
+    {
+      "icon": "🌊",
+      "text": {
+        "en": "Gullfoss Waterfall — spectacular double-tiered waterfall on the Golden Circle",
+        "zh": "黃金瀑布——金圈（Golden Circle）精華路線上最具震撼力的雙層冰河瀑布，洶湧的河水以排山倒海之勢奔騰灌入深邃峽谷，激盪出漫天水霧與彩虹"
+      }
+    },
+    {
+      "icon": "💨",
+      "text": {
+        "en": "Strokkur Geysir — highly active fountain geysir erupting every few minutes",
+        "zh": "斯特羅庫爾間歇泉——地熱活躍區內最震撼的自然驚奇，每隔數分鐘便會毫無預警地將高溫沸水化為高達 20 至 30 公尺的水柱直衝雲霄"
+      }
+    },
+    {
+      "icon": "🌌",
+      "text": {
+        "en": "Northern Lights (Aurora Borealis) — stunning natural light displays visible in winter",
+        "zh": "極光奇觀——每年秋末至初春季節，冰島純淨無光害的寒夜晴空中，常會上演由太陽風子與大氣層碰撞激盪出的綠色、紫色夢幻極光，是地表上最令人屏息的自然學奇蹟"
+      }
+    },
+    {
+      "icon": "❄️",
+      "text": {
+        "en": "Vatnajökull Glacier — massive ice cap covering about 8% of Iceland's territory",
+        "zh": "瓦特納冰川大冰帽——歐洲面積與體積最大的冰川巨擘，覆蓋了冰島約 8% 的龐大國土，冰帽下方隱藏著神祕萬年的藍冰洞（Ice Caves）與多座沉睡的巨型活火山"
+      }
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/299133",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=-25.0%2C63.0%2C-13.0%2C66.8&layer=mapnik"
+}

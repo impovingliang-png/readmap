@@ -1,0 +1,355 @@
+{
+  "name": {
+    "en": "Turkey",
+    "zh": "土耳其"
+  },
+  "nativeName": "Türkiye",
+  "capital": {
+    "en": "Ankara",
+    "zh": "安卡拉"
+  },
+  "population": "85M",
+  "area": "783,562 km²",
+  "density": "110/km²",
+  "continent": "Europe",
+  "flagEmoji": "🇹🇷",
+  "dataEstYear": 2025,
+  "description": {
+    "en": "Turkey (Türkiye) is a transcontinental nation spanning Europe and Asia, situated at the crossroads of Southeast Europe and Western Asia. Its highly strategic geographical position controls the vital maritime corridor between the Black Sea and the Mediterranean. Boasting a rich history of ancient civilizations, Turkey blends the cultural heritages of the Anatolian civilizations, the Roman Empire, and the Ottoman Empire, serving as a crucial bridge between East and West.",
+    "zh": "Turkey是橫跨歐洲與亞洲的跨洲國家，位於東南歐與西亞交界，地理位置極為重要，扼守黑海與地中海之間的交通要道。土耳其擁有悠久文明歷史，融合了古代安納托利亞文明、羅馬帝國與鄂圖曼帝國的文化遺產，是歐亞交匯的關鍵國家。"
+  },
+  "seoText": {
+    "en": "Explore quick facts about Turkey — population, land area, capital city, and a short overview. Learn about Turkey's dual-continental geography, Bosporus Strait, Roman and Ottoman heritages, and modern secular republic reforms.",
+    "zh": "快速了解土耳其的基本資料：人口、面積、首都與簡短概述。探索土耳其獨特的歐亞跨洲地形、黑海與地中海樞紐位置、拜占庭與鄂圖曼帝國歷史底蘊。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Transcontinental nation bridging Europe and Asia",
+          "Rich history spanning the Roman and Ottoman Empires",
+          "Geopolitically and strategically crucial location",
+          "Unique cultural blend of European and Middle Eastern influences"
+        ],
+        "text": "Modern Turkey was established in 1923 by Mustafa Kemal Atatürk, transitioning from the Ottoman Empire into a secular republic. Since its founding, the nation has undergone comprehensive modernization reforms across its political, economic, and social systems.\n\nToday, Turkey holds a prominent position in manufacturing, tourism, agriculture, and defense industries, while playing a critical and strategic role in NATO and regional Middle Eastern geopolitics."
+      },
+      "zh": {
+        "list": [
+          "位於歐亞交界的跨洲國家",
+          "歷史橫跨羅馬與鄂圖曼帝國",
+          "地緣戰略位置極其重要",
+          "文化融合歐洲與中東特色"
+        ],
+        "text": "現代土耳其於1923年由凱末爾（Mustafa Kemal Atatürk）建立，從鄂圖曼帝國轉型為世俗化共和國。其後在政治、經濟與社會制度上進行現代化改革。\n\n今日土耳其在製造業、觀光業、農業與軍工產業均具重要地位，同時在北約（NATO）與中東地緣政治中扮演關鍵角色。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Spans the two continents of Europe and Asia",
+          "Mainly located on the Anatolian Peninsula",
+          "Shares borders with eight neighboring nations",
+          "Controls highly strategic maritime straits"
+        ],
+        "text": "With a land area of approximately 783,000 square kilometers, the vast majority of Turkey's territory lies in Anatolia (Asia), while the European section is known as Thrace.\n\nTurkey controls the Bosporus and Dardanelles Straits, which connect the Black Sea with the Mediterranean, making it one of the most critical maritime strategic choke points in the world."
+      },
+      "zh": {
+        "list": [
+          "橫跨歐洲與亞洲",
+          "主要位於安納托利亞半島",
+          "與八個國家接壤",
+          "擁有海峽戰略位置"
+        ],
+        "text": "土耳其國土面積約 78.3 萬平方公里，大部分位於亞洲的安納托利亞（Anatolia），歐洲部分則稱為色雷斯（Thrace）。\n\n土耳其控制博斯普魯斯（Bosporus）與達達尼爾（Dardanelles）海峽，連接黑海與地中海，是全球最重要的海運戰略通道之一。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Features highly diverse climate zones",
+          "Coastal regions enjoy a Mediterranean climate",
+          "Inland areas feature a dry continental climate",
+          "Eastern regions experience cold and snowy winters"
+        ],
+        "text": "Turkey's climate varies significantly by region. The Aegean and Mediterranean coastal areas experience a typical Mediterranean climate, with hot, dry summers and mild, wet winters.\n\nThe central Anatolian plateau has a drier, continental climate with cold winters, while the mountainous eastern provinces endure heavy winter snowfalls and substantial seasonal temperature variations."
+      },
+      "zh": {
+        "list": [
+          "氣候類型多樣",
+          "沿海為地中海氣候",
+          "內陸為大陸性氣候",
+          "東部冬季寒冷多雪"
+        ],
+        "text": "土耳其沿愛琴海與地中海地區屬典型地中海氣候，夏季炎熱乾燥、冬季溫和。\n\n內陸高原地區則氣候較乾燥，冬季寒冷。東部山區冬季降雪明顯，氣候變化幅度大。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Population of approximately 85 million",
+          "Population concentrated in western metropolitan areas",
+          "Turkish people represent the primary ethnic group",
+          "Istanbul stands as the largest city and urban hub"
+        ],
+        "text": "Turkey's population is heavily concentrated in the western coastal regions and major urban centers, with Istanbul serving as the undisputed economic and cultural heartbeat. \n\nEthnic Turks form the majority of the population, alongside a significant Kurdish minority and other smaller groups. Islam is the predominant religion practiced by the vast majority of citizens."
+      },
+      "zh": {
+        "list": [
+          "人口約 8,500 萬",
+          "人口集中於西部城市",
+          "族群以土耳其族為主",
+          "伊斯坦堡為最大都市"
+        ],
+        "text": "土耳其人口主要集中於西部沿海與大城市，其中伊斯坦堡（Istanbul）為最大城市與經濟中心。\n\n族群以土耳其族為主，同時包含庫德族等少數民族。伊斯蘭教為主要宗教。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "A major emerging industrial and manufacturing nation",
+          "Highly developed and globally popular tourism sector",
+          "Leading exporter of automotive and textile goods",
+          "A pivotal geographic and commercial trade gateway"
+        ],
+        "text": "Turkey features a robust emerging economy driven by manufacturing and services. Major export sectors include automotive products, electronics, textiles, apparel, and food processing.\n\nIstanbul serves as the premier financial and commercial center, bridging the European and Asian markets and making Turkey an essential regional trade hub."
+      },
+      "zh": {
+        "list": [
+          "新興工業與製造國家",
+          "觀光業高度發達",
+          "汽車與紡織產業重要",
+          "地理貿易樞紐國家"
+        ],
+        "text": "土耳其經濟以製造業與服務業為主，汽車、電子、紡織與食品加工為主要出口產業。\n\n伊斯坦堡（Istanbul）為金融與商業中心，連接歐亞市場，使土耳其成為區域貿易樞紐。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Unitary presidential constitutional republic",
+          "Strong executive authority concentrated in the presidency",
+          "Secular state constitution with persistent religious influences",
+          "Ankara serves as the official administrative capital"
+        ],
+        "text": "The modern Turkish state was founded on secular principles established by Atatürk, emphasizing modernization and western-aligned institutions. \n\nUnder the current presidential system, the president holds substantial executive authority. Ankara serves as the official capital and political center, while Istanbul remains the primary economic and financial engine."
+      },
+      "zh": {
+        "list": [
+          "總統制共和國",
+          "中央政府權力較強",
+          "世俗國家但宗教影響存在",
+          "首都為安卡拉（Ankara）"
+        ],
+        "text": "土耳其現代國家由凱末爾（Mustafa Kemal Atatürk）建立，強調世俗化與現代化制度。\n\n現任制度為總統制，總統擁有較強行政權力。安卡拉（Ankara）為首都，但伊斯坦堡（Istanbul）為實際經濟核心。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "A fascinating fusion of Eastern and Western cultures",
+          "Highly modernized and dynamic urban centers",
+          "Coexistence of traditional customs and modern lifestyles",
+          "Noticeable socio-economic disparities between regions"
+        ],
+        "text": "Turkish society is uniquely positioned between European modernity and Middle Eastern tradition, resulting in a rich, multi-layered social fabric.\n\nWhile metropolitan areas like Istanbul and Izmir enjoy highly modernized, fast-paced lifestyles, more traditional customs and community structures continue to play a central role in the eastern provinces."
+      },
+      "zh": {
+        "list": [
+          "東西文化融合",
+          "城市現代化程度高",
+          "傳統與現代並存",
+          "區域差異明顯"
+        ],
+        "text": "土耳其社會同時受歐洲與中東文化影響，呈現多層次文化結構。\n\n大城市如伊斯坦堡（Istanbul）生活現代化程度高，而東部地區則保留較傳統生活方式。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "Dominantly Islamic culture with profound histories",
+          "Deep and magnificent Ottoman cultural heritage",
+          "Richly diverse musical, artistic, and dance traditions",
+          "World-famous culinary heritage with global acclaim"
+        ],
+        "text": "Turkish culture beautifully blends centuries-old Islamic traditions with its magnificent Byzantine and Ottoman imperial legacies, creating breathtaking architectural and artistic expressions.\n\nTurkish cuisine, famous for delicacies like kebabs, Turkish delight, and baklava, is celebrated worldwide. Mustafa Kemal Atatürk remains a foundational, highly revered national figure whose legacy shapes modern Turkish identity."
+      },
+      "zh": {
+        "list": [
+          "伊斯蘭文化為主",
+          "鄂圖曼文化遺產深厚",
+          "音樂與舞蹈多元",
+          "美食文化世界知名"
+        ],
+        "text": "土耳其文化融合伊斯蘭傳統與鄂圖曼帝國遺產，在建築、藝術與飲食上具有強烈特色。\n\n土耳其料理如烤肉（kebab）與巴拉瓦餅（baklava）在全球廣受歡迎。音樂與民俗舞蹈亦呈現多地區風格。\n\n凱末爾（Mustafa Kemal Atatürk）為現代土耳其國家建設的重要人物。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Persistent inflation and macroeconomic fluctuations",
+          "Challenges surrounding currency depreciation",
+          "Intense regional geopolitical pressures",
+          "Complex refugee and immigration policies"
+        ],
+        "text": "In recent years, Turkey has navigated significant inflationary pressures and currency fluctuations, which have impacted the cost of living and the domestic investment environment.\n\nDue to its close proximity to conflict-affected areas in the Middle East, managing national security, diplomatic balance, and large-scale refugee programs remains a critical challenge."
+      },
+      "zh": {
+        "list": [
+          "通膨與經濟波動",
+          "貨幣貶值問題",
+          "地緣政治壓力",
+          "難民與移民議題"
+        ],
+        "text": "土耳其近年面臨經濟通膨與貨幣波動問題，對生活成本與投資環境造成影響。\n\n同時，由於地理位置接近中東衝突區域，難民政策與外交平衡亦為重要議題。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Istanbul — Transcontinental megacity, cultural and economic giant",
+          "Ankara — The administrative capital and political heart",
+          "Izmir — Major trade port and historic pearl of the Aegean",
+          "Hagia Sophia — Masterpiece of religious and imperial history"
+        ],
+        "text": "Istanbul is one of the world's most historic metropolises, famously bridging Europe and Asia across the Bosporus. \n\nHagia Sophia, which has served as both cathedral and mosque over its long history, stands as a spectacular testament to Byzantine and Ottoman achievements, remaining one of the most recognizable monuments globally."
+      },
+      "zh": {
+        "list": [
+          "伊斯坦堡（Istanbul）—— 最大城市與經濟文化中心",
+          "安卡拉（Ankara）—— 首都與政治中心",
+          "伊茲密爾（Izmir）—— 愛琴海沿岸重要城市",
+          "聖索菲亞大教堂（Hagia Sophia）—— 世界知名歷史建築"
+        ],
+        "text": "伊斯坦堡（Istanbul）橫跨歐亞兩洲，是世界少數同時連接兩大洲的城市。\n\n聖索菲亞大教堂（Hagia Sophia）見證拜占庭與鄂圖曼歷史，是全球最具代表性的宗教建築之一。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "Longstanding and vital member of NATO",
+          "Crucial geopolitical bridge between Europe and Asia",
+          "Close yet complex relationship with the European Union",
+          "A leading diplomatic player in the Middle East"
+        ],
+        "text": "Turkey commands a vital strategic position within NATO, boasting its second-largest military force. It serves as a crucial bridge connecting Europe, the Middle East, and Central Asia.\n\nIts flexible and pragmatically balanced diplomatic policy allows it to maintain strategic partnerships across multiple global powers."
+      },
+      "zh": {
+        "list": [
+          "北約（NATO）成員國",
+          "歐亞地緣政治樞紐",
+          "與歐盟關係密切但未加入",
+          "中東外交關鍵國家"
+        ],
+        "text": "土耳其在北約中具有重要戰略地位，同時在歐洲、中東與中亞之間扮演橋樑角色。\n\n其外交政策靈活，與多方勢力保持合作與平衡關係。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Stable tourism and commercial exchanges",
+          "A highly popular travel destination for Taiwanese tourists",
+          "Steadily expanding economic and trade cooperation",
+          "Friendly civic and humanitarian interactions"
+        ],
+        "text": "Turkey and Taiwan maintain warm, stable unofficial relations, with a strong focus on tourism, commerce, and cultural exchange.\n\nIstanbul is a major transit hub and highly favored destination for Taiwanese travelers, while bilateral partnerships in logistics, manufacturing, and humanitarian relief (such as earthquake assistance) continue to deepen."
+      },
+      "zh": {
+        "list": [
+          "觀光與商務交流穩定",
+          "台灣旅客熱門目的地",
+          "經貿往來逐漸增加",
+          "民間互動友好"
+        ],
+        "text": "土耳其與台灣維持非官方關係，在觀光、貿易與文化交流方面互動穩定。\n\n伊斯坦堡（Istanbul）為台灣旅客重要轉機與旅遊城市之一，雙方在貿易與物流領域亦有合作基礎。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "Highly strategic nation spanning Europe and Asia",
+          "Direct successor and inheritor of the Ottoman Empire",
+          "Guardian of the world's most critical maritime straits",
+          "Vital commercial hub between the Mediterranean and Black Seas",
+          "A nation of remarkable cultural synthesis and deep history"
+        ]
+      },
+      "zh": {
+        "list": [
+          "橫跨歐亞的戰略國家",
+          "鄂圖曼帝國繼承國",
+          "世界重要海峽控制國",
+          "地中海與黑海樞紐",
+          "文化融合度極高的國家"
+        ]
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": "Turkish Lira (₺)"
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "Turkish",
+        "zh": "土耳其語"
+      }
+    },
+    {
+      "label": "GDP (nom.)",
+      "value": "$1.1T"
+    },
+    {
+      "label": "Time zone",
+      "value": "UTC+3"
+    },
+    {
+      "label": "Calling code",
+      "value": "+90"
+    },
+    {
+      "label": "ISO code",
+      "value": "TR / TUR"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🕌",
+      "text": {
+        "en": "Hagia Sophia — The stunning architectural wonder witnessing centuries of Christian and Islamic history",
+        "zh": "聖索菲亞大教堂——見證數百年基督教與伊斯蘭教歷史交融的偉大建築奇蹟"
+      }
+    },
+    {
+      "icon": "🎈",
+      "text": {
+        "en": "Cappadocia — A surreal volcanic landscape globally famous for hot air balloon rides at sunrise",
+        "zh": "卡帕多奇亞——超現實的火山煙囪地形，以日出時分壯麗的熱氣球飛行聞名全球"
+      }
+    },
+    {
+      "icon": "☕",
+      "text": {
+        "en": "Turkish Coffee & Cuisine — World-class culinary art featuring rich Turkish coffee and savory kebabs",
+        "zh": "土耳其咖啡與美食——世界級飲食藝術，包含香醇濃郁的土耳其咖啡與美味的烤肉料理"
+      }
+    },
+    {
+      "icon": "🌊",
+      "text": {
+        "en": "Bosporus Strait — The vital strategic channel splitting Istanbul between Europe and Asia",
+        "zh": "博斯普魯斯海峽——貫穿伊斯坦堡、將城市與國土分隔在歐亞兩洲間的戰略水道"
+      }
+    },
+    {
+      "icon": "🏛️",
+      "text": {
+        "en": "Ephesus — One of the best-preserved ancient Greco-Roman archaeological cities in the Mediterranean",
+        "zh": "以弗所（Ephesus）——地中海地區保存最完整的古希臘羅馬時期考古古城遺跡之一"
+      }
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/174737",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=25.5%2C35.8%2C44.8%2C42.2&layer=mapnik"
+}

@@ -1,0 +1,355 @@
+{
+  "name": {
+    "en": "Mexico",
+    "zh": "墨西哥"
+  },
+  "nativeName": "México",
+  "capital": {
+    "en": "Mexico City",
+    "zh": "墨西哥城"
+  },
+  "population": "130M",
+  "area": "1,964,375 km²",
+  "density": "66/km²",
+  "continent": "Americas",
+  "flagEmoji": "🇲🇽",
+  "dataEstYear": 2025,
+  "description": {
+    "en": "Mexico is a federal republic located in the southern part of North America, bordered by the United States to the north and Central America to the south. It is one of the most prominent nations in Latin America. Boasting a rich history of ancient civilizations, diverse culture, and strong regional characteristics, Mexico is also a key manufacturing and trading nation globally.",
+    "zh": "Mexico是位於北美洲南部的聯邦共和國，北接美國，南連中美洲，是拉丁美洲重要國家之一。墨西哥擁有悠久的古文明歷史、多元文化與強烈地域特色，同時也是全球重要的製造與貿易國家。"
+  },
+  "seoText": {
+    "en": "Explore quick facts about Mexico — population, land area, capital city, and a short overview. Learn about Mexico's vibrant history, geography, and rich heritage of Maya and Aztec civilizations.",
+    "zh": "快速了解墨西哥的基本資料：人口、面積、首都與簡短概述。探索墨西哥多元的古文明歷史（馬雅與阿茲特克）、地形地貌與經貿發展。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Federal republic located in the southern part of North America",
+          "A major cultural and demographic power in Latin America",
+          "Key cradle of ancient Mesoamerican civilizations",
+          "Significant manufacturing and export hub in the Americas"
+        ],
+        "text": "Mexico's history fuses ancient civilizations like the Maya and Aztec with Spanish colonial heritage, creating a unique foundation for modern Latin American culture. Since gaining independence in the 19th century, it has steadily evolved into a modern republic.\n\nToday, Mexico plays an essential role in automotive manufacturing, electronics, petroleum, and tourism. It is highly integrated with the U.S. economy and serves as a core member of the USMCA (United States-Mexico-Canada Agreement)."
+      },
+      "zh": {
+        "list": [
+          "位於北美洲南部的聯邦國家",
+          "拉丁美洲人口與文化大國",
+          "古印第安文明重要發源地",
+          "美洲重要製造與出口國"
+        ],
+        "text": "墨西哥歷史融合了馬雅（Maya）、阿茲特克（Aztec）等古文明與西班牙（Spanish）殖民文化，形成獨特的拉丁美洲文化基礎。19世紀獨立後逐漸發展為現代共和國。\n\n現代墨西哥在汽車製造、電子產業、石油與觀光領域具有重要地位，同時與美國經濟高度整合，是USMCA（美墨加協定）核心成員。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Located in the southern part of North America",
+          "Bordered by the United States to the north",
+          "Bordered by Guatemala and Belize to the south",
+          "Extensive coastlines along the Pacific Ocean and Gulf of Mexico"
+        ],
+        "text": "Spanning approximately 1.96 million square kilometers, Mexico features highly diverse topography including high plateaus, rugged mountain ranges, vast deserts, and tropical rainforests.\n\nThe central region is dominated by the Mexican Plateau, where most of the country's population and major cities are concentrated. The southern areas are more tropical, whereas the north is characterized by arid conditions. Due to its geologic location, seismic and volcanic activities are relatively frequent."
+      },
+      "zh": {
+        "list": [
+          "位於北美洲南部",
+          "北接美國邊界",
+          "南連危地馬拉與貝里斯",
+          "擁有海岸線（太平洋與墨西哥灣）"
+        ],
+        "text": "墨西哥國土面積約 196 萬平方公里，地形多樣，包括高原、山脈、沙漠與熱帶雨林。\n\n中部為墨西哥高原，人口與城市主要集中於此。南部氣候較熱帶化，北部則較乾燥。地震與火山活動較為頻繁。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Diverse climate types across the region",
+          "Arid and desert climates dominate the north",
+          "Pronounced tropical climates in the south",
+          "Temperate and mild high-altitude climates"
+        ],
+        "text": "Mexico's climate is significantly influenced by its diverse topography. The highland regions enjoy a mild and pleasant climate year-round, whereas the northern plains are arid and hot.\n\nThe southern regions, near the Caribbean Sea and the Pacific Ocean, receive ample rainfall. Tropical storms and hurricanes are also prominent seasonal natural features."
+      },
+      "zh": {
+        "list": [
+          "氣候類型多樣",
+          "北部偏乾燥沙漠氣候",
+          "南部熱帶氣候明顯",
+          "高地氣候較溫和"
+        ],
+        "text": "墨西哥氣候受地形影響顯著，高原地區氣候溫和宜人，而北部則較乾燥炎熱。\n\n南部靠近加勒比海與太平洋地區降雨較多，熱帶風暴與颶風亦為自然氣候特膚之一。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Population of approximately 130 million",
+          "Most populous Spanish-speaking nation in the world",
+          "High urbanization rate",
+          "Richly mixed cultural and ethnic backgrounds"
+        ],
+        "text": "The majority of Mexico's population is concentrated in major metropolitan areas such as Mexico City, Guadalajara, and Monterrey.\n\nThe demographic structure heavily blends indigenous peoples and Spanish descendants, forming a Mestizo-dominated society. Spanish is the de facto national language."
+      },
+      "zh": {
+        "list": [
+          "人口約 1.3 億",
+          "拉丁美洲人口大國",
+          "城市化程度高",
+          "文化族群混合"
+        ],
+        "text": "墨西哥人口主要集中於墨西哥城（Mexico City）、瓜達拉哈拉（Guadalajara）與蒙特雷（Monterrey）等都市圈。\n\n人口結構融合原住民族與西班牙後裔，形成混合文化社會（梅斯蒂索人（Mestizo）為主要族群）。西班牙語為官方語言。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "Second-largest economy in Latin America",
+          "Highly manufacturing and export-oriented economy",
+          "Crucial global automotive and electronics hub",
+          "Highly integrated trade and economy with the U.S."
+        ],
+        "text": "Mexico's economy centers on manufacturing and exports, serving as a critical cog in the global automotive and electronics supply chains. Its northern border industrial zone (maquileras) is deeply integrated with the United States.\n\nWhile the petroleum industry is led by the state-owned enterprise, tourism and agriculture (including major exports like avocados, tomatoes, and tequila) also serve as vital sources of national income."
+      },
+      "zh": {
+        "list": [
+          "拉丁美洲第二大經濟體",
+          "製造業與出口導向強",
+          "汽車與電子產業重要",
+          "與美國經貿高度整合"
+        ],
+        "text": "墨西哥經濟以製造業與出口為核心，是全球汽車與電子產品供應鏈重要一環。北部邊境工業區與美國高度連結。\n\n石油產業由國營企業主導，同時觀光業與農業（如酪梨、番茄、龍舌蘭）亦為重要收入來源。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Federal presidential representative democratic republic",
+          "President serves as head of state and head of government",
+          "Composed of 31 sovereign states and 1 capital city",
+          "Separation of powers across executive, legislative, and judicial branches"
+        ],
+        "text": "Mexico's political framework operates under a federal system, granting individual states a significant degree of administrative autonomy. Mexico City serves as the capital and the central political and economic anchor of the nation.\n\nIn recent decades, Mexican politics has progressed through democratization, though it continues to navigate challenges regarding public security and corruption."
+      },
+      "zh": {
+        "list": [
+          "聯邦共和制國家",
+          "採總統制民主制度",
+          "由31個州與首都組成",
+          "總統為國家元首與政府領導人"
+        ],
+        "text": "墨西哥政治制度為聯邦制，各州擁有一定自治權。墨西哥城（Mexico City）為首都與政治、經濟核心。\n\n近代墨西哥政治逐步民主化，但仍面臨治安與腐敗等治理挑戰。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Diverse and vibrant cultural fusion",
+          "Noticeable socio-economic gap between urban and rural areas",
+          "Strong emphasis on family values and community ties",
+          "Persistent public security concerns in certain regions"
+        ],
+        "text": "Mexican social culture is deeply influenced by its indigenous roots and Spanish Catholic traditions, where festive celebrations, religious practices, and family ties play a pivotal role in everyday life.\n\nWhile metropolitan areas develop rapidly, disparities in wealth and infrastructure persist, and local security remains a critical domestic challenge."
+      },
+      "zh": {
+        "list": [
+          "文化多元融合",
+          "城市與鄉村差距明顯",
+          "家庭觀念強烈",
+          "治安問題部分地區存在"
+        ],
+        "text": "墨西哥社會文化深受原住民與西班牙文化影響，節慶、宗教與家庭關係在日常生活中非常重要。\n\n大型城市發展快速，但部分地區仍面臨貧富差距與治安問題。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "A major cultural powerhouse of Latin America",
+          "Globally famous Day of the Dead (Día de los Muertos)",
+          "Rich musical and dance heritage (Mariachi, etc.)",
+          "Renowned culinary tradition with global influence"
+        ],
+        "text": "Mexican culture is a beautiful blend of Catholic and indigenous traditions, with the \"Day of the Dead\" (Día de los Muertos) standing as the most iconic representative festival.\n\nMexican cuisine, including tacos, burritos, and mole, is widely celebrated around the world and was inscribed on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity.\n\nLegendary artists like Frida Kahlo and Diego Rivera have left a profound and lasting impact on modern art and Latin American cultural identity."
+      },
+      "zh": {
+        "list": [
+          "拉丁美洲文化核心之一",
+          "亡靈節文化全球知名",
+          "音樂與舞蹈文化豐富",
+          "美食文化國際影響力強"
+        ],
+        "text": "墨西哥文化融合天主教與原住民傳統，其中“亡靈節（Día de los Muertos）”為最具代表性的文化節日。\n\n墨西哥料理如塔可餅（taco）、墨西哥捲餅（burrito）與莫雷醬（mole）在全球廣受歡迎，並被列為世界非物質文化遺產之一。\n\n芙烈達·卡蘿（Frida Kahlo）與迪亞哥·里維拉（Diego Rivera）對現代藝術與拉美文化具有重要影響。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Drug trafficking and cartel-related violence",
+          "Socio-economic and wealth inequality",
+          "Infrastructure strain in rapidly expanding cities",
+          "Environmental challenges and water resource management"
+        ],
+        "text": "Certain regions of Mexico continue to be impacted by organized crime and drug cartels, making public safety and rule of law key focus areas for the government.\n\nFurthermore, rapid urban expansion has increased pressure on metropolitan infrastructure, leading to environmental pollution and unequal distribution of critical resources like clean water."
+      },
+      "zh": {
+        "list": [
+          "毒品犯罪與治安問題",
+          "貧富差距明顯",
+          "城市基礎建設壓力",
+          "環境與水資源問題"
+        ],
+        "text": "墨西哥部分地區長期受到犯罪組織影響，治安問題為政府重要挑戰之一。\n\n此外，大城市人口壓力與環境污染、水資源分配不均等問題亦持續存在。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Mexico City — Capital and largest metropolis",
+          "Guadalajara — Cultural and technological hub",
+          "Monterrey — Leading industrial and commercial center",
+          "Chichen Itza — Magnificent Mayan archaeological site"
+        ],
+        "text": "Mexico City is one of the world's most populous cities, serving as the absolute political, financial, and cultural heartbeat of the nation.\n\nChichen Itza, a world-famous Mayan archaeological wonder and one of the New Seven Wonders of the World, showcases the immense depth of Mexico's pre-Columbian history."
+      },
+      "zh": {
+        "list": [
+          "墨西哥城（Mexico City）—— 首都與最大城市",
+          "瓜達拉哈拉（Guadalajara）—— 文化與科技中心",
+          "蒙特雷（Monterrey）—— 工業與商業重鎮",
+          "奇琴伊察（Chichen Itza）—— 馬雅文明遺址"
+        ],
+        "text": "墨西哥城（Mexico City）為全球最大都市之一，擁有政治、經濟與文化核心地位。\n\n奇琴伊察（Chichen Itza）則是世界最著名的馬雅（Maya）文明遺跡之一，展現墨西哥古文明歷史深度。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "Founding member of the USMCA",
+          "Leading economy and diplomatic force in Latin America",
+          "Highly integrated relationship with the United States",
+          "Key global migration and trade gateway"
+        ],
+        "text": "Mexico plays a pivotal role in the North American economic ecosystem, forming a highly integrated supply chain with the United States and Canada.\n\nIt also exerts significant diplomatic and cooperative influence within Latin America and is an active player on the global stage."
+      },
+      "zh": {
+        "list": [
+          "USMCA 成員國",
+          "拉丁美洲重要經濟體",
+          "與美國關係高度緊密",
+          "全球移民與貿易樞紐"
+        ],
+        "text": "墨西哥在北美經濟體系中扮演關鍵角色，與美國和加拿大形成高度整合供應鏈。\n\n同時，墨西哥在拉丁美洲外交與區域合作中亦具有重要影響力。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Stable trade and bilateral investment flows",
+          "Cooperation in manufacturing and electronics",
+          "Growing cultural exchange and tourism interest",
+          "Strategic hub for Taiwanese businesses"
+        ],
+        "text": "Mexico and Taiwan maintain strong unofficial ties, with robust cooperation in electronic manufacturing, automotive components, and international trade.\n\nMany Taiwanese enterprises have established manufacturing hubs in Mexico, using it as a strategic gateway to access the North American market."
+      },
+      "zh": {
+        "list": [
+          "經貿與投資往來穩定",
+          "製造業與電子產業合作",
+          "文化與觀光交流逐漸增加",
+          "台商投資存在"
+        ],
+        "text": "墨西哥與台灣維持非官方關係，在電子製造、汽車零組件與貿易領域有一定合作。\n\n台灣企業在墨西哥設廠，作為進入北美市場的重要基地之一。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "Vibrant cultural hub of Latin America",
+          "Cradle of monumental civilizations (Maya & Aztec)",
+          "World-renowned culinary heritage (UNESCO)",
+          "Origin of Tequila",
+          "Highly U.S.-integrated industrial economy"
+        ]
+      },
+      "zh": {
+        "list": [
+          "拉丁美洲重要文化中心",
+          "古文明（馬雅（Maya）與阿茲特克（Aztec））發源地",
+          "世界知名美食文化國家",
+          "龍舌蘭酒（Tequila）起源地",
+          "與美國經濟高度整合國家"
+        ]
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": "$ Mexican Peso (MXN)"
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "Spanish",
+        "zh": "西班牙語"
+      }
+    },
+    {
+      "label": "GDP (nom.)",
+      "value": "$1.8T"
+    },
+    {
+      "label": "Time zone",
+      "value": "UTC-8 to UTC-5"
+    },
+    {
+      "label": "Calling code",
+      "value": "+52"
+    },
+    {
+      "label": "ISO code",
+      "value": "MX / MEX"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🌮",
+      "text": {
+        "en": "Mexican Cuisine — A rich, ancestral culinary tradition inscribed as UNESCO Intangible Cultural Heritage",
+        "zh": "墨西哥美食——擁有悠久傳統的飲食文化，被列為世界非物質文化遺產"
+      }
+    },
+    {
+      "icon": "💀",
+      "text": {
+        "en": "Day of the Dead (Día de los Muertos) — A world-famous colorful celebration honoring deceased ancestors",
+        "zh": "亡靈節（Día de los Muertos）——全球知名的繽紛慶典，旨在緬懷逝去的先人"
+      }
+    },
+    {
+      "icon": "🏛️",
+      "text": {
+        "en": "Chichen Itza — A monumental Mayan ruins site and one of the New Seven Wonders of the World",
+        "zh": "奇琴伊察（Chichen Itza）——宏偉的馬雅文明遺址，名列新世界七大奇景之一"
+      }
+    },
+    {
+      "icon": "🎨",
+      "text": {
+        "en": "Artistic Legacy — Home to legendary artists Frida Kahlo and Diego Rivera, who shaped modern Latin American art",
+        "zh": "藝術遺產——傳奇藝術家芙烈達·卡蘿（Frida Kahlo）與迪亞哥·里維拉（Diego Rivera）的故鄉，影響了現代拉美藝術"
+      }
+    },
+    {
+      "icon": "🥃",
+      "text": {
+        "en": "Tequila — The world-famous distilled blue agave spirit named after the Mexican town of Tequila",
+        "zh": "龍舌蘭酒（Tequila）——聞名世界的蒸餾烈酒，起源於墨西哥同名小鎮"
+      }
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/114686",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=-118.5%2C14.0%2C-86.0%2C33.0&layer=mapnik"
+}

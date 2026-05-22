@@ -1,0 +1,353 @@
+{
+  "name": {
+    "en": "Denmark",
+    "zh": "丹麥"
+  },
+  "nativeName": "Kongeriget Danmark",
+  "capital": {
+    "en": "Copenhagen",
+    "zh": "哥本哈根"
+  },
+  "population": "5.9M",
+  "area": "42,933 km²",
+  "density": "137/km²",
+  "continent": "Europe",
+  "flagEmoji": "🇩🇰",
+  "dataEstYear": 2025,
+  "description": {
+    "en": "Denmark, officially the Kingdom of Denmark, is a sovereign Nordic nation located in Scandinavia, bordered by Germany to the south, and surrounded by the North Sea and Baltic Sea. Composed of the fertile Jutland peninsula and over 400 islands, Denmark is internationally renowned for its exceptional quality of life, highly progressive green energy initiatives, and consistently ranking at the absolute pinnacle of global happiness indexes.",
+    "zh": "Denmark正式國名為丹麥王國，是位於北歐的斯堪地那維亞國家，南接德國（Germany），其餘三面環海（北海與波羅的海）。丹麥由日德蘭半島與眾多島嶼組成，以高生活品質、綠色能源政策與幸福指數常年名列前茅而聞名。"
+  },
+  "seoText": {
+    "en": "Explore quick facts about Denmark — population, land area, capital city, and a short overview. Learn about Copenhagen Nyhavn, Lego toy creator, fairy tale writer Andersen childhood, green offshore wind turbines, and hygge Nordic lifestyle.",
+    "zh": "快速了解丹麥的基本資料：人口、面積、首都與簡短概述。探索哥本哈根新港、樂高積木發明地、安徒生童話故鄉、綠色離岸風力發電以及北歐hygge舒心生活風格。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Sovereign Nordic kingdom comprising Jutland and 400 islands",
+          "Pioneering model of the Scandinavian social welfare system",
+          "Global frontrunner in green economy and wind turbine energy",
+          "Consistently ranks among the happiest sovereign nations globally"
+        ],
+        "text": "Dotted with picturesque islands and lined with sweeping coastal sand dunes, Denmark represents the peak of modern Nordic progressive society. As the ancestral home of the Viking explorers and the birthplace of Hans Christian Andersen's legendary fairy tales, the nation balances historical maritime lore with sleek, minimalist contemporary design.\n\nToday, Denmark stands as an advanced, highly prosperous welfare state, leading the world in ecological sustainability and bicycle-friendly urban architecture."
+      },
+      "zh": {
+        "list": [
+          "位於北歐的島嶼與半島國家",
+          "北歐福利國家代表之一",
+          "高度發達的綠色經濟體",
+          "全球幸福指數長期前列"
+        ],
+        "text": "丹麥（Denmark）是位於北歐的斯堪地那維亞國家，南接德國（Germany），其餘三面環海（北海與波羅的海）。丹麥由日德蘭半島與眾多島嶼組成，以高生活品質、綠色能源政策與幸福指數常年名列前茅而聞名。\n\n丹麥首都為哥本哈根（Copenhagen），是國家政治、經濟與文化中心，也是北歐重要國際都市之一。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Consists of the Jutland peninsula and over 400 named islands",
+          "Remarkably flat terrain with no natural mountain barriers",
+          "Extremely long, winding, and picturesque maritime coastlines",
+          "Highly advanced shipping canals and deep-water harbor ports"
+        ],
+        "text": "Covering approximately 42,933 square kilometers, Denmark's geography is famously flat, with low rolling plains and its highest natural point reaching just 170 meters. The coastline stretches over 7,300 kilometers, creating deep ties to the sea.\n\nThe Jutland peninsula forms the continental base, while Zealand—where Copenhagen is located—serves as the absolute demographic and economic heartland."
+      },
+      "zh": {
+        "list": [
+          "由日德蘭半島與400多個島嶼組成",
+          "地勢平坦，無高山",
+          "海岸線曲折綿長",
+          "海運與港口發達"
+        ],
+        "text": "丹麥（Denmark）地形以平原為主，最高點僅為低矮丘陵，是歐洲地勢最平坦的國家之一。島嶼眾多使海洋交通極為重要，其中哥本哈根（Copenhagen）所在的西蘭島為人口與經濟核心。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Temperate maritime climate moderated by Atlantic Ocean currents",
+          "Chilly, damp winter months with short daylight windows",
+          "Pleasantly cool, refreshing, and bright summer seasons",
+          "Abundant and reliable coastal wind resources for clean power"
+        ],
+        "text": "Denmark experiences a temperate maritime climate, heavily moderated by the Gulf Stream. Winters are cold but not extreme, while summers are pleasantly cool.\n\nThe country faces high wind speeds year-round, which has provided the perfect natural resource for Denmark to become a global leader in wind energy technology."
+      },
+      "zh": {
+        "list": [
+          "溫帶海洋性氣候",
+          "冬季寒冷但不極端",
+          "夏季涼爽舒適",
+          "風力資源豐富"
+        ],
+        "text": "丹麥氣候受北大西洋影響明顯，全年溫差較小，但風勢較強，是發展風力發電的重要條件之一。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Sizable population of approximately 5.9 million residents",
+          "Highly urbanized demographic profile concentrated along coastlines",
+          "Heavy population cluster around the Greater Copenhagen region",
+          "Robust social welfare structure supporting all generations"
+        ],
+        "text": "Denmark has a population of 5.9 million, showing a high concentration of urban living. Nearly a quarter of the country's population resides in the Copenhagen metropolitan area.\n\nWhile the population enjoys high life expectancy, Denmark faces standard European demographic challenges of low birth rates and a steadily aging society."
+      },
+      "zh": {
+        "list": [
+          "人口約 590萬左右",
+          "城市化程度高",
+          "人口集中於東部",
+          "社會高福利結構"
+        ],
+        "text": "丹麥（Denmark）人口主要集中在哥本哈根（Copenhagen）及周邊地區。人口結構穩定，但面臨部分歐洲共同的低出生率與高齡化問題。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "Highly prosperous and advanced Nordic social market economy",
+          "Global titan in ocean shipping, logistics, and supply chains",
+          "Prominent international biopharmaceuticals and biotechnology hub",
+          "Pioneering exporter of advanced wind turbines and green tech"
+        ],
+        "text": "Denmark operates a highly advanced, high-tech export market economy. It is the proud home of A.P. Møller-Mærsk, the global ocean shipping giant, alongside prominent biopharmaceutical firms like Novo Nordisk.\n\nThe country is also a leading exporter of green tech, producing a significant share of the world's commercial wind turbines."
+      },
+      "zh": {
+        "list": [
+          "高度發達的福利經濟體",
+          "航運與物流產業強大",
+          "製藥與生技產業突出",
+          "綠色能源全球領先"
+        ],
+        "text": "丹麥是典型的高收入國家，以服務業與高附加價值產業為主。馬士基（Maersk）等航運企業使丹麥在全球海運與物流體系中占據重要地位，而諾和諾德（Novo Nordisk）等頂尖製藥與生技龍頭更在國際上擁有強大影響力。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Constitutional monarchy governed by a parliamentary system",
+          "Monarch serves as ceremonial head representing national heritage",
+          "Robust multiparty system promoting parliamentary coalitions",
+          "Deep commitment to European Union policies (with krone opt-out)"
+        ],
+        "text": "Denmark is a constitutional monarchy. The reigning monarch serves as the ceremonial head of state, while the Prime Minister holds executive power and leads the coalition government.\n\nThe single-chamber parliament (Folketinget) is known for its highly cooperative politics. The nation is an EU member but maintains key opt-outs, keeping the Danish Krone (DKK)."
+      },
+      "zh": {
+        "list": [
+          "君主立憲制國家",
+          "議會民主制度",
+          "歐盟成員國（但未使用歐元）",
+          "地方自治完善"
+        ],
+        "text": "丹麥（Denmark）為君主立憲國家，現任君主為象徵性國家元首，實際權力由議會與首相行使。政治穩定，是全球民主制度成熟度最高的國家之一。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Ranks at the pinnacle of international happiness and life indexes",
+          "Exceptionally strong levels of mutual social and institutional trust",
+          "Tuition-free higher education and comprehensive state health services",
+          "Highly valued work-life balance promoting family and recreation"
+        ],
+        "text": "Danish society is built on a famous 'flexicurity' welfare model, offering free healthcare, excellent public schools, and strong labor protections. \n\nSocial trust between citizens and state institutions is exceptionally high, which forms the foundation of Denmark's regular ranking as one of the happiest nations on Earth."
+      },
+      "zh": {
+        "list": [
+          "全球幸福指數前列",
+          "社會信任度極高",
+          "教育與醫療免費",
+          "生活節奏平衡"
+        ],
+        "text": "丹麥以「高稅收、高福利」以及兼顧彈性與保障的彈性安全（Flexicurity）模式著稱，社會保障體系完善，居民普遍享有良好的公共服務。哥本哈根（Copenhagen）也多次被評為全球最宜居城市之一。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "Rich Viking ancestry and historic maritime royal heritage",
+          "Pioneered the globally celebrated Danish modern design and hygge",
+          "Birthplace of the legendary fairytale author Hans Christian Andersen",
+          "Extensive urban bicycle transit culture promoting green health"
+        ],
+        "text": "Danish culture is famous for its clean, functional design aesthetic, which shapes international architecture and industrial craft. The cultural concept of 'hygge'—warmth, cozy comfort, and sharing simple moments—is a way of life.\n\nDenmark is also the proud home of fairytale writer Hans Christian Andersen, whose legacy is celebrated in Odense."
+      },
+      "zh": {
+        "list": [
+          "北歐維京文化傳承",
+          "設計與極簡美學著名",
+          "童話作家安徒生故鄉",
+          "自行車文化盛行"
+        ],
+        "text": "丹麥文化結合古老維京歷史與現代極簡設計風格，在建築與工業設計領域影響全球。童話作家漢斯·克里斯蒂安·安徒生（Hans Christian Andersen）出生於奧登塞（Odense），其文學遺產對世界影響深遠。此外，營造溫馨舒適感的「Hygge」精神更是丹麥人根深蒂固的生活哲學。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Sustaining high welfare tax systems under rapid population aging",
+          "Refining immigration and social integration policy frameworks",
+          "Scaling ambitious carbon-neutral goals and agricultural greening",
+          "Addressing real estate values and affordable housing in Copenhagen"
+        ],
+        "text": "Denmark faces the challenge of maintaining its generous welfare state under an aging workforce. Managing immigration integration and maintaining social cohesion are key political debates.\n\nIn addition, implementing strict greenhouse gas cuts in its intensive farming sectors is a main environmental challenge."
+      },
+      "zh": {
+        "list": [
+          "高稅負與人口老化",
+          "移民融合政策挑戰",
+          "能源轉型與減碳壓力",
+          "房價上升問題"
+        ],
+        "text": "丹麥在維持高福利與高稅收制度的同時，也面臨勞動力老化與財政結構變化的挑戰。同時，在密集集約化農業中推動嚴格減碳、邁向碳中和，是當前環保政策的核心任務。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Copenhagen — Vibrant capital famous for Nyhavn canals and Tivoli",
+          "Aarhus — Cultural center boasting the Den Gamle By historic museum",
+          "Odense — Historic cobblestoned birthplace of Hans Christian Andersen",
+          "Nyhavn — Scenic waterfront harbor framed by colorful historic townhouses"
+        ],
+        "text": "Copenhagen features the famous colorful Nyhavn harbor and the historic Tivoli Gardens amusement park. Aarhus is a major cultural and education hub, featuring the Den Gamle By open-air museum.\n\nOdense offers beautiful cobblestoned streets that preserve the childhood memory of Hans Christian Andersen."
+      },
+      "zh": {
+        "list": [
+          "Copenhagen —— 首都與文化經濟中心",
+          "Aarhus —— 第二大城市與教育中心",
+          "Odense —— 安徒生故鄉",
+          "Nyhavn —— 哥本哈根著名港區"
+        ],
+        "text": "首都哥本哈根（Copenhagen）擁有著名的彩色新港（Nyhavn）運河景觀與歷史悠久的趣伏里樂園（Tivoli Gardens）。奧胡斯（Aarhus）是重要的文化、教育與創新中心，以「老城區」（Den Gamle By）露天歷史博物館聞名；而奧登塞（Odense）則保留了美麗的鵝卵石街道，珍藏著童話大師安徒生（Hans Christian Andersen）的童年記憶。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "Core founding pillar of Nordic and Scandinavian cooperation",
+          "Active and committed member state of the European Union block",
+          "Pivotal founding member of the transatlantic NATO security alliance",
+          "Strong champion for international aid and human rights treaties"
+        ],
+        "text": "Denmark is a vital diplomatic leader in Northern Europe, working closely through the Nordic Council. As a founding NATO member, it maintains deep strategic ties with Western allies.\n\nIt is also a major international aid donor, using its global platform to advocate for human rights, gender equality, and global green energy pacts."
+      },
+      "zh": {
+        "list": [
+          "北歐合作核心成員",
+          "歐盟成員國",
+          "北約成員國",
+          "重視多邊外交"
+        ],
+        "text": "丹麥（Denmark）在國際上積極參與多邊合作，並在北歐理事會與歐盟架構中扮演穩定角色。同時與美國（United States）及歐洲盟友保持緊密的北約防務與安全合作關係，並積極利用其國際平台倡導人權與綠能公約。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Deep commercial trade in offshore wind power and marine tech",
+          "Strong corporate links in advanced biopharma and food supply",
+          "Productive exchange in circular economics and modern design",
+          "Growing academic links between leading research universities"
+        ],
+        "text": "Taiwan and Denmark share a highly successful partnership focused on green transition. Danish offshore wind energy developers have been key partners in building Taiwan's wind farms.\n\nBilateral trade also excels in biotechnology, clean agriculture, and minimalistic home design, supported by trade offices in Copenhagen and Taipei that promote academic and environmental exchange."
+      },
+      "zh": {
+        "list": [
+          "經貿與綠能合作穩定",
+          "科技與設計交流增加",
+          "教育與文化往來有限但友好",
+          "歐洲市場間接合作節點"
+        ],
+        "text": "丹麥與台灣之間維持非官方關係，雙方在綠能轉型上建立了相當成功的夥伴關係，丹麥的離岸風電開發商是建設台灣風場的關鍵合作對象。此外，兩國在生物科技、循環經濟與現代極簡設計等產業方面也深具合作潛力。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "Regularly ranked at the pinnacle of global happiness indicators",
+          "International leader in offshore wind turbine technology",
+          "Highly advanced bicycle transit infrastructure and urban living",
+          "Classic model of the modern Scandinavian social welfare state"
+        ]
+      },
+      "zh": {
+        "list": [
+          "全球最幸福國家之一",
+          "風力發電領先世界",
+          "自行車城市文化發達",
+          "北歐福利國家典範"
+        ]
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": "Danish Krone (DKK)"
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "Danish",
+        "zh": "丹麥語"
+      }
+    },
+    {
+      "label": "GDP (nom.)",
+      "value": "$410B"
+    },
+    {
+      "label": "Time zone",
+      "value": "UTC+1 / +2"
+    },
+    {
+      "label": "Calling code",
+      "value": "+45"
+    },
+    {
+      "label": "ISO code",
+      "value": "DK / DNK"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🇩🇰",
+      "text": {
+        "en": "The Dannebrog — The legendary national flag, celebrated as the oldest continuously used national flag in the world, historically falling from the sky in 1219",
+        "zh": "丹麥國旗丹尼布洛——世界上現存最古老的連續使用國旗，傳說於1219年隆德尼斯戰役中從天而降，賦予丹麥軍隊無比勇氣與最終勝利的徽記"
+      }
+    },
+    {
+      "icon": "🚲",
+      "text": {
+        "en": "Bicycle City Culture — Spectacular cycling infrastructures where over 60 percent of Copenhagen residents commute daily on dedicated super cycle lanes",
+        "zh": "北歐自行車綠色都市——哥本哈根擁有世界最先進的自行車道系統，超過60%的居民日常騎自行車通勤，是實踐零碳排放與樂活的標竿"
+      }
+    },
+    {
+      "icon": "🧸",
+      "text": {
+        "en": "LEGO & Andersen Fairy Tales — Sparking global childhood imagination, serving as the proud birthplace of LEGO toy bricks and Hans Christian Andersen's fairy tales",
+        "zh": "樂高積木與安徒生童話——啟迪全球無數孩童想像力的搖籃，既誕生了風靡世界的樂高（LEGO）積木，亦是編織《美人魚》等無數經典安徒生童話的故鄉"
+      }
+    },
+    {
+      "icon": "💨",
+      "text": {
+        "en": "Wind Power Pioneer — World leader in commercial wind energy engineering, generating a significant share of electricity via state-of-the-art offshore wind turbine fields",
+        "zh": "離岸風力發電先驅——丹麥風力工程世界領先，是全球最大風電機巨頭所在地，離岸與陸地風能供應全國極大比例的電力，引領綠能轉型"
+      }
+    },
+    {
+      "icon": "☕",
+      "text": {
+        "en": "Nordic Hygge Lifestyle — The world-famous cultural philosophy of simple cozy comfort, sharing slow warm moments, and cherishing close community bonds",
+        "zh": "北歐 Hygge 幸福哲學——代表著溫馨、舒適、在搖曳燭光下享用熱咖啡，與摯友共享慢步調生活的丹麥獨特哲學，是幸福指數長青的秘密"
+      }
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/50046",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=8.0%2C54.5%2C15.2%2C57.9&layer=mapnik"
+}

@@ -1,0 +1,353 @@
+{
+  "name": {
+    "en": "Israel",
+    "zh": "以色列"
+  },
+  "nativeName": "יִשְׂרָאֵל / إسرائيل",
+  "capital": {
+    "en": "Jerusalem",
+    "zh": "耶路撒冷"
+  },
+  "population": "10M",
+  "area": "22,072 km²",
+  "density": "450/km²",
+  "continent": "Asia",
+  "flagEmoji": "🇮🇱",
+  "dataEstYear": 2025,
+  "description": {
+    "en": "Israel is a country situated along the eastern coast of the Mediterranean Sea in the Middle East, bordered by Lebanon to the north, Jordan to the east, and Egypt to the southwest. Renowned for its advanced high-tech industries, military prowess, deep religious history, and persistent geopolitical conflicts, Israel stands as one of the most closely watched nations globally.",
+    "zh": "Israel是位於中東地區東地中海沿岸的國家，北接黎巴嫩（Lebanon），東鄰約旦（Jordan），西南方與埃及（Egypt）接壤。以色列以先進的高科技產業、強大的軍事防衛實力、深厚的宗教歷史與長期的地緣政治衝突聞名，是全球最受關注的國家之一。"
+  },
+  "seoText": {
+    "en": "Explore quick facts about Israel — population, land area, capital city, and a short overview. Learn about Israel's high-tech startup ecosystem, drip irrigation in the Negev Desert, Dead Sea natural marvel, and Jerusalem's historic old city sites.",
+    "zh": "快速了解以色列的基本資料：人口、面積、首都與簡短概述。探索特拉維夫「新創之國」的高科技中心、內蓋夫沙漠的水資源與滴灌科技、死海自然奇景、耶路撒冷聖城歷史以及中東地緣政治關鍵議題。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Strategically situated along the eastern Mediterranean coast of the Middle East",
+          "The world's primary nation representing Jewish identity and heritage",
+          "Global leader in scientific research, advanced high-tech, and innovation",
+          "Positioned at the epicentre of complex Middle Eastern geopolitical dynamics"
+        ],
+        "text": "Israel was established in 1948, a historic event whose subsequent Arab-Israeli conflicts have profoundly shaped modern Middle Eastern geopolitics. Jerusalem holds supreme spiritual status for Judaism, Christianity, and Islam alike, making its status highly sensitive on the international stage.\n\nAs a highly advanced and developed economy, Israel holds monumental influence in information technology, biotechnology, medical sciences, water technology, and military defense, earning it one of the highest startup densities in the world."
+      },
+      "zh": {
+        "list": [
+          "位於中東東地中海沿岸",
+          "猶太民族主要國家",
+          "高科技與創新產業發達",
+          "長期處於地緣政治衝突核心"
+        ],
+        "text": "以色列於1948年宣布建國，其成立與後續引發的以阿衝突（Arab–Israeli conflict）深刻塑造了現代中東的地緣政治格局。耶路撒冷（Jerusalem）對猶太教（Judaism）、基督教（Christianity）與伊斯蘭教（Islam）皆具有至高無上的神聖宗教地位，因此在國際外交舞台上具有高度敏感性與不容忽視的關注度。\n\n作為高度已開發的發達經濟體，以色列在資訊科技、生物技術、醫療科學、水資源科技與軍事國防等領域擁有舉足輕重的全球影響力，更是全球新創企業密度最高的國家之一。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Relatively compact territorial size with diverse landscapes",
+          "Topography ranges from coastal plains to high hills and arid deserts",
+          "Home to the Dead Sea, the lowest dry land point on Earth",
+          "Highly restricted natural freshwater reserves"
+        ],
+        "text": "Spanning approximately 20,000 square kilometers, Israel exhibits highly varied geographic terrains. The southern Negev Desert occupies more than half of the national land area, whereas the dense majority of the population is concentrated along the narrow Mediterranean coastal plain.\n\nThe Jordan River and the hypersaline Dead Sea mark its eastern border, with the Dead Sea shoreline standing as the lowest dry land elevation on Earth. Due to chronic freshwater shortages, Israel has pioneered globally advanced desalination systems, recycled wastewater treatment, and drip irrigation technologies."
+      },
+      "zh": {
+        "list": [
+          "國土面積相對狹小",
+          "地形包含沙漠、高地與沿海平原",
+          "Dead Sea為世界最低陸地點之一",
+          "水資源相對有限"
+        ],
+        "text": "以色列國土面積約 2 萬多平方公里，其地形地貌卻極具多樣性。南部的內蓋夫沙漠（Negev Desert）佔據了全國超過一半的土地面積，而絕大多數人口則高密度集中在狹長的地中海沿岸平原。約旦河（Jordan River）與高鹽度的死海（Dead Sea）構成了其東部邊界，其中死海沿岸更是地球表面陸地的最低點。面對長期天然淡水極度匱乏的挑戰，以色列研發出領先全球的海水淡化系統、高達九成的廢水回收利用技術以及革命性的農業滴灌科技。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Predominantly characterized by a Mediterranean climate",
+          "Hot, dry, and rainless summer seasons",
+          "Mild, wet, and moderate winter seasons",
+          "Highly arid desert conditions dominate the south"
+        ],
+        "text": "Northern and coastal Israel experience a classic Mediterranean climate, boasting hot, dry summers and mild, rainy winters. \n\nConversely, the southern Negev Desert is characterized by extremely arid conditions, high temperatures, and scarce rainfall. These geographical climate patterns heavily dictate population densities and agricultural centers. Additionally, abundant year-round sunshine has made Israel a pioneer in solar energy research."
+      },
+      "zh": {
+        "list": [
+          "地中海型氣候為主",
+          "夏季炎熱乾燥",
+          "冬季較溫和",
+          "南部沙漠氣候明顯"
+        ],
+        "text": "以色列北部與沿海地區屬典型地中海型氣候，夏季炎熱乾燥、冬季溫和多雨。相反地，南部內蓋夫沙漠（Negev Desert）則呈現極度乾旱、高溫且降雨罕見的典型沙漠氣候。這種鮮明的氣候分布直接決定了人口分布的密度與農業中心的規劃。此外，由於全年日照時間充足，也使以色列成為全球太陽能應用與研發的先驅國家。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Population of approximately 10 million",
+          "Jewish population constitutes the demographic majority",
+          "Significant minority of Arab Israelis",
+          "Highly urbanized and dense metropolitan settlements"
+        ],
+        "text": "Israel's population stands at approximately 10 million, consisting primarily of the Jewish population alongside a substantial minority of Arab Israelis. \n\nHebrew is the official language, with Arabic holding a highly prominent national status. Due to historic waves of return migration (Aliyah), Israeli society merges diverse cultural heritages from Europe, the Middle East, North Africa, Ethiopia, and the former Soviet Union. Tel Aviv serves as the primary technology hub, while Jerusalem represents its administrative center."
+      },
+      "zh": {
+        "list": [
+          "人口約 1,000 萬",
+          "猶太人口占多數",
+          "阿拉伯族群比例明顯",
+          "高度城市化"
+        ],
+        "text": "以色列總人口約為 1,000 萬人。在族群結構中，猶太人（Jewish population）佔絕大多數，比例約為 73%（約 730 萬人）；阿拉伯裔以色列人（Arab Israelis）則為最大的少數族群，比例約為 21%（約 210 萬人），其餘 6% 則由基督徒非阿拉伯人、德魯茲人等其他少數群體組成。官方語言為希伯來語（Hebrew），阿拉伯語（Arabic）亦享有極為崇高的國家法定地位。受惠於歷史上的猶太人回歸浪潮（Aliyah），以色列社會深度融合了來自歐洲（Europe）、中東（Middle East）、北非（Africa）與前蘇聯地區的多元文化背景。特拉維夫（Tel Aviv）為主要的科技與經濟中樞，而耶路撒冷（Jerusalem）則是其行政與政治中心。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "Renowned worldwide as the premier 'Startup Nation'",
+          "Exceptionally vibrant startup environment and venture capital funding",
+          "Highly advanced defense and aerospace engineering industries",
+          "High GDP per capita ranks among the highest in the Middle East"
+        ],
+        "text": "Nicknamed the 'Startup Nation', Israel is a global giant in semiconductor design, artificial intelligence (AI), cybersecurity, medical devices, and agricultural technology.\n\nNearly every major global tech company operates key R&D facilities in the country, with Tel Aviv widely recognized as a top global startup ecosystem. Beyond IT, Israel is a major world exporter of cut diamonds, advanced defensive weaponry, and seawater management systems."
+      },
+      "zh": {
+        "list": [
+          "高科技產業全球知名",
+          "創新與創業活動活躍",
+          "國防工業發達",
+          "人均GDP居中東前列"
+        ],
+        "text": "以色列被譽為全球頂尖的「新創之國」（Startup Nation），在半導體設計、人工智慧（AI）、網路安全、高端醫療設備與農業科技等領域具備強大的國際競爭力。幾乎全球所有科技巨擘都在此設有核心研發中心，特拉維夫（Tel Aviv）更被公認為全球最頂尖的新創生態系之一。除了高科技資訊產業，以色列在鑽石加工、先進防衛性武器、國防航太工程以及海水利用管理系統的外銷上也處於世界領先地位。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Governed under a parliamentary representative democratic republic",
+          "Highly active multi-party legislative system",
+          "Executive authority is held by the Prime Minister",
+          "Governing cabinets are heavily reliant on complex coalition building"
+        ],
+        "text": "Israel is a parliamentary democracy, with its unicameral legislature known as the Knesset. Due to a highly proportional electoral system, numerous parties secure representation, making coalition governments a necessity and occasionally leading to legislative instability.\n\nWhile Israel has officially declared Jerusalem as its capital city, its international status and sovereignty claims over certain parts remain a subject of deep global dispute and diplomatic sensitivity."
+      },
+      "zh": {
+        "list": [
+          "議會民主制度",
+          "採多黨政治",
+          "總理掌握行政權",
+          "政治聯合政府常見"
+        ],
+        "text": "以色列實行議會民主制，其一院制國會稱為「國會」（Knesset）。由於採用高度政黨比例代表制的選舉制度，眾多中小政黨皆能進入國會，這使得內閣必須仰賴複雜的多黨聯合政府來組閣，政治局勢也因此時常面臨重組與不穩定性。行政實權由總理掌握。儘管以色列已正式對外宣布耶路撒冷（Jerusalem）為其法定首都，但其部分區域的國際地位與主權歸屬問題，長期以來仍是全球地緣政治爭議與外交角力的極敏感核心。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Highly advanced levels of education and scientific research",
+          "Universal military conscription shapes national social cohesion",
+          "Pluralistic yet deeply divided cultural and religious groups",
+          "Relatively high metropolitan cost of living"
+        ],
+        "text": "Israel is home to world-class academic institutions like the Hebrew University and the Technion. Mandatory military service for most Jewish citizens has forged a highly collaborative, resource-sharing social network and entrepreneurial culture.\n\nHowever, deep differences in lifestyle, religious beliefs, and politics among secular Jews, Ultra-Orthodox (Haredi) communities, and Arab citizens often lead to highly active public debates."
+      },
+      "zh": {
+        "list": [
+          "教育與科技水平高",
+          "軍事義務制度普遍",
+          "社會多元但分歧存在",
+          "生活成本偏高"
+        ],
+        "text": "以色列擁有世界一流的學術機構，如耶路撒冷希伯來大學與以色列理工學院。針對絕大多數猶太公民實施的義務兵役制度，意外為該國鍛造出一個高度緊密、資源共享、強調打破階級的社交網絡與冒險文化，這也是新創發展的重要推手。然而，世俗猶太人、極端正統派（Haredi）社群與阿拉伯裔公民之間，在生活方式、宗教認同與政治傾向方面存在深層分歧，使國內的社會與公共政策辯論經常非常激烈。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "The global center of Jewish custom and historical heritage",
+          "Houses some of the world's most sacred religious sanctuaries",
+          "Splendid multicultural fusion of globally returning diasporas",
+          "Highly active modern arts, theater, and culinary environments"
+        ],
+        "text": "Israeli culture is a unique blend of ancient Jewish traditions, Middle Eastern influences, and the diverse customs brought back by immigrants from around the globe.\n\nJerusalem houses unparalleled sacred sanctuaries including the Western Wall, the Church of the Holy Sepulchre, and the Al-Aqsa Mosque. Modern Israel also features a highly praised international footprint in cinema, contemporary dance, classical music, and literature."
+      },
+      "zh": {
+        "list": [
+          "猶太文化核心國家",
+          "宗教歷史地位深厚",
+          "移民文化多元融合",
+          "現代藝術與音樂活躍"
+        ],
+        "text": "以色列文化是古代猶太傳統（Jewish traditions）、中東在地風味以及全球五湖四海回歸移民所攜帶的歐美文化交織而成的獨特結晶。古老的耶路撒冷（Jerusalem）境內匯聚了無可比擬的宗教聖地，包含猶太教的哭牆（Western Wall）、基督教的聖墓教堂（Church of the Holy Sepulchre）與伊斯蘭教的阿克薩清真寺（Al-Aqsa Mosque）。而在現代的一面，以色列在國際電影、現代舞、古典音樂以及當代文學領域也展現出極其活躍且深具獲獎肯定的藝術實力。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Ongoing and complex Israeli-Palestinian conflict",
+          "Constant security concerns and threat of rocket/terrorist attacks",
+          "Contentious disputes surrounding West Bank settlements",
+          "Intense domestic debates over judicial reforms and secular policies"
+        ],
+        "text": "The long-standing conflict between Israel and Palestinian territories, particularly issues surrounding the Gaza Strip, West Bank settlements, and the future of Jerusalem, continues to dictate national security policies. \n\nFrequent military flare-ups deeply affect daily life, economic priorities, and defense spending. Internally, debates concerning the authority of the Supreme Court, the role of religion in state policies, and social inequality remain highly active."
+      },
+      "zh": {
+        "list": [
+          "以巴衝突持續",
+          "安全與恐怖攻擊風險",
+          "定居點爭議",
+          "政治與司法改革爭論"
+        ],
+        "text": "以色列與巴勒斯坦領土（Palestinian territories）之間長期未解的衝突，尤其是圍繞加薩走廊（Gaza Strip）、約旦河西岸（West Bank）猶太人定居點合法性以及耶路撒冷未來主權的議題，始終牢牢主導著其國家安全政策。频繁的軍事摩擦與火箭彈威脅深刻影響著民眾的日常生活、經濟重心與龐大的國防支出。在內部社會，關乎最高法院司法審查權限改革、宗教教條對世俗政權的介入程度以及貧富差距等議題，亦持續引發政壇政治分裂與社會激烈抗爭。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Jerusalem — Ancient epicentre of religious pilgrimage and history",
+          "Tel Aviv — Sleek high-tech powerhouse and coastal metropolis",
+          "Haifa — Scenic port city famous for the Baha'i Gardens",
+          "Dead Sea — Renowned hypersaline lake and natural geographic marvel"
+        ],
+        "text": "Jerusalem attracts millions of religious pilgrims to its ancient, stone-walled quarters. Tel Aviv contrasts this with highly modern skyscrapers, Mediterranean beaches, Bauhaus architecture, and a 24-hour urban lifestyle.\n\nThe Dead Sea, famous for its high mineral concentration, allows bathers to float effortlessly on its water, representing one of the most famous tourist destinations globally."
+      },
+      "zh": {
+        "list": [
+          "Jerusalem——宗教與政治核心",
+          "Tel Aviv——科技與經濟中心",
+          "Haifa——重要港口城市",
+          "Dead Sea——世界知名自然景觀"
+        ],
+        "text": "耶路撒冷（Jerusalem）作為歷史悠久的宗教聖城，其古老石牆圍繞的老城區每年吸引數百萬信徒與歷史愛好者前來朝聖。形成強烈對比的是特拉維夫（Tel Aviv），這座現代化的地中海沿岸大都市以摩天大樓、陽光沙灘、名列世界遺產的包浩斯建築群以及不夜城的夜生活風情聞名全球。海法（Haifa）則是依山傍海的景觀港口重鎮，以壯麗的巴哈伊花園著稱。而著名的死海（Dead Sea）以極高鹽度與豐富礦物質結晶著稱，其特殊浮力能讓泳客毫不費力地漂浮在水面上，是舉世聞名的自然奇景與療癒勝地。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "Deep strategic, diplomatic, and military alliance with the United States",
+          "Exceedingly complex diplomatic dynamics across the Middle East",
+          "Historic normalization of ties via the Abraham Accords",
+          "Central actor in regional intelligence and defensive pacts"
+        ],
+        "text": "The United States is Israel's absolute closest ally, providing decades of military, technological, and diplomatic backing. In recent years, the US-brokered Abraham Accords successfully normalized Israel's ties with Arab states including the UAE, Bahrain, and Morocco. \n\nHowever, complex relations with neighboring states, especially surrounding the Palestinian question and geopolitical tensions with Iran, continue to shape its foreign policy."
+      },
+      "zh": {
+        "list": [
+          "與United States關係密切",
+          "中東外交高度敏感",
+          "與部分Arab countries關係改善",
+          "安全與軍事合作重要"
+        ],
+        "text": "美國（United States）長期以來是以色列最堅實的絕對盟友，提供數十年不曾間斷的軍事貸款、高端武器科技以及在聯合國多邊外交上的強力否決權支持。近年在美國斡旋下，以色列透過簽署《亞伯拉罕協議》（Abraham Accords），成功與阿拉伯聯合大公國、巴林、摩洛哥等部分阿拉伯國家（Arab countries）實現了歷史性的外交關係正常化。然而，其與鄰國間因巴勒斯坦問題未解而持續複雜的博弈，加上與伊朗之間的敵對升級與地緣緊張局勢，依然深刻左右著以色列的外交路線。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Active collaborations in high-tech and scientific R&D",
+          "Substantial exchange programs in semiconductors and artificial intelligence",
+          "Expanding academic, medical, and agricultural partnerships",
+          "Warm non-official bilateral relationship"
+        ],
+        "text": "Although Israel and Taiwan do not maintain formal diplomatic relations, their interactions have flourished, particularly in technology and venture capital sectors. \n\nBoth sides possess highly complementary tech ecosystems—Taiwan's advanced hardware manufacturing paired with Israel's innovative software and AI algorithms. Joint academic research, agricultural drip irrigation pilots, and medical exchanges continue to grow dynamically."
+      },
+      "zh": {
+        "list": [
+          "科技與經貿合作增加",
+          "半導體與創新交流活躍",
+          "教育與學術互動存在",
+          "無正式外交關係"
+        ],
+        "text": "以色列與台灣之間雖然沒有正式的官方外交關係，但雙方實質的民間與商務往來相當活絡，尤其在科技新創、創新研發與風險投資領域。彼此的產業生態系具備極高互補性——台灣強大的半導體與精密硬體製造實力，正好與以色列頂尖的軟體研發、網路安全及 AI 演算法形成強強聯手。兩國在聯合學術研究、農業滴灌技術試點以及醫療生技交流方面，皆保持動態且持續深化的雙邊合作。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "Universally celebrated as the 'Startup Nation'",
+          "Extremely high ratio of GDP devoted to R&D expenditure",
+          "Deep religious, archaeological, and historical global significance",
+          "A crucial cornerstone of contemporary Middle Eastern geopolitics"
+        ]
+      },
+      "zh": {
+        "list": [
+          "被稱為「Startup Nation」",
+          "全球研發投入比例極高",
+          "宗教與歷史地位極具影響力",
+          "中東地緣政治核心國家之一"
+        ]
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": "New Israeli Shekel (₪)"
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "Hebrew",
+        "zh": "希伯來語"
+      }
+    },
+    {
+      "label": "GDP (nom.)",
+      "value": "$520B"
+    },
+    {
+      "label": "Time zone",
+      "value": "UTC+2"
+    },
+    {
+      "label": "Calling code",
+      "value": "+972"
+    },
+    {
+      "label": "ISO code",
+      "value": "IL / ISR"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "✡️",
+      "text": {
+        "en": "Western Wall — The sacred ancient limestone wall in the old city of Jerusalem revered as Judaism's holiest prayer site",
+        "zh": "哭牆（Western Wall）——位於耶路撒冷老城、極具神聖歷史感的石牆，是猶太教最神聖的祈禱與精神朝聖殿堂"
+      }
+    },
+    {
+      "icon": "🏜️",
+      "text": {
+        "en": "Negev Desert Drip Irrigation — Globally pioneering advanced agricultural water saving tech greening the desert",
+        "zh": "內蓋夫沙漠滴灌技術——以色列領先全球的旱地農業奇蹟，將水資源利用率最大化，成功在荒蕪沙漠中發展精緻農業"
+      }
+    },
+    {
+      "icon": "🌊",
+      "text": {
+        "en": "Dead Sea — The famous hypersaline geographic wonder enabling bathers to float effortlessly on water",
+        "zh": "死海（Dead Sea）——世界上海拔最低的鹹水湖，鹽度極高，能讓泳客輕鬆漂浮於水面，是聞名國際的自然療癒景觀"
+      }
+    },
+    {
+      "icon": "💻",
+      "text": {
+        "en": "Startup Nation Hub — Tel Aviv's dynamic ecosystem hosting high densities of tech startups and global R&D networks",
+        "zh": "新創之國樞紐——特拉維夫生氣蓬勃的科技廊道，聚集極高密度的新創企業與跨國研發中心，引領全球科技創新"
+      }
+    },
+    {
+      "icon": "🥙",
+      "text": {
+        "en": "Falafel & Hummus — The universally popular Middle Eastern chickpea patties and creamy dip defining local food cultures",
+        "zh": "口袋餅與鷹嘴豆泥（Falafel & Hummus）——以色列極受歡迎的傳統街頭街巷美食，由金黃炸豆丸、口袋餅與細滑豆泥組成"
+      }
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/1473946",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=34.0%2C29.5%2C35.8%2C33.5&layer=mapnik"
+}

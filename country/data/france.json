@@ -1,0 +1,349 @@
+{
+  "name": {
+    "en": "France",
+    "zh": "法國"
+  },
+  "nativeName": "République française",
+  "capital": {
+    "en": "Paris",
+    "zh": "巴黎"
+  },
+  "population": "68M",
+  "area": "551,695 km²",
+  "density": "123/km²",
+  "continent": "Europe",
+  "flagEmoji": "🇫🇷",
+  "dataEstYear": 2025,
+  "description": {
+    "en": "France is a republic located in Western Europe, bordered by the English Channel to the north, the Atlantic Ocean to the west, and the Mediterranean Sea to the south. It shares borders with multiple countries including Belgium, Germany, Italy, and Spain. Renowned for its rich history, art and culture, gastronomy, and political influence, France is one of the most representative countries in Europe.",
+    "zh": "France 是位於西歐的共和制國家，北臨英吉利海峽，西接大西洋，南鄰地中海，並與比利時（Belgium）、德國（Germany）、義大利（Italy）與西班牙（Spain）等多國接壤。法國以悠久歷史、藝術文化、美食與政治影響力聞名，是歐洲最具代表性的國家之一。"
+  },
+  "seoText": {
+    "en": "Explore quick facts about France — population, land area, capital city, and a short overview. Discover its rich history, world-renowned gastronomy, and cultural landmarks like the Eiffel Tower and Louvre Museum.",
+    "zh": "快速了解法國的基本資料：人口、面積、首都與簡短概述。探索其悠久的歷史、聞名世界的美食文化以及艾菲爾鐵塔與羅浮宮等著名地標。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "A republic located in Western Europe",
+          "One of the largest countries in Europe by area",
+          "A major global center for culture and tourism",
+          "Permanent member of the UN Security Council"
+        ],
+        "text": "France is centrally located in Europe and has historically been a vital political, economic, and cultural hub. From its medieval kingdom to the modern republic, France has profoundly influenced world history and thought.\n\nAs a highly developed nation, France boasts a mature economy, a comprehensive social welfare system, and world-class infrastructure. It also remains one of the world's most popular tourist destinations."
+      },
+      "zh": {
+        "list": [
+          "擺脫單一族群印象的西歐共和國",
+          "歐洲面積最大的國家之一",
+          "全球重要文化與觀光中心",
+          "聯合國安理會常任理事國"
+        ],
+        "text": "法國地理位置位於歐洲核心地帶，自古即為歐洲政治、經濟與文化的重要樞紐。從中世紀王國到近代革命，再到現代共和制度，法國對世界歷史與思想發展具有深遠影響。\n\n作為高度已開發國家，法國擁有成熟經濟體系、完善社會福利與世界級基礎建設，同時也是全球最受歡迎的觀光目的地之一。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Diverse topography with plains and mountains",
+          "Coastlines on the Atlantic Ocean and Mediterranean Sea",
+          "Bordered by the Alps and Pyrenees mountains",
+          "Rich in rivers and agricultural resources"
+        ],
+        "text": "Covering approximately 550,000 square kilometers, metropolitan France is one of the largest countries in Western Europe. The Paris Basin serves as the main demographic and agricultural core, while the south and east are more mountainous.\n\nMajor rivers like the Seine, Loire, and Rhône have facilitated transport and agriculture, deeply shaping urban development and cultural landscapes. France also possesses overseas territories across the Caribbean, Indian Ocean, and Pacific Ocean."
+      },
+      "zh": {
+        "list": [
+          "地形多樣，平原與山地並存",
+          "擁有大西洋與地中海海岸線",
+          "阿爾卑斯山與庇里牛斯山環繞邊境",
+          "河流與農業資源豐富"
+        ],
+        "text": "法國本土面積約 55 萬平方公里，是歐洲西部面積最大的國家之一。巴黎盆地為主要人口與農業核心，而南部與東部則多山地地形。\n\n境內重要河流包括塞納河（Seine）、羅亞爾河（Loire）與隆河（Rhône），不僅促進交通與農業發展，也深刻影響城市形成與文化景觀。法國同時擁有海外領地，分布於加勒比海、印度洋與太平洋等地區。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Diverse climate types",
+          "Mild and humid in the west due to oceanic influence",
+          "Mediterranean climate in the south",
+          "Significant snowfall in mountainous regions during winter"
+        ],
+        "text": "France's climate varies significantly due to its topography and oceanic influences. The western coastal regions are mild with uniform rainfall year-round, inland areas have distinct seasons, and the southern Mediterranean coast is hot and dry in summer.\n\nThe Alps receive heavy snowfall in winter, making it a major European skiing destination. Overall, the climate is ideal for agriculture and viticulture, heavily influencing the country's culinary and lifestyle traditions."
+      },
+      "zh": {
+        "list": [
+          "氣候類型多元",
+          "西部受海洋影響溫和潮濕",
+          "南部屬地中海型氣候",
+          "山區冬季降雪明顯"
+        ],
+        "text": "法國氣候因地形與海洋影響而呈現多樣性。西部沿海地區全年溫和且降雨均勻；內陸地區四季分明；南部地中海沿岸夏季炎熱乾燥。\n\n阿爾卑斯山區冬季降雪豐富，是歐洲重要滑雪旅遊區之一。整體而言，法國氣候適合農業與葡萄酒種植，對飲食與生活文化影響深遠。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Population of approximately 68 million",
+          "Highly urbanized",
+          "Population concentrated in the Paris metropolitan area",
+          "High proportion of immigrants and diverse ethnicities"
+        ],
+        "text": "French law prohibits the collection of official data based on race, ethnicity, or religion during state censuses to uphold republican universalism. However, independent demographic research institutions provide reliable estimates. Over 85% of the population is estimated to be of European/white ancestry (including historically regional French groups and newer European integration). Approximately 10% of the population consists of people of North African (Maghrebi) or Middle Eastern descent. Black individuals, primarily with heritage traced back to Sub-Saharan Africa and the French overseas territories (DROM-COM), account for an estimated 3.5% to 5% of the citizenry, while Asian communities comprise roughly 1.5%."
+      },
+      "zh": {
+        "list": [
+          "人口總數約 6,800 萬人",
+          "高度城市化且城鄉分布明確",
+          "巴黎都會區為最核心的人口集聚地",
+          "近代移民史形塑了顯著的多元族群結構"
+        ],
+        "text": "法國基於共和國普世主義與法律規範，官方人口普查嚴格禁止收集關於種族、民族或宗教背景的統計數據。然而，根據獨立研究機構與學術估算，法國人口組成具有高度多元性：\n\n約 85% 的人口屬於歐洲白人血統（包含傳統法蘭西本土各區域族群以及西歐、南歐等其他歐洲裔移民）。\n\n第二大群體為北非裔（馬格里布地區，如阿爾及利亞、摩洛哥及突尼西亞）及中東移民後裔，約占總人口的 10%。\n\n非裔黑人（主要來自西非、中非前法屬殖民地，以及加勒比海等法國海外領地）估計占總人口的 3.5% 至 5%。\n\n亞裔人口（多數來自前法屬印度支那地區如越南、寮國、柬埔寨，以及近代中國移民）則約占 1.5%。\n\n主要大城市如巴黎（Paris）、里昂（Lyon）、馬賽（Marseille）與圖盧茲（Toulouse）等，皆呈現極為明顯的多元文化交織特徵。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "One of the world's major economies",
+          "Advanced aerospace, luxury goods, and tourism industries",
+          "Leading agricultural producer in Europe",
+          "Services form the core of the economy"
+        ],
+        "text": "France features a mature and diversified economy, holding global competitiveness in sectors like aviation, nuclear energy, high-speed rail, and luxury goods. Representative companies include Airbus and Louis Vuitton.\n\nThe service sector accounts for over 70% of GDP, with tourism playing a crucial role. France has long been one of the most visited countries globally. In agriculture, it remains a primary producer of food and wine in Europe."
+      },
+      "zh": {
+        "list": [
+          "全球主要經濟體之一",
+          "航太、精品與觀光產業發達",
+          "農業生產居歐洲前列",
+          "服務業為經濟核心"
+        ],
+        "text": "法國擁有成熟且多元的經濟體系，在航空、核能、高鐵與奢侈品等領域具有全球競爭力。代表性企業包括空中巴士（Airbus）與路易威登（Louis Vuitton）等。\n\n服務業約佔 GDP 七成以上，其中觀光產業尤其重要。法國長年為全球國際旅客人次最多的國家之一。農業方面，法國亦是歐洲主要糧食與葡萄酒生產國。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Semi-presidential republic",
+          "Parliamentary democracy system",
+          "Divided into regions, departments, and communes",
+          "The President holds significant executive power"
+        ],
+        "text": "Under the Fifth Republic, France's executive branch is co-led by the President and the Prime Minister. The President serves as the head of state, wielding significant power over foreign affairs and defense.\n\nThe bicameral parliament consists of the National Assembly and the Senate. Administratively, France is divided into regions and departments, with local governments responsible for education, transport, and public services."
+      },
+      "zh": {
+        "list": [
+          "半總統制共和國",
+          "採議會民主制度",
+          "分為大區、省與市鎮",
+          "總統擁有重要行政權力"
+        ],
+        "text": "法國為第五共和國體制，由總統與總理共同領導行政部門。總統為國家元首，掌握外交與國防等重要權力。\n\n國會採兩院制，包括國民議會與參議院。法國行政區劃包含多個大區與省，各地方政府負責教育、交通與公共服務等事務。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Comprehensive social welfare system",
+          "High-quality public healthcare",
+          "Emphasis on secularism and civic values",
+          "Well-established working hours and holiday systems"
+        ],
+        "text": "France offers a quintessential European social welfare system, including universal healthcare, a pension system, and unemployment benefits. The state-led education system features internationally renowned higher education and research institutions.\n\nFrench society highly values quality of life and work-life balance. Cafe culture, extensive vacation time, and vibrant public spaces profoundly shape the daily rhythm."
+      },
+      "zh": {
+        "list": [
+          "社會福利制度完善",
+          "公共醫療品質高",
+          "重視世俗主義與公民價值",
+          "工時與休假制度相對完善"
+        ],
+        "text": "法國擁有歐洲代表性的社會福利制度，包括全民醫療保險、退休制度與失業保障。教育體系由政府主導，高等教育與研究機構具有國際聲譽。\n\n法國社會重視生活品質與工作平衡，咖啡館文化、假期制度與公共空間生活深刻影響日常節奏。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "A global center for art and fashion",
+          "World-renowned culinary culture",
+          "Profound impact in literature and philosophy",
+          "Rich in museums and historical architecture"
+        ],
+        "text": "France wields global influence in art, architecture, literature, and cinema. Paris is widely regarded as a world cultural capital, home to famous landmarks like the Louvre Museum and the Eiffel Tower.\n\nFrench cuisine and wine are iconic, with cultural symbols like the croissant, baguette, and champagne recognized worldwide. Philosophically, the French Enlightenment deeply shaped modern concepts of democracy and human rights."
+      },
+      "zh": {
+        "list": [
+          "世界藝術與時尚中心之一",
+          "美食文化享譽全球",
+          "文學與哲學影響深遠",
+          "博物館與歷史建築豐富"
+        ],
+        "text": "法國在藝術、建築、文學與電影領域具有全球影響力。巴黎（Paris）被視為世界文化之都之一，擁有羅浮宮（Louvre Museum）與艾菲爾鐵塔（Eiffel Tower）等著名地標。\n\n法式料理與葡萄酒文化亦深具代表性，像可頌（Croissant）、法式長棍麵包（Baguette）與香檳酒（Champagne）等已成為全球知名文化符號。哲學與思想方面，法國啟盟運動深刻影響現代民主與人權觀念。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Immigration and social integration issues",
+          "High cost of living and youth unemployment",
+          "Energy transition and carbon reduction policies",
+          "European integration and political polarization"
+        ],
+        "text": "In recent years, France has faced controversies over immigrant integration, social inequality, and pension reforms. Large-scale protests and strikes are a common feature of French political culture.\n\nSimultaneously, as one of Europe's most nuclear-dependent countries, finding a balance between energy security and climate goals remains a critical issue."
+      },
+      "zh": {
+        "list": [
+          "多民族社會融合與世俗化爭議",
+          "高生活成本與青年失業",
+          "能源轉型與減碳政策",
+          "歐洲整合與政治分歧"
+        ],
+        "text": "法國近年面臨不同族群文化融合、社會不平等與退休制度改革等爭議。大型示威與罷工在法國政治文化中相當常見。\n\n同時，法國也是歐洲核能依賴程度最高的國家之一，如何在能源安全與氣候政策間取得平衡為重要議題。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Paris — The political and cultural core",
+          "Marseille — A major Mediterranean port",
+          "Lyon — A historical and culinary hub",
+          "Eiffel Tower — Iconic symbol of France"
+        ],
+        "text": "Paris is the capital and largest city, standing as a premier global center for tourism and fashion. Marseille is the largest port city in southern France.\n\nLyon is renowned for its historical districts and gastronomy, while the Eiffel Tower, one of the world's most famous landmarks, symbolizes French modernization and engineering prowess."
+      },
+      "zh": {
+        "list": [
+          "巴黎（Paris）——政治與文化核心",
+          "馬賽（Marseille）——地中海重要港口",
+          "里昂（Lyon）——歷史與美食重鎮",
+          "艾菲爾鐵塔（Eiffel Tower）——法國象徵地標"
+        ],
+        "text": "巴黎（Paris）為法國首都與最大城市，也是全球最重要的觀光與時尚中心之一。馬賽（Marseille）則為南法最大港口城市。\n\n里昂（Lyon）以歷史城區與美食文化聞名，而艾菲爾鐵塔（Eiffel Tower）作為世界最知名地標之一，象徵法國現代化與工程成就。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "Member of the G7 and EU",
+          "Permanent member of the UN Security Council",
+          "Key member of NATO",
+          "Significant influence in Africa and Europe"
+        ],
+        "text": "France is a core member of the European Union, playing a crucial leadership role in European politics and diplomacy.\n\nIt is also a permanent member of the United Nations Security Council, possessing nuclear weapons and global military deployment capabilities. It maintains significant diplomatic and military influence across Africa, the Middle East, and the Indo-Pacific."
+      },
+      "zh": {
+        "list": [
+          "七大工業國組織（G7）與歐盟（EU）成員國",
+          "聯合國安理會常任理事國",
+          "北大西洋公約組織（NATO）重要成員之一",
+          "在非洲與歐洲具重要影響力"
+        ],
+        "text": "法國是歐盟（European Union）核心國家之一，並在歐洲政治與外交中具有重要領導地位。\n\n同時，法國也是聯合國（United Nations）安全理事會常任理事國，擁有核武與全球軍事部署能力，在非洲、中東與印太地區皆維持外交與軍事影響力。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Stable economic and cultural exchanges",
+          "Increasing cooperation in aviation and technology",
+          "French luxury goods and tourism are popular in Taiwan",
+          "Deepening unofficial ties"
+        ],
+        "text": "France and Taiwan maintain stable unofficial relations, with growing cooperation in technology, aviation, and cultural industries.\n\nFrance is a major European travel destination for Taiwanese tourists, and both sides frequently engage in art exhibitions, cinema, and higher education exchanges."
+      },
+      "zh": {
+        "list": [
+          "經貿與文化交流穩定",
+          "航空與科技合作增加",
+          "法國精品與觀光受台灣歡迎",
+          "非官方關係持續深化"
+        ],
+        "text": "法國與台灣維持穩定的非官方交流，在科技、航空與文化產業方面合作逐漸增加。\n\n法國亦為台灣旅客重要歐洲旅遊目的地之一，雙方在藝術展覽、電影與高等教育領域互動頻繁。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "Consistently ranks among top countries for international tourist arrivals",
+          "The TGV high-speed rail is a global benchmark",
+          "Wine and luxury industries have immense worldwide impact",
+          "Paris is one of the world's leading fashion capitals"
+        ]
+      },
+      "zh": {
+        "list": [
+          "全球旅遊人次長年位居前列",
+          "高鐵系統 TGV（法國高速列車）為世界代表之一",
+          "葡萄酒與精品產業具有全球影響力",
+          "巴黎為世界時尚中心之一"
+        ]
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": "€ Euro"
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "French",
+        "zh": "法語"
+      }
+    },
+    {
+      "label": "GDP (nom.)",
+      "value": "$2.9T"
+    },
+    {
+      "label": "Time zones",
+      "value": {
+        "en": "UTC−10 – UTC+12 (spanning 12 time zones)",
+        "zh": "UTC−10 – UTC+12（橫跨 12 個時區）"
+      }
+    },
+    {
+      "label": "Calling code",
+      "value": "+33"
+    },
+    {
+      "label": "ISO code",
+      "value": "FR / FRA"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🗼",
+      "text": {
+        "en": "Eiffel Tower — A wrought-iron lattice tower on the Champ de Mars, a global cultural icon",
+        "zh": "艾菲爾鐵塔——位於戰神廣場的鏤空結構鐵塔，全球著名的文化地標"
+      }
+    },
+    {
+      "icon": "🖼️",
+      "text": {
+        "en": "Louvre Museum — The world's most-visited museum, home to the Mona Lisa",
+        "zh": "羅浮宮——全球參觀人數最多的博物館，館藏包括《蒙娜麗莎》"
+      }
+    },
+    {
+      "icon": "🍷",
+      "text": {
+        "en": "French Wine — World-renowned viticulture originating from regions like Bordeaux and Champagne",
+        "zh": "法國葡萄酒——享譽全球的釀酒文化，源自波爾多與香檳等產區"
+      }
+    },
+    {
+      "icon": "🥐",
+      "text": {
+        "en": "Gastronomy — Iconic culinary traditions featuring croissants, baguettes, and fine cheeses",
+        "zh": "美食文化——具代表性的飲食傳統，包含可頌、長棍麵包與精緻乳酪"
+      }
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/1403916",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=-5.5%2C41.2%2C9.8%2C51.4&layer=mapnik"
+}

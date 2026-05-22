@@ -1,0 +1,353 @@
+{
+  "name": {
+    "en": "Kenya",
+    "zh": "肯亞"
+  },
+  "nativeName": "Republic of Kenya",
+  "capital": {
+    "en": "Nairobi",
+    "zh": "奈洛比"
+  },
+  "population": "56M",
+  "area": "580,367 km²",
+  "density": "96/km²",
+  "continent": "Africa",
+  "flagEmoji": "🇰🇪",
+  "dataEstYear": 2025,
+  "description": {
+    "en": "Kenya, officially the Republic of Kenya, is a highly dynamic sovereign state located in East Africa. Straddling the Equator, it is bordered by the Indian Ocean to the southeast, Ethiopia and South Sudan to the north, Uganda to the west, and Tanzania to the south. Renowned as the absolute financial, technological, and transport gateway of East Africa, Kenya is globally celebrated for its breathtaking wildlife safaris, immense scenic reserves, legendary long-distance runners, and a booming digital economy.",
+    "zh": "Kenya（肯亞，全稱為肯亞共和國）是位於東非最具活力的主權國家。其疆域橫跨赤道，東南瀕臨印度洋，北接衣索比亞（Ethiopia）與南蘇丹（South Sudan），西鄰烏干達（Uganda），南接坦尚尼亞（Tanzania）。作為東非無可取代的金融、科技與物流門戶，肯亞以其令人屏息的野生動物狩獵之旅、極具規模的自然保育區、名震國際的傳奇長跑巨星以及蓬勃發展的數位經濟而享譽全球。"
+  },
+  "seoText": {
+    "en": "Read quick facts about Kenya — population, land area, capital city, and short overview. Discover Nairobi Silicon Savannah, Masai Mara safari migration, M-Pesa mobile payment, Olympic marathon runners, and Great Rift Valley landscape.",
+    "zh": "快速了解肯亞的基本資料：人口、面積、首都與簡短概述。探索奈洛比「東非矽谷」科技樞紐、馬賽馬拉動物大遷徙、M-Pesa 行動支付創新、世界頂尖長跑選手，以及壯麗的東非大裂谷地理。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Sovereign East African presidential republic straddling the equator",
+          "Foremost financial, technological, and transport hub of East Africa",
+          "Spectacular global destination for wildlife tourism and ecological safaris",
+          "Pioneered mobile money digital finance innovation with M-Pesa"
+        ],
+        "text": "Framed by the snow-capped peak of Mount Kenya and the sweeping savannas of Masai Mara, Kenya stands as the iconic gateway to East Africa. Home to over 50 million residents and 40 diverse ethnic groups, the country possesses a unique blend of traditional customs and high-tech urban lifestyles. Swahili and English serve as its national languages, connecting communities across fertile high farmlands and coastal ports.\n\nFrom the bustling startup incubators of Nairobi to the historic Swahili stone-walled towns of Mombasa, Kenya has established itself as the cultural, economic, and technological lighthouse of the East African region."
+      },
+      "zh": {
+        "list": [
+          "位於東非的重要國家",
+          "東非金融與科技中心之一",
+          "野生動物與觀光資源豐富",
+          "非洲數位金融發展代表國家"
+        ],
+        "text": "從肯亞山（Mount Kenya）白雪皚皚的巔峰，到馬賽馬拉（Masai Mara）一望無際的遼闊莽原，肯亞是東非最具象徵意義的指標性門戶。這座擁有超過 5,000 萬居民與 40 多個不同民族的國家，將深厚的傳統部落習俗與前沿的高科技都會生活完美融合。英語與史瓦希利語（Swahili）為其官方語言，緊密連結了從肥沃高地農郡到沿海貿易大港的各個社群。從首都奈洛比（Nairobi）充滿活力的數位新創孵化器，到古城蒙巴薩（Mombasa）底蘊深厚的史瓦希利石造城鎮，肯亞已實至名歸地成為東非區域的文化、經濟與科技燈塔。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Highly varied geography ranging from coastal beaches to snowy peaks",
+          "Dramatic Great Rift Valley bisects the high interior plateau region",
+          "Fertile agricultural highlands support extensive tea and coffee fields",
+          "Dotted with world-famous wildlife conservation parks and preserves"
+        ],
+        "text": "Covering approximately 580,367 square kilometers, Kenya's landscape is exceptionally diverse. The Great Rift Valley runs from north to south, creating dramatic volcanoes, hot springs, and deep lakes. The fertile highlands surrounding Mount Kenya support intensive tea and coffee plantations, while the southern plains open into the massive Masai Mara savanna.\n\nThe country's extensive Indian Ocean coastline provides crucial maritime shipping lanes and beautiful white sand beaches."
+      },
+      "zh": {
+        "list": [
+          "地形多樣且跨越赤道",
+          "擁有高原、草原與海岸地形",
+          "東非大裂谷貫穿國境",
+          "野生動物保護區眾多"
+        ],
+        "text": "肯亞國土面積約 580,367 平方公里，地理景觀極其千變萬化。著名的東非大裂谷（Great Rift Valley）由北至南縱貫全境，沿途造就了雄偉的火山、地熱溫泉與深邃的階梯湖泊。環繞著肯亞山（Mount Kenya）的肥沃內陸高地是世界頂級茶葉與咖啡種植園的搖籃，而南方的平原則過渡為無垠的馬賽馬拉（Masai Mara）野生莽原保護區。此外，該國綿長的印度洋海岸線不僅提供了戰略性的海上航運咽喉，更坐擁了無數令國際旅客流連忘返的潔白沙灘。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Predominantly tropical climate with variations driven by elevation",
+          "Cool, pleasant weather conditions found across high inland plateaus",
+          "Coastal ports remain hot, humid, and breezy year-round",
+          "Distinct wet periods occur between March-May and October-December"
+        ],
+        "text": "Kenya has a tropical climate shaped by altitude and monsoon winds. The coastal regions are hot and humid, while the inland highlands, including Nairobi, enjoy a temperate and comfortable climate with fresh evening breezes.\n\nThe country has two rainy seasons: the long rains from March to May and the short rains from October to December, which are vital for farming and the seasonal wildebeest migration."
+      },
+      "zh": {
+        "list": [
+          "熱帶氣候為主",
+          "高原地區氣候較溫和",
+          "沿海地區高溫潮濕",
+          "雨季與乾季分明"
+        ],
+        "text": "肯亞主要屬於熱帶氣候，但整體氣候型態深受海拔高度與季風的強烈調節。低海拔的沿海港埠全年高溫潮濕且海風徐徐；而以首都奈洛比（Nairobi）為代表的內陸高原地帶，則因地勢較高而終年享受著如春季般溫和舒適、日夜溫差明顯的宜人氣候。肯亞每年有兩次涇渭分明的雨季：分別是 3 月至 5 月的「大雨季」與 10 月至 12 月的「小雨季」，這些降雨不僅是本土農業灌溉的命脈，更主導了東非莽原上一年一度震撼全球的野生牛羚史詩大遷徙。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Dynamic population of approximately 56 million energetic residents",
+          "Exceptionally young population driving growth and digital usage",
+          "Composed of over 40 distinct indigenous Bantu and Nilotic groups",
+          "English and Swahili serve as the shared national languages"
+        ],
+        "text": "Kenya has a population of 56 million, boasting a highly active and young demographic profile. The population includes over 40 ethnic groups, with the Kikuyu, Luhya, Kalenjin, and Luo being the largest.\n\nEnglish and Swahili are official languages, with Swahili acting as the shared tongue that unites the nation and the broader East African community."
+      },
+      "zh": {
+        "list": [
+          "人口約 5600萬左右",
+          "人口年輕化明顯",
+          "多民族與多語言社會",
+          "城市化快速發展"
+        ],
+        "text": "肯亞總人口約為 5,600 萬人，具備極其年輕且充滿活力的人口結構。官方最新數據顯示，全國由 40 多個相互融合的民族構成，其中前五大核心族群為：**基庫尤族（Kikuyu）約 960 萬人（佔 17.1%）**、**盧希亞族（Luhya）約 790 萬人（佔 14.3%）**、**卡倫金族（Kalenjin）約 740 萬人（佔 13.4%）**、**盧歐族（Luo）約 590 萬人（佔 10.7%）**、以及**坎巴族（Kamba）約 540 萬人（佔 9.8%）**；此外，聞名全球的馬賽族（Maasai）約有 120 萬人（佔 2.2%）。官方語言為英語與史瓦希利語（Swahili），後者作為全境及東非共同體的通用橋樑語，深深凝聚了整個國家的認同。這群高度都市化、精通數位工具的年輕世代，正成為推動肯亞行動新創與內需消費狂飆的核心動能。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "East Africa's premier economic hub driven by services and tea exports",
+          "Global pioneer in mobile banking innovation led by the M-Pesa grid",
+          "Top exporter of high-grade black tea, cut flowers, and Arabica coffee",
+          "Tourism stands as a primary source of national foreign exchange"
+        ],
+        "text": "Kenya has the most advanced economy in East Africa, powered by financial services, telecommunications, agriculture, and tourism. It is the world's leading exporter of black tea and cut flowers to European markets.\n\nThe global success of the M-Pesa mobile payment system has revolutionized digital finance, making Kenya a world leader in mobile banking and a booming hub for tech startups."
+      },
+      "zh": {
+        "list": [
+          "東非最大經濟體之一",
+          "農業與服務業重要",
+          "數位金融發展領先非洲",
+          "觀光業為主要收入來源之一"
+        ],
+        "text": "肯亞是東非現代化程度最高、規模最大的經濟火車頭，其經濟支柱由高度發達的金融服務、電信通訊、生態觀光與高價值農業共同驅動。肯亞是全球最大高品質紅茶的出產國，同時其高品質的剪切鮮花（如玫瑰）與頂級阿拉比卡咖啡豆也大量行銷歐美市場。尤其由本土開創、舉世聞名的行動支付與微型金融系統 M-Pesa，徹底顛覆了新興市場的普惠金融模式，使肯亞一躍成為全球行動網銀創新的先驅，更吸引無數創投前來這個被譽為「東非矽谷（Silicon Savannah）」的科技樞紐注資。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Stable presidential democracy governed by a progressive constitution",
+          "President acts as head of state and leads the executive branch",
+          "Active multiparty system with vibrant parliamentary representation",
+          "Deepening devolution reforms that allocate power to regional counties"
+        ],
+        "text": "Kenya is a constitutional presidential republic. The President is elected by popular vote to serve as head of state and government. \n\nFollowing the adoption of a progressive constitution in 2010, the country successfully devolved significant administrative power and budgets to 47 county governments, reducing political concentration and supporting regional growth."
+      },
+      "zh": {
+        "list": [
+          "共和制國家",
+          "多黨民主制度",
+          "地方分權制度逐步深化",
+          "東非外交影響力重要"
+        ],
+        "text": "肯亞是一個憲政體制健全的多黨制總統制共和國。經由全民直接選舉產生的聯邦總統，兼任國家元首與最高行政首腦。自 2010 年通過實施一部極具進步意義的現代化新憲法以來，肯亞全面深化了地方自治與分權體制（Devolution），將實質的行政權力與財政預算下放到全國 47 個郡政府（County Governments），有效打破了過去權力過度集中的弊端。肯亞在東非共同體（EAC）以及區域安全事務的斡旋中，長年扮演著舉足輕重的外交盟主地位。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Addressing wealth gaps between high-tech cities and rural communities",
+          "Expanding public primary schooling and universal healthcare access",
+          "Exceptionally vibrant youth tech startup and digital entrepreneur culture",
+          "Rapidly upgrading municipal transport and regional power lines"
+        ],
+        "text": "Kenyan society is known for its energetic community spirit, often expressed by the Swahili concept of 'Harambee' (pulling together). Nairobi's booming middle class drives a modern, tech-savvy urban culture.\n\nWhile urban infrastructure is expanding quickly, the government is working to bring reliable electricity, clean water, and high-quality clinics to rural areas."
+      },
+      "zh": {
+        "list": [
+          "城市與鄉村差距存在",
+          "教育普及率逐步提高",
+          "青年創業文化活躍",
+          "基礎設施持續改善"
+        ],
+        "text": "肯亞社會洋溢著極其強烈的社區凝聚力精神，這種精神完美凝結於史瓦希利語的核心概念「Harambee」（意為「齊心協力/眾志成城」）。首都奈洛比（Nairobi）迅速崛起的中產階級正塑造出一種極具數位素養、走在潮流前端的現代都會文化。雖然都市圈的交通網路與智慧市容正以驚人速度翻新，但政府目前的執政重心也聚焦於消弭城鄉分配差距，致力將穩定的電力、乾淨的飲用水與基礎醫療照護延伸至更廣泛的鄉村和牧業社區。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "Rich mosaic of tribal arts, Swahili coastal styles, and city pop",
+          "Maasai communities preserve world-famous traditional pastoral customs",
+          "Unmatched global dominance in Olympic long-distance athletics",
+          "Warm hospitality captured by the iconic phrase 'Karibu Sana'"
+        ],
+        "text": "Kenya's culture is a vibrant mix of ethnic traditions and modern city life. The Maasai, with their colorful 'shúkà' robes and jumping dances, are highly celebrated globally. \n\nIn sports, Kenya is a world powerhouse in long-distance running, producing legendary Olympic marathon champions like Eliud Kipchoge who inspire millions."
+      },
+      "zh": {
+        "list": [
+          "民族文化多元",
+          "音樂與舞蹈文化豐富",
+          "長跑運動全球知名",
+          "傳統與現代文化並存"
+        ],
+        "text": "肯亞文化是一幅由古老部落傳統與當代都會脈搏交織而成的斑斕畫卷。身著鮮豔「束卡（Shúkà）」長袍、以傳統騰空躍動舞蹈聞名於世的馬賽族（Maasai），已成為國際上最具辨識度的非洲文化符號。在世界體育舞台上，肯亞是無可撼動的長跑超級強權，依託大裂谷高海拔訓練基地，培育出如馬拉松傳奇名將基普喬蓋（Eliud Kipchoge）等無數打破人類極限的奧運金牌得主。而肯亞人熱情好客的民族性格，則完美融入了那句溫暖的標誌性歡迎問候語——「Karibu Sana」。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Creating stable employment for a rapidly expanding youth population",
+          "Mitigating the severe impact of climate change on small farms",
+          "Upgrading municipal services to match rapid urbanization trends",
+          "Promoting peaceful political competition and national unity"
+        ],
+        "text": "Kenya's main challenges include youth unemployment and the impact of climate change, which has caused recent severe droughts in farming areas. \n\nUpgrading city transport, improving affordable housing, and ensuring peaceful political campaigns remain key focuses for social development."
+      },
+      "zh": {
+        "list": [
+          "青年失業問題",
+          "貧富差距與都市化壓力",
+          "氣候變遷影響農業",
+          "政治與族群競爭問題"
+        ],
+        "text": "肯亞在迎來經濟起飛的同時，也面臨著幾項結構性瓶頸。最首要的是為人口龐大的年輕世代創造足夠且穩定的就業機會，以及緩解氣候變遷引發的週期性嚴重乾旱對傳統農業與牧業地帶造成的經濟重創。此外，如何加速升級大都會區的公共運輸、落實平價住宅政策，並在每逢五年一屆的全國大選期間，克制族群動員以維繫社會團結與和平穩定，皆是當前國家發展的重要課題。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Nairobi — East Africa's commercial capital and 'Silicon Savannah'",
+          "Mombasa — Historic coastal city and major Indian Ocean cargo port",
+          "Kisumu — Vibrant lake port city resting on shores of Lake Victoria",
+          "Masai Mara — Famous savanna hosting the annual wildebeest migration"
+        ],
+        "text": "Nairobi is the economic engine of East Africa, home to global company headquarters and tech labs. Mombasa preserves centuries of Swahili trade at Fort Jesus.\n\nThe Masai Mara National Reserve is famous for the 'Great Migration', where millions of wildebeests cross the Mara River in one of nature's greatest spectacles."
+      },
+      "zh": {
+        "list": [
+          "奈洛比（Nairobi）—首都與金融科技中心",
+          "蒙巴薩（Mombasa）——印度洋港口城市",
+          "基蘇木（Kisumu）——維多利亞湖重要城市",
+          "馬賽馬拉（Masai Mara）——世界級野生動物保護區"
+        ],
+        "text": "作為東非的經濟引擎，首都奈洛比（Nairobi）匯聚了眾多跨國科技巨頭的非洲總部與創新研發實驗室，贏得「東非矽谷（Silicon Savannah）」的美譽；充滿歷史底蘊的沿海第一大城蒙巴薩（Mombasa）則扼守印度洋黃金航道，其世界文化遺產「耶穌堡（Fort Jesus）」訴說著數百年來的史瓦希利海上貿易傳奇；坐落於維多利亞湖畔的基蘇木（Kisumu）則是繁榮的湖埠商業中心與西肯亞的物流樞紐。而世界級自然保護區馬賽馬拉（Masai Mara），更以每年逾百萬頭牛羚與斑馬奮不顧身橫渡馬拉河的「天國之渡」野生動物大遷徙奇觀，名列地球上最震撼的自然聖殿。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "Geopolitical anchor and diplomatic capital of the East African region",
+          "United Nations East African headquarters rests in Nairobi (UNON)",
+          "Main stabilizing partner in regional East African security issues",
+          "Maintains strong trade ties with Asia, Europe, and North America"
+        ],
+        "text": "Kenya is a major diplomatic leader in Africa. Nairobi hosts the United Nations Office (UNON), including the headquarters of the UN Environment Programme (UNEP).\n\nAs a core member of the East African Community (EAC), it leads regional trade integration and plays an active role in regional peacekeeping missions."
+      },
+      "zh": {
+        "list": [
+          "東非區域核心國家",
+          "非洲聯盟重要成員",
+          "與中國、西方皆有合作",
+          "國際維和參與度高"
+        ],
+        "text": "肯亞是非洲大陸不容忽視的地緣政治與外交重鎮。首都奈洛比（Nairobi）是聯合國除紐約、日內瓦、維也納之外的全球四大駐地之一——聯合國奈洛比辦事處（UNON）所在地，並設有聯合國環境規劃署（UNEP）與聯合國人類住區規劃署（UN-Habitat）的全球總部。作為東非共同體（EAC）的核心核心成員，肯亞不僅在推動區域自由貿易與基礎設施對接上扮演領頭羊，亦高頻率參與跨國維和行動，與美國（United States）、中國（China）及歐洲各國均保持著深厚的多邊戰略合作關係。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Cooperation centered on agricultural training and school outreach",
+          "Export partnerships in plastics, machinery, and textiles exchange",
+          "Productive NGO partnerships delivering community medical assistance",
+          "Growing tourism exchanges for wildlife savanna safaris"
+        ],
+        "text": "Taiwan and Kenya share non-official trade relations. Taiwanese exports include machinery, petrochemicals, and textiles, while Kenya exports premium tea and coffee to Taiwan.\n\nBilateral cooperation is focused on educational charities, medical aid from Taiwanese NGOs, and agricultural technology, alongside growing tourist interest in Kenyan safaris."
+      },
+      "zh": {
+        "list": [
+          "經貿與教育交流有限",
+          "科技與農業合作具潛力",
+          "民間交流逐漸增加",
+          "非官方互動為主"
+        ],
+        "text": "肯亞與台灣之間維持著非官方的實質雙邊經貿與民間慈善夥伴關係。台灣長年向肯亞採購高品質的阿薩姆紅茶、阿拉比卡咖啡豆以及特定礦物原料；而台灣則向肯亞出口高階精密工具機、優質工業塑料、石化原料以及機能性紡織面料。民間合作層面則極具溫度，台灣諸多知名財團法人與醫療非政府組織（NGOs）長年深入肯亞貧民區與偏鄉，推動水資源淨化工程、舉辦偏鄉義診並捐助教育愛心物資，同時，前往馬賽馬拉體驗大遷徙的台灣生態旅遊人口近年也展現出顯著的成長潛力。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "Serves as East Africa's primary financial and logistical hub",
+          "Global pioneer in mobile-based banking grid systems",
+          "Boasts world-leading marathon and long-distance athletics records",
+          "A legendary global sanctuary for wildlife conservation safaris"
+        ]
+      },
+      "zh": {
+        "list": [
+          "東非重要交通與金融樞紐",
+          "行動支付發展全球知名",
+          "長跑運動實力世界頂尖",
+          "野生動物觀光極具代表性"
+        ]
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": "Kenyan Shilling (KES)"
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "English, Swahili",
+        "zh": "英語、史瓦希利語"
+      }
+    },
+    {
+      "label": "GDP (nom.)",
+      "value": "$110B"
+    },
+    {
+      "label": "Time zone",
+      "value": "UTC+3"
+    },
+    {
+      "label": "Calling code",
+      "value": "+254"
+    },
+    {
+      "label": "ISO code",
+      "value": "KE / KEN"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🇰🇪",
+      "text": {
+        "en": "The Maasai Shield Flag — The beautiful national flag featuring the traditional Maasai shield and crossed spears, representing the defense of freedom and peace",
+        "zh": "馬賽戰盾國旗——融合傳統馬賽黑白紅戰盾與交叉長矛的極美設計，綠色代表農業與大地，紅色代表爭取自由灑下的熱血，黑色象徵人民，兩側的白色線條象徵和平"
+      }
+    },
+    {
+      "icon": "🦁",
+      "text": {
+        "en": "Masai Mara Wilderness — The legendary wildlife sanctuary hosting the annual Great Migration of millions of wildebeests and zebras across the Mara River",
+        "zh": "馬賽馬拉生態奇觀——非洲最著名的野生動物天堂，每年上演逾百萬頭牛羚與斑馬跨越馬拉河的「天國之渡」與史詩級動物大遷徙，是生態旅遊的核心殿堂"
+      }
+    },
+    {
+      "icon": "📱",
+      "text": {
+        "en": "M-Pesa Digital Pioneer — The global pioneer in mobile money networks, transforming cellular phones into wallets and leading financial inclusion across Africa",
+        "zh": "行動支付先驅 M-Pesa——肯亞開創了舉世聞名的行動貨幣系統 M-Pesa，讓即便沒有銀行帳戶的民眾也能利用簡訊進行轉帳與支付，被全球視為數位金融奇蹟"
+      }
+    },
+    {
+      "icon": "🏃",
+      "text": {
+        "en": "World-Class Runners — Dominating global Olympic marathons and long-distance athletics, built on high-altitude rift valley training camps",
+        "zh": "長跑王者的搖籃——肯亞選手在世界各大馬拉松與奧運長跑項目中長期保持壓倒性宰制力，以基普喬蓋（Eliud Kipchoge）為首的傳奇跑者在裂谷高原的刻刻訓練享譽國際"
+      }
+    },
+    {
+      "icon": "🏔️",
+      "text": {
+        "en": "Mount Kenya Escarpment — Africa's second-highest mountain peak, featuring ancient snow-capped glaciers straddling directly on the Equator line",
+        "zh": "赤道雪山肯亞山——非洲第二高峰（Mount Kenya），是古老死火山，雖然座落於炎熱赤道線上，卻擁有壯麗的冰河地貌與獨特的高山植被，是國家名字的由來"
+      }
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/192798",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=33.8%2C-4.7%2C41.9%2C5.5&layer=mapnik"
+}

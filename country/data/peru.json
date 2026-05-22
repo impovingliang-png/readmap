@@ -1,0 +1,353 @@
+{
+  "name": {
+    "en": "Peru",
+    "zh": "秘魯"
+  },
+  "nativeName": "República del Perú",
+  "capital": {
+    "en": "Lima",
+    "zh": "利馬"
+  },
+  "population": "34M",
+  "area": "1,285,216 km²",
+  "density": "26/km²",
+  "continent": "Americas",
+  "flagEmoji": "🇵🇪",
+  "dataEstYear": 2025,
+  "description": {
+    "en": "Peru, officially the Republic of Peru, is a highly diverse sovereign nation located in western South America. Facing the vast Pacific Ocean to the west, it is bordered by Ecuador and Colombia to the north, Brazil to the east, and Bolivia and Chile to the south. Renowned as the cradle of the ancient Inca Empire, Peru is globally celebrated for the soaring peaks of the Andes Mountains, the lush biodiversity of the Amazon Rainforest, and one of the most culturally rich culinary traditions in the Americas.",
+    "zh": "Peru（秘魯，全稱為秘魯共和國）是位於南美洲西部的多元主權國家。其西臨遼闊的太平洋，北接厄瓜多（Ecuador）與哥倫比亞（Colombia），東鄰巴西（Brazil），南接玻利維亞（Bolivia）與智利（Chile）。作為古老印加帝國（Inca Empire）的發祥地與搖籃，秘魯以其巍峨聳立的安地斯山脈（Andes Mountains）、生物多樣性極其發達的亞馬遜熱帶雨林（Amazon Rainforest），以及名列美洲文化底蘊最深厚、舉世聞名的頂級料理傳統而享譽全球。"
+  },
+  "seoText": {
+    "en": "Read quick facts about Peru — population, land area, capital city, and short overview. Discover Lima modern gastronomy, Cusco ancient Inca empire, Machu Picchu ruins, Andes alpaca pastures, and Amazon Rainforest biodiversity.",
+    "zh": "快速了解秘魯的基本資料：人口、面積、首都與簡短概述。探索利馬現代美食之都、庫斯科印加帝國古都、馬丘比丘失落遺址、安地斯山脈羊駝牧場，以及亞馬遜雨林生態多樣性。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Sovereign South American republic located along the central Pacific coastline",
+          "Heartland of the ancient pre-Columbian Inca Civilization and pre-Inca cultures",
+          "Spectacular topography integrating coastal deserts, high mountains, and rainforests",
+          "A major global copper producer and a leading global gastronomy capital"
+        ],
+        "text": "Framed by the dramatic sky-scraping heights of Machu Picchu and stretching into the dense tropical canopies of the Amazon, Peru is a land of profound historical majesty. Home to over 34 million residents, the country boasts a large indigenous Quechua and Aymara heritage, whose languages hold official status alongside Spanish. The rich convergence of pre-Columbian agricultural traditions and Spanish colonial elements has shaped a modern, dynamic society.\n\nFrom the busy colonial squares of Lima to the ancient stone streets of the imperial capital of Cusco, Peru stands as the enduring cultural heartbeat of the South American continent."
+      },
+      "zh": {
+        "list": [
+          "位於南美洲西部的重要國家",
+          "印加文明核心地區",
+          "擁有安地斯山脈與亞馬遜雨林",
+          "礦產與觀光資源豐富"
+        ],
+        "text": "從直插雲霄、地勢險峻的馬丘比丘（Machu Picchu）古城，到綿延入茂密熱帶蒼穹的亞馬遜盆地，秘魯（Peru）是一片積澱著深厚歷史尊嚴的傳奇土地。這座擁有超過 3,400 萬居民的國家，蘊含著極高比例的克丘亞（Quechua）與艾馬拉（Aymara）原住民文化遺產，他們的語言與西班牙語同享官方語言地位。前哥倫比亞時期的古老農業傳統與歐洲殖民元素的歷史性交融，形塑了當今極具活力的現代秘魯社會。從首都利馬（Lima）熙攘繁華的殖民風格廣場，到帝國古都庫斯科（Cusco）歷經風霜的印加巨石街道，秘魯實至名歸地成為南美洲大陸上永恆跳動的文化心臟。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Three highly distinct geographic zones: coast, highlands, and jungle",
+          "Rugged Andes Mountain range cuts through the nation from north to south",
+          "Eastern slopes descend into the massive biodiversity of the Amazon basin",
+          "Arid, narrow Pacific coastal plains feature extensive desert dunes"
+        ],
+        "text": "Covering approximately 1.28 million square kilometers, Peru's geography is highly varied. It is split into three main regions: the Costa (narrow coastal desert), the Sierra (high altitude Andes Mountains), and the Selva (thick tropical Amazon Rainforest).\n\nThe Andes mountains act as the physical backbone of the country, featuring snow-capped peaks like Huascarán, while the eastern slope contains the headwaters of the mighty Amazon River."
+      },
+      "zh": {
+        "list": [
+          "地形高度多樣化",
+          "安地斯山脈貫穿全境",
+          "東部為亞馬遜雨林",
+          "西部沿海地區乾燥"
+        ],
+        "text": "秘魯國土面積約 128 萬平方公里，其地理景觀展現出極致的多樣性。傳統上全國被劃分為三大截然不同的自然地理區：西部狹長的沿海沙漠區（Costa）、中部高海拔的安地斯山脈區（Sierra），以及東部茂密的亞馬遜熱帶雨林區（Selva）。崎嶇巍峨的安地斯（Andes）山脈如同一道雄偉的物理脊樑縱貫南北全境，坐擁如瓦斯卡蘭山（Huascarán）等終年積雪的險峻高峰，而山脈東側的翠綠斜坡則向下延伸，匯聚成了奔騰浩瀚的亞馬遜河（Amazon River）源頭河流。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Exceptionally diverse weather profiles dictated by geography and ocean currents",
+          "Western coast remains arid, cool, and foggy due to the cold Humboldt Current",
+          "Andes highlands experience dry, sunny days and chilly mountain nights",
+          "Eastern Amazon basin remains hot, rainy, and highly humid year-round"
+        ],
+        "text": "Peru possesses a wide range of microclimates. The Pacific coast is very dry but moderated by the cold Humboldt Current, producing cool sea fog (garúa) but almost no rain. \n\nThe mountain regions experience cold weather that varies by altitude, with distinct dry and wet seasons. The Amazon jungle remains hot and humid year-round, receiving heavy tropical rain."
+      },
+      "zh": {
+        "list": [
+          "氣候因地形差異巨大",
+          "沿海乾燥少雨",
+          "高山地區氣溫偏低",
+          "雨林區高溫潮濕"
+        ],
+        "text": "秘魯擁有地球上極其豐富的微氣候（Microclimates）分布。西部太平洋沿岸雖屬於極度乾燥的沿海沙漠，但受到強大且寒冷的秘魯寒流（Humboldt Current）強烈調節，形成了涼爽多海霧（Garúa）卻終年幾乎無雨的獨特現象。中部的安地斯高山地帶氣候隨海拔高度層層遞變，日照強烈、夜間寒冷，並擁有清晰的旱雨兩季；而東部的亞馬遜熱帶雨林（Amazon Rainforest）流域則全年高溫潮濕，充沛的熱帶雷雨終年不斷。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Diverse population of approximately 34 million residents",
+          "High proportion of indigenous Amerindian and Mestizo heritages",
+          "Most residents are concentrated in Lima and coastal trade hubs",
+          "Quechua and Aymara hold co-official status alongside Spanish"
+        ],
+        "text": "Peru has a population of 34 million, featuring a rich indigenous heritage. It has one of the largest Amerindian populations in South America, primarily of Quechua and Aymara descent, whose cultural traditions remain strong in the highlands.\n\nSpanish is the primary language of business and education, but Quechua and Aymara are widely spoken and recognized. The majority of the population lives in Lima and the coastal plains."
+      },
+      "zh": {
+        "list": [
+          "人口約 3400萬左右",
+          "原住民人口比例較高",
+          "人口集中於沿海城市",
+          "城市化程度持續提高"
+        ],
+        "text": "秘魯總人口約為 3,400 萬人，其最大特色在於深厚且極具活力的原住民與多元血統揉合背景。根據官方普查，主體族群為**印歐混血的梅斯蒂索人（Mestizos）約佔總人口 60.2%（約 2,046 萬人）**；而作為印加帝國正統後裔的**克丘亞人（Quechua）則高佔 22.3%（約 758 萬人）**，是南美洲規模最龐大的原住民族群；南方盆地的**艾馬拉人（Aymara）約佔 2.4%（約 81 萬人）**；歐洲裔（多為西班牙後裔）則約佔 5.9%。西班牙語是全國公共政商與教育體系的主幹語音，但克丘亞語和艾馬拉語在憲法上同樣被賦予共同官方語言的崇高地位。大部分的人口與新興產能目前高度集中於首都利馬（Lima）及西部沿海貿易綠洲大城中。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "Resource-rich South American economy driven by mining and exports",
+          "Top global exporter of copper, silver, zinc, and gold ores",
+          "Vibrant agricultural exports led by asparagus, blueberries, and coffee",
+          "Global tourist interest in Inca heritage generates high services revenue"
+        ],
+        "text": "Peru's economy is highly dependent on mineral exports, ranking as one of the world's leading producers of copper, silver, and gold. The mining sector is supported by rich deposits across the Andes.\n\nIn addition, Peru is a major global exporter of high-value agricultural products like blueberries, asparagus, and organic coffee, while the booming tourism industry around Machu Picchu serves as a vital source of income."
+      },
+      "zh": {
+        "list": [
+          "礦業為重要經濟支柱",
+          "農業與漁業發達",
+          "觀光業具國際吸引力",
+          "經濟成長曾快速提升"
+        ],
+        "text": "秘魯是典型的資源富饒型南美經濟體，極度仰賴其得天獨厚的礦產資源，長年穩居全球最重要的銅、銀、鋅與黃金出產與出口大國之列，其發達的礦業活動廣泛開展於安地斯山脈的豐富礦脈中。近年來，秘魯更成功轉型為高價值精密精緻農業的國際巨頭，其藍莓、蘆筍及有機精品咖啡的出口量名列世界前茅。同時，仰賴秘魯寒流帶來的豐富漁業資源，其鯷魚和魚粉產量領先全球；而環繞著馬丘比丘（Machu Picchu）印加文明遺址所帶動的史詩級國際觀光產業，更是國家賺取外匯與支撐龐大服務業人口的黃金命脈。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Unitary presidential republic governed by a single-chamber Congress",
+          "President serves as the chief executive and head of government",
+          "Recent political cycles have faced frequent leadership transitions",
+          "Addressing wealth gaps between the rich coast and interior mountain areas"
+        ],
+        "text": "Peru is a unitary presidential republic. In recent years, the political landscape has experienced frequent leadership changes, leading to political instability and debates over constitutional reform.\n\nCreating strong political institutions and reducing the economic gap between the wealthy coast and the poorer Andean and Amazonian regions remain major focuses of national policy."
+      },
+      "zh": {
+        "list": [
+          "共和制國家",
+          "政治局勢波動較頻繁",
+          "中央集權色彩較強",
+          "地方發展差異大"
+        ],
+        "text": "秘魯實行中央集權的一院制單一制總統共和國體制。在近年的政治週期中，該國行政與立法體系之間頻繁發生憲政衝突，導致國家元首與內閣更迭頻率極高，地緣政局不確定性與憲法改革辯論始終未曾停歇。當前，秘魯國家戰略方針的重中之重，在於如何建立更具公信力的長效政治制度，並全力消弭高度現代化的富饒沿海經濟圈，與相對邊緣、貧困的內陸安地斯山區及亞馬遜原住民部落之間的社會財富與基礎建設不平等拉鋸。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Unique blend of Spanish colonial customs and ancient Andean ways",
+          "Economic differences exist between major cities and mountain towns",
+          "Upgrading public schools, water systems, and mountain roads",
+          "Amerindian traditions strongly shape local festivals and beliefs"
+        ],
+        "text": "Peruvian society is a beautiful blend of Amerindian and Spanish traditions. In the Andean highlands, communities maintain ancient agricultural techniques and traditional textiles.\n\nWhile coastal cities enjoy modern shopping and tech jobs, the government is working to improve mountain roads, clean water access, and schools in rural areas."
+      },
+      "zh": {
+        "list": [
+          "社會文化多元",
+          "城鄉差距仍存在",
+          "教育與基礎建設持續改善",
+          "原住民族文化影響深厚"
+        ],
+        "text": "秘魯社會是一幅由古老美洲原住民傳統與西班牙殖民文明相互揉合的斑斕織錦。在廣袤的安地斯高地（Sierra）社群中，無數村落至今仍遵循著前印加時期的獨特集體農業互助模式，並以古老的手工編織技術延續民族歷史。當沿海的利馬（Lima）都會圈享受著與國際接軌的現代購物商場、科技創投職缺與餐飲榮景時，政府目前的公共政策則致力於翻修險峻的山區聯外公路、提升自來水普及率，並將優質的公共教育和醫療診所延伸至偏遠的雨林與高原聚落。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "Deep Inca heritage featuring impressive stone architecture",
+          "Vibrant colorful traditional textiles and mountain panpipe music",
+          "World-renowned gastronomy famous for Ceviche and Pisco Sour",
+          "Spectacular regional festivals blending Catholic and native customs"
+        ],
+        "text": "Peru's culture is globally celebrated, especially for its world-class gastronomy. Peruvian cuisine is a delicious fusion of indigenous, Spanish, African, and Asian influences, highlighted by Ceviche (lime-marinated raw fish) and Pisco Sour.\n\nIts traditional textiles are exceptionally colorful, and local music features the iconic Andean panpipe, while colonial cities showcase beautiful Spanish Baroque architecture."
+      },
+      "zh": {
+        "list": [
+          "印加文明歷史悠久",
+          "傳統音樂與服飾鮮明",
+          "料理文化國際知名",
+          "節慶融合天主教與原民文化"
+        ],
+        "text": "秘魯的文化底蘊名震全球，近年更以「世界級美食超級強權」的姿態席捲國際餐飲界。著名的秘魯料理是一場由安地斯原住民食材（如數千種馬鈴薯）、西班牙、非洲乃至於華裔（Chifa）與日裔（Nikkei）移民飲食精髓的終極融合，其代表性國菜檸汁醃生魚（Ceviche）與國酒皮斯可酸酒（Pisco Sour）在全球備受推崇。在視覺與聽覺上，秘魯傳統編織服飾色彩極其濃烈絢麗，旋律悠遠的安地斯排笛（Panpipe）山岳音樂繞樑不絕；而各大歷史古城中保存完好的西班牙巴洛克風格建築，則與底層堅實的印加巨石地基形成了獨一無二的文化疊加奇觀。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Resolving political disputes and strengthening democratic systems",
+          "Reducing rural poverty and regional income inequality",
+          "Combatting illegal logging and mining in the Amazon basin",
+          "Managing the retreat of Andean glaciers due to climate change"
+        ],
+        "text": "Peru's major challenges include political instability and environmental threats like illegal gold mining and logging in the Amazon Rainforest. \n\nAdditionally, the melting of glaciers in the Cordillera Blanca due to climate change is putting pressure on the long-term water supply for agriculture and coastal cities."
+      },
+      "zh": {
+        "list": [
+          "政治不穩定問題",
+          "貧富與地區差距",
+          "非法採礦與環境破壞",
+          "氣候變遷影響冰川與水資源"
+        ],
+        "text": "秘魯在步入現代化的過程中正面臨嚴峻的內政與環境瓶頸。除了頻繁的政局波動與社會抗爭外，亞馬遜熱帶雨林深處猖獗的非法濫伐與非法黃金開採，正對全球綠色巨肺造成不可逆的生態浩劫與重金屬污染。此外，環境地質學家高度關注氣候變遷對安地斯山脈「白山脈（Cordillera Blanca）」冰川造成的災難性加速消融，這不僅威脅到高山脆弱的生態，更將對高度仰賴冰川融水灌溉的內陸高地農業，以及人口稠密的沿海城市長期水資源供應帶來毀滅性的威脅。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Lima — Beautiful colonial capital and coastal financial hub",
+          "Cusco — Ancient imperial capital of the pre-Columbian Inca Empire",
+          "Arequipa — Historic southern city built from white volcanic sillar stone",
+          "Machu Picchu — Legendary stone citadel perched high in the Andes peaks"
+        ],
+        "text": "Machu Picchu is the ultimate icon of Peru, showing the brilliant stone masonry of the Incas high in the Andes mountains. Cusco preserves colonial churches built over solid Inca foundations.\n\nLima boasts a beautiful historic center and the trendy culinary district of Miraflores, while Arequipa is framed by the dramatic Misti Volcano."
+      },
+      "zh": {
+        "list": [
+          "利馬（Lima）—首都與經濟中心",
+          "庫斯科（Cusco）——印加古都",
+          "阿雷基帕（Arequipa）——南部重要城市",
+          "馬丘比丘（Machu Picchu）——世界知名印加遺址"
+        ],
+        "text": "巍峨懸浮於安地斯山脈雲霧山脊線上的馬丘比丘（Machu Picchu）石造古城，完美展示了印加人神乎其技的巨石無縫拼接工藝，是象徵南美洲古代文明的終極地標；歷史都城庫斯科（Cusco）則在印加太陽神殿的堅實石基上疊建起無數華麗的西班牙大教堂，記錄著文明的碰撞；海濱首都利馬（Lima）一方面悉心完好保留了被列入世界遺產的巴洛克風情歷史中心，另一方面其沿海新區米拉弗洛雷斯（Miraflores）則展現出高度現代化的金融商業與頂級米其林美食榮景；而南方的歷史名城阿雷基帕（Arequipa）則是由獨特的白色火山凝灰岩（Sillar）雕琢而成，在宏偉的米斯蒂火山（Misti Volcano）襯托下散發著優雅的「白城」魅力。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "Prominent Pacific coast diplomat and regional mining leader",
+          "Active member of APEC, strengthening trade ties with Asian countries",
+          "Pivotal member of the Pacific Alliance and Andean Community",
+          "Global voice on mineral supply chains and ecological preservation"
+        ],
+        "text": "Peru is a major diplomatic player in South America and the Asia-Pacific region. As an active member of APEC, it has built strong export routes for its minerals and agricultural products to major Asian economies.\n\nIt is also a key member of the Andean Community and the Pacific Alliance, advocating for open trade and regional economic integration."
+      },
+      "zh": {
+        "list": [
+          "太平洋沿岸重要國家",
+          "與亞洲貿易聯繫增加",
+          "南美區域合作成員",
+          "礦產出口具全球影響力"
+        ],
+        "text": "秘魯是南美洲西岸與亞太地緣政治舞台上不可或缺的外交與商務權威。作為亞太經濟合作會議（APEC）的長期活躍成員，秘魯透過高度開放的經貿網絡，為其戰略礦產與高價值農漁產品打通了直達亞洲各核心經濟體的黃金航線。同時，秘魯也是安地斯共同體（Andean Community）與太平洋聯盟（Pacific Alliance）的核心創始國，在區域內極力倡導自由貿易、法規互通與拉美經濟一體化，並在全球關鍵礦產供應鏈安全與熱帶雨林生態保護議題上，擁有極高的國際話語權。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Bilateral trade focused on auto parts, metals, and electronics",
+          "Representative trade office located in the capital city of Lima",
+          "Active cooperation in Pacific fishery management and trade",
+          "Growing tourism exchanges driven by culinary and historical tours"
+        ],
+        "text": "Taiwan and Peru maintain productive trade relations. Peru exports minerals, agricultural products, and seafood to Taiwan, which in turn exports automobiles, auto parts, and electronics.\n\nBilateral trade and culture are supported by a representative office in Lima, with growing tourist interest from Taiwan in exploring Machu Picchu and Nazca Lines."
+      },
+      "zh": {
+        "list": [
+          "經貿與漁業交流存在",
+          "礦產合作具潛力",
+          "民間與教育交流有限",
+          "非官方互動為主"
+        ],
+        "text": "秘魯與台灣之間維持著互利雙贏、結構穩健的非官方實質經貿與遠洋漁業戰略夥伴關係。秘魯長期向台灣穩定供應高品質的鋅、銅、銀等工業必備礦產、高蛋白魚粉及頂級海鮮食材（如魷魚、秋刀魚）；而台灣則向秘魯市場大量出口高階汽車零組件、半導體積體電路、液晶顯示面板與精密電子資通訊產品。兩國設有「駐秘魯台北經濟文化辦事處」負責維繫實質的雙邊商務投資、簽證簽發與跨太平洋漁業資源永續管理合作。近年來，隨著異國文史與美食旅遊在台灣蔚為風尚，前往庫斯科、一睹馬丘比丘神祕面紗以及搭乘小飛機俯瞰納茲卡線（Nazca Lines）的台灣探險旅客逐年顯著遞增，成為兩國最前沿的民間交流橋樑。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "The historical birth heartland of the ancient Inca Empire",
+          "Home to Machu Picchu, a legendary world wonder of the Andes",
+          "Spectacular integration of soaring Andes peaks and the Amazon basin",
+          "World-class culinary giant famous for Ceviche gastronomy"
+        ]
+      },
+      "zh": {
+        "list": [
+          "印加文明發源核心地區",
+          "擁有馬丘比丘世界遺產",
+          "安地斯與亞馬遜地貌並存",
+          "秘魯料理國際知名度高"
+        ]
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": "Peruvian Sol (PEN)"
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "Spanish, Quechua, Aymara (Official)",
+        "zh": "西班牙語、克丘亞語、艾馬拉語（官方）"
+      }
+    },
+    {
+      "label": "GDP (nom.)",
+      "value": "$260B"
+    },
+    {
+      "label": "Time zone",
+      "value": "UTC-5"
+    },
+    {
+      "label": "Calling code",
+      "value": "+51"
+    },
+    {
+      "label": "ISO code",
+      "value": "PE / PER"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🇵🇪",
+      "text": {
+        "en": "The Coat of Arms Flag — The red-white-red vertical flag, featuring the national shield showcasing the vicuña, cinchona tree, and cornucopia of prosperity",
+        "zh": "紅白紅戰盾國旗——兩側紅色條紋象徵為獨立奮鬥灑下的鮮血，中間白色象徵和平，中央盾徽包含安地斯國獸羊駝（Vicuña）、金雞納樹（Cinchona）及滿溢金幣的豐裕之角，代表無盡的自然與礦產富庶"
+      }
+    },
+    {
+      "icon": "🏔️",
+      "text": {
+        "en": "Machu Picchu Citadel — The legendary 15th-century Inca stone citadel nestled high in the mist-shrouded peaks of the Andes",
+        "zh": "馬丘比丘天空之城——座落於安地斯山脈海拔2,430公尺山脊上的印加帝國避暑宮殿，其驚人的無灰漿巨石拼接技術、梯田與神廟地景，是代表南美洲的「世界新七大奇蹟」"
+      }
+    },
+    {
+      "icon": "🦙",
+      "text": {
+        "en": "Andean Llamas and Alpacas — The iconic wool-producing camelids bred for centuries in high mountain pastures, central to native culture",
+        "zh": "安地斯高原羊駝——羊駝（Alpaca）與大羊駝（Llama）自前印加時代起便是安地斯高山生活的重要夥伴，其柔軟溫暖的羊駝毛是秘魯國寶級的編織工藝原料，被譽為「安地斯的軟黃金」"
+      }
+    },
+    {
+      "icon": "🥗",
+      "text": {
+        "en": "Ceviche Gastronomy — The legendary raw fish dish cured in fresh key lime juice with red onions, sweet potatoes, and giant Andean corn kernels",
+        "zh": "頂級國菜檸汁醃生魚——秘魯名列全球美食之都，其招牌菜「Ceviche」以鮮美海魚切塊，使用富含檸檬酸的青檸汁、辣椒與紅洋蔥醃漬，搭配甜地瓜與安地斯巨粒玉米，口感爽脆鮮活"
+      }
+    },
+    {
+      "icon": "🌳",
+      "text": {
+        "en": "Amazon Rainforest Basin — Covering over half of Peru's territory with incredible biodiversity and headwater river tributaries",
+        "zh": "亞馬遜綠色巨肺——秘魯國土有超過60%被亞馬遜熱帶雨林所覆蓋，是亞馬遜河的主要發源地，擁有地表最豐富的鳥類、哺乳動物與原始河道生態景觀"
+      }
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/288247",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=-81.5%2C-18.5%2C-68.5%2C0.0&layer=mapnik"
+}

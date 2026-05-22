@@ -1,0 +1,348 @@
+{
+  "name": {
+    "en": "Czech Republic",
+    "zh": "捷克"
+  },
+  "nativeName": "Česká republika",
+  "capital": {
+    "en": "Prague",
+    "zh": "布拉格"
+  },
+  "population": "10.9M",
+  "area": "78,867 km²",
+  "density": "139/km²",
+  "continent": "Europe",
+  "flagEmoji": "🇨🇿",
+  "dataEstYear": 2026,
+  "description": {
+    "en": "The Czech Republic is a landlocked country in Central Europe, bordered by Poland to the north, Germany to the west, Austria to the south, and Slovakia to the east. Renowned for its medieval towns, industrial heritage, vibrant beer culture, and rich history, it is one of Central Europe's major developed nations.",
+    "zh": "Czech Republic是位於中歐（Central Europe）的內陸共和國，北鄰波蘭（Poland），西接德國（Germany），南鄰奧地利（Austria），東接斯洛伐克（Slovakia）。捷克以其保存極為完整的中世紀古城、深厚的重工業與機械製造業基礎、名揚世界的璀璨啤酒文化與豐富的波希米亞歷史底蘊聞名，是中歐地區最具代表性的高度已開發國家之一。"
+  },
+  "seoText": {
+    "en": "Explore quick facts about the Czech Republic — population, land area, capital city Prague, and a brief overview. Discover how historic Bohemia, Pilsner brewing traditions, and modern industrial prowess define this developed Central European country.",
+    "zh": "快速了解捷克（Czech Republic）的完整基本資料：包括最新人口數據、土地面積、首都布拉格（Prague）與深度國家概述。帶您一探歷史悠久的波希米亞（Bohemia）文化底蘊、1842年流傳至今的皮爾森啤酒（Pilsner）釀造傳統，以及由汽車製造與機械工業建構起的現代卓越經濟實力。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Landlocked nation situated in Central Europe",
+          "Core of the historic Bohemian culture",
+          "Strong industrial and manufacturing foundation",
+          "World-renowned ancient cities and tourism resources"
+        ],
+        "text": "The capital of the Czech Republic is Prague, which serves as the nation's political, economic, and cultural hub, widely considered one of Europe's most iconic historical cities."
+      },
+      "zh": {
+        "list": [
+          "位於中歐（Central Europe）核心地帶的內陸國家",
+          "歷史悠久的波希米亞（Bohemia）與摩拉維亞（Moravia）文化核心",
+          "底蘊深厚的現代工業與精密製造業基礎",
+          "坐擁無數中世紀古城與百塔之城等世界頂級觀光資源"
+        ],
+        "text": "捷克（Czech Republic）的首都為布拉格（Prague），這座城市不僅是全國政治、經濟與文化的交會中樞，其石板路、紅色屋頂與保存完好的多樣化歷史建築，更被公認為歐洲最具代表性、最唯美浪漫的歷史文化名城之一。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Centrally located transportation hub in Europe",
+          "Topography dominated by hills and highlands",
+          "High ratio of forest coverage",
+          "Completely landlocked with no coastline"
+        ],
+        "text": "Strategically situated in the heart of Europe, the Czech Republic has historically served as a vital trade and transit corridor between East and West. The western Bohemian region is ringed by low mountains, while the eastern Moravian region features more low-lying, rolling plains."
+      },
+      "zh": {
+        "list": [
+          "地理位置優越，身處中歐（Central Europe）核心的交通樞紐地區",
+          "地形結構豐富，主要以綿延的丘陵、高地以及盆地為主",
+          "綠意盎然的國土，森林覆蓋率極高且自然生態發達",
+          "被完全包圍的內陸國家，境內並無直接臨海的海岸線"
+        ],
+        "text": "捷克（Czech Republic）戰略性地坐落於歐洲的心臟地帶，在歷史長河中，長期扮演著連接東西歐交通、貿易與文化對話的關鍵走廊。地形上，西部的波希米亞（Bohemia）地區由低矮的山脈（如蘇台德山脈等）環繞，形成天然盆地；而東部的摩拉維亞（Moravia）地區則呈現更為開闊平坦、起伏舒緩的肥沃丘陵與平原風貌。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Temperate continental climate",
+          "Four highly distinct seasons",
+          "Cold and snowy winter seasons",
+          "Warm and pleasant summer seasons"
+        ],
+        "text": "Influenced by its landlocked location in Central Europe, the Czech Republic features relatively cold winters and comfortable summers. Spring and autumn showcase dramatic weather shifts and stand as highly popular periods for tourism."
+      },
+      "zh": {
+        "list": [
+          "典型的溫帶大陸性氣候",
+          "氣候四季分明，各季節皆有其獨特景致",
+          "冬季氣溫常在零度以下，降雪豐富且寒冷",
+          "夏季乾爽溫暖不悶熱，陽光充足且氣候宜人"
+        ],
+        "text": "受限於中歐（Central Europe）的內陸地理位置，捷克（Czech Republic）展現出鮮明的大陸性氣候特徵。冬季白雪皚皚，為古城抹上一層銀白神祕感；夏季則舒適涼爽，極適合戶外探索。而春季的繁花盛開與秋季的金黃楓紅，由於氣候過渡劇烈卻充滿詩意，向來是全球旅人最嚮往的黃金觀光季節。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Population around 11 million",
+          "Concentrated primarily in urban areas",
+          "Highly urbanized society",
+          "Relatively slow population growth"
+        ],
+        "text": "The population of the Czech Republic is primarily concentrated in major cities such as Prague and Brno. The official language is Czech, and the country boasts very high overall literacy rates and educational standards."
+      },
+      "zh": {
+        "list": [
+          "全國總人口維持在 1,100 萬左右的穩定規模",
+          "人口高度集中於工商業發達的都市圈",
+          "都市化發展程度極高的高端社會結構",
+          "人口成長相對緩慢，呈現已開發國家的少子高齡化趨勢"
+        ],
+        "text": "捷克（Czech Republic）的人口主要集中於首都布拉格（Prague）以及第二大城布爾諾（Brno）等核心都會區。根據最新官方人口統計數據，捷克境內的主要族群結構為：捷克人（Czechs）佔 83.8%，其次為摩拉維亞人（Moravians）佔 4.9%，而主要的移民群體則以波蘭裔（Poles）、烏克蘭裔與斯洛伐克裔為主，其中波蘭裔移民約佔 0.6%。官方語言為捷克語（Czech），整個社會擁有傲視歐洲的極高教育普及率與幾乎百分之百的成人識字率。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "Major industrial hub in Central Europe",
+          "Highly advanced automotive manufacturing sector",
+          "Export-oriented economic model",
+          "Deeply integrated economic ties with Germany"
+        ],
+        "text": "The Czech economy is centered on manufacturing and industrial exports, with automotive, machinery, and electronics holding significant positions. Škoda Auto represents one of the nation's most iconic and globally recognized brands."
+      },
+      "zh": {
+        "list": [
+          "歷史悠久且基礎紮實的中歐（Central Europe）第一線工業大國",
+          "高度發達且供應鏈完整的汽車製造與精密機械產業",
+          "極度依賴歐盟市場的典型出口導向型經濟模型",
+          "與鄰國德國（Germany）在產業鏈上進行深度且緊密的經濟整合"
+        ],
+        "text": "捷克（Czech Republic）的經濟實力厚實，主要建立在高度發展的製造業與工業出口之上。其中汽車製造、重型精密機械、光學與電子產業在國際上佔有舉足輕重的地位。家喻戶曉的百年汽車品牌斯柯達（Škoda Auto），不僅是捷克工業技術的驕傲，更是該國在國際舞台上最著名的經濟象徵。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Parliamentary representative democratic republic",
+          "Proud member of the European Union and NATO",
+          "Well-established local administrative systems",
+          "Relatively stable political environment"
+        ],
+        "text": "The Czech Republic operates under a parliamentary democratic system, where the President serves as head of state and the Prime Minister leads the government representing the parliamentary majority. In 1993, the country peacefully separated from Slovakia to become an independent nation."
+      },
+      "zh": {
+        "list": [
+          "穩健運作的議會內閣制民主共和國",
+          "歐盟（European Union）與北約（NATO）的堅實核心成員國",
+          "地方自治與行政劃分制度相當完善健全",
+          "在中東歐地區中，政治風險極低且局勢相對穩定"
+        ],
+        "text": "捷克（Czech Republic）採取成熟的議會民主制度。實權由總理（Prime Minister）掌握並領導國會多數黨政府，而總統（President）則身為國家元首，履行代表性職權。回溯至 1993 年，捷克與斯洛伐克（Slovakia）達成了歷史上著名的「天鵝絨分離（Velvet Divorce）」，雙方以無流血的和平手段宣告各自獨立，傳為國際政治史上的佳話。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Quality of life among the highest in Central Europe",
+          "Highly developed public transportation systems",
+          "Widespread access to education and healthcare",
+          "Relatively low cost of living compared to Western Europe"
+        ],
+        "text": "The Czech Republic features excellent public transit and municipal infrastructure, with Prague recognized as an incredibly livable and popular global city. The cost of living remains highly competitive and affordable compared to Western European counterparts."
+      },
+      "zh": {
+        "list": [
+          "國民生活品質與人類發展指數名列中歐（Central Europe）前茅",
+          "大眾運輸系統發達、準點，準確銜接城鄉",
+          "全民均享有極高水準的高等教育機會與醫療福利保障",
+          "相較於鄰近的西歐（Western Europe）國家，生活成本極具競爭力"
+        ],
+        "text": "捷克（Czech Republic）國內基礎建設完備，大眾運輸與市政服務皆相當先進。首都布拉格（Prague）更是屢屢在國際評比中，被選為全球最安全、最宜居、最適合數位遊牧民族發展的超級明星都市。更吸引人的是，這裡在維持高水準生活機能的同時，物價與房租相較西歐顯得格外親民且合理。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "Rich Central European historical heritage",
+          "Deep-seated classical music traditions",
+          "World-famous beer and brewing culture",
+          "Remarkably preserved medieval architecture"
+        ],
+        "text": "The Czech Republic has contributed deeply to classical music, literature, and architectural history. It maintains the highest per-capita beer consumption in the world, with its historic brewing culture standing as a primary national symbol."
+      },
+      "zh": {
+        "list": [
+          "融合神聖羅馬帝國與奧匈帝國血統的濃厚中歐（Central Europe）歷史遺產",
+          "孕育出德弗札克與史麥塔納的深厚古典音樂與歌劇傳統",
+          "冠絕全球的黃金拉格啤酒文化，視啤酒為液體麵包",
+          "二戰期間奇蹟般未受大規模轟炸、保存極其完整的中世紀建築群"
+        ],
+        "text": "捷克（Czech Republic）在世界文化史上貢獻斐然，從古典音樂巨匠德弗札克（Antonín Dvořák）、史麥塔納（Bedřich Smetana），到文學大師卡夫卡（Franz Kafka）、米蘭·昆德拉（Milan Kundera），皆是在此滋養筆尖與音符。此外，捷克擁有連續多年蟬聯世界第一、傲視全球的人均啤酒消費量。自 1842 年在皮爾森（Plzeň）釀造出第一杯清澈的黃金拉格起，這份小麥微醺早已昇華為捷克的國家尊嚴與日常社交命脈。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Structural demographic aging issues",
+          "Challenges in energy transition and decarbonization",
+          "Escalating housing costs and rental prices",
+          "Widespread shortages of technical labor"
+        ],
+        "text": "The Czech Republic faces demographic challenges from an aging society and a shortage of skilled technical workers. Major metropolitan areas like Prague also deal with overtourism issues and rising residential property values."
+      },
+      "zh": {
+        "list": [
+          "結構性的少子高齡化與人口老化社會危機",
+          "重工業轉型綠能與應對歐盟減碳政策的沉重挑戰",
+          "一線都市的蛋黃區房價與租金近年急遽攀升",
+          "製造業與高科技產業面臨普遍性的基層技術勞動力短缺"
+        ],
+        "text": "儘管經濟表現亮眼，捷克（Czech Republic）近年來亦受困於人口結構老化、退休金體系壓力以及高階藍領技術人才斷層等問題。隨著歐洲環保法規日益嚴格，如何將傳統的高排碳重工業升級為低碳綠能經濟，是政府的一大考驗。同時，布拉格（Prague）等一線觀光名城亦深受「觀光過度（Overtourism）」帶來的短期民宿擴張、生活排擠效應與市區房地產價格失控的雙重壓力。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Prague — Famed capital and historic heart",
+          "Brno — Second largest city and technological hub",
+          "Plzeň — Brewing capital and cradle of Pilsner beer",
+          "Charles Bridge — Iconic stone gothic bridge in Prague"
+        ],
+        "text": "Prague features one of the world's most pristine and complete collections of medieval, Gothic, and Baroque architecture, earning its designation as a UNESCO World Heritage city."
+      },
+      "zh": {
+        "list": [
+          "布拉格（Prague）——千塔之城與文藝復興浪漫心臟，整座舊城皆是古蹟",
+          "布爾諾（Brno）——全國第二大都市，融合現代司法體系與南摩拉維亞高科技矽谷中心",
+          "皮爾森（Plzeň）——全世界拉格啤酒的靈魂發源地，朝聖百年酒廠的釀造聖殿",
+          "查理大橋（Charles Bridge）——布拉格（Prague）最具代表性的古老哥德式石雕橋梁"
+        ],
+        "text": "布拉格（Prague）的舊城區完好封存了自中世紀、哥德式、巴洛克式至新藝術風格等不同時期的建築巨作。漫步於此彷彿置身於大型露天建築博物館，這份獨一無二的完好度也讓整座城市當之無愧地被聯合國教科文組織（UNESCO）列為世界文化遺產城市。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "Full member state of the European Union",
+          "Full member state of the NATO alliance",
+          "Key participant in Central European regional alliances",
+          "Intense economic ties with neighboring Germany"
+        ],
+        "text": "The Czech Republic plays a pivotal role in European industrial supply chains and manufacturing, maintaining exceptionally deep economic and trade linkages with Germany."
+      },
+      "zh": {
+        "list": [
+          "歐盟（European Union）具有投票權與重要產業發言權的正式成員國",
+          "北約（NATO）大西洋防務體系在東歐的重要戰略結盟防線",
+          "維謝格拉德集團（Visegrád Group）等中歐區域合作組織的關鍵倡議者",
+          "與鄰國德國（Germany）建立了不可分割的深層跨境產業供應鏈網路"
+        ],
+        "text": "捷克（Czech Republic）在整個歐洲的汽車零組件、資通訊軟體與智慧機械供應鏈中站穩了樞紐核心位置。透過與德國（Germany）巴伐利亞邦及薩克森邦極為密切的跨境經濟、經貿合作夥伴關係，捷克已轉型為支撐歐洲實體經濟運轉的重要發動機。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Bilateral exchanges growing in recent years",
+          "High focus on high-tech and semiconductor cooperation",
+          "Increasing educational and cultural initiatives",
+          "One of Taiwan's primary Central European partners"
+        ],
+        "text": "Bilateral relations between the Czech Republic and Taiwan have warmed significantly, with substantial focus on semiconductor investment, educational exchange, and high-level political interactions."
+      },
+      "zh": {
+        "list": [
+          "雙邊實質外交與民間友好互動近年來呈現爆發式增長",
+          "聚焦於高科技、網路安全、衛星供應鏈與半導體封測研發合作",
+          "兩國大專院校締結姊妹校、學術獎學金等文教互訪倡議顯著提升",
+          "台灣（Taiwan）在中東歐地區戰略佈局中，最堅實且最坦誠的民主盟友之一"
+        ],
+        "text": "捷克與台灣的雙邊實質關係近年急速升溫，兩國在民主自由的共同價值基礎上展開深度對話。不僅有多次高規格的國會與內閣層級代表團正式互訪，在經濟實質層面上，更圍繞著半導體人才培育中心（STC）、高階晶片設計研發、供應鏈投資以及直航航班拓展展開具體合作，捷克無疑已成為台灣（Taiwan）走向歐洲的戰略橋頭堡。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "Peacefully separated from Slovakia in 1993",
+          "Prague ranks as one of Europe's most beautiful old cities",
+          "World-renowned Pilsner beer brewing culture",
+          "Core manufacturing and industrial powerhouse of Central Europe"
+        ],
+        "text": "The Czech Republic beautifully blends medieval romance with high-tech industrial competence, offering a uniquely charming European experience."
+      },
+      "zh": {
+        "list": [
+          "於1993年和平歷經天鵝絨分離（Velvet Divorce），與斯洛伐克各自寫下新歷史",
+          "布拉格（Prague）長期蟬聯全球旅人心中一生必訪的歐洲最美古城冠軍",
+          "以黃金下拉格啤酒風靡全球，擁有無可撼動的酒神文化正統實力",
+          "撕下昔日東歐標籤，展現出中歐（Central Europe）核心製造業與科技強國的硬實力"
+        ],
+        "text": "捷克（Czech Republic）最迷人的地方，在於它將中世紀天際線的石塔浪漫、伏爾塔瓦河畔的波希米亞文藝底蘊，與現代尖端科技、工業4.0的實業精神完美揉合在一起。無論是從歷史觀光還是經濟發展的視角來看，這座黃金之國都散發著獨一無二、層次豐富的歐洲魅力。"
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": "Czech Koruna (CZK)"
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "Czech",
+        "zh": "捷克語"
+      }
+    },
+    {
+      "label": "GDP (nom.)",
+      "value": "$330B"
+    },
+    {
+      "label": "Time zone",
+      "value": "UTC+1"
+    },
+    {
+      "label": "Calling code",
+      "value": "+420"
+    },
+    {
+      "label": "ISO code",
+      "value": "CZ / CZE"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🏰",
+      "text": {
+        "en": "Prague Castle — the largest ancient castle complex in the world and seat of Czech kings",
+        "zh": "布拉格城堡（Prague Castle）——吉尼斯世界紀錄認證全球歷史上保存最完整、規模最浩大的古城堡建築群，曾為波希米亞（Bohemia）國王、神聖羅馬帝國皇帝及現今捷克總統的權力與榮耀居所"
+      }
+    },
+    {
+      "icon": "🌉",
+      "text": {
+        "en": "Charles Bridge — iconic 14th-century Gothic stone bridge spanning the Vltava River",
+        "zh": "查理大橋（Charles Bridge）——橫跨伏爾塔瓦河（Vltava River）的十四世紀哥德式美學石橋，橋身聳立著三十尊精美絕倫的聖者巴洛克雕像，是戀人漫步與藝術家匯聚的浪漫代名詞"
+      }
+    },
+    {
+      "icon": "⏰",
+      "text": {
+        "en": "Prague Astronomical Clock — famous medieval clock mounted on the Old Town Hall since 1410",
+        "zh": "布拉格天文鐘（Prague Astronomical Clock）——自 1410 年便精準安裝於老城市政廳牆面上的中世紀科學與機械奇蹟，每逢整點上演的「十二使徒」木偶轉動報時引來無數全球旅人駐足讚嘆"
+      }
+    },
+    {
+      "icon": "🍺",
+      "text": {
+        "en": "Pilsner Beer Culture — the birthplace of pilsner lagers in Plzeň since 1842",
+        "zh": "皮爾森啤酒文化（Pilsner Beer Culture）——自 1842 年於皮爾森（Plzeň）市誕生世界上第一款色澤金黃澄澈的底層發酵拉格啤酒起，便徹底改寫了全球金黃拉格啤酒的釀造與品飲歷史"
+      }
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/51684",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=12.0%2C48.5%2C18.9%2C51.1&layer=mapnik"
+}

@@ -1,0 +1,353 @@
+{
+  "name": {
+    "en": "Morocco",
+    "zh": "摩洛哥"
+  },
+  "nativeName": "المملكة المغربية / Al-Mamlakah al-Maghribiyyah",
+  "capital": {
+    "en": "Rabat",
+    "zh": "拉巴特"
+  },
+  "population": "38M",
+  "area": "446,550 km²",
+  "density": "85/km²",
+  "continent": "Africa",
+  "flagEmoji": "🇲🇦",
+  "dataEstYear": 2025,
+  "description": {
+    "en": "Morocco, officially the Kingdom of Morocco, is a sovereign constitutional monarchy occupying the northwestern corner of North Africa. Framed by the Atlantic Ocean to the west and the Mediterranean Sea to the north, it is separated from Spain by the narrow Strait of Gibraltar, bordered by Algeria to the east, and lies adjacent to the Western Sahara territory to the south. Historically serving as the critical gateway and cultural bridge connecting Europe, Africa, and the Arab world, Morocco is globally celebrated for its ancient royal medinas, sweeping Sahara Desert dunes, and ornate Islamic architectural masterpieces.",
+    "zh": "Morocco（摩洛哥，全稱為摩洛哥王國）是位於北非西北部的君主立憲制國家。其西臨大西洋，北隔直布羅陀海峽與西班牙（Spain）相望，東接阿爾及利亞（Algeria），南端則鄰近西撒哈拉地區。摩洛哥在歷史上長期作為連接歐洲、非洲與阿拉伯世界的關鍵樞紐與文化橋樑，以其保存完好的中世紀皇家老城、一望無際的撒哈拉沙漠沙丘以及工藝精湛的伊斯蘭建築傑作而聞名於世。"
+  },
+  "seoText": {
+    "en": "Read quick facts about Morocco — population, land area, capital city, and short overview. Discover Rabat administrative history, Casablanca Hassan II Mosque, Marrakesh red medina marketplaces, Sahara Desert tours, and Atlas mountains.",
+    "zh": "快速了解摩洛哥的基本資料：人口、面積、首都與簡短概述。探索拉巴特行政歷史、卡薩布蘭卡哈桑二世清真寺、馬拉喀什紅色老城傳統市集、撒哈拉沙漠探險，以及阿特拉斯山脈風光。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Sovereign constitutional monarchy situated at the northwestern tip of Africa",
+          "Pivotal maritime gatekeeper bordering both Atlantic and Mediterranean waters",
+          "Deep historic synthesis of ancient Arab, indigenous Amazigh, and European heritage",
+          "Major global center for tourism, textiles, and green energy innovations"
+        ],
+        "text": "Framed by the rugged snow-capped peaks of the Atlas Mountains and opening into the rolling golden dunes of the Sahara, Morocco is a kingdom of spectacular visual contrasts. Celebrated for its maze-like imperial cities and colorful traditional souks, it represents a captivating fusion of Arab, Amazigh (Berber), and French colonial influences. The national languages are Arabic and Amazigh, while French remains widely spoken in business, government, and higher education.\n\nFrom the busy, historic square of Jemaa el-Fnaa in Marrakesh to the grand modern minaret of the Hassan II Mosque in Casablanca, Morocco stands as the enduring cultural and diplomatic crossroads of the Mediterranean basin."
+      },
+      "zh": {
+        "list": [
+          "位於北非西北部的重要國家",
+          "連接歐洲與非洲的重要門戶",
+          "歷史悠久的阿拉伯與柏柏爾文化國家",
+          "觀光與貿易產業發達"
+        ],
+        "text": "從阿特拉斯山脈（Atlas Mountains）白雪皚皚的險峻巔峰，到撒哈拉（Sahara）一望無際、綿延起伏的金黃沙丘，摩洛哥（Morocco）是一座充滿強烈視覺對比的傳奇王國。這座以迷宮般的帝國古城與色彩斑斕的傳統市集聞名於世的國度，完美融合了阿拉伯、北非原住民族柏柏爾人（Berbers）以及法國殖民時期的多元文化底蘊。官方語言為阿拉伯語與柏柏爾語（Amazigh），而法語在商業、政府運作及高等教育中仍被廣泛作為核心通用語。從馬拉喀什（Marrakesh）日夜喧囂、歷史悠久的德吉瑪廣場（Jemaa el-Fnaa），到卡薩布蘭卡（Casablanca）聳立於大西洋畔的哈桑二世清真寺（Hassan II Mosque）宏偉宣禮塔，摩洛哥始終是地中海盆地歷久彌新的文化與外交十字路口。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Dual oceanic coastlines spanning the Atlantic Ocean and Mediterranean Sea",
+          "Magnificent Atlas mountain range runs through the heart of the country",
+          "Deep interior merges into the sweeping expanses of the Sahara Desert",
+          "Varied terrain creating fertile coastal basins and desert green oases"
+        ],
+        "text": "Covering approximately 446,550 square kilometers, Morocco features a highly varied landscape. The majestic Atlas Mountains run from southwest to northeast, separating the fertile Mediterranean coast from the dry interior plains. The northern Rif Mountains border the Mediterranean Sea.\n\nTo the south, the landscape transitions into the vast Sahara Desert, creating spectacular golden dunes at Erg Chebbi and green river valley oases that have supported camel trade caravans for centuries."
+      },
+      "zh": {
+        "list": [
+          "擁有大西洋與地中海海岸線",
+          "阿特拉斯山脈貫穿國土",
+          "南部接近撒哈拉沙漠",
+          "地形多樣化明顯"
+        ],
+        "text": "摩洛哥國土面積約 446,550 平方公里，地理景觀層次極其豐富。雄偉的阿特拉斯山脈（Atlas Mountains）由西南向東北橫貫國境中央，將肥沃的地中海沿沿海平原與乾燥的內陸高原隔開，而北部的里夫山脈（Rif Mountains）則緊鄰地中海。往南方延伸，地勢逐漸過渡為廣袤無垠的撒哈拉沙漠（Sahara Desert），在梅祖卡（Merzouga）一帶形成了壯麗的厄格謝比（Erg Chebbi）金黃巨型沙丘，沿途點綴的綠洲河流谷地更在數百年間支撐了跨撒哈拉駱駝商隊的貿易命脈。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Northern coastal zones enjoy a mild Mediterranean climate style",
+          "Deep interior and southern desert plates experience hot, dry weather",
+          "High Atlas peaks receive heavy winter snowfalls and freezing winds",
+          "Atlantic ocean currents moderate coastal temperatures throughout the year"
+        ],
+        "text": "Morocco's climate is exceptionally varied. The northern and coastal regions enjoy a classic Mediterranean climate with hot, dry summers and mild, rainy winters. The high peaks of the Atlas Mountains experience cold alpine winters with heavy snowfall, supporting ski resorts like Oukaïmeden.\n\nIn contrast, the interior plains are hotter, while the southern desert areas face extreme Sahara temperatures and long dry spells."
+      },
+      "zh": {
+        "list": [
+          "北部屬地中海型氣候",
+          "內陸與南部較乾燥",
+          "山區冬季可降雪",
+          "沿海氣候相對溫和"
+        ],
+        "text": "摩洛哥的氣候差異極為顯著。北部及大西洋沿海地區屬於典型地中海型氣候，夏季炎熱乾燥，冬季溫和多雨，極其適合農業與城市發展。高聳的阿特拉斯山脈（Atlas Mountains）冬季則呈現寒 Alpine 高山氣候並伴隨降雪，甚至坐擁如烏凱邁丁（Oukaïmeden）等高山滑雪勝地。相反地，內陸平原隨著遠離海洋而愈發炎熱，南部與東部沙漠邊緣則面臨撒哈拉極端的晝夜溫差與長年乾旱。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Vibrant population of approximately 38 million diverse citizens",
+          "Unified synthesis of indigenous Amazigh and Arab ethnic heritages",
+          "Urban migration centered in large historical imperial cities",
+          "Highly youthful population structure driving tech and service sectors"
+        ],
+        "text": "Morocco has a population of 38 million, characterized by a deep historical synthesis of indigenous Amazigh (Berber) and Arab peoples. The official languages are Arabic and Amazigh, reflecting its constitutional heritage.\n\nFrench is widely used in trade, government, and universities, and Spanish is spoken in the north. The population is highly urbanized, centered in historical imperial cities like Casablanca, Rabat, Fes, and Marrakesh."
+      },
+      "zh": {
+        "list": [
+          "人口約 3800萬左右",
+          "阿拉伯與柏柏爾族群為主",
+          "城市化程度逐步提高",
+          "年輕人口比例較高"
+        ],
+        "text": "摩洛哥總人口約為 3,800 萬人，其人口結構由深具歷史淵源的原住民與移民族群交融而成。依據官方統計，以傳統母語及地緣區分，**北非最古老的主體民族柏柏爾人（Berbers，官方稱阿馬齊格人 Amazigh）約佔總人口的 40% 至 45%（約 1,520 萬至 1,710 萬人）**，廣泛分布於山區與南方沙漠；而**阿拉伯人（Arabs）及阿拉伯化柏柏爾人則約佔 55% 至 60%（約 2,090 萬至 2,280 萬人）**。官方語言為阿拉伯語與柏柏爾語，法語在跨國商務、政府公文及高等學術界同樣扮演著實質核心語的角色。摩洛哥人口高度都市化，絕大多數集中在卡薩布蘭卡（Casablanca）、拉巴特（Rabat）、非斯（Fes）與馬拉喀什（Marrakesh）等歷史悠久的四大四大四大四大帝國古城中。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "A highly diversified North African economy closely tied to Europe",
+          "World-leading exporter of phosphates, holding key global reserves",
+          "Booming aerospace, automotive assembly, and green energy parks",
+          "Tourism serves as a major pillar for foreign currency reserves"
+        ],
+        "text": "Morocco has one of the most stable and open economies in North Africa, boasting strong trade ties with the European Union. It is the world's largest exporter of phosphates, holding over 70% of global reserves, which are vital for international agriculture.\n\nIn recent years, the kingdom has built massive solar parks like the Noor Ouarzazate Solar Complex, while Tangier has grown into a major hub for automotive assembly and shipping."
+      },
+      "zh": {
+        "list": [
+          "北非重要經濟體之一",
+          "觀光業與農業發達",
+          "汽車製造快速成長",
+          "歐洲市場聯繫密切"
+        ],
+        "text": "摩洛哥是北非最穩定且最具開放性的經濟體之一，與歐洲聯盟（EU）維持著極其緊密的貿易同盟關係。該國是全球最大的磷酸鹽（Phosphates）出口國，境內掌控了全球高達 70% 以上的已知儲量，這使摩洛哥在全球農業肥料供應鏈中具有戰略地位。近年來，摩洛哥王國大力推動綠能轉型，興建了全球規模名列前茅的「瓦爾扎扎特努奧（Noor Ouarzazate）太陽能發電園區」，同時北方大港丹吉爾（Tangier）已迅速擴張為非洲頂尖的汽車組裝製造與貨櫃轉運物流中心。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Sovereign constitutional monarchy led by an executive King",
+          "The King holds ultimate political and religious authority",
+          "Bicameral Parliament manages state legislation and budgets",
+          "Maintains high political stability within the North African region"
+        ],
+        "text": "Morocco is a constitutional monarchy. The King, from the Alaouite dynasty, serves as the ultimate political and spiritual authority (Commander of the Faithful). The Prime Minister, appointed by the King, leads the government.\n\nThe country has a bicameral parliament, and its political system has remained exceptionally stable compared to many regional neighbors, supported by regular elections and local administrative reforms."
+      },
+      "zh": {
+        "list": [
+          "君主立憲制度",
+          "國王具有重要政治影響力",
+          "政治相對穩定",
+          "地方行政制度持續改革"
+        ],
+        "text": "摩洛哥是一個君主立憲制國家。來自阿拉維王朝（Alaouite Dynasty）的現任國王在憲法框架下擁有最高行政決策權與宗教精神權威（被奉為信徒的長官 Commander of the Faithful）。內閣總理則由國王從國會第一大黨中任命並領導政府運作。該國實行兩院制國會制度，負責審議法案與國家預算。得益於定期舉辦的民主選舉與穩健的地方行政權力改革，相較於其他北非鄰國，摩洛哥的政治環境與地緣局勢長年保持著極為罕見的高難度穩定。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Coexistence of traditional Islamic customs and modern lifestyles",
+          "Highly international vibe across major tourist cities and coastlines",
+          "Expanding public education, literacy, and vocational programs",
+          "Family values and religious customs remain vital to daily life"
+        ],
+        "text": "Moroccan society is defined by a beautiful balance of traditional Muslim customs and progressive modern lifestyles. While large cities like Casablanca boast high-tech business centers and trendy cafes, rural villages preserve ancient ways of living.\n\nImproving public schools, creating jobs for youth, and upgrading rural healthcare remain key social priorities."
+      },
+      "zh": {
+        "list": [
+          "傳統與現代文化並存",
+          "旅遊城市國際化程度高",
+          "教育與就業仍有挑戰",
+          "社會結構重視家庭與宗教"
+        ],
+        "text": "摩洛哥社會體現了傳統伊斯蘭教信仰與前衛現代都會生活方式之間的精妙平衡。當大西洋沿岸的卡薩布蘭卡（Casablanca）林立著高科技商務中心、時尚精品店與歐洲風情的咖啡館時，偏遠的山區與撒哈拉農牧村落仍完好保留著數百年如一日的古老生活步調。當前，摩洛哥政府的社會政策核心正聚焦於持續普及公共基礎教育、降低青年失業率，並大力消弭沿海經濟發達區與內陸農村之間的醫療和水利建設落差。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "Rich Islamic heritage with detailed mosaics and open riads",
+          "Intricate medieval medinas and busy traditional souk markets",
+          "Internationally celebrated cuisine featuring Tajines and Couscous",
+          "Beautiful brassware, leathercrafts, and hand-woven Berber carpets"
+        ],
+        "text": "Morocco has a remarkably rich cultural heritage. Its medieval medinas, protected as UNESCO World Heritage sites, are famous for their labyrinthine streets, traditional guest houses (riads), and busy souks.\n\nIts unique cuisine is globally celebrated, featuring delicious tajines, couscous, and mint tea (famously known as 'Moroccan whiskey'), while traditional crafts like geometric zellij tiling and leather tanning continue to flourish."
+      },
+      "zh": {
+        "list": [
+          "伊斯蘭文化色彩濃厚",
+          "古城與市集文化著名",
+          "摩洛哥料理享譽國際",
+          "音樂與工藝文化豐富"
+        ],
+        "text": "摩洛哥擁有舉世聞名的輝煌文化遺產。其境內多座被聯合國教科文組織（UNESCO）列為世界文化遺產的中世紀老城（Medina），以其如迷宮般交錯的狹窄無車巷弄、精緻的中庭花園宅邸「里亞德（Riad）」以及喧囂熙攘的傳統市集（Souk）吸引著全球旅人。摩洛哥料理同樣享譽國際，包含極具特色的塔吉鍋（Tagine）、庫斯庫斯（Couscous）以及被戲稱為「摩洛哥威士忌」的招牌薄荷熱綠茶；而幾何圖形拼貼的馬賽克磚（Zellij）工藝、手工黃銅敲花與古法皮革鞣製等傳統工藝，至今仍在老城中延續其蓬勃生命力。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Reducing youth unemployment and expanding modern job training",
+          "Managing severe water shortages and recurrent desert droughts",
+          "Closing development gaps between rich coastlines and rural villages",
+          "Ongoing international discussions regarding the Western Sahara region"
+        ],
+        "text": "Morocco's primary domestic challenges include high youth unemployment and severe water scarcity caused by climate change, which affects agricultural exports. \n\nThe government is building major seawater desalination plants to secure drinking water. Geopolitically, the Western Sahara sovereignty issue remains the focus of its international diplomacy."
+      },
+      "zh": {
+        "list": [
+          "青年失業問題",
+          "水資源與乾旱壓力",
+          "城鄉發展差距",
+          "西撒哈拉地區的主權爭議"
+        ],
+        "text": "摩洛哥當前正全力因應幾項結構性內政瓶頸。最嚴峻的挑戰在於氣候變遷導致的頻繁極端乾旱，這引發了嚴重的地下水與水資源短缺危機，並衝擊到作為經濟命脈的農產品出口。為此，政府已動工興建多座跨國規模的大型海水淡化廠以確保民生與農業用水安全。此外，創造穩定青年就業與消弭城鄉差距依然任重道遠。在國際外交地緣政治上，與阿爾及利亞（Algeria）及國際社會針對西撒哈拉地區（Western Sahara）的主權歸屬爭議，始終是摩洛哥外交體系的最核心戰略方針。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Rabat — Beautiful coastal capital and administrative heartland",
+          "Casablanca — Largest metropolis and home to the massive Hassan II Mosque",
+          "Marrakesh — Famous imperial red city and busy traditional souks",
+          "Fes el-Bali — One of the world's largest preserved medieval medinas"
+        ],
+        "text": "Marrakesh is the crown jewel of Moroccan tourism, famous for its red sandstone walls, Jemaa el-Fnaa square, and the beautiful Majorelle Garden. Casablanca boasts the Hassan II Mosque, a masterwork of Islamic architecture built over the ocean.\n\nFes el-Bali represents the intellectual heart of the nation, housing the ancient University of al-Qarawiyyin, founded in 859 AD."
+      },
+      "zh": {
+        "list": [
+          "拉巴特（Rabat）—首都與政治中心",
+          "卡薩布蘭卡（Casablanca）——最大城市與經濟中心",
+          "馬拉喀什（Marrakesh）——紅色古城與觀光重鎮",
+          "哈桑二世清真寺（Hassan II Mosque）——世界知名宗教建築"
+        ],
+        "text": "中世紀紅城馬拉喀什（Marrakesh）是摩洛哥觀光的最高皇冠，以其浪漫的紅色砂岩古城牆、日夜喧囂的德吉瑪廣場（Jemaa el-Fnaa）與典雅的馬若雷勒花園（Majorelle Garden）聞名全球；經濟巨埠卡薩布蘭卡（Casablanca）則坐擁無與倫比的哈桑二世清真寺（Hassan II Mosque），這座清真寺三分之一建於大西洋波濤之上，是現代伊斯蘭建築藝術的終極傑作；而古老的非斯舊城（Fes el-Bali）則被公認為國家的精神與知識心臟，境內完好保存了全球規模最大的中世紀無車步行迷宮老城，並矗立著創立於西元 859 年、被金氏世界紀錄認證為世界現存最古老高等學府的卡魯因大學（University of al-Qarawiyyin）。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "Pivotal diplomatic hub bridging Africa, Europe, and the Middle East",
+          "Maintains deep economic and security ties with France and Spain",
+          "Rejoined the African Union (AU) to lead regional cooperation",
+          "A highly active voice in Mediterranean trade and maritime security"
+        ],
+        "text": "Morocco plays a central diplomatic role in the Mediterranean and the African Union. It maintains exceptionally close security, commercial, and political ties with France and Spain.\n\nAs a crucial bridge between Europe, the Arab League, and sub-Saharan Africa, it actively supports regional economic cooperation and counter-terrorism programs."
+      },
+      "zh": {
+        "list": [
+          "北非重要外交國家",
+          "與歐洲經濟聯繫密切",
+          "非洲與阿拉伯世界橋樑",
+          "積極推動區域合作"
+        ],
+        "text": "摩洛哥在地中海盆地與全非政治舞台上扮演著舉足輕重的戰略外交樞紐。基於深厚的歷史地緣關係，它與法國（France）及西班牙（Spain）維持著極其緊密的國防安全、雙邊經貿與政治盟友夥伴關係。自成功重返非洲聯盟（AU）以來，摩洛哥積極扮演著歐洲、阿拉伯國家聯盟以及撒哈拉以南非洲之間無可替代的「三向地緣橋樑」，並在前沿反恐情報共享、跨境地中海海事安全維護與區域自由貿易整合中，持續發揮著核心領袖影響力。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Bilateral trade focused on petrochemicals, machinery, and textiles",
+          "Growing tourism exchanges driven by desert and cultural tours",
+          "Representative trade relations managed via nearby European offices",
+          "Potential cooperation in clean solar energy and desert farming"
+        ],
+        "text": "Taiwan and Morocco share non-official trade relations. High-value Moroccan phosphates, agricultural goods, and fish are exported to Taiwan, which in turn exports machinery, electronics, and textiles.\n\nBilateral tourism has increased rapidly, with many Taiwanese travelers visiting Marrakesh, Chefchaouen, and the Sahara Desert, supported by cultural and trade exchanges."
+      },
+      "zh": {
+        "list": [
+          "經穩往來有限",
+          "觀光與文化交流逐漸增加",
+          "北非市場合作具潛力",
+          "非官方互動為主"
+        ],
+        "text": "摩洛哥與台灣之間維持著穩健發展的非官方實質貿易與觀光民間夥伴關係。台灣常年向摩洛哥穩定採購其戰略性優質磷酸鹽礦產、高價值海產製品及特定精油農產物資；而台灣則向摩洛哥市場出口精密工業工具機、半導體電子組件、塑膠原料與機能性紡織面料，雙邊代表機構與商務對接多透過鄰近的歐洲館處進行遠端協助。近年來，隨著異國文化體驗風氣興起，前往馬拉喀什（Marrakesh）、夢幻藍城舍夫沙萬（Chefchaouen）以及深入梅祖卡（Merzouga）體驗撒哈拉沙漠宿營的台灣觀光人口迎來爆發式成長，成為兩國文化交流中最具溫度的民間橋樑。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "One of North Africa's absolute premier tourism and cultural destinations",
+          "Home to numerous spectacular UNESCO World Heritage medina cities",
+          "Deep synthesis of indigenous Amazigh and traditional Arab cultures",
+          "Famous global hub for Sahara Desert adventure tours and oasis safaris"
+        ]
+      },
+      "zh": {
+        "list": [
+          "北非觀光大國之一",
+          "擁有大量世界文化遺產古城",
+          "阿拉伯與柏柏爾文化融合明顯",
+          "撒哈拉沙漠旅遊聞名全球"
+        ]
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": "Moroccan Dirham (MAD)"
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "Arabic, Amazigh (Official), French",
+        "zh": "阿拉伯語、柏柏爾語（官方）、法語"
+      }
+    },
+    {
+      "label": "GDP (nom.)",
+      "value": "$140B"
+    },
+    {
+      "label": "Time zone",
+      "value": "UTC+1"
+    },
+    {
+      "label": "Calling code",
+      "value": "+212"
+    },
+    {
+      "label": "ISO code",
+      "value": "MA / MAR"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🇲🇦",
+      "text": {
+        "en": "The Solomon Seal Flag — The deep crimson red flag featuring the green pentagram Solomon's Seal, representing life, health, and wisdom",
+        "zh": "所羅門印記國旗——深紅色的底色象徵對國家的忠誠與英勇，中央的綠色五角星被稱為「所羅門之印（Seal of Solomon）」，象徵健康、智慧與生命"
+      }
+    },
+    {
+      "icon": "🏺",
+      "text": {
+        "en": "Imperial Medinas — Labyrinthine medieval walled cities like Fes and Marrakesh, filled with zellij tiles, spice markets, and leather tanneries",
+        "zh": "迷宮般的中世紀古城——非斯與馬拉喀什等歷史名城保留了世界最大規模的無車老城區，狹窄交錯的巷弄、斑斕的馬賽克磚（Zellij）與皮革染缸散發著濃郁的中世紀風情"
+      }
+    },
+    {
+      "icon": "🐪",
+      "text": {
+        "en": "Sahara Desert Dunes — The magnificent golden Erg Chebbi dunes, offering camel caravans and magical nights under starry desert tents",
+        "zh": "撒哈拉金黃沙丘——著名的梅祖卡（Merzouga） Erg Chebbi 巨型沙丘，夕陽下波浪般的金黃沙丘與悠遠的駱駝商隊，是無數旅人魂牽夢縈的沙漠探險終極聖地"
+      }
+    },
+    {
+      "icon": "🍲",
+      "text": {
+        "en": "Tagine Cuisine — The world-famous slow-cooked clay cone pot dishes, infused with rich Moroccan saffron, cumin, and dried fruits",
+        "zh": "享譽國際的塔吉鍋料理——使用特殊角錐形黏土蓋的塔吉鍋（Tagine），利用極少的水分循環燜煮羊肉、雞肉與各式辛香料、乾果，是摩洛哥最具代表性的美味"
+      }
+    },
+    {
+      "icon": "🕌",
+      "text": {
+        "en": "Hassan II Mosque — The stunning architectural masterwork in Casablanca, boasting the world's second-tallest minaret built over the sea",
+        "zh": "海上神殿哈桑二世清真寺——坐落於卡薩布蘭卡大西洋畔，擁有高達210公尺的世界第二高宣禮塔。三分之一面積建於海上，宣禮殿地板採用玻璃，可俯瞰滾滾波濤"
+      }
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/3630439",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=-13.2%2C27.6%2C-1.8%2C36.0&layer=mapnik"
+}

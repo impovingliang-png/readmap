@@ -1,0 +1,353 @@
+{
+  "name": {
+    "en": "Argentina",
+    "zh": "阿根廷"
+  },
+  "nativeName": "Argentina",
+  "capital": {
+    "en": "Buenos Aires",
+    "zh": "布宜諾斯艾利斯"
+  },
+  "population": "46M",
+  "area": "2,780,400 km²",
+  "density": "16.5/km²",
+  "continent": "Americas",
+  "flagEmoji": "🇦🇷",
+  "dataEstYear": 2025,
+  "description": {
+    "en": "Argentina is a vast country situated in the southern part of South America, bordered by the Atlantic Ocean to the east, and separated from Chile to the west by the towering Andes Mountains. Renowned for its sprawling Pampas grasslands, passionate football culture, elegant tango music, and exceptionally rich agricultural and livestock resources, Argentina stands as one of the most prominent nations in Latin America.",
+    "zh": "Argentina是位於南美洲南部的大型國家，東臨大西洋（Atlantic Ocean），西側與智利（Chile）隔著安地斯山脈（Andes Mountains）相望。阿根廷以廣闊草原、足球文化、探戈音樂與豐富農牧資源聞名，是拉丁美洲（Latin America）重要國家之一。"
+  },
+  "seoText": {
+    "en": "Explore quick facts about Argentina — population, land area, capital city, and a short overview. Learn about Argentina's Tango culture, Lionel Messi, Mendoza wine region, Iguazu Falls, and Patagonia's glaciers.",
+    "zh": "快速了解阿根廷的基本資料：人口、面積、首都與簡短概述。探索布宜諾斯艾利斯探戈舞廳、梅西與馬拉度納足球文化、門多薩馬爾貝克葡萄酒產區、伊瓜蘇大瀑布以及巴塔哥尼亞冰川。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Vast territory situated in the southern tip of South America",
+          "The second-largest country by land area in South America",
+          "Global agricultural powerhouse exporting grains and livestock",
+          "World-famous football culture deeply integrated into national identity"
+        ],
+        "text": "Argentina's history has been heavily shaped by Spanish colonization, eventually achieving independence in the 19th century to become one of South America's core economies. In the early decades of the 20th century, it stood proudly among the wealthiest countries in the world, but subsequently experienced notable periods of financial crisis and political shifts.\n\nIn the modern era, Argentina continues to exert substantial global cultural and economic influence, particularly in literature, tango, elite sports, livestock farming, and shale energy extraction."
+      },
+      "zh": {
+        "list": [
+          "位於南美洲南部",
+          "國土面積為南美第二大",
+          "農牧與糧食出口強國",
+          "足球文化享譽全球"
+        ],
+        "text": "阿根廷歷史深受西班牙（Spain）殖民影響，19 世紀獨立後逐步發展成南美重要經濟體。20 世紀初曾是世界最富裕國家之一，後來則經歷多次經濟危機與政治動盪。\n\n今日的阿根廷在文化、體育、農業與能源領域仍具有重要國際影響力。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Extremely diverse topography ranging from rain forests to glacial zones",
+          "Fertile Pampas flat grasslands dominate central farming industries",
+          "The majestic Andes Mountains frame the entire western border with Chile",
+          "Vast, cold, and windswept plateaus characterize Patagonia in the south"
+        ],
+        "text": "Spanning approximately 2.78 million square kilometers, Argentina is the second-largest nation in South America. The central Pampas plain features exceptionally fertile soils, acting as one of the world's most productive crop and livestock belts.\n\nThe western Andes Mountains establish a natural wall separating Argentina from Chile. In the south, the windswept Patagonian plateaus present cold, scenic vistas filled with vast glaciers and lakes. The historic capital of Buenos Aires sits at the mouth of the Río de la Plata along the eastern coast."
+      },
+      "zh": {
+        "list": [
+          "地形多樣化明顯",
+          "Pampas草原農業發達",
+          "Andes Mountains貫穿西部",
+          "南部Patagonia地區遼闊寒冷"
+        ],
+        "text": "阿根廷國土面積約 278 萬平方公里，是南美洲第二大國。中部潘帕斯（Pampas）草原土地肥沃，是全球重要農牧區之一；西部安地斯山脈（Andes Mountains）則形成與智利（Chile）的天然邊界。南部巴塔哥尼亞（Patagonia）地區人口稀少，擁有冰川、高原與強風地貌。北部則接近亞熱帶氣候區。首都布宜諾斯艾利斯（Buenos Aires）位於東部拉布拉他河（La Plata River）河口，是全國政治與經濟中心。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Substantial temperature and rainfall variations from north to south",
+          "Humid, hot, subtropical conditions characterize the north",
+          "Temperate, mild, and highly pleasant climate in the central plains",
+          "Cold, dry, and windswept subantarctic environments in the south"
+        ],
+        "text": "Due to its massive latitudinal span, Argentina contains incredibly varied climate types. The far north is warm, damp, and subtropical, while the central zones around Buenos Aires enjoy a mild, temperate climate ideal for agricultural yields.\n\nFurther south, Patagonia experiences cold, dry, subpolar conditions, with frozen terrains and subantarctic winds approaching the Southern Ocean."
+      },
+      "zh": {
+        "list": [
+          "氣候南北差異大",
+          "北部偏亞熱帶",
+          "中部氣候溫和",
+          "南部寒冷多風"
+        ],
+        "text": "由於國土南北跨度極大，阿根廷氣候類型十分多樣。北部地區較炎熱潮濕，中部布宜諾斯艾利斯（Buenos Aires）周邊氣候溫和，適合農業與人口聚集。巴塔哥尼亞（Patagonia）則屬寒冷乾燥氣候，部分區域接近冰原環境。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Dynamic population of approximately 46 million",
+          "Exceedingly high levels of metropolitan urbanization",
+          "Strong predominance of European immigrant ancestral descendants",
+          "Highly concentrated population density in the central-eastern hub"
+        ],
+        "text": "Argentina is home to roughly 46 million residents, with the vast majority living in the Buenos Aires metropolitan area and neighboring central hubs. \n\nThe demographic makeup is heavily composed of European descendants—principally Spanish and Italian immigrants—giving the nation's culture, architecture, and food a very distinct European feel. Spanish is the official language, spoken with a unique, rhythmic Rioplatense accent."
+      },
+      "zh": {
+        "list": [
+          "人口約 4,600 萬",
+          "高度城市化",
+          "歐洲移民後裔比例高",
+          "人口集中於中東部"
+        ],
+        "text": "阿根廷人口多集中於布宜諾斯艾利斯大都會區（Buenos Aires metropolitan area）與中部都市區。民族組成以歐洲後裔（European descendants）為主，特別是西班牙（Spain）與義大利（Italy）移民後裔，因此文化風格與歐洲（Europe）有較深連結。官方語言為西班牙語（Spanish），並具有獨特拉布拉他河西班牙語（Rioplatense Spanish）口音特色。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "World-class agricultural exporter of soybeans, wheat, and beef",
+          "Abundant mineral reserves and massive natural gas deposits",
+          "Historically challenged by systemic currency and high inflation cycles",
+          "Frequent financial fluctuations and structural fiscal reorganizations"
+        ],
+        "text": "Argentina is a global export titan in soy, corn, wheat, wine, and high-quality grass-fed beef. In energy, the Vaca Muerta geological formation in Neuquén represents one of the world's largest shale oil and gas deposits, drawing major foreign investments.\n\nHowever, the domestic economy has been chronically hindered by hyperinflation, currency devaluations, fiscal deficits, and recurrent debt restructuring battles with international lenders like the IMF."
+      },
+      "zh": {
+        "list": [
+          "農業出口實力強",
+          "礦產與能源資源豐富",
+          "長期面臨通膨問題",
+          "經濟波動頻繁"
+        ],
+        "text": "阿根廷是全球重要大豆、玉米、小麥與牛肉出口國，農牧業對經濟具有關鍵地位。近年死牛（Vaca Muerta）頁岩油氣（shale oil and gas）資源也受到國際關注，被視為重要能源潛力區。然而，阿根廷長期面臨高通膨、貨幣貶值、債務問題與財政不穩定等經濟挑戰。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Governed under a federal presidential republic framework",
+          "Executive administration is headed by the President",
+          "Divided into highly autonomous provinces and a federal district",
+          "Historically defined by intense political ideological debates"
+        ],
+        "text": "Argentina is a federal presidential republic, where the President acts as both head of state and head of government. The political environment is historically defined by the rivalry between Peronism (populist social programs) and center-right market liberalization movements.\n\nThe country's 23 provinces hold significant localized legislative authority, though Buenos Aires serves as the undisputed administrative and fiscal heart."
+      },
+      "zh": {
+        "list": [
+          "聯邦共和國體制",
+          "採總統制",
+          "分為多個省份",
+          "政治意識形態對立明顯"
+        ],
+        "text": "阿根廷為聯邦制共和國，由總統擔任國家元首與政府首長。政治上長期存在庇隆主義（Peronism）與其他政治勢力之間的競爭，社會對經濟與改革方向常有激烈辯論。各省擁有一定自治權，布宜諾斯艾利斯（Buenos Aires）則為全國政治核心。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Passionate football culture woven tightly into daily life",
+          "Remarkably high basic literacy and public educational achievements",
+          "Vibrant cafe culture and European social customs",
+          "Persistent economic crises affect local purchasing power"
+        ],
+        "text": "Argentina stands out in Latin America for its high standards of public university education and healthcare. Daily life is characterized by vibrant cafe socializing, late-night dinners, and tight-knit family gatherings.\n\nNonetheless, recurrent economic inflation and job market fluctuations put constant pressure on middle-class incomes and domestic purchasing power."
+      },
+      "zh": {
+        "list": [
+          "足球文化深植社會",
+          "教育普及率高",
+          "社會文化偏歐洲風格",
+          "經濟危機影響生活成本"
+        ],
+        "text": "阿根廷擁有相對完整教育與公共醫療體系，在拉丁美洲（Latin America）中教育水準相對較高。咖啡館文化、晚餐時間偏晚與社交活動頻繁是典型生活特色。不過，長期通膨與經濟不穩定對居民收入與生活品質造成持續壓力。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "The birthplace of the sensual and globally celebrated Tango",
+          "Football serves as a core, near-spiritual national symbol",
+          "Renowned traditions in South American literature and cinema",
+          "A rich, organic synthesis of European and Latin customs"
+        ],
+        "text": "Tango music and dance, emerging from the docks of 19th-century Buenos Aires, is a beloved UNESCO intangible heritage. Football is almost a secular religion, with legendary figures Diego Maradona and Lionel Messi celebrated as national icons.\n\nArgentina also possesses a towering literary heritage, led by legendary writer Jorge Luis Borges, alongside highly acclaimed achievements in Latin American cinema and contemporary theater."
+      },
+      "zh": {
+        "list": [
+          "Tango文化聞名世界",
+          "足球為國民文化核心",
+          "文學與藝術傳統深厚",
+          "歐洲與拉丁文化融合"
+        ],
+        "text": "探戈（Tango）起源於布宜諾斯艾利斯（Buenos Aires），被視為阿根廷最具代表性的文化象徵之一。足球在阿根廷具有極高地位，馬拉度納（Diego Maradona）與梅西（Lionel Messi）皆被視為國家英雄級人物。阿根廷在文學、電影與音樂領域亦具有重要國際影響力，例如作家波赫士（Jorge Luis Borges）享譽世界。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Combating structural hyperinflation and stabilizing currency values",
+          "Addressing household poverty rates and restructuring sovereign debt",
+          "Intense public debates over fiscal and free-market reforms",
+          "Unlocking shale energy and modernizing export infrastructures"
+        ],
+        "text": "Argentina's immediate trials center on bringing down structural inflation and rebuilding foreign currency reserves. The government frequently renegotiates structural reform packages and payments with the International Monetary Fund (IMF).\n\nKey contemporary debates focus on deregulation, currency systems, structural market reforms, and modernizing export terminals to boost agricultural revenues."
+      },
+      "zh": {
+        "list": [
+          "高通膨與貨幣危機",
+          "貧困率與債務問題",
+          "政治改革爭議",
+          "能源與經濟結構轉型"
+        ],
+        "text": "阿根廷近年持續面臨高通膨與貨幣貶值問題，生活成本波動劇烈。政府經常需與國際貨幣基金組織（IMF）協商債務與財政改革方案。此外，能源開發、外匯管制與市場改革方向也是重要政治議題。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Buenos Aires — Elegant, historic capital boasting European style",
+          "Córdoba — Historic university hub showing Spanish colonial style",
+          "Mendoza — Majestic Andean foothill region producing Malbec wines",
+          "Iguazú Falls — Breathtaking, colossal waterfalls on the northern border"
+        ],
+        "text": "Buenos Aires, often called the 'Paris of South America', is famous for its grand avenues, colorful La Boca district, and historic tango salons. Mendoza produces world-class Malbec wines nestled against the snowy backdrop of the Andes.\n\nIn the subtropical north, the massive Iguazú Falls cascades across the Brazil border, representing one of the most stunning, powerful natural waterfalls on the planet."
+      },
+      "zh": {
+        "list": [
+          "Buenos Aires——首都與文化中心",
+          "Córdoba——歷史與教育重鎮",
+          "Mendoza——葡萄酒產區核心",
+          "Iguazú Falls——世界著名瀑布景觀"
+        ],
+        "text": "布宜諾斯艾利斯（Buenos Aires）以歐洲風格建築、探戈（Tango）文化與夜生活聞名。哥爾多巴（Córdoba）是歷史與教育重鎮。門多薩（Mendoza）則是南美重要葡萄酒產區，馬爾貝克（Malbec）葡萄酒尤其著名。伊瓜蘇瀑布（Iguazú Falls）位於阿根廷與巴西（Brazil）邊境，是全球最壯觀瀑布群之一。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "Founding member of the MERCOSUR South American trade bloc",
+          "Extremely close geopolitical and commercial trade links with Brazil",
+          "Strong historical and cultural connections to Southern Europe",
+          "Persistent international focus on the Falkland Islands dispute"
+        ],
+        "text": "Argentina is a key anchor of MERCOSUR, collaborating closely on trade and transport networks with its primary neighbor, Brazil. It maintains exceptionally warm historical ties with Spain and Italy.\n\nIn global forums, Argentina consistently asserts its sovereign claims over the Falkland Islands (referred to domestically as Islas Malvinas), which remains a key focus of its foreign policy."
+      },
+      "zh": {
+        "list": [
+          "MERCOSUR成員國",
+          "與Brazil關係密切",
+          "與Europe文化連結深",
+          "在南美外交具有重要角色"
+        ],
+        "text": "阿根廷是南方共同市場（MERCOSUR）重要成員國，與巴西（Brazil）維持緊密經濟合作。同時，阿根廷與歐洲（Europe）特別是西班牙（Spain）與義大利（Italy）保持深厚歷史文化聯繫。在國際外交上，阿根廷也持續關注福克蘭群島（Falkland Islands，阿根廷稱馬爾維納斯群島 Islas Malvinas）主權議題。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Steady exchanges in agricultural commodities and machinery",
+          "Expanding public collaborations in culture, language, and art",
+          "Popular source of premium grass-fed beef and red wines",
+          "Amicable non-official commercial trade relationship"
+        ],
+        "text": "Argentina and Taiwan share a friendly non-official partnership, focusing on commerce, agricultural exchanges, and academic programs. \n\nArgentina's premium Malbec red wines, squid catches, and high-quality leather are well-known in Taiwanese markets. Mutual trade organizations work steadily to facilitate corporate links and visa coordination."
+      },
+      "zh": {
+        "list": [
+          "經緯與農產品交流存在",
+          "教育與文化互動有限增加",
+          "無正式外交關係",
+          "科技與商業合作逐漸發展"
+        ],
+        "text": "阿根廷與台灣之間無正式外交關係，但雙方在農產品、科技與商業領域仍有一定交流。阿根廷牛肉、葡萄酒與農產品在台灣具有一定市場。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "The second-largest country by territory in South America",
+          "Universally celebrated as the global home of Tango",
+          "Passionate football legacy that has shaped global sporting history",
+          "Briefly ranked among the top ten wealthiest global nations"
+        ]
+      },
+      "zh": {
+        "list": [
+          "南美洲第二大國",
+          "Tango發源地",
+          "足球文化全球知名",
+          "曾為世界最富裕國家之一"
+        ]
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": "Argentine Peso ($)"
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "Spanish",
+        "zh": "西班牙語"
+      }
+    },
+    {
+      "label": "GDP (nom.)",
+      "value": "$640B"
+    },
+    {
+      "label": "Time zone",
+      "value": "UTC-3"
+    },
+    {
+      "label": "Calling code",
+      "value": "+54"
+    },
+    {
+      "label": "ISO code",
+      "value": "AR / ARG"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "💃",
+      "text": {
+        "en": "Tango Culture — The passionate and sensual music and dance born in the neighborhoods of Buenos Aires representing UNESCO heritage",
+        "zh": "探戈文化——起源於布宜諾斯艾利斯港口街區、極富情感張力與節奏律動的雙人舞蹈，登錄為世界非物質文化遺產"
+      }
+    },
+    {
+      "icon": "⚽",
+      "text": {
+        "en": "Football Icons — Diego Maradona, Lionel Messi, and a three-time FIFA World Cup winning history forming a passionate national religion",
+        "zh": "足球傳奇與世界盃——擁有馬拉度納、梅西等劃時代超級巨星與三次世界盃奪冠歷史，足球在阿根廷是全民信仰的靈魂象徵"
+      }
+    },
+    {
+      "icon": "🥩",
+      "text": {
+        "en": "Argentine Asado — Traditional wood-fired barbecue featuring prime cuts of grass-fed beef defining local culinary life",
+        "zh": "阿根廷炭烤牛肉（Asado）——經典的窯木慢火烤肉大餐，選用優質潘帕斯草飼牛肉，是當地家庭團聚與社交的核心美食"
+      }
+    },
+    {
+      "icon": "❄️",
+      "text": {
+        "en": "Perito Moreno Glacier — The colossal advancing glacial wall in southern Patagonia offering spectacular, dynamic ice ruptures",
+        "zh": "莫雷諾冰川——位於南部巴塔哥尼亞、少數仍在持續前進的巨型活性冰川，高聳的蔚藍冰牆崩落時聲勢驚人、蔚為奇觀"
+      }
+    },
+    {
+      "icon": "🍷",
+      "text": {
+        "en": "Mendoza Malbec Vineyards — High-altitude vineyards nestled at the foot of the Andes producing rich, globally acclaimed red wines",
+        "zh": "門多薩馬爾貝克葡萄酒——坐落於安地斯山脈腳下的高海拔產區，所釀造的馬爾貝克紅葡萄酒果香濃郁，享譽全球"
+      }
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/286393",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=-74.0%2C-55.5%2C-53.0%2C-21.5&layer=mapnik"
+}

@@ -1,0 +1,353 @@
+{
+  "name": {
+    "en": "Japan",
+    "zh": "日本"
+  },
+  "nativeName": "にっぽん",
+  "capital": {
+    "en": "Tokyo",
+    "zh": "東京"
+  },
+  "population": "125M",
+  "area": "377,975 km²",
+  "density": "331/km²",
+  "continent": "Asia",
+  "flagEmoji": "🇯🇵",
+  "dataEstYear": 2025,
+  "description": {
+    "en": "Japan is an island nation in East Asia, consisting of four main islands—Hokkaido, Honshu, Shikoku, and Kyushu—and thousands of smaller ones. Known for its highly modernized economy, deep cultural traditions, and refined lifestyle, Japan blends technological innovation with historical depth to create a unique national identity.",
+    "zh": "Japan是位於東亞的島國，由北海道、本州、四國與九州四大島嶼及數千個小島組成，東臨太平洋，西隔日本海與亞洲大陸相望。以高度現代化經濟、深厚文化傳統與精緻生活方式聞名，日本融合科技創新與歷史底蘊，形成獨特的國家樣貌。"
+  },
+  "seoText": {
+    "en": "Explore quick facts about Japan — population, land area, capital city, and a short overview. Japan spans four main islands: Honshu, Hokkaido, Kyushu, and Shikoku. Mount Fuji, at 3,776 m, is the country's highest peak and a UNESCO World Heritage Site.",
+    "zh": "快速了解日本的基本資料：人口、面積、首都與簡短概述。日本由本州、北海道、九州、四國四大島為主；富士山海拔 3,776 公尺，是日本最高峰，也是世界知名地標。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Island nation located in East Asia",
+          "Consists of four main islands and thousands of smaller ones",
+          "One of the world's third-largest economies",
+          "Highly urbanized and technology-oriented society"
+        ],
+        "text": "Located on the Pacific Ring of Fire, Japan's topography is predominantly mountainous with sparse but densely populated plains. The Tokyo-Osaka-Nagoya corridor forms one of the world's most significant urban belts. As a developed nation, Japan leads in technology, manufacturing, and infrastructure, maintaining one of the highest life expectancies globally."
+      },
+      "zh": {
+        "list": [
+          "位於東亞的島國",
+          "由四大主島與數千個島嶼組成",
+          "全球第三大經濟體之一",
+          "高度城市化與技術導向社會"
+        ],
+        "text": "日本地處環太平洋火山帶，地形以山地為主，平原狹小且人口密集。東京、大阪與名古屋構成全球最重要的都市帶之一。其地理位置使日本在歷史上既受到中國與朝鮮文化影響，也發展出獨特的本土文明。\n\n作為已開發國家，日本在科技、製造業與基礎建設方面居世界領先地位，同時擁有全球最高之一的平均壽命與完善的公共服務體系。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Archipelago nation with a long, rugged coastline",
+          "Approx. 70% covered by mountains and forests",
+          "Located on the Ring of Fire; frequent earthquakes and volcanoes",
+          "Plains concentrated in coastal areas with high density"
+        ],
+        "text": "With a land area of approximately 378,000 square kilometers, Japan's terrain is rich and varied. The central mountain range divides the country into Pacific and Japan Sea climate zones. The Kanto and Kansai plains are the primary population and economic hubs. Its location on plate boundaries leads to frequent seismic activity, including the iconic Mount Fuji. The extensive coastline also supports thriving fishing and shipping industries."
+      },
+      "zh": {
+        "list": [
+          "國土由群島構成，海岸線曲折綿長",
+          "約 70% 為山地與森林覆蓋",
+          "位於環太平洋火山帶，地震與火山頻繁",
+          "平原集中於沿海地區，人口密集"
+        ],
+        "text": "日本國土面積約 37.8 萬平方公里，雖不大，便地形變化豐富。中央山脈貫穿本州，將國土分為太平洋側與日本海側兩種氣候區。關東平原與關西平原為最主要的人口與經濟核心。由於位於板塊交界，日本地震活動頻繁，並擁有大量火山，其中包括象徵性的富士山（Mount Fuji）。同時，豐富的海岸線也促進漁業與海運發展。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Climate ranges from cold temperate to subtropical",
+          "Distinct four seasons with obvious transitions",
+          "Hot and humid summers; heavy snow in the north during winter",
+          "Typhoons primarily impact in summer and autumn"
+        ],
+        "text": "Influenced by monsoons and ocean currents, Hokkaido has cold winters and heavy snow, while the mainland has four distinct seasons, and Okinawa remains subtropical. The rainy season (June–July) and late-summer typhoons are notable features that significantly influence Japanese agriculture, architecture, and lifestyle."
+      },
+      "zh": {
+        "list": [
+          "氣候橫跨寒帶至亞熱帶",
+          "四季分明，季節變化明顯",
+          "夏季高溫潮濕，冬季北部多雪",
+          "颱風主要影響夏秋季"
+        ],
+        "text": "日本氣候受季風與洋流影響顯著。北海道屬冷溫帶氣候，冬季嚴寒且降雪量大；本州大部分地區屬溫帶氣候，四季分明；沖繩則屬亞熱帶氣候，全年溫暖。梅雨季節（6–7 月）為全年重要氣候特徵之一，而夏秋之際的颱風亦可能帶來強降雨與災害。氣候條件深刻影響日本農業、建築與生活方式。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Population: approx. 125 million",
+          "High density: approx. 330 people/km²",
+          "Highly urbanized; concentrated in metropolis",
+          "One of the world's most aging societies"
+        ],
+        "text": "Population is primarily concentrated along the Pacific coast, particularly in the Tokyo area—the world's largest megalopolis. Osaka and Nagoya are also key hubs. The society faces severe issues with a low birthrate and aging population, leading to labor shortages and long-term social security challenges. Conservative immigration policies make these shifts even more pronounced."
+      },
+      "zh": {
+        "list": [
+          "人口約 1.25 億",
+          "人口密度高，約 330 人/平方公里",
+          "高度城市化，人口集中於都市圈",
+          "全球老齡化最嚴重的國家之一"
+        ],
+        "text": "日本人口主要集中於太平洋沿岸都市帶，尤其是以東京（Tokyo）為核心的首都圈，是全球最大都會區之一。大阪與名古屋亦為重要人口與經濟中心。日本社會面臨嚴重少子化與高齡化問題，65 歲以上人口比例持續上升，勞動力縮減對經濟與社會制度帶來長期挑戰。同時，日本在移民政策上相對保守，使人口結構變化更加顯著。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "World's third-largest economy",
+          "Highly developed manufacturing and technology",
+          "Automobiles and electronics as export cores",
+          "Services account for the largest share of GDP"
+        ],
+        "text": "Japan possesses a mature and highly diversified economy, leading globally in automotive, semiconductor equipment, and precision machinery. Iconic brands like Toyota and Sony remain key market players. The service sector, including finance and retail, accounts for over 70% of GDP, with Tokyo serving as a premier financial hub. Despite its scale, the nation faces long-term deflationary and low-growth pressures."
+      },
+      "zh": {
+        "list": [
+          "全球第三大經濟體",
+          "製造業與科技產業高度發達",
+          "汽車與電子產品為出口核心",
+          "服務業佔 GDP 最大比重"
+        ],
+        "text": "日本擁有成熟且高度多元的經濟體系，汽車、半導體設備與精密機械為全球領先產業。代表性企業如豐田（Toyota）與索尼（Sony）在全球市場具有重要地位。服務業約佔 GDP 的 70% 以上，其中金融、零售與觀光產業發達。東京是亞洲最重要的金融中心之一。儘管經濟規模龐大，日本長期面臨低成長與通縮壓力。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Constitutional monarchy",
+          "Parliamentary democracy system",
+          "Divided into 47 prefectures",
+          "The Emperor as a symbolic head"
+        ],
+        "text": "Japan is a constitutional monarchy where Emperor Naruhito plays a symbolic role. Actual power lies with the Prime Minister and the Diet. The bicameral legislature consists of the House of Representatives and the House of Councillors. The country is divided into 47 prefectures, with local governments handling regional administration under significant central coordination."
+      },
+      "zh": {
+        "list": [
+          "君主立憲制國家",
+          "採議會民主制度",
+          "分為 47 個都道府縣",
+          "天皇為象徵性元首"
+        ],
+        "text": "日本為立憲君主制國家，現任天皇為德仁（Naruhito），主要扮演象徵性角色。實際政治權力由首相與國會掌握。國會為兩院制，包括眾議院與參議院。行政區劃分為 47 個都道府縣，各地政府負責地方行政與公共服務。中央政府在財政與政策上仍具有高度主導權。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "High education standards; near 100% literacy",
+          "Excellent healthcare; world-leading longevity",
+          "Advanced and punctual public transport",
+          "Emphasis on norms and collective consciousness"
+        ],
+        "text": "Known for high efficiency and order, Japanese society maintains clean and safe public spaces. The healthcare insurance covers the entire population, providing affordable care. The rail system is exceptionally advanced, with the Shinkansen (Bullet Train) being a global benchmark for punctuality and efficiency, deeply shaping urban life."
+      },
+      "zh": {
+        "list": [
+          "教育水準高，識字率接近 100%",
+          "醫療體系完善，壽命全球頂尖",
+          "公共交通系統發達且準時",
+          "社會秩序強調規範與集體意識"
+        ],
+        "text": "日本社會以高效率與秩序著稱，公共空間整潔、安全性高。教育制度競爭激烈，高等教育普及率高。醫療保險制度覆蓋全體國民，提供相對可負擔的醫療服務。鐵路系統高度發達，其中新幹線（Shinkansen）為全球最準時與高效率的高速鐵路之一，深刻影響日常生活與城市發展。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "Blend of tradition and modernity",
+          "Emphasis on etiquette and collective harmony",
+          "Globally renowned cuisine",
+          "High impact of anime and pop culture"
+        ],
+        "text": "Rooted in Shinto and Buddhism, traditional arts like tea ceremony, ikebana, and kimono showcase refined aesthetics. Cuisine like Sushi and Ramen is world-famous. In the modern era, anime, gaming (e.g., Super Mario), and music industries exert massive global cultural influence."
+      },
+      "zh": {
+        "list": [
+          "融合傳統與現代的文化體系",
+          "重視禮儀、秩序與群體和諧",
+          "飲食文化享譽全球",
+          "動漫與流行文化影響力巨大"
+        ],
+        "text": "日本文化深受神道與佛教影響，傳統藝術如茶道、花道與和服展現精緻審美。飲食文化如壽司（Sushi）與拉麵在全球廣受歡迎。現代文化方面，日本的動漫、遊戲與音樂產業具有全球影響力，例如《超級瑪利歐（Super Mario）》與動漫作品已成為文化輸出的重要象徵。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Aging and declining birthrate",
+          "Long-term low economic growth",
+          "Import-dependent energy",
+          "High natural disaster risks"
+        ],
+        "text": "Japan faces structural demographic issues and economic transition challenges, balancing energy security with carbon goals. The 2011 Fukushima disaster significantly altered energy policy. Additionally, managing risks from earthquakes and typhoons remains a priority for infrastructure resilience."
+      },
+      "zh": {
+        "list": [
+          "人口老化與少子化",
+          "經濟長期低成長",
+          "能源依賴進口",
+          "自然災害風險高"
+        ],
+        "text": "日本正面臨結構性人口問題與經濟轉型挑戰，同時需在能源安全與減碳政策之間取得平衡。2011 年的福島核災（Fukushima nuclear disaster）對能源政策產生深遠影響。此外，地震與颱風等自然災害仍是長期風險，政府持續強化防災與韌性建設。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Tokyo — World's largest metropolitan area",
+          "Osaka — Commercial and industrial heart",
+          "Kyoto — Ancient cultural capital",
+          "Mount Fuji — Symbol of Japan"
+        ],
+        "text": "Tokyo is the political and economic hub with leading technologies. Osaka serves as the western economic center, while Kyoto preserves vast historical assets. Mount Fuji, as the highest peak, is both a natural wonder and a core cultural icon."
+      },
+      "zh": {
+        "list": [
+          "東京（Tokyo）——全球最大都會區",
+          "大阪（Osaka）——商業與工業重鎮",
+          "京都（Kyoto）——歷史文化古都",
+          "富士山（Mount Fuji）——日本象徵"
+        ],
+        "text": "東京（Tokyo）是政治與經濟中心，擁有全球領先的金融與科技產業。大阪（Osaka）為西日本經濟核心，而京都（Kyoto）則保留大量歷史文化資產。富士山（Mount Fuji）作為日本最高峰，不僅是自然地標，也是文化象徵，每年吸引大量旅客與登山者。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "G7 member state",
+          "US-Japan alliance at the core",
+          "Active in international organizations",
+          "Influential in the Asian region"
+        ],
+        "text": "As a G7 member, Japan maintains close security and economic ties with the United States. It plays a pivotal role in the UN, APEC, and WTO, focusing on multilateral cooperation and regional stability in its diplomacy."
+      },
+      "zh": {
+        "list": [
+          "G7 成員國",
+          "美日同盟為外交核心",
+          "積極參與國際組織",
+          "在亞洲具有重要影響力"
+        ],
+        "text": "日本是七大工業國組織（G7）成員，並與美國（United States）維持密切安全與經濟合作關係。同時，日本在聯合國（United Nations）、亞太經濟合作會議（APEC）與世界貿易組織（WTO）等國際組織中扮演重要角色，外交政策重視多邊合作與區域穩定。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Close economic and tourism ties",
+          "Frequent cultural interactions",
+          "Mutually top travel destinations",
+          "Friendly unofficial relations"
+        ],
+        "text": "Japan and Taiwan maintain a very close unofficial relationship with high-frequency trade and tourism. Japan is the most popular destination for Taiwanese travelers, with numerous direct flights and deep cultural affinity between the two societies."
+      },
+      "zh": {
+        "list": [
+          "經饋與觀光交流密切",
+          "文化與民間互動頻繁",
+          "互為重要旅遊目的地",
+          "非正式但關係友好"
+        ],
+        "text": "日本與台灣之間維持密切的非官方關係，雙方在貿易、科技與觀光領域往來頻繁。日本是台灣旅客最熱門的旅遊目的地之一，雙方之間有多條直飛航線。文化上亦有高度親近性，彼此影響深遠。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "Top-tier passport strength",
+          "One of the highest life expectancies",
+          "Leading in global innovation",
+          "A top tourism destination in Asia"
+        ]
+      },
+      "zh": {
+        "list": [
+          "全球護照強度排名前列",
+          "平均壽命世界最高之一",
+          "全球創新指數名列前茅",
+          "觀光人次亞洲領先國家之一"
+        ]
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": "¥ Yen"
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "Japanese",
+        "zh": "日語"
+      }
+    },
+    {
+      "label": "GDP (nom.)",
+      "value": "$4.2T"
+    },
+    {
+      "label": "Time zone",
+      "value": "UTC+9"
+    },
+    {
+      "label": "Calling code",
+      "value": "+81"
+    },
+    {
+      "label": "ISO code",
+      "value": "JP / JPN"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🗻",
+      "text": {
+        "en": "Mount Fuji — iconic stratovolcano and Japan's highest peak at 3,776 m",
+        "zh": "富士山——象徵性的成層火山，日本最高峰（3,776 公尺）"
+      }
+    },
+    {
+      "icon": "🏯",
+      "text": {
+        "en": "Himeji Castle — finest surviving feudal castle in Japan, a UNESCO site",
+        "zh": "姬路城——保存最完整的日本城郭之一，亦為世界遺產"
+      }
+    },
+    {
+      "icon": "🌸",
+      "text": {
+        "en": "Cherry blossom season (hanami) — celebrated every spring across the country",
+        "zh": "櫻花季（花見）——每年春天全國各地的代表性活動"
+      }
+    },
+    {
+      "icon": "🚄",
+      "text": {
+        "en": "Shinkansen bullet trains — connecting cities at up to 320 km/h since 1964",
+        "zh": "新幹線——自 1964 年起以最高約 320 公里／時串聯城市"
+      }
+    },
+    {
+      "icon": "🍣",
+      "text": {
+        "en": "World-renowned cuisine: sushi, ramen, tempura, and kaiseki dining",
+        "zh": "世界知名的飲食文化：壽司、拉麵、天婦羅與懷石料理"
+      }
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/382313",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=122.8%2C24.0%2C153.9%2C45.6&layer=mapnik"
+}

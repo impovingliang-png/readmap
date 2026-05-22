@@ -1,0 +1,358 @@
+{
+  "name": {
+    "en": "Spain",
+    "zh": "西班牙"
+  },
+  "nativeName": "España",
+  "capital": {
+    "en": "Madrid",
+    "zh": "馬德里"
+  },
+  "population": "48M",
+  "area": "506,000 km²",
+  "density": "95/km²",
+  "continent": "Europe",
+  "flagEmoji": "🇪🇸",
+  "dataEstYear": 2025,
+  "description": {
+    "en": "Spain, officially the Kingdom of Spain, is a sovereign country located on the Iberian Peninsula in southwestern Europe. Sharing borders with Portugal, France, and Andorra, it features extensive coastlines along the Mediterranean and Atlantic. Spain is widely celebrated for its rich historical tapestry, vibrant regional identities, global tourist appeal, and massive cultural contributions to art, football, and architecture.",
+    "zh": "Spain是位於歐洲西南部的君主立憲國家，地處伊比利半島，東臨地中海，西接大西洋。西班牙擁有深厚的歷史文化、強烈的地域特色與世界級觀光產業，是歐洲最具文化影響力的國家之一。"
+  },
+  "seoText": {
+    "en": "Explore quick facts about Spain — population, land area, capital city, and a short overview. Discover its diverse geography, world-class tourism industry, iconic architectural masterpieces like Sagrada Família, and cultural heritage.",
+    "zh": "快速了解西班牙的基本資料：人口、面積、首都與簡短概述。探索其多樣的地理環境、世界級的觀光產業、聖家堂等建築傑作以及佛朗明哥與藝術文化遺產。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Located on the Iberian Peninsula in Southwestern Europe",
+          "Immensely rich history and deep cultural heritage",
+          "A world-class global giant in tourism and hospitality",
+          "Football and artistic contributions influence the entire globe"
+        ],
+        "text": "Spain's historical journey has been intricately shaped by the Roman Empire, Islamic civilizations, and Christian kingdoms, creating a unique and harmonious cultural blend. During the 16th and 17th centuries, the Spanish Empire stood as one of the world's most powerful colonial empires, profoundly shaping the global distribution of languages and traditions. Today, modern Spain is a key member of the European Union, wielding substantial global influence in international tourism, modernist architecture, high-value agriculture, luxury fashion, and athletics."
+      },
+      "zh": {
+        "list": [
+          "位於歐洲西南部伊比利半島",
+          "歷史與文化底蘊深厚",
+          "世界級觀光與旅遊大國",
+          "足球與藝術文化影響全球"
+        ],
+        "text": "西班牙歷史曾受羅馬帝國、伊斯蘭文明與基督教王國共同塑造，形成獨特的文化融合。16至17世紀的西班牙帝國（Spanish Empire）曾為世界最強殖民帝國之一，影響全球語言與文化分布。\n\n現代西班牙為歐盟重要成員國，在觀光、建築、農業、時尚與體育領域具有全球影響力。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Occupies the vast majority of the Iberian Peninsula",
+          "Shares the peninsula with neighboring Portugal",
+          "Bordered by France and the Pyrenees to the north",
+          "Flanked by extensive Mediterranean and Atlantic coastlines"
+        ],
+        "text": "Covering approximately 506,000 square kilometers, Spain is one of the larger nations in Europe. The core landscape is dominated by the high central plateau, the Meseta, surrounded by rugged mountain chains and coastal strips. The north features damp mountains and lush shorelines known as 'Green Spain', while the south transitions to dry, near-North African climate dynamics. Spain also holds highly popular island territories, including the Balearic Islands in the Mediterranean and the volcanic Canary Islands in the Atlantic."
+      },
+      "zh": {
+        "list": [
+          "位於伊比利半島大部分地區",
+          "與葡萄牙共享半島",
+          "北接法國與庇里牛斯山",
+          "擁有地中海與大西洋海岸線"
+        ],
+        "text": "西班牙國土面積約 50.6 萬平方公里，是歐洲較大的國家之一。地形以梅塞塔高原（Meseta）為主，四周由山脈與海岸環繞。\n\n北部為山地與綠色西班牙（Green Spain）區域，南部則接近北非氣候特徵。西班牙亦擁有巴利阿里群島與加那利群島等重要觀光島嶼。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Predominantly Mediterranean climate profiles",
+          "Extremely hot and dry summer months in the south",
+          "Cooler temperatures and abundant rain along northern shores",
+          "Pronounced temperature variations throughout the interior"
+        ],
+        "text": "Spain's eastern and southern coasts experience a classic Mediterranean climate with hot, dry summers and mild winters, whereas the northern green strip is regulated by the Atlantic, bringing cooler summers and frequent rain. The interior plateau sees sharp seasonal temperature swings with intense summer heat. Off the coast of Africa, the Canary Islands enjoy stable, spring-like weather year-round, earned as the 'land of eternal spring'."
+      },
+      "zh": {
+        "list": [
+          "地中海氣候為主",
+          "南部炎熱乾燥",
+          "北部較涼爽多雨",
+          "內陸溫差較大"
+        ],
+        "text": "西班牙東部與南部典型為地中海氣候，夏季炎熱乾燥、冬季溫和。北部受大西洋影響，降雨較多且氣候較涼爽。\n\n內陸地區溫差較大，夏季高溫明顯。加那利群島則全年氣候溫和，被稱為“永恆之春”。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Population of approximately 48 million people",
+          "High level of population concentration in major metropolises",
+          "Steadily rising proportion of international immigrant demographics",
+          "Strongly defined regional identities and cultural diversity"
+        ],
+        "text": "The population of Spain is highly urbanized, centered in large metropolitan areas such as Madrid, Barcelona, and Valencia. The country is characterized by strong regional identities and languages, including Catalan, Basque, and Galician. This diverse composition gives Spain a exceptionally rich and distinct cultural tapestry."
+      },
+      "zh": {
+        "list": [
+          "人口約 4,800 萬",
+          "都市集中度高",
+          "移民人口比例上升",
+          "區域文化差異明顯"
+        ],
+        "text": "西班牙人口主要集中於馬德里（Madrid）、巴塞隆納（Barcelona）與瓦倫西亞（Valencia）等大城市。\n\n境內存在多種區域文化與語言，如加泰隆尼亞語與巴斯克語，使國家呈現高度文化多樣性。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "A key and vital economy within the European Union",
+          "Global leadership in international tourism and hospitality",
+          "Highly competitive automotive manufacturing and industrial sectors",
+          "Major exporter of high-value agriculture and fine wines"
+        ],
+        "text": "Spain's economy is highly service-oriented, driven by a world-leading tourism sector that attracts tens of millions of international travelers annually. Madrid and Barcelona serve as the primary commercial and financial powerhouses. Additionally, Spain possesses strong competitive sectors in automotive manufacturing, food processing, and renewable energy. It is also one of the world's most prominent exporters of olive oil and fine wines."
+      },
+      "zh": {
+        "list": [
+          "歐盟重要經濟體之一",
+          "觀光業全球領先",
+          "汽車與製造業發達",
+          "農業與葡萄酒出口重要"
+        ],
+        "text": "西班牙經濟以服務業與觀光業為主，每年吸引大量國際旅客。巴塞隆納（Barcelona）與馬德里（Madrid）為主要經濟與商業中心。\n\n汽車製造、食品加工與再生能源產業亦具競爭力。葡萄酒與橄欖油為重要出口農產品。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Parliamentary constitutional monarchy",
+          "Operates under a democratic representative system",
+          "The King acts as the ceremonial symbolic head of state",
+          "Unique system of autonomous communities with high regional powers"
+        ],
+        "text": "While King Felipe VI serves as the symbolic head of state, actual legislative and executive governance is held by the Prime Minister and the Parliament. Spain is organized into 17 Autonomous Communities, which hold varying degrees of extensive regional powers. Notably, regions like Catalonia and the Basque Country possess a high degree of administrative and political autonomy."
+      },
+      "zh": {
+        "list": [
+          "君主立憲制國家",
+          "議會民主制度",
+          "國王為象徵性元首",
+          "自治區制度明顯"
+        ],
+        "text": "西班牙現任國王為 Felipe VI，但實際政治權力由首相與國會掌握。\n\n全國分為17個自治區，各地擁有不同程度的自治權，尤其是加泰隆尼亞（Catalonia）與巴斯克地區（Basque Country）具有較高政治自主性。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Relatively relaxed, social, and leisurely pace of life",
+          "Strong focus on family ties and late-night dining cultures",
+          "Comprehensive and highly rated public healthcare system",
+          "Ongoing social focus on youth employment opportunities"
+        ],
+        "text": "Spanish daily life is highly social and community-oriented, characterized by late-night dinners, tapas crawls, and a relaxed Southern European rhythm. While the country offers an exceptionally high quality of life and a robust public healthcare system, it also faces persistent social issues, particularly long-term challenges with youth unemployment."
+      },
+      "zh": {
+        "list": [
+          "生活節奏較悠閒",
+          "家庭與社交文化重要",
+          "公共醫療制度完善",
+          "青年失業問題存在"
+        ],
+        "text": "西班牙社會文化重視家庭、飲食與社交活動，晚餐時間普遍較晚，生活節奏較南歐風格。\n\n雖然生活品質較高，但青年失業率長期偏高，是重要社會議題之一。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "Flamenco dance and music are iconic global art forms",
+          "Extremely passionate and globally influential football culture",
+          "Birthplace of legendary giants of modern art and architecture",
+          "Highly vibrant and world-famous traditional festival cultures"
+        ],
+        "text": "Spanish cultural heritage is internationally celebrated, with Flamenco serving as its most emblematic performing art. In the visual arts, legendary figures like Pablo Picasso and Salvador Dalí have profoundly reshaped the landscape of modern art, while Antoni Gaudí redefined architectural expression. Football is a national passion, with La Liga (housing clubs like Real Madrid and FC Barcelona) exerting massive global reach."
+      },
+      "zh": {
+        "list": [
+          "佛朗明哥舞與鬥牛文化",
+          "足球文化極為強勢",
+          "藝術與建築世界知名",
+          "節慶文化豐富"
+        ],
+        "text": "西班牙文化在音樂、舞蹈與藝術領域具有全球影響力，傳統藝術形式以佛朗明哥（Flamenco）最具代表性。\n\n藝術方面，巴勃羅·畢卡索（Pablo Picasso）與薩爾瓦多·達利（Salvador Dalí）對現代藝術影響深遠。足球則是國民核心文化之一，西班牙足球甲級聯賽（La Liga）與國家隊在全球具有高度影響力。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Persistent debate surrounding regional independence movements",
+          "Socioeconomic challenge of high youth unemployment",
+          "Overtourism pressures on metropolitan housing and services",
+          "Long-term demographic aging and declining birth rates"
+        ],
+        "text": "The question of Catalan independence has long been a central focus of Spanish politics, periodically impacting national legislative stability. Furthermore, while tourism remains a critical economic driver, it has created considerable strain on local housing and infrastructure, driving up prices in hot spots like Barcelona and Madrid."
+      },
+      "zh": {
+        "list": [
+          "地區獨立運動爭議",
+          "青年失業率偏高",
+          "觀光過度集中問題",
+          "人口老化趨勢"
+        ],
+        "text": "加泰隆尼亞（Catalonia）獨立運動長期為西班牙政治焦點，影響國內政治穩定。\n\n此外，觀光產業雖然帶來經濟收益，但也造成房價上升與城市壓力，尤其在巴塞隆納（Barcelona）與馬德里（Madrid）。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Madrid — Royal capital, administrative center, and art hub",
+          "Barcelona — Coastal modernist capital and crown jewel of architecture",
+          "Seville — Rich traditional heart of Andalusia and Flamenco",
+          "Sagrada Família — World-renowned architectural masterpiece by Antoni Gaudí"
+        ],
+        "text": "Madrid serves as the elegant political and cultural heart of Spain, boasting world-class museums like the Prado. Barcelona is a vibrant seaside hub famous for its modernist monuments. Seville preserves the romantic soul of Andalusia and Flamenco traditions, while Gaudí's soaring Sagrada Família cathedral in Barcelona remains one of the world's most breathtaking architectural wonders."
+      },
+      "zh": {
+        "list": [
+          "馬德里（Madrid）—— 首都與政治中心",
+          "巴塞隆納（Barcelona）—— 文化與觀光重鎮",
+          "塞維亞（Seville）—— 傳統文化與佛朗明哥核心城市",
+          "聖家堂（Sagrada Família）—— 世界知名建築"
+        ],
+        "text": "馬德里（Madrid）為政治與金融中心，而巴塞隆納（Barcelona）則是文化、建築與觀光核心城市。\n\n聖家堂（Sagrada Família）由建築師安東尼·高第（Antoni Gaudí）設計，是世界最具代表性的建築之一。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "An active and key member state of the European Union",
+          "Core and committed member state of NATO",
+          "Deep historic and linguistic ties to the Latin American world",
+          "Critical strategic role as Europe's southern gateway"
+        ],
+        "text": "Spain plays an essential role in European Union policymaking and NATO defense strategies, while maintaining strong historical, linguistic, and economic bridges to Latin American nations. Its geographical position at the mouth of the Mediterranean also makes it a key strategic gatekeeper between Europe and North Africa."
+      },
+      "zh": {
+        "list": [
+          "歐盟成員國",
+          "北約成員國",
+          "拉丁文化圈重要國家",
+          "地中海地區關鍵國家"
+        ],
+        "text": "西班牙在歐盟與北約中均扮演重要角色，同時與拉丁美洲國家保持深厚歷史與語言連結。\n\n在地中海與北非事務中亦具有戰略地位，是歐洲南部重要門戶國家。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Stable and friendly commercial and cultural exchanges",
+          "Consistent trade in automotive parts, olive oil, and electronics",
+          "Steadily rising popularity of Spanish language learning in Taiwan",
+          "Growing tourism exchanges between both societies"
+        ],
+        "text": "Spain and Taiwan maintain stable unofficial relations, with expanding interactions in high-quality tourism, education, and cultural sharing. The Spanish language is increasingly popular among Taiwanese learners, and indirect commercial partnerships between Spanish and Taiwanese enterprises continue to expand."
+      },
+      "zh": {
+        "list": [
+          "經貿與觀光交流穩定",
+          "文化與語言學習熱絡",
+          "旅遊互動逐漸增加",
+          "歐洲市場合作間接關聯"
+        ],
+        "text": "西班牙與台灣維持非官方交流，在觀光、教育與文化領域互動穩定。\n\n西班牙語在台灣學習人口逐漸增加，雙方在歐洲與亞洲市場的間接貿易亦有所發展。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "The historic birthplace of Flamenco art and culture",
+          "Frequently ranks among the top three tourist destinations globally",
+          "Boasts one of the highest numbers of UNESCO World Heritage Sites",
+          "Home to La Liga, one of the world's premier football leagues",
+          "Architectural and design achievements have influenced the entire globe"
+        ]
+      },
+      "zh": {
+        "list": [
+          "佛朗明哥文化發源地",
+          "世界觀光排名前列國家",
+          "擁有大量世界文化遺產",
+          "足球強國（La Liga）",
+          "建築藝術影響全球"
+        ]
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": "€ Euro"
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "Spanish (Castilian)",
+        "zh": "西班牙語（卡斯提亞語）"
+      }
+    },
+    {
+      "label": "GDP (nom.)",
+      "value": "$1.6T"
+    },
+    {
+      "label": "Time zones",
+      "value": {
+        "en": "UTC+1 (CET) / Canary: UTC+0",
+        "zh": "UTC+1（加那利群島為 UTC+0，均有夏令時間）"
+      }
+    },
+    {
+      "label": "Calling code",
+      "value": "+34"
+    },
+    {
+      "label": "ISO code",
+      "value": "ES / ESP"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "⛪",
+      "text": {
+        "en": "Sagrada Família — Antoni Gaudí's breathtaking, still-under-construction art nouveau masterpiece in Barcelona",
+        "zh": "聖家堂——高第設計的魔幻新藝術風格大教堂，為巴塞隆納最著名的標誌性未完工傑作"
+      }
+    },
+    {
+      "icon": "💃",
+      "text": {
+        "en": "Flamenco Artistry — The passionate, emotionally raw traditional dance and guitar music of Andalusia",
+        "zh": "佛朗明哥——起源於南部安達魯西亞的熱情傳統歌舞與吉他藝術，展現極致的情感爆發"
+      }
+    },
+    {
+      "icon": "🎨",
+      "text": {
+        "en": "Prado Museum & Modern Art — Home to masterpieces by Velázquez and Goya, and the legacy of Picasso and Dalí",
+        "zh": "普拉多美術館與藝術殿堂——收藏委拉斯開茲與哥雅的傳世名作，亦是立體派大師畢卡索的故鄉"
+      }
+    },
+    {
+      "icon": "⚽",
+      "text": {
+        "en": "La Liga Passion — One of the world's most prestigious football leagues, featuring the legendary El Clásico rivalry",
+        "zh": "西甲聯賽——全球最具影響力的頂級足球聯賽之一，皇家馬德里與巴塞隆納的「國家德比」舉世矚目"
+      }
+    },
+    {
+      "icon": "🍅",
+      "text": {
+        "en": "Vibrant Festivals — Renowned celebrations like La Tomatina (tomato fight) and Pamplona's running of the bulls",
+        "zh": "熱鬧節慶文化——以番茄大戰（La Tomatina）與奔牛節聞名於世的獨特街頭狂歡與地方傳統"
+      }
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/1311341",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=-19.0%2C27.0%2C5.0%2C44.0&layer=mapnik"
+}

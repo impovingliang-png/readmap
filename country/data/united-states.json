@@ -1,0 +1,356 @@
+{
+  "name": {
+    "en": "United States",
+    "zh": "美國"
+  },
+  "nativeName": "United States of America",
+  "capital": {
+    "en": "Washington, D.C.",
+    "zh": "華盛頓哥倫比亞特區"
+  },
+  "population": "340.0M",
+  "area": "9,833,520 km²",
+  "density": "35/km²",
+  "continent": "Americas",
+  "flagEmoji": "🇺🇸",
+  "dataEstYear": 2025,
+  "description": {
+    "en": "The United States is a federal republic in North America, bordered by the Atlantic Ocean to the east and the Pacific Ocean to the west, with Canada to the north and Mexico to the south. It is one of the world’s largest economies and most powerful militaries, with outsized influence in politics, technology, finance, culture, and the international order. Washington, D.C. is the capital, while New York City is the largest city.",
+    "zh": "United States是位於北美洲的聯邦共和國，東臨大西洋，西接太平洋，北與加拿大（Canada）接壤，南鄰墨西哥（Mexico）。美國是當今世界最大的經濟體與軍事強國之一，長期在政治、科技、金融、文化與國際秩序中具有全球影響力。首都為華盛頓哥倫比亞特區（Washington, D.C.），最大城市為紐約市（New York City）。"
+  },
+  "seoText": {
+    "en": "Explore quick facts about the United States — population, area, capital city, and a short overview. Discover New York City and Washington, D.C., the U.S. economy and tech leadership, Hollywood culture, NASA, and America’s global alliances.",
+    "zh": "快速了解美國的基本資料：人口、面積、首都與簡短概述。探索紐約與華盛頓、科技與金融優勢、好萊塢文化、NASA 航太發展，以及美國在全球盟友體系與國際秩序中的影響力。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Large federal republic in North America",
+          "One of the world’s largest economies",
+          "Strong technology, finance, and military capabilities",
+          "A major global center of culture and entertainment"
+        ],
+        "text": "With 50 states and vast geographic diversity, the United States combines a large domestic market with globally influential innovation ecosystems. Its institutions, alliances, and industries have shaped modern globalization and international relations for decades."
+      },
+      "zh": {
+        "list": [
+          "位於北美洲的大型聯邦國家",
+          "全球最大經濟體之一",
+          "科技、金融與軍事實力強大",
+          "世界文化與流行娛樂中心之一"
+        ],
+        "text": "United States是位於北美洲的聯邦共和國，東臨大西洋，西接太平洋，北與Canada接壤，南鄰Mexico。美國是當今世界最大的經濟體與軍事強國之一，長期在政治、科技、金融、文化與國際秩序中具有全球影響力。\n\n美國首都為Washington, D.C.，最大城市則為New York City。美國由50個州組成，擁有廣闊國土、多元人口與高度發達的創新產業，是現代國際政治與全球化的重要核心國家。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Spans Atlantic to Pacific with extensive coastlines",
+          "One of the world’s largest countries by land area",
+          "Highly diverse terrain and ecosystems",
+          "Includes Alaska and Hawaii beyond the contiguous states"
+        ],
+        "text": "The United States covers a vast range of environments: plains, mountain systems, deserts, forests, and Arctic and tropical zones. Major features include the Rocky Mountains in the west and the Appalachian Mountains in the east, alongside extensive river basins and coastal regions."
+      },
+      "zh": {
+        "list": [
+          "位於北美洲中部",
+          "國土面積世界第三大",
+          "地形與氣候多樣",
+          "擁有廣大海岸線"
+        ],
+        "text": "United States國土面積約 983 萬平方公里，地形涵蓋平原、山脈、沙漠、森林與極地地區。\n\n西部有洛磯山脈（Rocky Mountains）與內華達山脈（Sierra Nevada），中部則為廣大平原，東部擁有阿帕拉契山脈（Appalachian Mountains）。此外，美國還包括Alaska與Hawaii等海外州份。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Extremely diverse climate zones across a large territory",
+          "Cold winters in the north and interior highlands",
+          "Warmer climates in the south and coastal zones",
+          "Wide range of natural hazards"
+        ],
+        "text": "Climate varies from Arctic conditions in Alaska to tropical climates in parts of Hawaii and Florida. The Atlantic and Gulf coasts can face hurricanes, the central plains are prone to tornado outbreaks, and the western U.S. regularly contends with wildfires and earthquakes in certain regions."
+      },
+      "zh": {
+        "list": [
+          "氣候類型極為多元",
+          "北部冬季寒冷",
+          "南部與沿海較溫暖",
+          "天然災害種類多"
+        ],
+        "text": "由於國土廣大，美國擁有從寒帶到熱帶的多種氣候。\n\n南部與東南部常受颶風影響，中西部則有龍捲風帶，而西岸部分地區則容易發生野火與地震。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Population around 340 million",
+          "One of the world’s major immigrant destinations",
+          "Highly urbanized",
+          "Culturally and ethnically diverse society"
+        ],
+        "text": "According to official data from the U.S. Census Bureau, the population of the United States is characterized by its extensive racial and ethnic diversity. White Americans (including both Hispanic and non-Hispanic White individuals) account for approximately 71.0% of the population, with Non-Hispanic Whites representing about 58.9%. Hispanic or Latino Americans, who can be of any race, make up the second-largest demographic category at approximately 19.1%. Black or African Americans constitute roughly 13.6% of the population, while Asian Americans represent about 6.3%. Native Americans and Alaska Natives form approximately 1.3%, Native Hawaiian and Other Pacific Islanders comprise about 0.3%, and individuals identifying with two or more races account for roughly 10.2% of the citizenry."
+      },
+      "zh": {
+        "list": [
+          "人口總數約 3.4 億人",
+          "全球主要移民目的地與文化熔爐",
+          "人口高度集中於東西兩岸與各大都會區",
+          "官方普查呈現多元化的種族與族裔比例分布"
+        ],
+        "text": "根據美國人口普查局（U.S. Census Bureau）的最新官方統計，美國人口結構展現出高度的種族與族裔多元性。全國人口的族群比例具體分布如下：\n\n白人（White，包含非裔與各類文化背景）約占總人口的 71.0%，其中非西語裔白人（Non-Hispanic White）約占 58.9%。\n\n拉丁裔或西語裔（Hispanic or Latino，在普查中列為族裔分類，可屬於任何種族）為第一大少數族群，約占總人口的 19.1%。\n\n非裔美國人或黑人（Black or African American）約占總人口的 13.6%。\n\n亞裔美國人（Asian American）約占總人口的 6.3%。\n\n美洲原住民與阿拉斯加原住民（American Indian and Alaska Native）約占 1.3%。\n\n夏威夷原住民與其他太平洋島民（Native Hawaiian and Other Pacific Islander）約占 0.3%。\n\n複數種族血統或認同者（Two or More Races）約占總人口的 10.2%。\n\n人口分布高度都市化，主要集中於紐約、洛杉磯、芝加哥與休士頓等大型都會圈。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "One of the world’s largest economies",
+          "Global leadership in technology and finance",
+          "The U.S. dollar is a major reserve currency",
+          "A huge domestic consumer market"
+        ],
+        "text": "The U.S. economy is highly diversified across technology, finance, healthcare, manufacturing, entertainment, and defense-related industries. New York City anchors global finance, while Silicon Valley remains a leading innovation cluster."
+      },
+      "zh": {
+        "list": [
+          "全球最大經濟體之一",
+          "科技與金融產業領先",
+          "美元為全球主要儲備貨幣",
+          "消費市場規模巨大"
+        ],
+        "text": "美國經濟高度多元，科技、金融、醫療、製造、娛樂與軍工產業皆具有全球領先地位。\n\nNew York City是世界金融中心之一，而矽谷（Silicon Valley）則聚集大量科技企業與創新產業。\n\n美元（US Dollar）長期是全球最重要國際貨幣之一。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Federal republic with separation of powers",
+          "President is head of state and government",
+          "High degree of state-level autonomy",
+          "Constitution has had global influence on modern governance"
+        ],
+        "text": "The United States operates under a federal system balancing national institutions with strong state governments. Washington, D.C. hosts federal branches, while states maintain wide authority over many policy areas."
+      },
+      "zh": {
+        "list": [
+          "聯邦共和制度",
+          "三權分立體制明確",
+          "總統為國家元首",
+          "州政府擁有高度自治權"
+        ],
+        "text": "United States採聯邦制與總統制，行政、立法與司法三權分立。\n\n聯邦政府設於Washington, D.C.，各州則擁有廣泛自治權。美國憲法對現代民主制度與全球政治發展具有深遠影響。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "World-leading universities and research institutions",
+          "Strong innovation and entrepreneurship culture",
+          "High healthcare costs compared with many peers",
+          "Persistent inequality and social divides"
+        ],
+        "text": "Higher education and research are major strengths, but healthcare affordability and uneven outcomes remain widely discussed. The U.S. also faces ongoing challenges related to inequality, public safety, and social cohesion."
+      },
+      "zh": {
+        "list": [
+          "高等教育全球知名",
+          "創新與創業文化強大",
+          "醫療費用相對昂貴",
+          "社會差距問題存在"
+        ],
+        "text": "美國擁有大量世界頂尖大學與研究機構，例如Harvard University與Massachusetts Institute of Technology。\n\n社會重視個人自由與創新，但也存在醫療成本、貧富差距與治安等社會議題。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "Global influence in popular culture",
+          "Strong film, music, and media industries",
+          "Major sports culture across multiple leagues",
+          "Multi-cultural fusion shaped by immigration"
+        ],
+        "text": "American film and music industries have global reach, including Hollywood and major media platforms. Sports such as American football, basketball, and baseball are prominent cultural institutions."
+      },
+      "zh": {
+        "list": [
+          "流行文化全球影響巨大",
+          "電影與音樂產業發達",
+          "體育文化強盛",
+          "多元文化融合明顯"
+        ],
+        "text": "美國文化深刻影響全球，包括電影、音樂、時尚與社群媒體等領域。\n\nThe Walt Disney Company、好萊塢（Hollywood）與流行音樂產業在全球娛樂市場具有巨大影響力。\n\n美式足球、籃球與棒球則是代表性運動文化。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Political polarization and governance tensions",
+          "Immigration and border policy debates",
+          "Technology regulation and AI development",
+          "Housing affordability and inequality"
+        ],
+        "text": "Major domestic debates include elections, immigration, economic inequality, and the pace and governance of technological change. The U.S. also plays a central role in global competition over semiconductors, AI, and supply-chain resilience."
+      },
+      "zh": {
+        "list": [
+          "政治極化問題",
+          "移民與邊境政策爭議",
+          "科技監管與AI發展",
+          "貧富差距與住房問題"
+        ],
+        "text": "美國近年政治與社會分歧加劇，選舉、移民與社會公平等議題受到高度關注。\n\n此外，人工智慧、半導體與國際供應鏈競爭也成為重要國家戰略方向。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "New York City — finance and media center",
+          "Washington, D.C. — capital and federal institutions",
+          "Los Angeles — entertainment industry hub",
+          "Grand Canyon — iconic natural landmark"
+        ],
+        "text": "New York City includes Wall Street and the UN headquarters, while Washington, D.C. anchors federal governance. The Grand Canyon is among the most recognized natural landscapes in the world."
+      },
+      "zh": {
+        "list": [
+          "New York City—— 全球金融與媒體中心",
+          "Washington, D.C.—— 首都與政治中心",
+          "Los Angeles—— 娛樂與影視產業中心",
+          "Grand Canyon—— 世界知名自然奇景"
+        ],
+        "text": "New York City擁有華爾街與聯合國總部，而Grand Canyon則是美國最具代表性的自然景觀之一。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "Permanent member of the UN Security Council",
+          "Core NATO member and global alliance leader",
+          "Major global military and diplomatic power",
+          "Influential in Europe, the Middle East, and the Indo-Pacific"
+        ],
+        "text": "The United States has played a leading role in shaping post-war international institutions and security arrangements. Its global partnerships and military reach remain central to international diplomacy and deterrence."
+      },
+      "zh": {
+        "list": [
+          "聯合國安理會常任理事國",
+          "北約（NATO）核心成員",
+          "全球軍事與外交強權",
+          "在印太與歐洲影響深遠"
+        ],
+        "text": "United States長期主導全球安全、金融與外交體系，在歐洲、中東與印太地區皆具有高度影響力。\n\n此外，美國也是全球科技、能源與軍事聯盟的重要核心。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Key partner for Taiwan in security and economic domains",
+          "Close cooperation in technology and supply chains",
+          "Frequent education and cultural exchanges",
+          "High attention on semiconductors and AI collaboration"
+        ],
+        "text": "The United States and Taiwan maintain close non-official ties across trade, technology, education, and security-related coordination. Cooperation in semiconductors and emerging technologies has become increasingly prominent."
+      },
+      "zh": {
+        "list": [
+          "台灣重要國際合作夥伴",
+          "安全與軍事合作受關注",
+          "科技與半導體關係密切",
+          "教育與文化交流頻繁"
+        ],
+        "text": "美國與台灣維持密切非官方關係，在科技、軍事、教育與經貿領域互動相當活躍。\n\n近年半導體、人工智慧與供應鏈合作尤其受到高度關注。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "One of the world’s largest economies",
+          "The U.S. dollar is a major global reserve currency",
+          "Global leader in technology and innovation",
+          "Major military power with global alliances",
+          "Pop culture influence spans the world"
+        ],
+        "text": "The United States combines scale, innovation ecosystems, and global alliances, making it one of the most influential states in contemporary international affairs."
+      },
+      "zh": {
+        "list": [
+          "全球最大經濟體之一",
+          "美元為世界主要儲備貨幣",
+          "科技與創新產業領導國家",
+          "世界主要軍事強權",
+          "流行文化影響遍及全球"
+        ],
+        "text": "美國以龐大的市場規模、科技創新能力與盟友體系，長期在全球政治、經濟與文化領域扮演核心角色。"
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": "US Dollar (USD)"
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "English (de facto), Spanish widely used",
+        "zh": "英語（通行語），西班牙語廣泛使用"
+      }
+    },
+    {
+      "label": "Time zones",
+      "value": {
+        "en": "UTC−10 to UTC−5 (multiple time zones)",
+        "zh": "UTC−10 至 UTC−5（跨多個時區）"
+      }
+    },
+    {
+      "label": "Calling code",
+      "value": "+1"
+    },
+    {
+      "label": "ISO code",
+      "value": "US / USA"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🗽",
+      "text": {
+        "en": "Statue of Liberty — symbol of freedom and immigration history in New York Harbor",
+        "zh": "自由女神像（Statue of Liberty）——美國自由與移民象徵"
+      }
+    },
+    {
+      "icon": "💵",
+      "text": {
+        "en": "Wall Street — one of the world’s most influential finance hubs",
+        "zh": "華爾街（Wall Street）——全球金融市場核心之一"
+      }
+    },
+    {
+      "icon": "🎬",
+      "text": {
+        "en": "Hollywood — global center of film and entertainment production",
+        "zh": "好萊塢（Hollywood）——世界娛樂與電影產業中心"
+      }
+    },
+    {
+      "icon": "🚀",
+      "text": {
+        "en": "NASA — iconic space agency leading major missions and research programs",
+        "zh": "NASA——全球最具代表性的航太機構之一"
+      }
+    },
+    {
+      "icon": "🦅",
+      "text": {
+        "en": "Superpower influence — major global political, economic, and military power",
+        "zh": "超級強權——全球政治與軍事影響力最大國家之一"
+      }
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/148838",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=-125.0%2C24.0%2C-66.5%2C49.5&layer=mapnik"
+}

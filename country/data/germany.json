@@ -1,0 +1,358 @@
+{
+  "name": {
+    "en": "Germany",
+    "zh": "德國"
+  },
+  "nativeName": "Deutschland",
+  "capital": {
+    "en": "Berlin",
+    "zh": "柏林"
+  },
+  "population": "84M",
+  "area": "357,000 km²",
+  "density": "235/km²",
+  "continent": "Europe",
+  "flagEmoji": "🇩🇪",
+  "dataEstYear": 2025,
+  "description": {
+    "en": "Germany is a federal republic in Central Europe, bordered by the North and Baltic seas to the north and the Alps to the south, sharing borders with nine neighboring countries. As one of the most populous countries in Europe and its largest economy, Germany exerts global influence across industry, technology, engineering, and manufacturing.",
+    "zh": "Germany 是位於中歐的聯邦共和國，北臨北海與波羅的海，南接阿爾卑斯山區，與九個國家接壤。德國為歐洲人口最多的國家之一，也是歐洲最大經濟體，在工業、科技、工程與製造業領域具有全球影響力。"
+  },
+  "seoText": {
+    "en": "Explore quick facts about Germany — population, land area, capital city, and a short overview. Discover its geography, rich history, robust manufacturing industries, and iconic landmarks like the Brandenburg Gate and Neuschwanstein Castle.",
+    "zh": "快速了解德國的基本資料：人口、面積、首都與簡短概述。探索其地理環境、悠久歷史、強大的製造產業以及布蘭登堡門與新天鵝堡等著名地標。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Federal nation located in the core of Central Europe",
+          "Largest economy in Europe",
+          "World-leading strength in industry and manufacturing",
+          "A core member of the European Union"
+        ],
+        "text": "Situated at the transport and economic crossroads of Europe, Germany has historically served as a vital political and commercial hub. Modern Germany rebuilt rapidly after World War II, steadily growing into one of the world's premier industrial powerhouses.\n\nAs a highly developed nation, Germany boasts strong competitiveness in automotive, machinery, chemical, energy, and technology sectors, and is renowned for its high-quality education, comprehensive social systems, and export-driven economy."
+      },
+      "zh": {
+        "list": [
+          "位於中歐核心地帶的聯邦國家",
+          "歐洲最大經濟體",
+          "工業與製造業實力世界領先",
+          "歐盟核心成員之一"
+        ],
+        "text": "德國地理位置位於歐洲交通與經濟中心，自歷史上即為歐洲重要政治與商業區域。現代德國在第二次世界大戰後迅速重建，逐漸成為全球最重要的工業強國之一。\n\n作為高度已開發國家，德國在汽車、機械、化工、能源與科技領域具有強大競爭力，同時也以高品質教育、完善社會制度與出口導向經濟聞名。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Located in Central Europe",
+          "Shares borders with nine neighboring countries",
+          "Terrain consists of plains, hills, and mountainous areas",
+          "Rich in rivers and forest resources"
+        ],
+        "text": "Covering approximately 357,000 square kilometers, Germany's terrain transitions from the lowland plains of the north and coastal zones, through the central forested hills, to the Alpine mountains in the south.\n\nMajor rivers including the Rhine, Danube, and Elbe serve as key inland navigation and trade routes. Germany enjoys high forest coverage, with the iconic Black Forest standing as one of its most representative natural landscapes."
+      },
+      "zh": {
+        "list": [
+          "位於歐洲中部",
+          "與九個國家接壤",
+          "地形由平原、丘陵與山區組成",
+          "河川與森林資源豐富"
+        ],
+        "text": "德國國土面積約 35.7 萬平方公里，北部以平原與沿海低地為主，中部多丘陵與森林，南部則接近阿爾卑斯山（Alps）山區。\n\n境內主要河流包括萊茵河（Rhine）、多瑙河（Danube）與易北河（Elbe）等，長期為重要內陸交通與商業路線。德國森林覆蓋率高，黑森林（Black Forest）為最具代表性的自然區域之一。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Predominantly temperate climate",
+          "Four distinct seasons with clear transitions",
+          "Cool summers and cold winters",
+          "Precipitation is distributed evenly throughout the year"
+        ],
+        "text": "Germany features a temperate climate that blends marine and continental elements, with the north influenced by coastal seas and the southern inland experiencing colder winters.\n\nSummers are generally mild and comfortable, while winters bring snowfall to various regions. The climate is highly favorable for agriculture, forestry, and industrial development."
+      },
+      "zh": {
+        "list": [
+          "溫帶氣候為主",
+          "四季分明",
+          "冬季偏冷、夏季溫和",
+          "降雨全年分布平均"
+        ],
+        "text": "德國整體屬溫帶海洋性與大陸性混合氣候，北部較受海洋影響，南部內陸則冬季較寒冷。\n\n夏季氣候普遍舒適，冬季部分地區會出現降雪。氣候條件適合農業、森林與工業發展。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Population of approximately 84 million",
+          "One of the most populous countries in the EU",
+          "Highly urbanized population",
+          "Increasing proportion of immigrant population"
+        ],
+        "text": "Germany's population is heavily concentrated in the western and southern metropolitan belts, with Berlin, Hamburg, Munich, and Frankfurt serving as key urban and economic hubs.\n\nIn recent years, immigration policies have led to an increasingly diverse population structure. People of Turkish descent form the largest immigrant community in the country."
+      },
+      "zh": {
+        "list": [
+          "人口約 8,400 萬",
+          "歐盟人口最多國家之一",
+          "高度城市化",
+          "移民人口比例增加"
+        ],
+        "text": "德國人口主要集中於西部與南部城市帶，其中柏林（Berlin）、漢堡（Hamburg）、慕尼黑（Munich）與美因河畔法蘭克福（Frankfurt）等為重要都市中心。\n\n近年因移民與難民政策影響，德國人口組成日益多元。土耳其裔人口為德國最大移民社群之一。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "Largest economy in Europe",
+          "A leading global industrial exporter",
+          "World leader in automotive and machinery manufacturing",
+          "Strong network of small and medium-sized enterprises (SMEs)"
+        ],
+        "text": "The German economy relies heavily on industry and exports, with cars, machinery, chemical products, and precision engineering serving as core sectors. The 'Made in Germany' label has long symbolized high quality and superb engineering.\n\nGermany possesses a vast network of specialized small and medium-sized enterprises, known as the 'Mittelstand', which play a critical role in global supply chains and high-end manufacturing."
+      },
+      "zh": {
+        "list": [
+          "歐洲最大經濟體",
+          "全球重要工業出口國",
+          "汽車與機械製造世界領先",
+          "中小企業體系強大"
+        ],
+        "text": "德國經濟高度依賴工業與出口，汽車、機械設備、化工與精密製造為核心產業。德國製造（Made in Germany）長期代表高品質與工程技術。\n\n德國擁有大量專業化中小企業，被稱為「Mittelstand」，在全球供應鏈與高端製造領域扮演重要角色。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Federal parliamentary republic",
+          "Operates under a parliamentary democracy",
+          "Composed of 16 federal states (Bundesländer)",
+          "The Chancellor serves as the head of government"
+        ],
+        "text": "Germany operates under a federal system where each of the 16 states enjoys a high degree of local autonomy, while the federal government oversees foreign affairs, defense, and macro-economic policy.\n\nThe political system places a strong emphasis on democracy, the rule of law, and the division of powers. Berlin serves as both the capital and political hub, as well as a leading cultural capital in Europe."
+      },
+      "zh": {
+        "list": [
+          "聯邦共和制國家",
+          "採議會民主制度",
+          "由 16 個邦組成",
+          "總理為政府領導人"
+        ],
+        "text": "德國採聯邦制，各邦擁有高度地方自治權。聯邦政府負責外交、國防與整體經濟政策。\n\n德國政治制度強調民主、法治與權力分立。柏林（Berlin）為首都與政治中心，同時也是德國重要文化城市。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Comprehensive social welfare and security system",
+          "Highly developed dual vocational training system",
+          "Mature and robust public transport network",
+          "Strong focus on environmental protection and sustainability"
+        ],
+        "text": "Germany features a comprehensive social security system providing health, pension, and unemployment insurance. Its education system places a high value on vocational training and industry-academic collaboration, which forms the bedrock of German industrial competitiveness.\n\nGerman cities enjoy highly developed public transport networks, with extensive high-speed rail and urban transit. The society and culture place a prominent emphasis on energy transition and environmental conservation."
+      },
+      "zh": {
+        "list": [
+          "社會福利制度完善",
+          "技職教育制度發達",
+          "公共交通成熟",
+          "重視環保與永續發展"
+        ],
+        "text": "德國擁有完善社會保險制度，包括醫療、退休與失業保障。教育體系中特別重視技職教育與產業合作，被視為德國工業競爭力的重要基礎。\n\n德國城市公共交通網絡發達，高速鐵路與都市運輸系統普及。社會文化亦高度重視能源轉型與環境保護。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "Major center for philosophy and classical music",
+          "Globally renowned beer culture",
+          "Highly popular and influential football culture",
+          "Long and rich history in literature and arts"
+        ],
+        "text": "Germany has historically produced an array of legendary philosophers, composers, and scientists, including the likes of Johann Wolfgang von Goethe, Ludwig van Beethoven, and Albert Einstein.\n\nThe country's beer culture is globally celebrated, with Munich's Oktoberfest standing as the world's most famous beer festival. Football is the most popular sport, and the Bundesliga enjoys immense global influence."
+      },
+      "zh": {
+        "list": [
+          "哲學與古典音樂重鎮",
+          "啤酒文化全球知名",
+          "足球文化影響深遠",
+          "文學與藝術歷史悠久"
+        ],
+        "text": "德國歷史上孕育大量哲學家、音樂家與科學家，例如約翰·沃夫岡·馮·歌德（Johann Wolfgang von Goethe）、路德維希·范·貝多芬（Ludwig van Beethoven）與阿爾伯特·愛因斯坦（Albert Einstein）。\n\n德國啤酒文化具有高度代表性，慕尼黑啤酒節（Oktoberfest）更是全球最知名啤酒節之一。足球則為德國最受歡迎運動，德國甲級足球聯賽（Bundesliga）在全球具有高度影響力。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Implementation of the energy transition policy",
+          "Severe demographic aging and labor shortages",
+          "Debates over migration and refugee integration policies",
+          "Manufacturing sector faces intensifying global competition"
+        ],
+        "text": "In recent years, Germany has actively advanced its energy transition ('Energiewende') policy, promoting renewable energy while reducing dependence on fossil fuels.\n\nAdditionally, an aging population and labor shortages pose significant long-term challenges, while changes in global supply chains and competitive pressures weigh on the export-oriented manufacturing model."
+      },
+      "zh": {
+        "list": [
+          "能源轉型政策推動",
+          "人口老化問題",
+          "移民與難民政策爭議",
+          "製造業面臨全球競爭壓力"
+        ],
+        "text": "德國近年積極推動能源轉型（Energiewende），發展再生能源並降低對化石燃料依賴。\n\n此外，人口老化與勞動力不足也是長期挑戰。全球供應鏈變化與產業競爭則對德國出口導向經濟造成壓力。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Berlin — Capital and political-cultural heart",
+          "Munich — Representative of southern economy and beer culture",
+          "Frankfurt — One of Europe's primary financial hubs",
+          "Brandenburg Gate — The ultimate symbol of German unity"
+        ],
+        "text": "Berlin offers a rich historical backdrop coupled with thriving modern creative industries, standing as a top cultural hub. \n\nMunich is famous for its high-tech industry and beer festivals, while Frankfurt serves as the home of the European Central Bank. The Brandenburg Gate remains an enduring monument to German reunification and Cold War history."
+      },
+      "zh": {
+        "list": [
+          "柏林（Berlin）—— 首都與政治文化中心",
+          "慕尼黑（Munich）—— 南德經濟與啤酒文化代表",
+          "法蘭克福（Frankfurt）—— 歐洲金融中心之一",
+          "布蘭登堡門（Brandenburg Gate）—— 德國統一象徵"
+        ],
+        "text": "柏林（Berlin）擁有豐富歷史與現代文化產業，是歐洲重要創意城市之一。\n\n慕尼黑（Munich）以高科技產業與啤酒文化聞名，而法蘭克福（Frankfurt）則是歐洲中央銀行所在地。布蘭登堡門（Brandenburg Gate）則象徵德國統一與冷戰歷史。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "Core member of the European Union",
+          "Key member state of NATO",
+          "One of the world's leading export nations",
+          "A leading diplomatic and economic voice in Europe"
+        ],
+        "text": "Germany holds central influence within the European Union, long playing a leading role in directing European economic and fiscal policies.\n\nIts foreign policy is anchored in multilateralism, the rule of law, and regional stability, making Germany a key player in European security and global economic governance."
+      },
+      "zh": {
+        "list": [
+          "歐盟（European Union）核心成員",
+          "北大西洋公約組織（NATO）重要成員國",
+          "全球主要出口國之一",
+          "歐洲外交與經濟領導國家"
+        ],
+        "text": "德國在歐盟（European Union）內部具有核心影響力，長期主導歐洲經濟與財政政策方向。\n\n德國外交政策重視多邊合作、國際秩序與區域穩定，在歐洲安全與全球經濟治理中具有重要角色。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Close bilateral trade and economic relations",
+          "Increasing tech and manufacturing partnerships",
+          "Germany acts as a key European market for Taiwan",
+          "Stable educational and academic exchanges"
+        ],
+        "text": "Germany and Taiwan maintain strong cooperation in sectors such as semiconductors, machinery, automotive supply chains, and green energy.\n\nGerman firms highly value Taiwan's high-tech industrial capabilities, leading to growing collaborations across research, education, and advanced industrial technologies."
+      },
+      "zh": {
+        "list": [
+          "經貿往來密切",
+          "科技與製造合作增加",
+          "德國為重要歐洲市場",
+          "教育與學術交流穩定"
+        ],
+        "text": "德國與台灣在半導體、機械、汽車供應鏈與綠能領域合作密切。\n\n德國企業長期重視台灣高科技產業能力，雙方在研究、教育與產業技術交流方面持續增加。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "Largest economy in Europe",
+          "World-renowned automotive industry",
+          "Home to numerous world-class engineering enterprises",
+          "Beer culture enjoys global prominence",
+          "Famous for speed-limit-free sections on the Autobahn highway"
+        ]
+      },
+      "zh": {
+        "list": [
+          "歐洲最大經濟體",
+          "汽車工業世界知名",
+          "擁有大量世界級工程企業",
+          "啤酒文化具全球代表性",
+          "高速公路部分路段無速限聞名"
+        ]
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": "€ Euro"
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "German",
+        "zh": "德語"
+      }
+    },
+    {
+      "label": "GDP (nom.)",
+      "value": "$4.5T"
+    },
+    {
+      "label": "Time zones",
+      "value": {
+        "en": "UTC+1 (CET) / UTC+2 (CEST)",
+        "zh": "UTC+1 (CET) / UTC+2 (CEST)"
+      }
+    },
+    {
+      "label": "Calling code",
+      "value": "+49"
+    },
+    {
+      "label": "ISO code",
+      "value": "DE / DEU"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🏛️",
+      "text": {
+        "en": "Brandenburg Gate — 18th-century neoclassical monument in Berlin, a symbol of European unity",
+        "zh": "布蘭登堡門——位於柏林的 18 世紀新古典主義地標，象徵歐洲統一與和平"
+      }
+    },
+    {
+      "icon": "🏰",
+      "text": {
+        "en": "Neuschwanstein Castle — 19th-century historicist palace in Bavaria, inspiring Disney's Sleeping Beauty castle",
+        "zh": "新天鵝堡——位於巴伐利亞的 19 世紀羅曼式復興城堡，迪士尼睡美人城堡的靈感來源"
+      }
+    },
+    {
+      "icon": "🍺",
+      "text": {
+        "en": "Oktoberfest — The world's largest beer festival and folk festival, held annually in Munich",
+        "zh": "慕尼黑啤酒節——全球最大規模的民俗啤酒節，每年吸引數百萬人共襄盛舉"
+      }
+    },
+    {
+      "icon": "🚗",
+      "text": {
+        "en": "Autobahn — Germany's federally controlled highway system, famous for having no federally mandated speed limit on some sections",
+        "zh": "高速公路（Autobahn）——德國聯邦高速公路，以部分路段無速限限制而舉世聞名"
+      }
+    },
+    {
+      "icon": "🌲",
+      "text": {
+        "en": "Black Forest (Schwarzwald) — Large forested mountain range in southwestern Germany, known for cuckoo clocks and scenic lakes",
+        "zh": "黑森林——德國西南部的大型針葉林山區，以布穀鳥鐘與童話故事背景地聞名"
+      }
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/51477",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=5.8%2C47.2%2C15.0%2C55.1&layer=mapnik"
+}

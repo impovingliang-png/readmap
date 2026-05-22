@@ -1,0 +1,353 @@
+{
+  "name": {
+    "en": "Qatar",
+    "zh": "卡達"
+  },
+  "nativeName": "دولة قطر",
+  "capital": {
+    "en": "Doha",
+    "zh": "杜哈"
+  },
+  "population": "2.8M",
+  "area": "11,586 km²",
+  "density": "242/km²",
+  "continent": "Asia",
+  "flagEmoji": "🇶🇦",
+  "dataEstYear": 2025,
+  "description": {
+    "en": "Qatar is a sovereign peninsula nation located in the Persian Gulf in the eastern part of the Arabian Peninsula in the Middle East, bordered by Saudi Arabia to the south and surrounded by the sea on three sides. Famous for its exceptionally high GDP per capita, massive offshore natural gas fields, and strong international media and sporting influence, Qatar ranks as one of the wealthiest countries on Earth.",
+    "zh": "Qatar（卡達，正式國名為卡達國）是位於中東阿拉伯半島東部的波斯灣（Persian Gulf）半島型國家，南部陸路疆界與沙烏地阿拉伯（Saudi Arabia）接壤，其餘三面環海。卡達憑藉著無與倫比的超高人均國內生產毛額（GDP）、舉世無雙的近海天然氣儲量，以及在國際體育賽事與全球媒體產業的強大話語權，名列全球最富裕的國家之一。"
+  },
+  "seoText": {
+    "en": "Explore quick facts about Qatar — population, land area, capital city, and a short overview. Learn about Doha skylines, FIFA World Cup stadium, LNG liquid energy, Al Jazeera media, and desert rose architecture.",
+    "zh": "快速了解卡達的基本資料：人口、面積、首都與簡短概述。探索多哈天際線、2022年世界盃體育場、液化天然氣、半島電視台媒體影響力以及沙漠玫瑰博物館建築傑作。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Sovereign peninsula nation surrounded by the warm waters of the Persian Gulf",
+          "Ranks globally as one of the wealthiest states by GDP per capita",
+          "Fueled by massive offshore natural gas and liquefied energy fields",
+          "Strong footprint in international sports hosting, media networks, and aviation"
+        ],
+        "text": "Ruled by the Al Thani dynasty, Qatar has undergone an extraordinary modern transformation. Doha has evolved into a sleek global capital, home to futuristic skyscrapers and landmark museums.\n\nHost of the historic 2022 FIFA World Cup, the nation leverages its immense sovereign wealth fund, the Qatar Investment Authority, to build global investment stakes while acting as a vital diplomatic mediator in Middle Eastern affairs."
+      },
+      "zh": {
+        "list": [
+          "位於波斯灣的小型半島國家",
+          "全球人均收入最高國家之一",
+          "以天然氣與石油資源為經濟核心",
+          "國際媒體與體育影響力強大"
+        ],
+        "text": "在阿勒薩尼（Al Thani）家族的世襲統治下，卡達經歷了人類歷史上最令人驚嘆的現代化蛻變。首都杜哈（Doha）已演變為一座極具未來感的國際大都市，將充滿科幻線條的摩天大樓與世界級的地標博物館完美融為一體。作為創紀錄的 2022 年 FIFA 世界盃足球賽主辦國，卡達靈活運用其規模龐大的主權財富基金——卡達投資局（QIA），在全球金融與實體資產市場廣泛布局，同時在中東乃至全球外交事務中，長期扮演著不可或缺的關鍵地緣政治調停者。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Peninsular topography extending northwards into the Persian Gulf",
+          "Arid, flat desert plains cover the entire sovereign territory",
+          "Extremely sparse natural freshwater resources with no constant rivers",
+          "Extensive coastline crucial for global gas export maritime ports"
+        ],
+        "text": "Spanning approximately 11,500 square kilometers, Qatar is a low, flat peninsula surrounded by the Persian Gulf. Its desert topography is characterized by gravelly plains and low sand dunes.\n\nWith no permanent rivers or natural lakes, Qatari society depends heavily on state-of-the-art sea desalination complexes. The extensive coastlines provide excellent deep-water harbors, facilitating its massive liquefied natural gas (LNG) export economy."
+      },
+      "zh": {
+        "list": [
+          "半島型國家，三面環海",
+          "地形以沙漠與平原為主",
+          "無常年河流與天然湖泊",
+          "海岸線相對曲折"
+        ],
+        "text": "卡達國土面積約為 11,586 平方公里，整體地形是一座向北延伸入波斯灣的低平半島。全境屬於典型的大陸荒漠生態，地表主要由平坦的礫石平原與低矮的流動沙丘所覆蓋。由於境內完全沒有常年性河流或天然湖泊，卡達社會與工業運作極度依賴世界上最頂尖的海水淡化廠技術。然而，其漫長且曲折的海岸線為國家提供了極具戰略價值的天然深水港灣，這為其龐大的液化天然氣（LNG）海上外銷經濟奠定了無可替代的地理優勢。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Extremely dry tropical desert weather patterns",
+          "Summers are exceptionally hot and highly damp along coasts",
+          "Winters deliver remarkably pleasant and comfortable temperatures",
+          "Highly scarce and irregular precipitation throughout the year"
+        ],
+        "text": "Qatar has a classic hot desert climate. Summers are extremely hot, often soaring past 40°C, with high humidity along the coast making conditions highly stifling.\n\nConversely, the winter months (November to March) offer mild, dry, and exceptionally pleasant weather, serving as the ideal season for desert camping and outdoor sports. Annual rainfall is highly limited."
+      },
+  "zh": {
+        "list": [
+          "熱帶沙漠氣候",
+          "夏季極度炎熱潮濕",
+          "冬季溫和宜人",
+          "降雨極少"
+        ],
+        "text": "卡達全境屬於極端的熱帶沙漠氣候（Desert Climate）。每年 5 月至 9 月的夏季極其漫長且嚴酷，日間氣溫經常輕鬆突破 40°C，且因臨海導致沿岸濕度極高，體感氣候非常悶熱窒息。相反地，從 11 月到次年 3 月的冬季則迎來黃金季節，天氣溫和、乾燥且涼爽宜人，是舉辦國際體育賽事、戶外沙漠露營與文化旅遊的絕佳時期。全年的天然降雨量極其稀少且分布不均，多以短暫強降雨形式出現。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Dynamic population of approximately 2.8 million residents",
+          "Expatriates and guest professionals constitute the vast majority",
+          "Extremely urbanized nodes centered in the capital bay district",
+          "Native citizens represent a highly subsidized demographic segment"
+        ],
+        "text": "Qatar's population of 2.8 million is highly unique, with foreign expatriates representing nearly 85% of all residents. The workforce draws heavily from South Asia, Southeast Asia, and Arab neighbors.\n\nThe population is highly concentrated in metropolitan Doha and its immediate suburbs. Arabic is the national tongue, while English is standard in corporate settings, banking, and government sectors."
+      },
+      "zh": {
+        "list": [
+          "人口約 280萬左右",
+          "外籍人口比例極高",
+          "城市高度集中化",
+          "本國公民比例較低"
+        ],
+        "text": "卡達約 280 萬的常住人口結構在全世界獨一無二。其中，真正的卡達本國公民（Qatari）僅佔總人口的 11% 至 12% 左右，其餘高達 88% 以上皆為外籍常住專業人才與勞工。在外籍人口族群比例中，南亞裔（South Asians，包含印度、孟加拉、尼泊爾、巴基斯坦等裔）佔絕大多數，比例高達 54%；其次為東南亞裔（Southeast Asians，以菲律賓裔為主）約佔 14%；以及來自埃及、約旦等其他阿拉伯國家的移民（Arab expatriates）約佔 13%。本國公民享有極為優渥的終身社會福利與國家補貼。全國人口高度城市化，幾乎全數集中在首都杜哈（Doha）及其周邊的精華都會區。阿拉伯語為官方語言，但在商業、金融、高等教育與政府涉外事務中，英語是最通用的第一核心語言。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "Ranks consistently among the wealthiest states by GDP per capita",
+          "World-class leader in Liquefied Natural Gas (LNG) exports",
+          "Extensive offshore North Field holds massive natural gas reserves",
+          "Massive sovereign fund actively investing in global asset markets"
+        ],
+        "text": "Qatar's economy is highly dominant due to the massive North Field—the largest non-associated natural gas field on Earth. It has positioned the country as the world's leading exporter of Liquefied Natural Gas (LNG).\n\nIts sovereign wealth fund, the Qatar Investment Authority (QIA), holds vast global assets, including premium real estate, international banks, and major European football clubs, to ensure long-term stability beyond fossil fuels."
+      },
+      "zh": {
+        "list": [
+          "全球最富裕國家之一",
+          "天然氣出口為核心產業",
+          "液化天然氣（LNG）全球領先",
+          "主權財富基金規模龐大"
+        ],
+        "text": "卡達的經濟命脈由其領海內無與倫比的「北方氣田（North Field）」所支撐，該氣田是世界上已知最大的非伴生天然氣田，這使卡達無可爭議地成為全球液化天然氣（LNG）出口量與技術的絕對霸主。與此同時，國家透過其資產規模達數千億美元的主權財富基金——卡達投資局（QIA），在全球大肆收購頂級資產，包括英國與歐洲的標誌性地產、國際頂尖金融機構股權以及歐洲頂級足球俱樂部（如巴黎聖日耳曼），以確保在未來後化石燃料時代，國家財政仍能享有長遠的多元化穩定收益。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Traditional hereditary monarchy governed by the Al Thani dynasty",
+          "National executive authority is centered under the Emir",
+          "Highly efficient policymaking and rapid infrastructure execution",
+          "Maintains stable internal administration with high legal security"
+        ],
+        "text": "Qatar is a hereditary monarchy ruled by the House of Al Thani, with the Emir serving as the ultimate head of state. The political structure is highly centralized, allowing for extremely rapid legislative approval and national planning.\n\nWhile the Consultative Assembly (Shura Council) offers advisory oversight, the Emir holds absolute executive power, ensuring a highly stable internal administration."
+      },
+      "zh": {
+        "list": [
+          "君主制國家（酋長制）",
+          "由阿勒薩尼家族統治",
+          "權力高度集中",
+          "政策推動效率高"
+        ],
+        "text": "卡達是一個世襲君主制國家，由歷史悠久的阿勒薩尼（House of Al Thani）家族掌握最高統治權，國家元首稱為埃米爾（Emir）。政治權力結構高度中央集權，這賦予了卡達政府在推動大型國家基礎建設戰略與經濟政策時，擁有傲視全球的法規審批效率與執行速度。儘管國家設有協商會議（Shura Council）提供立法諮詢與預算審查，但最終的行政、立法與司法最高裁決權仍牢牢掌握在埃米爾手中，確保了國內政局長期的極高穩定性與治安環境。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Generous social security benefits for the native citizen segment",
+          "Extremely high standards of public schooling and medical care",
+          "Relies heavily on global workforce cohorts to support city services",
+          "Social values and legal systems are guided by traditional Islam"
+        ],
+        "text": "Qatari citizens enjoy exceptionally generous state-backed benefits, including free medical care, high-quality schooling, and extensive housing grants. \n\nHowever, this welfare system is heavily supported by the expatriate workforce. Societal values are conservative and deeply influenced by Islamic laws, balancing rapid technological adoption with historical modesty."
+      },
+      "zh": {
+        "list": [
+          "高人均收入社會",
+          "公共服務福利優厚",
+          "外籍勞工占多數勞動力",
+          "文化相對保守"
+        ],
+        "text": "卡達本國公民享有堪稱世界上最奢華的搖籃到墳墓福利體系，包括全民免費的高端醫療服務、完全由政府全額資助的國內外頂尖高等教育，以及慷慨的土地與住房補貼。然而，這套龐大福利與現代化大都市的運作，極度仰賴龐大的外籍勞動群體來支撐。在社會文化與法律層面，卡達深受傳統伊斯蘭教義與法律的薰陶，在以驚人速度接軌全球最先進科技與數位生活的同時，公共場合依然保持著傳統阿拉伯社會的保守與禮儀規範。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "Islamic traditions serve as the foundation of national identity",
+          "Bedouin maritime and falconry customs are highly preserved",
+          "Doha has emerged as a premier modern arts and museum nexus",
+          "Active global promoter of cultural diplomacy and academic zones"
+        ],
+        "text": "Qatari culture is rooted in Bedouin values of hospitality, paired with pearl-diving seafaring histories. Falconry, traditional camel racing, and dhow sailing remain major cultural symbols.\n\nDoha has also positioned itself as an artistic hub, constructing architectural masterpieces like the Museum of Islamic Art and Katara Cultural Village to host world-class exhibitions and global academic forums."
+      },
+      "zh": {
+        "list": [
+          "伊斯蘭文化為核心",
+          "傳統與現代並存",
+          "重視家族與部族關係",
+          "國際文化交流活躍"
+        ],
+        "text": "卡達的文化核心深深植根於貝都因人（Bedouin）好客的游牧精神，並與昔日採珠業的近海航海歷史交相輝映。至今，尊貴的獵鷹馴養（Falconry）、傳統駱駝大賽以及傳統木船（Dhow）帆船賽，仍是國家引以為傲的精神象徵。近年來，杜哈更斥巨資打造全球當代藝術與跨文化交流中心，相繼落成了由貝聿銘設計的伊斯蘭藝術博物館（Museum of Islamic Art）與卡塔拉文化村（Katara Cultural Village），透過密集的頂級國際策展與學術教育城（Education City）建設，成功展現強大的文化軟實力。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Addressing labor welfare reform and human rights protocols",
+          "Transitioning the economy away from heavy oil and gas reliance",
+          "Managing ecological water stress under rapid desert sprawl",
+          "Navigating complex Middle Eastern geopolitical alignments"
+        ],
+        "text": "Qatar faces ongoing international attention regarding labor rights and sponsorship reforms for its migrant workforce. Economically, planning for a post-fossil fuel future drives strategies to grow tech and logistics hubs.\n\nEnvironmental planners grapple with high energy consumption and intense carbon footprints, while regional dynamics demand highly active diplomatic balance."
+      },
+      "zh": {
+        "list": [
+          "外籍勞工權益問題",
+          "能源依賴與轉型壓力",
+          "地緣政治敏感性高",
+          "快速現代化帶來社會變化"
+        ],
+        "text": "卡達在舉世矚目的高速度擴建過程中，其外籍勞工權益與傳統外勞擔保制度（Sponsorship / Kafala system）曾頻繁受到國際人權組織與勞工組織的嚴格檢視，促使政府近年推動一系列歷史性法規改革。在經濟層面，如何打破過度單一仰賴石油與天然氣的宿命、成功轉型至知識型經濟是當前核心。此外，沙漠城市擴張也帶來了驚人的電力消耗、巨額的人均碳排放以及地下水枯竭等環境挑戰，而複雜的中東地緣政治格局，也考驗著卡達在各方大國勢力間長袖善舞的平衡外交智慧。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Doha — Sophisticated coastal capital known for skyscrapers and souks",
+          "Lusail — Futuristic city that served as the key FIFA World Cup host",
+          "The Pearl-Qatar — Glamorous artificial island lined with luxury yacht bays",
+          "National Museum of Qatar — Dramatic desert rose architectural icon"
+        ],
+        "text": "Doha is defined by its sweeping crescent bay Corniche, the traditional Souq Waqif, and towering skylines. Lusail is a spectacular, smart future city built to host the FIFA World Cup final.\n\nThe Pearl-Qatar is an opulent, yacht-lined artificial island offering luxury shopping. The National Museum of Qatar, designed by Jean Nouvel, replicates the intricate shapes of a natural desert rose crystal."
+      },
+      "zh": {
+        "list": [
+          "Doha——首都與經濟中心",
+          "Lusail City——未來城市與世界盃主場",
+          "The Pearl-Qatar——高端住宅與商業區",
+          "National Museum of Qatar——文化地標"
+        ],
+        "text": "核心首都杜哈（Doha）最經典的景觀莫過於長達數公里的月牙形濱海路（Corniche）、充滿異國香料與獵鷹市場的瓦吉夫老街（Souq Waqif），以及西灣高聳入雲的摩天大樓天際線。耗資數百億美元憑空打造的智慧未來城市盧塞爾（Lusail City），則是 2022 年世界盃決賽主場館的所在地。造價不菲的人工島「卡達珍珠」（The Pearl-Qatar）以威尼斯與地中海風格打造，停滿了奢華遊艇與國際一線精品旗艦店。而最震撼視覺的地標卡達國家博物館（National Museum of Qatar），由建築大師尚·努維爾（Jean Nouvel）操刀，其層疊交錯的圓盤外觀完美模擬了荒漠中極其罕見的天然礦物結晶——「沙漠玫瑰」，堪稱當代建築史上的驚世傑作。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "Practices a highly active 'small state, big diplomacy' strategy",
+          "Key military and strategic defense partner for the United States",
+          "Acts as a prominent regional mediator in delicate global talks",
+          "Maintains influential soft power through the Al Jazeera network"
+        ],
+        "text": "Qatar successfully exercises outsized international influence. It is a critical non-NATO ally to the US, hosting the massive Al Udeid Air Base, while also funding the highly influential Al Jazeera global media network.\n\nOperating as a major diplomatic mediator, Qatar has facilitated high-level negotiations between Western nations and Middle Eastern parties, reinforcing its indispensable global role."
+      },
+      "zh": {
+        "list": [
+          "外交活躍的小型大國",
+          "美國重要盟友之一",
+          "在中東具調停角色",
+          "主辦重大國際活動能力強"
+        ],
+        "text": "卡達在國際舞台上將「小國大外交」戰略發揮得淋漓盡致。它是美國（United States）指定的重要非北約盟友（MNNA），並為美軍提供了中東地區規模最大的烏代德空軍基地（Al Udeid Air Base）；同時，卡達全額出資籌建的「半島電視台（Al Jazeera）」全球新聞網絡，是打破西方話語權、深刻影響全球輿論的軟實力利器。作為國際上最受信任的第三方調停者，卡達頻繁促成西方世界與多個中東關鍵政權間的高層秘密談判與人質釋放，奠定了其不可或缺的全球外交樞紐地位。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Major exporter of Liquefied Natural Gas (LNG) ensuring energy security",
+          "Stable trade links in petrochemicals, industrial tools, and plastics",
+          "Expanding transit travel and flight connectivity via Qatar Airways",
+          "Stable non-official representative and commercial communication channels"
+        ],
+        "text": "Taiwan and Qatar share a vital commercial partnership centered on energy, with Qatar serving as a key exporter of Liquefied Natural Gas (LNG) to fuel Taiwan's electricity grid.\n\nBilateral trade is steady, featuring plastics and machinery. Qatar Airways operates as a vital aviation hub, connecting Taiwanese travelers and trade cargo to destinations across Europe, Africa, and South America."
+      },
+      "zh": {
+        "list": [
+          "經經貿交流穩定但規模有限",
+          "能源與投資合作潛力存在",
+          "航空轉運間接連結",
+          "民間往來逐步增加"
+        ],
+        "text": "卡達與台灣之間長期維持著互利且至關重要的非官方能源與經貿夥伴關係。卡達是台灣最核心的液化天然氣（LNG）供應國之一，對維持台灣的能源安全與電力網絡穩定起著決定性的基石作用。雙邊貿易除了大宗石化與天然氣能源外，亦涵蓋高精密工具機、塑料製品與通訊零組件。在交通與民間往來上，榮獲多次全球最佳航空殊榮的卡達航空（Qatar Airways），已成為台灣商務旅客、留學生以及觀光客經由杜哈轉機，前往歐洲、非洲與南美洲最主要的空中空中橋樑與轉運核心。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "Consistently ranks at the absolute top of global GDP per capita charts",
+          "Proud host nation of the historic and spectacular 2022 FIFA World Cup",
+          "Maintains some of the largest proven natural gas fields on Earth",
+          "A tiny peninsula nation wields massive global and soft power influence"
+        ]
+      },
+      "zh": {
+        "list": [
+          "全球人均GDP長期名列前茅",
+          "2022 FIFA 世界盃主辦國",
+          "天然氣儲量全球前列",
+          "國土小但國際影響力極高"
+        ]
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": "Qatari Riyal (QAR)"
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "Arabic",
+        "zh": "阿拉伯語"
+      }
+    },
+    {
+      "label": "GDP (nom.)",
+      "value": "$220B"
+    },
+    {
+      "label": "Time zone",
+      "value": "UTC+3"
+    },
+    {
+      "label": "Calling code",
+      "value": "+974"
+    },
+    {
+      "label": "ISO code",
+      "value": "QA / QAT"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🇶🇦",
+      "text": {
+        "en": "Maroon Flag — The unique maroon flag featuring a white nine-toothed serrated band symbolizing Qatar's historic sovereignty and treaties",
+        "zh": "卡達鋸齒栗色國旗——獨特的深栗色旗幟與白色九齒鋸齒狀邊帶，代表卡達擺脫殖民走向主權獨立的歷史協定與尊嚴象徵"
+      }
+    },
+    {
+      "icon": "⚽",
+      "text": {
+        "en": "2022 FIFA World Cup — The historic host of the first Middle Eastern World Cup tournament centered in the iconic Lusail Stadium",
+        "zh": "2022卡達世界盃——首個主辦世界盃足球賽的中東主權國家，以盧塞爾地標體育場為核心，為全球奉獻了極致奢華的體育盛會"
+      }
+    },
+    {
+      "icon": "💎",
+      "text": {
+        "en": "Trillion-dollar Energy — Fueling the world with massive Liquefied Natural Gas (LNG) exports extracted from the massive North Field",
+        "zh": "兆元能源液化天然氣——卡達擁有的「北方氣田」為全球第一大單體天然氣田，使其液化天然氣（LNG）出口量雄踞世界前茅"
+      }
+    },
+    {
+      "icon": "🏛️",
+      "text": {
+        "en": "Desert Rose Museum — Jean Nouvel's jaw-dropping architectural masterpiece designed after crystalline sand rose mineral structures",
+        "zh": "沙漠玫瑰國家博物館——由普立茲克獎得主尚·努維爾設計的視覺傑作，以沙漠中天然結晶的「沙漠玫瑰」石膏礦物為結構，極具震撼力"
+      }
+    },
+    {
+      "icon": "🐪",
+      "text": {
+        "en": "Souq Waqif & Falcons — Traditional Doha heritage markets showcasing live falconry sales, camel races, and Bedouin customs",
+        "zh": "瓦吉夫老街與獵鷹——多哈老城內歷史悠久的傳統市場，保存著神聖的阿拉伯獵鷹交易市場、駱駝巡遊與極致好客的游牧精髓"
+      }
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/305153",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=50.7%2C24.4%2C51.7%2C26.3&layer=mapnik"
+}

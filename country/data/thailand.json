@@ -1,0 +1,355 @@
+{
+  "name": {
+    "en": "Thailand",
+    "zh": "泰國"
+  },
+  "nativeName": "ประเทศไทย",
+  "capital": {
+    "en": "Bangkok",
+    "zh": "曼谷"
+  },
+  "population": "70M",
+  "area": "513,120 km²",
+  "density": "136/km²",
+  "continent": "Asia",
+  "flagEmoji": "🇹🇭",
+  "dataEstYear": 2025,
+  "description": {
+    "en": "Thailand is a constitutional monarchy located in the heart of the Indochina Peninsula in Southeast Asia, bordered by Cambodia and Laos to the east, Malaysia to the south, and Myanmar to the west. Renowned for its deep Buddhist culture, world-class tourism, exquisite cuisine, and tropical charm, Thailand is one of the most prominent economic and travel hubs in Southeast Asia.",
+    "zh": "Thailand是位於東南亞中南半島的君主立憲國家，東臨柬埔寨與寮國，南接馬來西亞，西鄰緬甸。泰國以佛教文化、觀光產業、美食與熱帶風情聞名，是東南亞最重要的經濟與旅遊國家之一。"
+  },
+  "seoText": {
+    "en": "Explore quick facts about Thailand — population, land area, capital city, and a short overview. Learn about Thailand's rich Buddhist heritage, tropical geography, Muay Thai, and vibrant economic role within ASEAN.",
+    "zh": "快速了解泰國的基本資料：人口、面積、首都與簡短概述。探索泰國深厚的佛教文化底蘊、多樣地形地貌、宋干節（潑水節）與觀光經貿發展。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Located at the heart of the Indochinese Peninsula in Southeast Asia",
+          "Deeply influenced by its profound Buddhist culture",
+          "A world-class destination for tourism and culinary arts",
+          "One of Southeast Asia's leading and most vibrant economies"
+        ],
+        "text": "Thailand is one of the few nations in Southeast Asia that successfully avoided Western colonization, thereby preserving its traditional royal heritage and unique cultural integrity. In the modern era, Thailand has developed a mature economic structure spanning tourism, agriculture, manufacturing, and service sectors.\n\nAs a strategic regional hub, Thailand holds a central position within ASEAN and continues to attract significant global tourism and foreign investments."
+      },
+      "zh": {
+        "list": [
+          "位於東南亞中南半島核心位置",
+          "佛教文化影響深厚",
+          "世界級觀光與美食國家",
+          "東南亞重要經濟體之一"
+        ],
+        "text": "泰國是東南亞少數從未被西方殖民統治的國家之一，因此保留完整的王室制度與傳統文化。現代泰國在觀光、農業、製造業與服務業領域發展成熟。\n\n作為區域樞紐國家，泰國在東協（ASEAN）中具有重要地位，並長期吸引大量國際旅客與外資投資。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Situated in the central region of the Indochinese Peninsula",
+          "Mountainous and heavily forested terrain in the north",
+          "Fertile Chao Phraya River plain in the central region",
+          "Elongated southern peninsula flanked by spectacular coastlines"
+        ],
+        "text": "Spanning approximately 513,000 square kilometers, Thailand's terrain is highly diverse. The central region is dominated by the fertile Chao Phraya River basin, serving as the country's primary agricultural heartland and most populated zone.\n\nThe northern boundary features rugged mountains and dense forests, while the narrow southern tail extends down the Malay Peninsula, boasting expansive coastlines and world-famous resort islands such as Phuket and Koh Samui."
+      },
+      "zh": {
+        "list": [
+          "位於中南半島中部",
+          "北部多山地與森林",
+          "中部為湄南河平原",
+          "南部為狹長半島"
+        ],
+        "text": "泰國國土面積約 51.3 萬平方公里，地形多樣，中央為肥沃的湄南河平原，是主要農業與人口集中地。\n\n北部接壤山地與森林，南部則延伸至馬來半島，擁有長海岸線與眾多島嶼，如普吉島與蘇梅島。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Dominated by a tropical monsoon climate",
+          "Hot and humid temperatures year-round",
+          "Pronounced rainy and dry seasons",
+          "Divided into dry (cool), rainy, and hot seasons"
+        ],
+        "text": "Thailand's climate is strongly influenced by seasonal monsoons, keeping temperatures generally high throughout the year. The rainy season typically spans from May to October, characterized by intense and concentrated precipitation.\n\nThe dry and cool season (November to February) is exceptionally pleasant for travel and represents the peak tourism season, while the southern coastal areas remain popular for island getaways all year round."
+      },
+      "zh": {
+        "list": [
+          "熱帶季風氣候",
+          "全年高溫潮濕",
+          "雨季明顯",
+          "分為乾季、雨季與熱季"
+        ],
+        "text": "泰國氣候受季風影響明顯，全年氣溫普遍偏高。雨季通常在5月至10月，降雨集中且強度大。\n\n乾季氣候較適合觀光，是旅遊旺季。南部沿海地區則全年適合海島旅遊。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Population of approximately 70 million",
+          "Moderate rate of urbanization",
+          "Extreme population concentration in Bangkok",
+          "Thai people constitute the dominant ethnic group"
+        ],
+        "text": "The population of Thailand is heavily concentrated in the Bangkok Metropolitan Region and the fertile central plains. Bangkok is one of the most vital and bustling metropolises in Southeast Asia.\n\nThe ethnic makeup is predominantly Thai, with significant Thai-Chinese, Malay, and other indigenous ethnic minority communities. Theravada Buddhism is the primary religion, practiced by over 90% of the population."
+      },
+      "zh": {
+        "list": [
+          "人口約 7,000 萬",
+          "城市化程度中等",
+          "曼谷高度集中",
+          "族群以泰族為主"
+        ],
+        "text": "泰國人口主要集中於首都曼谷（Bangkok）及中部地區。曼谷（Bangkok）為東南亞最重要都市之一。\n\n人口以泰族為主，同時包含華人、馬來族與其他少數民族。佛教為主要宗教。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "A leading and vital economy in Southeast Asia",
+          "Highly developed and globally prominent tourism industry",
+          "Crucial hub for automotive and electronics manufacturing",
+          "A major global agricultural and seafood exporter"
+        ],
+        "text": "Thailand's economy is highly diversified, relying heavily on the service sector and export-oriented manufacturing. Known as the 'Detroit of Asia', its automotive manufacturing sector is a crucial powerhouse of the region.\n\nThailand is also a major global exporter of rice, natural rubber, and seafood. Tourism serves as a paramount source of foreign revenue, with Bangkok and Phuket attracting millions of global travelers annually."
+      },
+      "zh": {
+        "list": [
+          "東南亞重要經濟體",
+          "觀光業極度發達",
+          "汽車與電子製造重要",
+          "農業出口國"
+        ],
+        "text": "泰國經濟以服務業與出口製造業為主，汽車產業被稱為「亞洲底特律」之一。\n\n農產品如稻米、橡膠與海鮮出口量大。觀光業則是重要外匯來源，曼谷（Bangkok）與普吉島（Phuket）為主要觀光中心。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Operates under a constitutional monarchy",
+          "The King holds profound symbolic and cultural status",
+          "A history of military involvement and transitions",
+          "Bangkok serves as the political and administrative capital"
+        ],
+        "text": "The current monarch of Thailand is King Maha Vajiralongkorn, and the royal family commands deep respect and holds a supreme symbolic position in Thai society.\n\nWhile operating as a constitutional monarchy, Thailand's political history has been characterized by intermittent periods of military intervention and governance transitions."
+      },
+      "zh": {
+        "list": [
+          "君主立憲制國家",
+          "國王具象徵與文化地位",
+          "多次軍政轉型歷史",
+          "首都為曼谷（Bangkok）"
+        ],
+        "text": "泰國現任國王為　瑪哈·瓦吉拉隆功（Maha Vajiralongkorn），王室在泰國社會中具有高度象徵地位。\n\n政治制度為君主立憲制，但歷史上曾多次出現軍事政變與政治轉型。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Deeply anchored by Buddhist values and traditions",
+          "Relaxed and easygoing ('Sabai Sabai') lifestyle pace",
+          "Strong service culture and warm hospitality",
+          "Development gap between urban centers and rural areas"
+        ],
+        "text": "Thai society revolves around Buddhist morals and values, where respect, politeness, and deference to elders are deeply woven into daily life.\n\nThe booming travel industry has fostered a highly developed service culture, and street life and night markets form a vibrant part of the economy. However, regional wealth disparities between the capital and rural provinces remain a focal area."
+      },
+      "zh": {
+        "list": [
+          "佛教文化影響深厚",
+          "生活節奏較悠閒",
+          "服務業文化強烈",
+          "城市與鄉村差距存在"
+        ],
+        "text": "泰國社會以佛教價值觀為核心，禮儀與尊重長輩文化深刻影響日常生活。\n\n旅遊業帶動服務文化發展，街頭文化與夜市經濟非常活躍。但城市與鄉村之間仍存在經濟差距。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "Core Theravada Buddhist country of Southeast Asia",
+          "World-famous Songkran Water Festival",
+          "Muay Thai serves as the national sport",
+          "Culinary traditions with legendary global appeal"
+        ],
+        "text": "Thai culture is beautifully shaped by Theravada Buddhism, with thousands of ornate temples (wats) and religious customs defining the landscape. Songkran, the water festival, is the most celebrated traditional holiday.\n\nMuay Thai (Thai boxing) is the internationally acclaimed martial art and national sport. Furthermore, Thai cuisine — with favorites like Tom Yum soup, Green Curry, and Mango Sticky Rice — is celebrated globally for its harmonious balance of sweet, sour, spicy, and salty flavors."
+      },
+      "zh": {
+        "list": [
+          "佛教文化核心國家",
+          "潑水節（宋干節）聞名",
+          "泰拳為國民運動",
+          "美食文化全球知名"
+        ],
+        "text": "泰國文化深受上座部佛教影響，寺廟與宗教活動遍布全國。\n\n宋干節（Songkran，即潑水節）是最重要傳統節日。泰拳（Muay Thai）則是國際知名格鬥運動。\n\n泰國料理如冬蔭功（Tom Yum）、綠咖哩與芒果糯米飯在全球廣受歡迎。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Ongoing debates surrounding political reforms and democracy",
+          "High economic sensitivity to tourism fluctuations",
+          "Gradual emergence of an aging population structure",
+          "Uneven regional development and infrastructure distribution"
+        ],
+        "text": "In recent years, political debate and constitutional reform discussions have occupied a central place in public discourse, reflecting diverse social and generational perspectives.\n\nAdditionally, the economy's high dependence on international tourism makes it sensitive to global shocks. The country is also beginning to transition toward an aging demographic, posing long-term social welfare tasks."
+      },
+      "zh": {
+        "list": [
+          "政治體制與改革爭議",
+          "經濟依賴觀光產業",
+          "人口老化逐漸顯現",
+          "區域發展不均"
+        ],
+        "text": "泰國近年政治改革與民主發展議題持續受到關注，社會存在不同政治立場。\n\n此外，經濟過度依賴觀光產業，使其在全球疫情或經濟波動時較為敏感。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Bangkok — Capital, commercial, and financial heart",
+          "Chiang Mai — Cultural capital of the mountainous north",
+          "Phuket — World-class tropical island resort paradise",
+          "The Grand Palace — Golden heart and royal symbol of Siam"
+        ],
+        "text": "Bangkok is a vibrant, bustling Asian metropolis, seamlessly blending historical golden temples with towering modern skyscrapers and high-tech transit.\n\nChiang Mai stands as the northern cultural and natural oasis, renowned for its ancient walls and serene atmosphere, while Phuket serves as a premier global hub for marine recreation and tropical beaches."
+      },
+      "zh": {
+        "list": [
+          "曼谷（Bangkok）—— 首都與經濟核心",
+          "清邁（Chiang Mai）—— 文化與北部中心",
+          "普吉島（Phuket）—— 國際級海島觀光區",
+          "大皇宮（Grand Palace）—— 王室象徵建築"
+        ],
+        "text": "曼谷（Bangkok）為東南亞最繁忙都市之一，融合傳統寺廟與現代都市景觀。\n\n清邁（Chiang Mai）以文化與自然環境聞名，而普吉島（Phuket）則是全球知名海島旅遊勝地。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "Founding and key core member of ASEAN",
+          "Central transportation and economic logistics hub of Indochina",
+          "Deep bilateral and economic ties with China and Japan",
+          "Highly globalized in trade, tourism, and diplomatic outreach"
+        ],
+        "text": "Thailand occupies a vital geographical and economic position within ASEAN, serving as a primary transportation crossroad. It actively champions regional connectivity and trade facilitation.\n\nIt maintains exceptionally close relations with major Asian powers, including China and Japan, as well as Western partners, making it an internationally integrated trading hub."
+      },
+      "zh": {
+        "list": [
+          "東協成員",
+          "區域經濟與交通樞紐",
+          "與中國、日本關係密切",
+          "觀光與貿易國際化程度高"
+        ],
+        "text": "泰國在東協中扮演重要經濟與地理樞紐角色，積極參與區域合作。\n\n同時與中國、日本、韓國與歐美國家維持穩定經貿與觀光關係。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Close travel, tourism, and commercial exchanges",
+          "A premier holiday and leisure destination for Taiwanese travelers",
+          "Strong partnerships in electronics and industrial manufacturing",
+          "Highly active civil and community relations"
+        ],
+        "text": "Thailand and Taiwan enjoy exceptionally active unofficial relations, with heavy passenger flows and business partnerships. Thailand ranks as one of the top holiday destinations for Taiwanese tourists.\n\nBilateral cooperation is highly robust in high-tech manufacturing, agricultural technology, and food processing, with a large number of Taiwanese firms having key production bases across Thailand's industrial corridors."
+      },
+      "zh": {
+        "list": [
+          "觀光與商務往來密切",
+          "台灣旅客熱門旅遊地",
+          "電子與製造業合作",
+          "民間交流頻繁"
+        ],
+        "text": "泰國與台灣之間擁有穩定民間與經貿關係，泰國為台灣重要旅遊目的地之一。\n\n雙方在電子製造、食品與觀光產業方面互動頻繁，也有不少台商在泰國投資設廠。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "One of Southeast Asia's premier holiday destinations",
+          "Cradle of profound Buddhist culture and historical architecture",
+          "Muay Thai and night market street food culture famous worldwide",
+          "Bountiful marine and tropical island holiday resources",
+          "Crucial industrial export and assembly base in Asia"
+        ]
+      },
+      "zh": {
+        "list": [
+          "東南亞最重要觀光國之一",
+          "佛教文化核心國家",
+          "泰拳與夜市文化聞名全球",
+          "熱帶島嶼旅遊資源豐富",
+          "亞洲重要製造與出口基地"
+        ]
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": "Thai Baht (฿)"
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "Thai",
+        "zh": "泰語"
+      }
+    },
+    {
+      "label": "GDP (nom.)",
+      "value": "$529B"
+    },
+    {
+      "label": "Time zone",
+      "value": "UTC+7"
+    },
+    {
+      "label": "Calling code",
+      "value": "+66"
+    },
+    {
+      "label": "ISO code",
+      "value": "TH / THA"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🛕",
+      "text": {
+        "en": "Grand Palace — The spectacular golden palace complex and supreme symbol of the Thai monarchy",
+        "zh": "大皇宮——宏偉金碧的宮殿建築群，泰國王室與權力的至高象徵"
+      }
+    },
+    {
+      "icon": "💦",
+      "text": {
+        "en": "Songkran Water Festival — The world-famous traditional Thai New Year splash festival",
+        "zh": "宋干節（潑水節）——全球知名的泰國傳統新年慶典，以潑水象徵洗滌祝福"
+      }
+    },
+    {
+      "icon": "🥊",
+      "text": {
+        "en": "Muay Thai — The rigorous and legendary 'Art of Eight Limbs' martial art and national sport",
+        "zh": "泰拳（Muay Thai）——威震國際的「八肢藝術」格鬥技，亦是泰國國民運動"
+      }
+    },
+    {
+      "icon": "🍜",
+      "text": {
+        "en": "Thai Cuisine — A globally celebrated culinary art balancing sweet, sour, spicy, salty, and savory flavors",
+        "zh": "泰國料理——享譽全球的美食文化，將酸、辣、鹹、甜與香料香氣完美平衡"
+      }
+    },
+    {
+      "icon": "🏝️",
+      "text": {
+        "en": "Phuket — Thailand's largest tropical island paradise boasting turquoise waters and gorgeous beaches",
+        "zh": "普吉島——泰國最大熱帶島嶼度假勝地，擁有藍天碧海與舉世聞名的沙灘景色"
+      }
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/206773",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=97.0%2C5.5%2C105.8%2C20.5&layer=mapnik"
+}

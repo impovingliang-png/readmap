@@ -1,0 +1,353 @@
+{
+  "name": {
+    "en": "Egypt",
+    "zh": "埃及"
+  },
+  "nativeName": "مِصْر‎",
+  "capital": {
+    "en": "Cairo",
+    "zh": "開羅"
+  },
+  "population": "111M",
+  "area": "1,010,408 km²",
+  "density": "110/km²",
+  "continent": "Africa",
+  "flagEmoji": "🇪🇬",
+  "dataEstYear": 2025,
+  "description": {
+    "en": "Egypt is a pivotal country situated at the crossroads of North Africa and the Middle East, bordered by the Mediterranean Sea to the north, the Red Sea to the east, and linking Europe and Asia via the Suez Canal. Renowned for its ancient civilization, magnificent pyramids, the Nile River, and vital strategic geography, Egypt is one of the most historically influential nations in the world.",
+    "zh": "Egypt是位於北非與中東交界的重要國家，北臨地中海（Mediterranean Sea），東接紅海（Red Sea），並透過蘇伊士運河（Suez Canal）連結歐洲（Europe）與亞洲（Asia）。埃及以古文明、金字塔、尼羅河與戰略地理位置聞名，是世界歷史影響力最深遠的國家之一。"
+  },
+  "seoText": {
+    "en": "Explore quick facts about Egypt — population, land area, capital city, and a short overview. Learn about the Pyramids of Giza, Sphinx, Nile River Delta, Suez Canal maritime lanes, and the historic quarters of Cairo.",
+    "zh": "快速了解埃及的基本資料：人口、面積、首都與簡短概述。探索吉薩金字塔群與人面獅身像、尼羅河三角洲生命線、蘇伊士運河航運樞紐、開羅古城清真寺以及衣索比亞復興大壩爭端。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Strategically located at the historic crossroads of North Africa and the Middle East",
+          "Cradle of one of the world's absolute oldest and most influential civilizations",
+          "Suez Canal serves as a crucial artery for global maritime shipping and trade",
+          "The most populous nation within the Arab world"
+        ],
+        "text": "Egypt's history dates back thousands of years to the Ancient Egyptian civilization, which made pioneering contributions to architecture, religion, mathematical sciences, and state governance. Cairo has long stood as a towering political, media, and cultural capital of the Arab world.\n\nIn the modern era, Egypt functions as a major regional power bridging Africa and the Middle East, holding immense strategic importance in diplomacy, security, international energy corridors, and global trade transport."
+      },
+      "zh": {
+        "list": [
+          "位於北非與中東交界",
+          "擁有世界最古老文明之一",
+          "Suez Canal為全球重要航運通道",
+          "阿拉伯世界人口大國"
+        ],
+        "text": "埃及歷史可追溯至數千年前的古埃及（Ancient Egypt）文明，對建築、宗教、數學與政治制度發展具有深遠影響。開羅（Cairo）長期為阿拉伯世界重要政治、媒體與文化中心。\n\n現代埃及則是中東與非洲的重要區域強國，在外交、安全、能源與航運方面具有重要戰略地位。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Territory is predominantly comprised of the vast Sahara Desert",
+          "The Nile River serves as the absolute vital lifeline of the nation",
+          "Wartime demographic settlement highly clustered along the Nile basin",
+          "Controls the highly strategic Suez Canal maritime corridor"
+        ],
+        "text": "Spanning approximately 1 million square kilometers, Egypt is predominantly covered by the arid expanses of the Sahara Desert. Consequently, nearly the entire habitable and arable land area is concentrated along the narrow banks and fertile Delta of the Nile River.\n\nThe Nile River remains the absolute lifeblood of Egyptian society, providing agricultural irrigation, fresh water, and the foundation for metropolitan centers. The Suez Canal, connecting the Mediterranean and Red Seas, is a vital global maritime shipping lane that heavily impacts international commerce and energy distribution."
+      },
+      "zh": {
+        "list": [
+          "大部分國土為沙漠",
+          "Nile River為生命核心",
+          "人口集中於尼羅河流域",
+          "擁有Suez Canal戰略通道"
+        ],
+        "text": "埃及國土面積約 100 萬平方公里，但大部分為撒哈拉沙漠（Sahara Desert）地帶，可居住與農耕區主要集中在尼羅河（Nile River）沿岸與三角洲地區。尼羅河是埃及文明與現代社會的核心，提供農業灌溉、水資源與人口聚落條件。蘇伊士運河（Suez Canal）則連接地中海（Mediterranean Sea）與紅海（Red Sea），是全球最重要航運通道之一，對國際貿易與能源運輸具有重大影響。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Dominated by an extremely dry and hot desert climate",
+          "Intensely hot and dry summer seasons",
+          "Exceedingly scarce and variable precipitation",
+          "Somewhat milder and cooler conditions along the Mediterranean coast"
+        ],
+        "text": "The vast majority of Egypt experiences a hot desert climate, characterized by year-round aridity, minimal rainfall, and extreme summer heat, especially within the interior Sahara zones.\n\nOnly the northern Mediterranean coast enjoys milder, more moderate temperatures and pleasant winters. Due to absolute reliance on the Nile River, climate monitoring and cooperative river basin management are paramount to national food security."
+      },
+      "zh": {
+        "list": [
+          "屬乾燥沙漠氣候",
+          "夏季極度炎熱",
+          "降雨量稀少",
+          "地中海沿岸較溫和"
+        ],
+        "text": "埃及大部分地區全年乾燥少雨，夏季氣溫可達極高水平，特別是在內陸沙漠區域。北部地中海（Mediterranean Sea）沿岸氣候較為溫和，冬季相對舒適。由於水資源高度依賴尼羅河（Nile River），因此氣候與河川管理對農業與國家安全極為重要。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Vibrant population exceeding 100 million citizens",
+          "The single most populous country in the Arab world",
+          "Population is highly compressed within the immediate Nile basin",
+          "Strong presence of an energetic, highly youthful demographic profile"
+        ],
+        "text": "Egypt's population has crossed the historic milestone of 100 million, making it the most populous country in the Arab world and the third-most in Africa. Settlement is heavily concentrated within the Nile Delta and Cairo metropolitan area.\n\nArabic is the official language, and the overwhelming majority of citizens adhere to Sunni Islam. This rapid demographic expansion presents ongoing national challenges in providing housing, education, employment, and modernized infrastructure."
+      },
+      "zh": {
+        "list": [
+          "人口超過 1 億",
+          "阿拉伯世界人口大國",
+          "人口集中於Nile River周邊",
+          "年輕人口比例高"
+        ],
+        "text": "埃及人口主要聚集於尼羅河（Nile River）流域與開羅大都會區（Cairo metropolitan area），沙漠地區人口相對稀少。官方語言為阿拉伯語（Arabic），絕大多數人口信奉伊斯蘭教（Islam），其中遜尼派（Sunni Islam）為主流。由於人口成長快速，住房、教育、就業與基礎建設壓力長期存在。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "Highly diversified economic sectors spanning multiple fields",
+          "Vital foreign exchange contributions from tourism and Suez Canal shipping",
+          "Rapid development within natural gas extraction and energy export sectors",
+          "Facing notable inflationary pressures and national debt burdens"
+        ],
+        "text": "Egypt's economy is multi-faceted, heavily anchored by historic tourism, agriculture along the Nile, manufacturing, and natural gas exports. Toll revenues from the Suez Canal represent a major source of foreign reserves.\n\nWorld-renowned historical destinations like the Giza Pyramids, Luxor temples, and Red Sea marine resorts draw millions of tourists annually. However, high inflation, currency stabilization, and youth unemployment remain key economic priorities."
+      },
+      "zh": {
+        "list": [
+          "經濟結構多元",
+          "觀光與航運重要",
+          "天然氣產業發展快速",
+          "面臨通膨與財政壓力"
+        ],
+        "text": "埃及經濟涵蓋觀光、農業、製造業、能源與航運等多個領域。蘇伊士運河（Suez Canal）通行費是重要外匯收入來源，而天然氣開採近年成為重要能源產業。觀光業對經濟影響巨大，吉薩金字塔群（Giza Pyramids）、路克索（Luxor）與紅海度假勝地（Red Sea resorts）每年吸引大量國際旅客。然而，高通膨、外債與青年失業問題仍為主要經濟挑戰。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Structured under a centralized presidential republic system",
+          "Executive authority is strongly concentrated within the presidency",
+          "Substantial institutional influence held by the military establishment",
+          "Highly centralized administrative and governance framework"
+        ],
+        "text": "Egypt is governed as a republic with a strong presidential executive model. The national military plays a uniquely influential role within both state administration and key economic development projects.\n\nFollowing the structural shifts of the 2011 Arab Spring, the governance model has returned to a centralized administrative approach. The sprawling capital of Cairo remains the absolute political and diplomatic nerve center."
+      },
+      "zh": {
+        "list": [
+          "共和國體制",
+          "總統權力較強",
+          "軍方影響力深厚",
+          "中央集權特徵明顯"
+        ],
+        "text": "埃及政治長期具有強烈中央集權特徵，軍方在政治體系與關鍵經濟開發項目中擁有獨特且重要地位。阿拉伯之春（Arab Spring）後，埃及政治經歷重大變化，隨後重新回到較強勢的中央集權治理模式。首都開羅（Cairo）為全國絕對的政治、行政與外交中心。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Strong influence of traditional family structures and Islamic values",
+          "Pronounced socio-economic divide between urban hubs and rural villages",
+          "Steady national progress in basic literacy and education access",
+          "Demographic pressures from a large, aspiring youth generation"
+        ],
+        "text": "Religion and extended family bonds act as the primary social anchors in Egypt, heavily shaped by Islamic values and classical customs. Metropolitan life in Cairo is intensely fast-paced, contrasted by highly traditional agrarian routines in rural Upper Egypt.\n\nWith over half the population under the age of 30, the government is continuously challenged to create meaningful career paths and affordable housing."
+      },
+      "zh": {
+        "list": [
+          "家庭與宗教影響深厚",
+          "都市與鄉村差距存在",
+          "教育普及率提升",
+          "青年人口壓力明顯"
+        ],
+        "text": "宗教與大家庭紐帶在埃及社會中具有核心地位，社會文化深受伊斯蘭傳統（Islamic traditions）與古老習俗影響。開羅（Cairo）等大型城市人口密集、生活節奏繁忙，而上埃及等鄉村地區生活方式則較為傳統。隨著30歲以下年輕人口比例過半，提供充足的就業與可負擔住房成為政府面臨的重要課題。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "Ancient Egyptian archaeological wonders revered globally",
+          "Towering cultural powerhouse of modern Arab media and cinema",
+          "Magnificent tapestry of Islamic, Coptic, and Pharonic architecture",
+          "Vibrant heritage of historical bazaars and river traditions"
+        ],
+        "text": "Egypt holds an legendary place in world heritage, boasting the Pyramids of Giza, the Great Sphinx, and the valley tombs of Luxor. Cairo has historically served as the cultural epicenter of the Arab world, dominating film production, music recording, and Arabic literature.\n\nIts bustling historic bazaars (like Khan el-Khalili), ornate Islamic mosques, and Nile sailing traditions combine to form a stunning, living cultural landscape."
+      },
+      "zh": {
+        "list": [
+          "Ancient Egypt文明聞名世界",
+          "阿拉伯文化核心之一",
+          "電影與音樂產業歷史悠久",
+          "宗教與歷史遺產豐富"
+        ],
+        "text": "埃及擁有全球最著名古埃及（Ancient Egypt）文明遺產，包括吉薩金字塔群（Pyramids of Giza）、人面獅身像（Sphinx）與大量法老時代遺跡。開羅（Cairo）長期是阿拉伯文化圈的媒體與文化中心，在電影、音樂與文學領域具有巨大影響力。哈利利（Khan el-Khalili）等傳統百年市集、雄偉的伊斯蘭建築與尼羅河風帆文化共同構成埃及獨特的活歷史景觀。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Managing structural economic inflation and currency values",
+          "Tensions surrounding the Nile River water flow sharing",
+          "Logistical challenges associated with rapid population growth",
+          "Maintaining regional safety and geopolitical balancing"
+        ],
+        "text": "Egypt faces significant domestic economic trials, including soaring consumer prices, currency devaluations, and heavy debt servicing. Geopolitically, the construction of the Grand Ethiopian Renaissance Dam (GERD) upstream has sparked deep diplomatic security disputes over Nile water allocations.\n\nTo manage demographic pressures, the government is executing monumental infrastructure campaigns, including the construction of a massive New Administrative Capital in the desert."
+      },
+      "zh": {
+        "list": [
+          "經濟與通膨壓力",
+          "水資源與Nile River爭議",
+          "人口快速成長",
+          "區域安全與政治穩定"
+        ],
+        "text": "埃及近年面臨高物價、貨幣貶值與沉重債務財政壓力問題。在外交上，衣索比亞（Ethiopia）在上游興建「衣索比亞復興大壩」（Grand Ethiopian Renaissance Dam, GERD）引發了尼羅河（Nile River）水資源分配的嚴重外交與安全爭議。為了緩解人口成長壓力，政府正大舉投入基礎建設，並在沙漠中興建龐大的「新行政首都」計畫。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Cairo — Dynamic mega-capital filled with Islamic history",
+          "Alexandria — Legendary Mediterranean seaport steeped in antiquity",
+          "Giza Plateau — Home to the Pyramids and Great Sphinx",
+          "Luxor — Valley of the Kings and magnificent temple complexes"
+        ],
+        "text": "Cairo is a breathtaking metropolis hosting centuries of historic mosques, Coptic churches, and the Grand Egyptian Museum. Giza hosts the sole surviving wonder of the ancient world: the Great Pyramid.\n\nTo the south, Luxor sits upon the ancient capital of Thebes, presenting an unparalleled outdoor museum of monumental pylons, sphinx avenues, and subterranean royal tombs."
+      },
+      "zh": {
+        "list": [
+          "Cairo —— 首都與最大城市",
+          "Alexandria —— 地中海重要港口",
+          "Giza Pyramids —— 世界知名古文明遺址",
+          "Luxor —— 古埃及神殿集中地"
+        ],
+        "text": "開羅（Cairo）是非洲與阿拉伯世界最具活力的巨型都市，融合了數世紀的古老清真寺、科普特教堂與宏偉的大埃及博物館（Grand Egyptian Museum）。吉薩（Giza）則坐擁古代世界七大奇蹟中唯一倖存的吉薩大金字塔。往南沿河而下，路克索（Luxor）建立在古都底比斯的遺址上，展示著巨型神殿廊柱、人面獅身大道與帝王谷地下法老墓室，是一座無與倫比的露天博物館。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "Dominant diplomatic actor within the Arab League and African Union",
+          "Maintains deep strategic and military cooperation with the United States",
+          "Crucial regional broker in Middle Eastern peace processes",
+          "Suez Canal control provides immense global maritime leverage"
+        ],
+        "text": "Egypt holds a pivotal leadership role in Arab League diplomacy and African Union relations. It maintains a highly critical security partnership with the United States, receiving significant defense support.\n\nIts strategic custody of the Suez Canal makes it a vital partner for European energy and global shipping security. Egypt also acts as an indispensable diplomatic mediator in the Israeli-Palestinian peace process and regional ceasefire negotiations."
+      },
+      "zh": {
+        "list": [
+          "阿拉伯世界重要國家",
+          "與United States維持合作",
+          "中東外交角色重要",
+          "控制Suez Canal具戰略影響"
+        ],
+        "text": "埃及在阿拉伯國家聯盟（Arab League）與非洲聯盟外交中具有核心地位，並長期與美國（United States）保持戰略、軍事與安全合作。由於控制蘇伊士運河（Suez Canal），埃及在全球航運與能源供應鏈中具有高度戰略價值。同時，埃及也是中東和平進程、以巴衝突與區域停火談判中不可或缺的外交調停者。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Steady development of bilateral commercial trade and sales",
+          "Expanding academic exchanges and university links",
+          "Popular tourism destination for Taiwanese historical travelers",
+          "Cordial non-official relationship focused on commercial sectors"
+        ],
+        "text": "Egypt and Taiwan maintain steady non-official commercial ties, with bilateral trade centered on textiles, machinery, electronics, and agricultural exports.\n\nEgypt represents a highly favored bucket-list travel destination for Taiwanese tourists fascinated by ancient history. While formal diplomatic ties do not exist, trade offices and academic cultural groups continue to build mutual connections."
+      },
+      "zh": {
+        "list": [
+          "經緯交流存在",
+          "觀光與文化互動有限增加",
+          "無正式外交關係",
+          "教育與商業往來逐漸發展"
+        ],
+        "text": "埃及與台灣之間維持非官方但穩定的經貿關係，雙方貿易主要涵蓋紡織、機械、電子產品與農業出口。此外，埃及豐富的古文明歷史使其成為台灣旅客心目中首選的夢幻旅遊目的地。雖然兩國無正式外交關係，但透過商業與學術文化交流仍保持一定的民間往來。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "Home to the sole surviving Wonder of the Ancient World",
+          "The Nile River basin serves as a classic textbook natural lifeline",
+          "Suez Canal remains a key critical choke point of global logistics",
+          "Towering cultural influencer of Arab literature and modern media"
+        ]
+      },
+      "zh": {
+        "list": [
+          "擁有世界最古老文明之一",
+          "Nile River為國家生命線",
+          "Suez Canal影響全球航運",
+          "金字塔為世界最著名古代建築之一"
+        ]
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": "Egyptian Pound (EGP, LE)"
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "Arabic",
+        "zh": "阿拉伯語"
+      }
+    },
+    {
+      "label": "GDP (nom.)",
+      "value": "$380B"
+    },
+    {
+      "label": "Time zone",
+      "value": "UTC+2"
+    },
+    {
+      "label": "Calling code",
+      "value": "+20"
+    },
+    {
+      "label": "ISO code",
+      "value": "EG / EGY"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🔺",
+      "text": {
+        "en": "Pyramids of Giza — The towering ancient stone monuments and the Sphinx representing the last surviving Wonder of the Ancient World",
+        "zh": "吉薩金字塔群與人面獅身像——傲然聳立於沙漠的雄偉古石造遺跡，是古代世界七大奇蹟中唯一現存的國寶"
+      }
+    },
+    {
+      "icon": "🛶",
+      "text": {
+        "en": "Nile River Felucca — Traditional wooden sailboats cruising along the Nile, the historic cradle of Egyptian civilizations",
+        "zh": "尼羅河風帆船（Felucca）——傳統朝聖般的木造三角帆船，靜靜航行於哺育數千年法老文明、象徵埃及靈魂與命脈的尼羅河上"
+      }
+    },
+    {
+      "icon": "🗺️",
+      "text": {
+        "en": "Suez Canal — The monumental maritime artificial waterway linking Mediterranean and Red Seas shaping global logistics",
+        "zh": "蘇伊士運河——連結地中海與紅海的偉大人造國際水道，扼守歐亞非海運樞紐，對全球航運與供應鏈具決定性價值"
+      }
+    },
+    {
+      "icon": "🕌",
+      "text": {
+        "en": "Historic Cairo — Sprawling ancient capital adorned with spectacular centuries-old Islamic architecture and busy bazaars",
+        "zh": "開羅古城與清真寺——歷史悠久的伊斯蘭文化之都，擁有精雕細琢的千塔清真寺天際線與生氣蓬勃的汗哈利利傳統百年市集"
+      }
+    },
+    {
+      "icon": "🏛️",
+      "text": {
+        "en": "Luxor Open Air Museum — The magnificent valley of temples, obelisks, and pharaonic royal tombs depicting ancient Thebes",
+        "zh": "路克索神殿遺址——坐落於古底比斯的戶外歷史博物館，匯集了極其宏偉的卡奈克神殿、巨型石柱廊與帝王谷法老地下墓室"
+      }
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/1473947",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=24.5%2C21.5%2C37.0%2C32.0&layer=mapnik"
+}
