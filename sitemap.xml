@@ -1,9 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <url>
     <loc>https://readmap.idv.tw/</loc>
-    <lastmod>2026-05-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
+    <lastmod>2026-05-23T00:52:30+00:00</lastmod>
+    <priority>1.00</priority>
   </url>
+
+  <url>
+    <loc>https://readmap.idv.tw/country/</loc>
+    <lastmod>2026-05-23T00:52:31+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://readmap.idv.tw/map/map.html</loc>
+    <lastmod>2026-05-23T00:52:31+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+
+  <url>
+    <loc>https://readmap.idv.tw/country/index.html</loc>
+    <lastmod>2026-05-23T00:52:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+
+  <url>
+    <loc>https://readmap.idv.tw/footer/about.html</loc>
+    <lastmod>2026-05-23T00:52:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+
+  <url>
+    <loc>https://readmap.idv.tw/footer/contact.html</loc>
+    <lastmod>2026-05-23T00:52:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+
+  <url>
+    <loc>https://readmap.idv.tw/footer/terms.html</loc>
+    <lastmod>2026-05-23T00:52:33+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+
+  <url>
+    <loc>https://readmap.idv.tw/footer/privacy.html</loc>
+    <lastmod>2026-05-23T00:52:33+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+
 </urlset>
