@@ -1,303 +1,299 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://your-project-name.vercel.app/country/country-template.html</loc>
+    <loc>https://readmap.idv.tw/country/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/afghanistan/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/afghanistan/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/argentina/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/argentina/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/australia/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/australia/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/austria/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/austria/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/belgium/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/belgium/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/brazil/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/brazil/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/canada/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/canada/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/chile/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/chile/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/china/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/china/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/colombia/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/colombia/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/croatia/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/croatia/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/cuba/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/cuba/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/czech-republic/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/czech-republic/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/denmark/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/denmark/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/egypt/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/egypt/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/finland/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/finland/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/france/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/france/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/germany/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/germany/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/greece/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/greece/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/hungary/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/hungary/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/iceland/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/iceland/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/india/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/india/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/indonesia/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/indonesia/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/iran/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/iran/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/iraq/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/iraq/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/ireland/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/ireland/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/israel/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/israel/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/italy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/italy/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/japan/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/japan/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/kazakhstan/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/kazakhstan/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/kenya/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/kenya/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/malaysia/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/malaysia/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/mexico/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/mexico/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/mongolia/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/mongolia/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/morocco/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/morocco/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/nepal/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/nepal/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/netherlands/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/netherlands/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/new-zealand/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/new-zealand/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/nigeria/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/nigeria/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/north-korea/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/north-korea/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/norway/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/norway/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/pakistan/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/pakistan/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/peru/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/peru/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/philippines/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/philippines/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/poland/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/poland/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/portugal/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/portugal/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/qatar/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/qatar/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/romania/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/romania/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/russia/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/russia/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/saudi-arabia/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/saudi-arabia/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/serbia/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/serbia/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/singapore/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/singapore/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/south-africa/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/south-africa/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/south-korea/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/south-korea/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/spain/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/spain/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/sweden/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/sweden/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/switzerland/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/switzerland/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/syria/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/syria/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/taiwan/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/taiwan/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/thailand/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/thailand/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/turkey/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/turkey/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/ukraine/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/ukraine/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/united-arab-emirates/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/united-arab-emirates/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/united-kingdom/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/united-kingdom/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/united-states/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/united-states/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/venezuela/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/venezuela/index.html</loc>
+    <loc>https://readmap.idv.tw/country/nations/vietnam/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/country/nations/vietnam/index.html</loc>
+    <loc>https://readmap.idv.tw/footer/about.html</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/footer/about.html</loc>
+    <loc>https://readmap.idv.tw/footer/contact.html</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/footer/contact.html</loc>
+    <loc>https://readmap.idv.tw/footer/privacy.html</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/footer/privacy.html</loc>
+    <loc>https://readmap.idv.tw/footer/terms.html</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/footer/terms.html</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://your-project-name.vercel.app/</loc>
+    <loc>https://readmap.idv.tw/</loc>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://your-project-name.vercel.app/map/map.html</loc>
+    <loc>https://readmap.idv.tw/map/map.html</loc>
     <priority>0.8</priority>
   </url>
 </urlset>
