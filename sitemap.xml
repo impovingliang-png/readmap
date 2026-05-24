@@ -21,11 +21,23 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://readmap.idv.tw/country/nations/bangladesh/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://readmap.idv.tw/country/nations/belgium/</loc>
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://readmap.idv.tw/country/nations/bhutan/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://readmap.idv.tw/country/nations/brazil/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://readmap.idv.tw/country/nations/cambodia/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -129,6 +141,10 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://readmap.idv.tw/country/nations/laos/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://readmap.idv.tw/country/nations/malaysia/</loc>
     <priority>0.8</priority>
   </url>
@@ -142,6 +158,10 @@
   </url>
   <url>
     <loc>https://readmap.idv.tw/country/nations/morocco/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://readmap.idv.tw/country/nations/myanmar/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -225,6 +245,10 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://readmap.idv.tw/country/nations/sri-lanka/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://readmap.idv.tw/country/nations/sweden/</loc>
     <priority>0.8</priority>
   </url>
@@ -295,5 +319,34 @@
   <url>
     <loc>https://readmap.idv.tw/map/map.html</loc>
     <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://readmap.idv.tw/map/map.html?base=topo</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://readmap.idv.tw/map/map.html?currents=1</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://readmap.idv.tw/map/map.html?contours=1</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://readmap.idv.tw/map/map.html?mode=plate&amp;tectonicPlates=1</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://readmap.idv.tw/map/map.html?worldpopDots=1</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://readmap.idv.tw/map/map.html?graticule=1</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://readmap.idv.tw/map/map.html?admin=1</loc>
+    <priority>0.9</priority>
   </url>
 </urlset>
