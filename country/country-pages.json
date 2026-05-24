@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22",
+  "generatedAt": "2026-05-23",
   "countries": [
     {
       "slug": "canada",
@@ -264,6 +264,30 @@
     {
       "slug": "china",
       "nameEn": "China"
+    },
+    {
+      "slug": "bhutan",
+      "nameEn": "Bhutan"
+    },
+    {
+      "slug": "laos",
+      "nameEn": "Laos"
+    },
+    {
+      "slug": "cambodia",
+      "nameEn": "Cambodia"
+    },
+    {
+      "slug": "myanmar",
+      "nameEn": "Myanmar"
+    },
+    {
+      "slug": "bangladesh",
+      "nameEn": "Bangladesh"
+    },
+    {
+      "slug": "sri-lanka",
+      "nameEn": "Sri Lanka"
     },
     {
       "slug": "taiwan",

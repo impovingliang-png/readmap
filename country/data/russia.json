@@ -8,303 +8,305 @@
     "en": "Moscow",
     "zh": "莫斯科"
   },
-  "population": "140M",
-  "area": "17.1M km²",
-  "density": "8.4/km²",
+  "population": "146.2M",
+  "area": "17,098,246 km²",
+  "density": "8.6/km²",
   "continent": "Europe",
   "flagEmoji": "🇷🇺",
-  "dataEstYear": 2025,
+  "dataEstYear": 2026,
   "description": {
-    "en": "Russia, officially the Russian Federation, is a transcontinental country spanning Northern Eurasia. It is the largest country in the world by land area, stretching across eleven time zones from Eastern Europe to the Pacific Ocean. Boasting immense energy reserves and geopolitical influence, Russia holds a prominent role in global history, science, and the arts.",
-    "zh": "Russia是位於歐亞大陸北部的聯邦制國家，橫跨歐洲與亞洲兩大洲，擁有世界最大國土面積。俄羅斯東臨太平洋，西接歐洲，北面面向北冰洋，是全球地理範圍最廣闊的國家之一。"
+    "en": "Russia, officially the Russian Federation, is an expansive transcontinental country spanning Eastern Europe and Northern Asia. As the largest country in the world by land area, it stretches across eleven time zones and shares borders with sixteen sovereign nations. Operating as a critical nuclear-armed superpower, Russia holds some of the planet's most comprehensive natural gas, petroleum, and mineral reserves, driving its strategic energy diplomacy. Its history weaves through the Tsardom of Russia, the global superpower era of the Soviet Union (USSR), and the modern federal state, leaving an indelible imprint on global literature, advanced aerospace engineering, and multi-polar geopolitics.",
+    "zh": "Russia（俄羅斯，官方全稱為俄羅斯聯邦）是橫跨東歐與北亞的龐大跨洲國家。作為全球國土面積最大的國家，俄羅斯橫跨 11 個時區，與 16 個主權國家接壤。身為擁有世界頂級核武庫的超級大國，其境內蘊藏著極為龐大的天然氣、石油與稀有金屬礦產，並以此主導全球能源外交。俄羅斯的歷史脈絡由留里克王朝、俄羅斯帝國（Russian Empire）延續至 20 世紀的超級強權蘇聯（USSR）。蘇聯解體後由俄羅斯聯邦繼承其國際地位，在古典文學、前沿航太工程、深海探測以及當代多極化地緣政治中扮演著舉足輕重的核心角色。"
   },
   "seoText": {
-    "en": "Explore quick facts about Russia — population, land area, capital city, and a short overview. Discover its transcontinental geography, rich natural resources, classical arts, and historic landmarks like the Kremlin and Red Square.",
-    "zh": "快速了解俄羅斯的基本資料：人口、面積、首都與簡短概述。探索其橫跨歐亞的地理環境、豐富的天然資源、古典藝術以及克里姆林宮與紅場等著名地標。"
+    "en": "Explore comprehensive facts about Russia — updated population metrics, transcontinental land area, capital city Moscow, and macroeconomic updates. Discover its complex federal architecture, Lake Baikal ecology, space exploration history, and iconic landmarks like the Kremlin, Red Square, and Hermitage Museum.",
+    "zh": "深入了解俄羅斯（Russia）最新基本資料：精確人口分布、西伯利亞土地面積、首都莫斯科、以及總體經濟數據。探索橫跨歐亞的極端氣候、貝加爾湖淡水生態、大航天時代歷史、以及克里姆林宮、紅場與冬宮等聯合國教科文組織世界文化遺產。"
   },
   "sections": {
     "overview": {
       "en": {
         "list": [
-          "Transcontinental country spanning Northern Eurasia",
-          "The largest country in the world by land area",
-          "Possesses vast energy and natural resource reserves",
-          "Formidable military and geopolitical influence"
+          "Dominant transcontinental power spanning across Eastern Europe and Northern Asia",
+          "The undisputed global leader in sovereign territorial land area",
+          "Maintains unparalleled strategic reservoirs of natural gas, crude oil, and rare earth elements",
+          "Permanent member of the UN Security Council possessing an advanced independent military complex"
         ],
-        "text": "Tracing its history from the East Slavs and the Russian Empire, Russia later became the core of the Soviet Union, one of the primary superpowers of the 20th century. Following the dissolution of the USSR, modern Russia emerged as a federal republic, continuing to play a highly influential role in global politics, security, and energy markets.\n\nAs a resource-rich nation, Russia possesses strong capabilities in petroleum, natural gas, metallurgy, military industries, and aerospace, maintaining one of the world's most formidable nuclear and military forces."
+        "text": "Emerging from the historical crucible of the East Slavs, Russia consolidated into an expansive empire under Peter the Great before transforming into the ideological and structural core of the Soviet Union. Following the geopolitical restructuring of 1991, the contemporary Russian Federation emerged as a highly centralized federal state. It remains a pivotal pole in international relations, leveraging its veto power at the UN, its vast industrial-military capacity, and its dominance over Eurasian transport and energy corridors to shape global security balances."
       },
       "zh": {
         "list": [
-          "位於歐亞大陸北部的跨洲國家",
-          "世界面積最大的國家",
-          "擁有豐富能源與天然資源",
-          "軍事與地緣政治影響力強大"
+          "橫跨東歐平原至西北太平洋、主導歐亞大陸北部地緣結構的跨洲巨型國家",
+          "國土面積位居全球之冠，國土邊境漫長且與多個關鍵地緣政治板塊重疊",
+          "掌握全球頂級的碳氫化合物資源（天然氣與石油），為全球大宗商品市場的定價核心之一",
+          "聯合國安理會常任理事國，擁有完備的國防工業自主權與極具威懾力的略性核打擊力量"
         ],
-        "text": "俄羅斯歷史可追溯至東斯拉夫文明與俄羅斯帝國（Russian Empire）時期，其後經歷蘇聯（Soviet Union）時代，成為20世紀最重要超級強權之一。蘇聯解體後，現代俄羅斯成為聯邦共和國，仍在全球政治、安全與能源市場中具有重要影響力。\n\n作為資源型大國，俄羅斯在石油、天然氣、礦產、軍工與航太領域具有強大實力，同時也是全球核武與軍事力量最強國家之一。"
+        "text": "俄羅斯文明起源於基輔羅斯與東斯拉夫部落，歷經基法、莫斯科公國的擴張，在彼得大帝時期正式蛻變為橫跨歐亞的俄羅斯帝國，隨後在 20 世紀演進為蘇維埃社會主義共和國聯盟（蘇聯），成為與美國並立的冷戰兩極之一。\n\n1991 年蘇聯解體後，俄羅斯聯邦作為法統繼承國，轉型為高度中央集權的聯邦制國家。當代俄羅斯利用其在聯合國的否決權、深厚的軍事技術累積以及對北極航道與歐亞能源管網的實質控制，在國際多極化秩序中持續發揮著強大的戰略牽制與重塑能力。"
       }
     },
     "geography": {
       "en": {
         "list": [
-          "Spans across Eastern Europe and Northern Asia",
-          "Ranks first in the world by land area",
-          "Contains vast expanses of forests and permafrost",
-          "Abundant river systems and freshwater lakes"
+          "Occupies over one-eighth of the Earth's inhabited continental landmass",
+          "Topography split into the low East European Plain and the vast, mountain-rimmed Siberian lowlands",
+          "Features Earth's most extensive taiga forest networks and massive subarctic permafrost zones",
+          "Cradles Lake Baikal, the world's deepest and most voluminous freshwater basin"
         ],
-        "text": "Russia covers approximately 17.1 million square kilometers and spans 11 time zones, stretching from the East European Plain to Siberia and the Far East.\n\nThe western European portion is the most densely populated, whereas Siberia and the Arctic regions are extremely sparsely populated. The country is rich in forests, permafrost, and freshwater resources, with Lake Baikal standing as the deepest freshwater lake on Earth."
+        "text": "Spanning approximately 17.1 million square kilometers, Russia's immense geography borders both the Arctic and Pacific Oceans, creating unparalleled climatic and biological diversity. The Ural Mountains serve as the traditional, ancient geographical boundary separating European Russia from Asian Siberia. While the European sector comprises rolling plains and major agrarian basins, the vast expanse east of the Urals turns into rugged plateaus, endless coniferous forests, and mineral-dense tundra systems."
       },
       "zh": {
         "list": [
-          "橫跨歐洲與亞洲",
-          "國土面積世界第一",
-          "擁有大量森林與凍土地帶",
-          "河川與湖泊資源豐富"
+          "國土面積高達 1,710 萬平方公里，佔地球陸地總面積的八分之一以上",
+          "地形以烏拉山脈為界，以西為地勢平坦的東歐平原，以東則為遼闊無際的西伯利亞盆地與高原",
+          "坐擁全球面積最大的泰加林（亞寒帶針葉林）生態系與大範圍的北極永凍土地帶",
+          "境內水系縱橫，擁有歐州最長的伏爾加河以及蓄水量佔全球地表淡水五分之一的貝加爾湖"
         ],
-        "text": "俄羅斯國土面積約 1,710 萬平方公里，跨越 11 個時區，從東歐平原一路延伸至西伯利亞與遠東地區。\n\n西部歐洲區域人口較集中，而西伯利亞與北極圈地區則地廣人稀。境內擁有大量森林、凍土與淡水資源，貝加爾湖（Lake Baikal）更是世界最深淡水湖之一。"
+        "text": "俄羅斯遼闊的疆域使其在地理上具備無可比擬的戰略縱深。由西向東，國土從波羅的海沿岸一路延伸至白令海峽，其漫長的北冰洋海岸線隨著全球氣候暖化，正逐漸轉變為具備極高經濟價值的北極東北航道。\n\n著名的烏拉山脈不僅是古老的地質褶皺，更是劃分歐洲俄羅斯與亞洲俄羅斯的天然分水嶺。西部平原氣候相對溫和，是全國的精華農業與工業區；而廣袤的西伯利亞則蘊藏著近乎無限的煤炭、鐵礦、有色金屬與林業資源，儘管開採條件因極地凍土而極其艱巨。"
       }
     },
     "climate": {
       "en": {
         "list": [
-          "Dominated by subarctic and temperate continental climates",
-          "Characterized by long, severe winters",
-          "Extreme climate conditions in Siberia",
-          "Relatively mild conditions in southern regions"
+          "Dominated globally by extreme temperate continental and subarctic climate regimes",
+          "Winters are historically severe and protracted; summers are short, intensive, and warm",
+          "Siberian interior experiences extreme thermal variations, reaching Earth's lowest inhabited temperatures",
+          "Southern peripheral strips along the Black Sea feature localized humid subtropical zones"
         ],
-        "text": "Due to its vast size, Russia experiences massive temperature variation. The northernmost regions fall under polar and subarctic climates, while most of the central landmass experiences harsh winters and brief summers.\n\nSiberia is famous for winter temperatures that plunge to tens of degrees below zero, while the southern Black Sea coast and Caucasus regions enjoy significantly warmer, subtropical climates."
+        "text": "Russia's climate is characterized by its high latitude and separation from moderating oceanic currents. The vast interior of Siberia experiences a hyper-continental effect, where cities like Oymyakon routinely log winter plunges well below -50°C, contrasted by warm summers. This prolonged freeze cycle dictates urban infrastructure design, resource extraction windows, and shapes a unique, resilient winter folk culture."
       },
       "zh": {
         "list": [
-          "寒帶與溫帶氣候為主",
-          "冬季漫長且寒冷",
-          "西伯利亞氣候極端",
-          "南部地區較溫和"
+          "絕大部分國土屬於典型的溫帶大陸性氣候與亞寒帶針葉林氣候",
+          "氣候特徵為冬季漫長、酷寒且積雪深厚，夏季則短暫、溫熱且降雨集中",
+          "西伯利亞內陸具備極高的「大陸度」，冬夏溫差可達 80°C 以上，奧伊米亞康曾創下定居點最低溫紀錄",
+          "黑海沿岸的大索契地區與高加索南麓受到山脈阻擋，擁有溫和多雨的獨特副熱帶度假氣候"
         ],
-        "text": "俄羅斯因國土廣大而氣候差異顯著。北部屬極地與亞寒帶氣候，中部大部分地區冬季嚴寒，夏季則相對短暫。\n\n西伯利亞地區冬季氣溫極低，部分地區可降至零下數十度。南部黑海沿岸與高加索地區則氣候較溫暖。"
+        "text": "由於國土位置偏北且缺乏南部海洋暖流調節，俄羅斯絕大多數地區在冬季都會被冰雪覆蓋。大西洋的暖濕氣流雖能勉強抵達東歐平原，帶來相對溫和的降雪，但越往東越過烏拉山脈，大陸性效果越發極端。\n\n西伯利亞與遠東地區的冬季冰凍期可長達 6 至 8 個月，永凍土層厚度在某些地區甚至深達數百公尺，這對當地的建築工程、鐵路鋪設與管道運輸提出了極高的技術挑戰。然而，漫長的冬季也鍛造了俄羅斯獨特的雪地生活美學，並在歷史上數次成為阻擋外敵入侵的天然屏障。"
       }
     },
     "demographics": {
       "en": {
         "list": [
-          "Population of approximately 140 million",
-          "Population is heavily concentrated in the European part",
-          "High level of urbanization",
-          "Highly diverse ethnic composition"
+          "Total population stabilizes around 146.2 million, heavily augmented by regional migration",
+          "Extremely asymmetrical distribution, with nearly 75% of citizens clustered in European Russia",
+          "Maintains an exceptionally high urbanization index, anchored by vast multi-million megacities",
+          "A complex polyethnic federation containing over 190 distinct ethnic groups and indigenous peoples"
         ],
-        "text": "The majority of Russia's population resides in its European western territory, particularly in and around major metropolises like Moscow and Saint Petersburg, whereas Siberia and northern reaches are exceptionally sparsely populated.\n\nRussia is a multi-ethnic state. Beyond the dominant ethnic Russian population, it is home to Tatars, Chechens, and hundreds of other minority groups. Russian is the primary official language."
+        "text": "While ethnic Russians comprise approximately 80% of the state fabric, the Russian Federation recognizes a multitude of distinct native ethnicities. Tatars (approx. 3.9%), Bashkirs, Chuvash, and various North Caucasian ethnic groups like Chechens possess localized demographic majorities within their autonomous republics. Russian is the sweeping federal language, alongside over thirty co-official regional languages."
       },
       "zh": {
         "list": [
-          "人口約 1.4 億",
-          "人口主要集中於歐洲部分",
-          "高度城市化",
-          "民族組成多元"
+          "全國總人口約 1 億 4,620 萬人，呈現複雜的人口結構波動與高度的城鎮化特徵",
+          "人口地理分布極不均衡，約有 75% 的人口密集居住在僅佔國土四分之一的歐洲區域",
+          "三大都會區（莫斯科、聖彼得堡、新西伯利亞）具備極高的人口吸納力，鄉村人口持續向城市收攏",
+          "由多達 190 多個民族構成的多元聯邦，其中俄羅斯族約佔 80%，其餘少數民族基數龐大"
         ],
-        "text": "俄羅斯人口主要分布於西部歐洲區域，尤其是莫斯科（Moscow）與聖彼得堡（Saint Petersburg）周邊地區。西伯利亞與北部地區人口密度極低。\n\n俄羅斯為多民族國家，除俄羅斯族外，亦包含韃靼人（Tatars）、車臣人（Chechens）與多個少數民族。俄語為主要官方語言。"
+        "text": "俄羅斯的人口分布是一幅極端的極化圖景。烏拉山脈以西的歐洲部分城鎮密布，交通網路發達；而廣闊的西伯利亞平均每平方公里僅有 2 人不到。根據最新的人口普查與數據統計，俄羅斯是一個不折不扣的多民族國家。\n\n除主體的俄羅斯族（斯拉夫人）外，境內第二大民族是屬於突厥語系的韃靼人（約占總人口 3.9%），主要聚居於伏爾加河流域的韃靼斯坦共和國。此外，還包括信奉伊斯蘭教的車臣人、印古什人等高加索民族，以及遠東地區的布里亞特人、雅庫特人等蒙古與通古斯系原住民。這種錯綜複雜的民族與宗教版圖，使俄羅斯的內政與民族政策具備高度的複雜性。"
       }
     },
     "economy": {
       "en": {
         "list": [
-          "Energy exports form the core of the economy",
-          "Abundant petroleum and natural gas resources",
-          "Highly advanced military-industrial and heavy industries",
-          "Significantly impacted by international sanctions"
+          "Resource-rich mixed economy, ranking as one of the world's largest GDP pools by PPP metrics",
+          "Acts as a foundational pillar for global industrial systems through extensive non-ferrous metallurgy",
+          "Advanced state-driven heavy sectors including nuclear engineering, rocketry, and sovereign defense weapons",
+          "Undergoing deep structural transformation and trade reallocation due to severe international sanctions"
         ],
-        "text": "Russia holds some of the world's largest natural gas reserves and stands as a major global exporter of crude oil. The energy sector serves as the fiscal and export spine of the nation.\n\nBeyond energy, Russia maintains a leading global role in defense manufacturing, nuclear energy, metallurgy, and space exploration. However, in recent years, international sanctions, geopolitical conflicts, and capital flight have placed the economy under transitional pressures and challenges."
+        "text": "Russia's macroeconomic model relies heavily on its mineral extraction complex, being a top global provider of oil, natural gas, platinum, and fertilizers. Following intense Western economic sanctions and systemic disengagement from European markets, Moscow has aggressively reoriented its supply chains toward Asia, specifically escalating hydrocarbon pipelines and financial settlement systems with China, India, and the broader Global South."
       },
       "zh": {
         "list": [
-          "能源出口為經濟核心",
-          "石油與天然氣資源豐富",
-          "軍工與重工業發達",
-          "受國際制裁影響明顯"
+          "典型的資源創收與重工業雙驅動經濟體，按購買力平價（PPP）計算位居世界前列",
+          "全球最大天然氣出口國、主要原油與成品油供應商，掌握全球有色金屬與化肥供應鏈命脈",
+          "擁有全球領先的民用核能輸出技術（如國家原子能公司 Rosatom）與極具競爭力的民航與軍工製造",
+          "在經歷全面性的國際經濟制裁後，財政與貿易結構發生深刻轉型，加速與西方金融體系脫鉤"
         ],
-        "text": "俄羅斯擁有全球最大的天然氣儲量之一，同時也是重要石油出口國。能源產業長期為國家財政與出口收入核心。\n\n除能源外，俄羅斯在軍工、核能、金屬與航太產業亦具有重要地位。不過近年因國際制裁、地緣政治衝突與資本外流，俄羅斯經濟面臨壓力與轉型挑戰。"
+        "text": "俄羅斯經濟具備顯著的「硬實力」特徵。其國家財政長期高度依賴能源與大宗商品出口。俄羅斯不僅是歐亞大陸的天然氣水龍頭，也是黃金、白金、鎳、鋁等關鍵工業金屬的全球最大核心供應者。\n\n面對西方近年來實施的嚴厲金融禁運與科技封鎖，俄羅斯展現出比外界預期更強的經濟韌性。其經濟重心正經歷歷史性的「向東看」大轉型：原油與天然氣源源不斷地透過「西伯利亞力量」等大型管道流向中國與印度市場，國內金融全面接入人民幣清算體系，並透過平行進口與自主研發，全力推動工業零組件的國產化替代。"
       }
     },
     "politics": {
       "en": {
         "list": [
-          "Federal semi-presidential republic",
-          "Composed of numerous republics and federal subjects",
-          "Highly centralized presidential power",
-          "Strong authority held by the central government"
+          "Asymmetrical federal republic governed under a strong executive semi-presidential model",
+          "The President wields sweeping constitutional control over foreign policy, military, and judiciaries",
+          "The Federal Assembly consists of the State Duma (legislative lower house) and the Federation Council",
+          "Administered through 89 federal subjects, including republics, oblasts, and federal-tier cities"
         ],
-        "text": "While officially a federation comprised of multiple republics, oblasts, and autonomous regions, Russia operates under highly centralized presidential power.\n\nThe President is the supreme leader of the state, directing foreign policy, national security, and military command. Moscow is the political, administrative, and economic heart, and ranks as the largest city in the nation."
+        "text": "Political authority in Russia is deeply centralized around the Office of the President, located in the Moscow Kremlin. The President directs national security strategies and appoints the Prime Minister to oversee domestic economic governance. The legal architecture balance balances sovereign federal legislation with tailored bilateral treaties that govern the interior ethnic autonomous republics."
       },
       "zh": {
         "list": [
-          "聯邦共和制國家",
-          "由多個共和國與聯邦主體組成",
-          "總統權力集中",
-          "中央政府影響力強大"
+          "實行聯邦共和制，实质上為總統權力極大化的強行政機關半總統制政體",
+          "總統擁有憲法賦予的最高統帥權、外交主導權，並對內閣、司法系統有決定性的控制力",
+          "聯邦會議由行使立法權的國家杜馬（眾議院）以及代表地方主體的聯邦委員會（參議院）組成",
+          "全國劃分為 89 個聯邦主體（含多個依少數民族設立、擁有獨立憲法的自治共和國）"
         ],
-        "text": "俄羅斯由多個共和國、州與自治區組成，採聯邦制度，但中央政府權力高度集中。\n\n總統為國家最高領導人，負責外交、安全與軍事政策。莫斯科（Moscow）為政治與行政核心，同時也是全國最大城市。"
+        "text": "俄羅斯的政治體制在西方學者眼中具有強烈的「威權民主」或「超總統制」特徵。克里姆林宮是整個國家權力的絕對核心。雖然設有總理（首相）一職主持國務院日常經濟運作，但重大決策、外交方針以及安全部門（如聯邦安全局 FSB）均直接對總統負責。\n\n作為一個由 89 個聯邦主體組成的龐大聯邦，其內部行政單位種類繁多，包括普通行政州、邊疆區、聯邦直轄市（莫斯科、聖彼得堡、塞凡堡），以及特別為韃靼人、車臣人等少數民族設立的自治共和國。這些共和國名義上擁有自己的憲法與第二官方語言，但近年來中央政府透過設立「聯邦管區」派駐全權代表，實質上極大地強化了垂直政權的中央集權度。"
       }
     },
     "society": {
       "en": {
         "list": [
-          "Deep scientific and educational traditions",
-          "Pronounced developmental gap between urban and rural areas",
-          "Persistent challenges with demographic aging",
-          "Massive scale of public infrastructure"
+          "Possesses centuries of profound academic heritage in theoretical mathematics, physics, and chemistry",
+          "Pronounced socio-economic divergence between ultra-modernized clusters and peripheral interior regions",
+          "Faces long-term demographic challenges regarding male life expectancy and shifting birth patterns",
+          "Maintains massive state-managed social safety nets alongside highly subsidized public infrastructure"
         ],
-        "text": "Russia boasts a rich history of excellence in mathematics, physics, engineering, and aerospace technology, producing numerous world-class scientists and researchers.\n\nWhile major metropolises are highly modernized, remote regions often face infrastructure and economic lag. Demographic decline and an aging population present long-term challenges for the country's social fabric."
+        "text": "Russian society is characterized by its deep educational foundations and cultural endurance. Major metropolitan centers like Moscow offer cutting-edge digital infrastructure, world-class public transport, and vibrant consumer markets. Conversely, smaller provincial towns rely heavily on legacy industrial networks, where the state remains the chief employer and stabilizer of the local economy."
       },
       "zh": {
         "list": [
-          "教育與科學傳統深厚",
-          "都市與鄉村差距明顯",
-          "人口老化問題存在",
-          "公共基礎建設規模龐大"
+          "繼承了蘇聯極其深厚的基礎科學教育傳統，在理論數學、高能物理與材料工程界實力頂尖",
+          "城鄉與地區間發展落差巨大，莫斯科等一線都會區數位生活極度便利，而偏遠小鎮設施相對老舊",
+          "人口高齡化與男性預期壽命相對偏低（受酗酒傳統、高壓生活影響）是長期的社會福利挑戰",
+          "公共基礎建設實施高額國家補貼，供暖系統、鐵路網絡與公共圖書館等社會保障覆蓋面極廣"
         ],
-        "text": "俄羅斯在數學、物理、工程與太空科技領域具有深厚歷史基礎，曾培養大量科學家與工程人才。\n\n大型城市現代化程度高，但部分偏遠地區基礎建設與經濟發展相對落後。人口減少與老化亦為長期社會問題之一。"
+        "text": "俄羅斯社會是一個兼具高知識分子水平與傳統保守價值觀的矛盾綜合體。得益於從帝國時期至蘇聯時代奠定的全民普及教育，俄羅斯人的識字率高達 99.7%，並在國際科學與程式設計競賽中長年獨占鰲頭。莫斯科與聖彼得堡等大都市的居民享受著世界一流的無現金支付、發達的快遞物流以及極其低廉的城市公共運輸。\n\n然而，在廣大的「單一工業城（Monogorod）」和偏遠鄉村，基礎設施更新緩慢，生活水準與都會區存在顯著鴻溝。此外，國家透過發放「母親基金」等優渥的財政手段大力鼓勵生育，以期扭轉長期以來少子化對勞動力市場造成的負面衝擊。"
       }
     },
     "culture": {
       "en": {
         "list": [
-          "Profound global influence in literature and classical arts",
-          "World-renowned ballet and classical music traditions",
-          "Long historical influence of Russian Orthodox culture",
-          "Ice hockey holds deep-seated athletic representation"
+          "Global literature titan, producing epochal psychological realism and dense philosophical narratives",
+          "World-class classical music, symphony composition, and vanguard theatrical choreography heritages",
+          "Russian Orthodox spirituality functions as an foundational pillar of cultural and national preservation",
+          "Athletic dominance anchored heavily in winter disciplines, figure skating, and tactical chess mastery"
         ],
-        "text": "Russian cultural contributions hold world-class status in literature, music, and performing arts, immortalized by legendary figures like Leo Tolstoy, Fyodor Dostoevsky, and Pyotr Ilyich Tchaikovsky.\n\nThe Russian Orthodox Church has historically played a central role in shaping social and national identity, while ice hockey is celebrated as one of the country's most representative and popular sports."
+        "text": "The cultural weight of Russia is globally recognized. The architectural skyline is defined by the striking, colorful onion domes of Orthodox cathedrals alongside monumental Soviet constructivism. In the arts, legends like Tolstoy and Dostoevsky redefined global literature, while Tchaikovsky, Rachmaninoff, and the Bolshoi Ballet established absolute standards in classical world performance."
       },
       "zh": {
         "list": [
-          "文學與古典藝術影響深遠",
-          "芭蕾與古典音樂世界知名",
-          "東正教文化歷史悠久",
-          "冰球文化具代表性"
+          "文學界的泰山北斗，以刻畫人類靈魂深處矛盾的心理現實主義與宏大哲學思辨名垂青史",
+          "古典音樂與芭蕾舞藝術的最高殿堂之一，孕育出無數世界交響樂團常備演出的傳世樂章",
+          "東正教（Orthodoxy）信仰深植於民族性格，教堂的洋蔥頭穹頂與聖像畫構成了其獨特的視覺美學",
+          "世界體育超級強權，尤其在花式滑冰、體操、冰球以及國際西洋棋領域長年壟斷世界頂尖席次"
         ],
-        "text": "俄羅斯文化在文學、音樂與藝術領域具有世界級地位，例如 列夫·托爾斯泰（Leo Tolstoy）、費奧多爾·陀思妥耶夫斯基（Fyodor Dostoevsky） 與 彼得·伊里奇·柴可夫斯基（Pyotr Ilyich Tchaikovsky）。\n\n俄羅斯正教會（Russian Orthodox Church）長期深刻影響俄羅斯歷史與社會文化。冰球則被視為俄羅斯最具代表性的運動之一。"
+        "text": "俄羅斯文化是一座擁有無限厚度的寶庫。在文學領域，普希金的詩歌、托爾斯泰的《戰爭與和平》、陀思妥耶夫斯基的《罪與罰》以及契訶夫的短篇小說，共同構築了世界文學史上難以企及的高峰。在音樂與表演藝術方面，柴可夫斯基的《天鵝湖》、拉赫曼尼諾夫的鋼琴協奏曲，至今仍是全球各大劇院與芭蕾舞團（如莫斯科大劇院、聖彼得堡馬林斯基劇院）的票房保證。\n\n俄羅斯人的審美既有斯拉夫民俗的純樸熱烈，又有帝國宮廷的奢華繁複，這一點完美體現在紅場聖瓦西里主教座堂那如童話般斑斕的洋蔥頭穹頂，以及聖彼得堡冬宮（隱士廬博物館）內令人目眩神迷的無價藝術收藏中。"
       }
     },
     "issues": {
       "en": {
         "list": [
-          "Economic pressure from international sanctions",
-          "Long-term demographic decline",
-          "Pivot of energy exports towards Asian markets",
-          "Ongoing and persistent geopolitical conflicts"
+          "Systemic technological blockades demanding radical localized microchip and hardware scaling",
+          "Accelerated demographic strain fueled by working-age capital and talent relocation vectors",
+          "Vulnerability to long-term economic single-commodity volatility in energy oil pricing brackets",
+          "Intense border security and geopolitical friction surrounding protracted continental military conflicts"
         ],
-        "text": "In recent years, geopolitical tensions and military conflicts have led to sweeping international sanctions, heavily impacting Russia's financial systems, tech access, and global trade.\n\nConcurrently, Russia has actively shifted its energy trade and economic partnerships towards China, India, and other Asian and Global South markets to offset declining European trade."
+        "text": "Modern Russia navigates acute structural disruptions. The broad isolation from European financial networks has forced an expensive, comprehensive pivot toward domestic administrative autonomy. Concurrently, environmental degradation inside subarctic mining clusters and the rapid thawing of permafrost present long-term infrastructural engineering challenges for its northern resource networks."
       },
       "zh": {
         "list": [
-          "國際制裁與經濟壓力",
-          "人口下降問題",
-          "能源出口轉向亞洲",
-          "地緣政治衝突持續"
+          "西方全面性技術封鎖引發的供應鏈危機，迫使國家必須對晶片與高階工業軟體進行高成本替代",
+          "少子化與地緣政治衝突引發的部分高階技術人才與資本外流，加劇了白領勞動力市場的結構性短缺",
+          "經濟結構過於單一，財政收入極易受到國際原油價格劇烈波動與地緣政治折扣的直接影響",
+          "因長期的軍事衝突導致與西方世界陷入全面冷戰狀態，周邊地緣安全環境極度繃緊"
         ],
-        "text": "俄羅斯近年因國際局勢與軍事衝突面臨大規模制裁，對金融、科技與國際貿易造成影響。\n\n同時，俄羅斯積極強化與中國、印度及亞洲市場的能源與經濟合作，以降低對歐洲市場依賴。"
+        "text": "步入 2026 年，俄羅斯正全力應對歷史性的多重結構性挑戰。地緣政治衝突引發的國際制裁已進入深水區，雖然能源成功轉銷亞洲，但高科技零組件、精密工具機與醫療設備的禁運，正倒逼其工業體系進行一場極具風險的「主權技術轉型」。\n\n此外，氣候變遷對俄羅斯而言是一把雙面刃：雖然北極冰層融化帶來了航道便利，但西伯利亞大片永凍土的解凍，正導致建於其上的輸油管道、鐵路基座與城市地基發生沉降與變形，引發高昂的基礎設施維修成本。如何在戰時財政擴張、人才流失、全球暖化與內政多民族平衡之間尋求長遠的穩定，是當前俄羅斯高層最核心的課題。"
       }
     },
     "landmarks": {
       "en": {
         "list": [
-          "Moscow — The nation's capital and political hub",
-          "Saint Petersburg — Historical and cultural capital of the north",
-          "The Kremlin — The supreme symbol of state power",
-          "Red Square — Internationally iconic historic plaza"
+          "Moscow — Sovereign mega-capital anchoring the Kremlin fortress, Red Square, and lavish metro networks",
+          "Saint Petersburg — The historic 'Window to Europe' featuring the Hermitage and pastel baroque canals",
+          "The Kremlin — Ancient medieval Citadel flanking the Moscow River, acting as the absolute seat of power",
+          "St. Basil's Cathedral — Visually unparalleled kaleidoscope of multi-colored asymmetrical spires"
         ],
-        "text": "Moscow is Russia's massive capital, serving as the absolute epicenter of political, financial, and military power. Saint Petersburg, famous for its elegant European architectural style, holds legendary status as a historical and cultural capital. \n\nAt the heart of Moscow, the Kremlin and the adjacent Red Square stand as the definitive symbols of Russia's historical heritage and state power."
+        "text": "Russia’s geographic vastness is marked by incredible monuments. Beyond the imperial palaces of Saint Petersburg and Moscow's historic core, landmarks include the legendary Trans-Siberian Railway—stretching 9,289 kilometers to Vladivostok—and the breathtaking volcanic peaks of the Kamchatka Peninsula, which frame the wild eastern frontier of Eurasia."
       },
       "zh": {
         "list": [
-          "莫斯科（Moscow）—— 首都與政治核心",
-          "聖彼得堡（Saint Petersburg）—— 歷史與文化重鎮",
-          "克里姆林宮（Kremlin）—— 俄羅斯權力象徵",
-          "紅場（Red Square）—— 世界知名歷史廣場"
+          "莫斯科（Moscow）—— 全球頂級都會，集結了克里姆林宮、紅場與堪稱地下藝術宮殿的莫斯科地鐵",
+          "聖彼得堡（Saint Petersburg）—— 帝俄時期的璀璨首都，由無數運河、冬宮與奢華巴洛克宮殿交織的水上之城",
+          "克里姆林宮（Kremlin）—— 矗立於莫斯科河畔的古老磚石城堡，俄羅斯歷代統治者的權力最高中樞",
+          "聖瓦西里主教座堂（St. Basil's）—— 紅場南端的視覺奇蹟，九座色彩斑斕、高低錯落的洋蔥穹頂和諧並存"
         ],
-        "text": "莫斯科（Moscow）為俄羅斯最大城市，也是全國政治、金融與軍事中心。\n\n聖彼得堡（Saint Petersburg）則擁有濃厚歐洲建築風格與歷史文化地位。克里姆林宮（Kremlin）與紅場（Red Square）更是俄羅斯最具代表性的國家象徵之一。"
+        "text": "俄羅斯的地標建築與自然景觀完美呼應了其國土的宏大敘事。除了莫斯科的權力核心克里姆林宮和向全球彰顯帝國尊榮的紅場外，聖彼得堡的冬宮博物館收藏了跨越數千年的 300 萬件世界藝術珍品，與其市內縱橫交錯的運河共同贏得了「北方威尼斯」的美譽。\n\n在自然人文地標方面，橫跨歐亞、全長 9,289 公里的「西伯利亞大鐵路」是人類工程史上的傳奇史詩；而遠在東端、充滿地熱噴泉與活火山的堪察加半島，以及世界上最深邃、清澈透明的「西伯利亞明眸」貝加爾湖，更構成了俄羅斯遠東地區令人屏息的壯麗自然名片。"
       }
     },
     "international": {
       "en": {
         "list": [
-          "Permanent member of the UN Security Council",
-          "One of the world's leading nuclear-armed powers",
-          "Strong influence through energy diplomacy",
-          "Highly strained relations with the West"
+          "Permanent UN Security Council power exercising a foundational veto over global governance bills",
+          "Key institutional vector within the BRICS alliance and the Shanghai Cooperation Organization (SCO)",
+          "Maintains absolute diplomatic and economic structural integration across central Eurasian trade hubs",
+          "Relations with North Atlantic alliances have undergone deep, generation-defining containment transformations"
         ],
-        "text": "As a permanent member of the United Nations Security Council, Russia remains a primary military and diplomatic power, wielding substantial geopolitical influence across Eurasia. \n\nWhile relationships with Western nations have reached unprecedented levels of tension, cooperation and strategic alignment with China, the Middle East, India, and Global South nations have surged."
+        "text": "Russia's international strategy operates on a multi-polar blueprint, designed to counter Western geopolitical hegemony. While its formal operational networks with Europe have hit post-Cold War freezing points, Moscow has effectively supercharged its alignment with China, Iran, and key Middle Eastern energy coalitions (OPEC+), presenting itself as a leader of the alternative Global South financial and political architecture."
       },
       "zh": {
         "list": [
-          "聯合國（United Nations）安理會常任理事國",
-          "全球主要核武國家之一",
-          "能源外交影響力強大",
-          "與西方關係緊張"
+          "聯合國安理會常任理事國，在國際重大衝突與全球治理議案上擁有一票否決權",
+          "金磚國家（BRICS）創始核心成員以及上海合作組織（SCO）的兩大地緣政治推動引擎之一",
+          "主導歐亞經濟聯盟（EAEU）與獨立國協（CIS），對中亞與高加索地區維持強大的傳統安全輻射力",
+          "與歐美、北約等西方陣營的政治信任徹底破裂，國際外交全面轉入長期對抗與制度性圍堵"
         ],
-        "text": "俄羅斯長期為全球重要軍事與外交強權，在歐亞地區具有高度地緣政治影響力。\n\n近年俄羅斯與歐美國家關係持續緊張，但與中國、中東、印度及部分全球南方國家合作增加。"
+        "text": "當前俄羅斯的外交戰略已完全擺脫了蘇聯解體初期「融入西方」的幻想，轉而全力推進「多極化世界秩序」的建立。雖然與歐美陣營的關係跌入古巴飛彈危機以來的最冰點，但俄羅斯在歐亞大陸及「全球南方」的外交網路上卻展現出前所未有的主動性。\n\n透過與中國深化「新時代全面戰略協作夥伴關係」，兩國在反對單邊主義、推動本幣結算上結成堅固同盟；同時，俄羅斯透過金磚國家擴員機制，大幅強化了與中東產油國、拉美及非洲新興經濟體的戰略對接，並在 OPEC+ 機制中與沙烏地阿拉伯聯手主導全球油價波動，成功破解了西方對其進行的國際孤立。"
       }
     },
     "taiwan": {
       "en": {
         "list": [
-          "Dominated by trade and civic exchanges",
-          "Potential cooperation in energy and raw materials",
-          "Highly limited official political interaction",
-          "Past developments in tourism and education"
+          "Bilateral interactions operate under strictly practical, non-official legal parameters",
+          "Sustained commercial transactions concentrated in steel metallurgy, petrochemical inputs, and electronics",
+          "Academic exploration continues via localized Russian literature programs and scientific research grids",
+          "Tourism vectors remain specialized, relying on non-stop codeshare connections via continental Asian hubs"
         ],
-        "text": "Russia and Taiwan maintain stable but unofficial relations, primarily focused on trade, commodities, and civilian exchanges.\n\nWhile political interactions are limited, Russia has previously served as a popular cultural tourism and academic destination, with ongoing cooperation in research and science."
+        "text": "While Russia and Taiwan lack formal diplomatic ties, civilian, trade, and intellectual exchanges persist. Taiwanese high-tech hardware sectors adhere closely to international regulatory frameworks, while domestic businesses look to secure non-sanctioned commodities from Eurasia. Diplomatic communication is sustained via the Representative Office in Moscow and the Taipei-Moscow Economic and Cultural Coordination Commission."
       },
       "zh": {
         "list": [
-          "以經貿與民間交流為主",
-          "能源與原物料具潛在合作空間",
-          "政治互動有限",
-          "觀光與教育交流曾有發展"
+          "雙邊關係嚴格限制於非官方、務實性的經貿、科技與文化交流範疇",
+          "經貿往來主要集中於鋼鐵、基本金屬原料及能源原物料進口，台灣則對俄輸出部分電子零件與機械設備",
+          "高教與學術領域交流歷史悠久，台灣多所公私立大學設有俄語與斯拉夫文學系所，培育專業研究人才",
+          "觀光與民間往來呈現高度專業化與小眾化，近年主要仰賴曼谷、杜拜等第三地樞紐進行間接中轉"
         ],
-        "text": "俄羅斯與台灣並無正式外交關係，雙方主要透過經貿與民間交流維持互動。\n\n過去俄羅斯曾為台灣旅遊與留學目的地之一，雙方亦在科技與學術領域有部分合作。"
+        "text": "台灣與俄羅斯聯邦之間並無正式外交關係，雙方各項互動均透過設於莫斯科的「駐俄羅斯代表處」以及設於台北的「莫斯科台北經濟文化協調委員會」進行務實推動。受近年國際地緣政治局勢與大規模制裁影響，雙方在半導體等高科技敏感領域的直接貿易已受到嚴格管控，經貿往來轉向更具普用性的傳統大宗商品與工業原料。\n\n在民間層面，俄羅斯深厚的古典藝術、芭蕾舞團與交響樂團長年深受台灣精緻文化市場歡迎，雙方的學術機構在地球科學、理論物理等基礎科學領域亦保持著科學家的個人合作研究，展現了超越政治screen的民間文化韌性。"
       }
     },
     "further": {
       "en": {
         "list": [
-          "The largest country in the world by area",
-          "Spans across 11 time zones",
-          "Holds one of the world's largest natural gas reserves",
-          "Holds a historic, pioneering status in space exploration",
-          "Famous for its winter climate and snow culture"
-        ]
+          "Maintains the planet's single largest continuous block of primary pristine forest timber reserves",
+          "Pioneered humanity's path into outer space via the historic launch of Sputnik and Yuri Gagarin",
+          "Operates the Trans-Siberian Railway, an architectural epic bridging two distinct world continents",
+          "Features a unique network of elite 'Closed Cities' (ZATO) dedicated to high-tier nuclear research",
+          "Maintains an unparalleled cultural legacy in classical ballet methods and psychological novel realism"
+        ],
+        "text": "Russia stands as a transcontinental giant, continually demonstrating that its vast geography, rich resources, and cultural depth make it an essential, un-isolated player in global history."
       },
       "zh": {
         "list": [
-          "世界國土面積最大國家",
-          "橫跨 11 個時區",
-          "擁有全球最大天然氣儲量之一",
-          "太空科技歷史地位重要",
-          "冬季氣候與雪地文化具代表性"
-        ]
+          "航太探索的絕對先驅，創下發射人類首顆人造衛星（Sputnik）與首位太空人升空的永恆史詩",
+          "世界上少數擁有完備全產業鏈、能獨立製造重型破冰船、核動力潛艦與先進戰機的軍工強國",
+          "擁有全球最龐大的北極破冰船隊（包含獨一無二的核動力破冰船），牢牢掌控北極航道開發權",
+          "設有獨特的「保密行政區（ZATO）」制度，將尖端核能與國防科研隱藏於深山與荒原之中",
+          "將深沉的斯拉夫民族性、宏大的帝國美學與超前的科學精神完美融合，持續衝擊人類文明邊界"
+        ],
+        "text": "俄羅斯是一個無法用單一標準衡量的國家，它巨大、深邃、充滿著矛盾卻又散發著致命的魅力。從伏爾加河畔的古老歌謠到拜科努爾發射場的火箭轟鳴，這個國家在漫長的歷史中，總能在最深重的危機裡爆發出令人震驚的生命力。它在文藝復興的邊緣獨自摸索出了一套震撼世界的古典藝術美學，又在工業時代的浪潮中建立起了足以與整個西方抗衡的重工業骨架。當前的俄羅斯雖然置身於地緣政治的狂風暴雨之中，但它那橫跨 11 個時區的廣袤土地、埋藏於西伯利亞冰層下的無盡財富，以及斯拉夫民族那種在苦難中愈發堅韌的民族性格，都注定使它永遠不會被邊緣化，而是繼續以一個特立獨行的歐亞巨人的姿態，深刻地書寫著人類歷史的下一個篇章。"
       }
     }
   },
   "quickFacts": [
     {
       "label": "Currency",
-      "value": "₽ Russian Ruble"
+      "value": "₽ Russian Ruble (RUB / Sovereign currency backed by natural commodity matrices)"
     },
     {
       "label": "Language",
       "value": {
-        "en": "Russian",
-        "zh": "俄語"
+        "en": "Russian (Statewide official); over 30 languages hold co-official status within specific ethnic republics (e.g., Tatar, Chechen)",
+        "zh": "俄語（全國唯一聯邦官方語言）；另有 30 多種少數民族語言在各自自治共和國享有共同官方語言地位（如韃靼語、車臣語）"
       }
     },
     {
       "label": "GDP (nom.)",
-      "value": "$2.0T"
+      "value": "$2.0T+ (Consistently ranking among the top global economies by PPP valuation)"
     },
     {
       "label": "Time zones",
       "value": {
-        "en": "UTC+2 – UTC+12 (spanning 11 time zones)",
-        "zh": "UTC+2 – UTC+12（橫跨 11 個時區）"
+        "en": "UTC+2 to UTC+12 (Spanning 11 continuous time zones without seasonal Daylight Saving adjustment)",
+        "zh": "UTC+2 至 UTC+12（橫跨 11 個連續時區，目前全年實行標準時間，不採用夏令時間）"
       }
     },
     {
@@ -320,36 +322,36 @@
     {
       "icon": "🏰",
       "text": {
-        "en": "The Kremlin — The historic fortified complex at the heart of Moscow, the seat of Russian power",
-        "zh": "克里姆林宮——位於莫斯科市中心的历史防禦建築群，俄羅斯權力中樞"
+        "en": "The Moscow Kremlin — The imposing, red-brick medieval fortress flanking Red Square, standing as the supreme operational nerve center of Russian sovereignty",
+        "zh": "莫斯科克里姆林宮 —— 矗立於莫斯科河畔、由紅色宮牆環繞的古老防禦建築群，是俄羅斯國家的最高權力中樞與象徵"
       }
     },
     {
       "icon": "⛪",
       "text": {
-        "en": "St. Basil's Cathedral — Iconic multi-colored onion-domed church on the Red Square",
-        "zh": "聖瓦西里主教座堂——紅場上著名的標誌性彩色洋蔥頭穹頂教堂"
+        "en": "St. Basil's Cathedral — The internationally iconic architectural marvel on Red Square, capturing the eye with its whimsical, multi-colored onion spires",
+        "zh": "聖瓦西里主教座堂 —— 紅場南端最著名的歷史地標，以九座色彩絢麗、形狀各異的魔幻洋蔥頭穹頂聞名於世"
       }
     },
     {
       "icon": "🌊",
       "text": {
-        "en": "Lake Baikal — The oldest and deepest freshwater lake on Earth, holding 20% of the world's unfrozen surface fresh water",
-        "zh": "貝加爾湖——世界上最古老與最深的淡水湖，儲水量佔全球非凍結地表淡水量的五分之一"
+        "en": "Lake Baikal — The oldest, deepest, and clearest freshwater lake on the planet, containing roughly 20% of the world's liquid surface fresh water",
+        "zh": "神秘貝加爾湖 —— 位於西伯利亞南部的世界最深、最古老淡水湖，冬季冰封期呈現震撼人心的藍冰與氣泡冰奇觀"
       }
     },
     {
       "icon": "🚀",
       "text": {
-        "en": "Sputnik & Yuri Gagarin — Pioneering milestones in space exploration history, launched by Soviet Russia",
-        "zh": "史普尼克與加加林——航太探索史上的先驅性里程碑，由前蘇聯發射與載人升空"
+        "en": "Sputnik & Gagarin Legacy — Pioneering cosmic achievements launched from Baikonur, marking Soviet Russia's indelible status as the vanguard of space exploration",
+        "zh": "史普尼克與加加林史詩 —— 前蘇聯開創人類航太時代的偉大里程碑，成功發射首顆人造衛星並將首位人類送上太空軌道"
       }
     },
     {
       "icon": "🩰",
       "text": {
-        "en": "Russian Ballet — World-famous classical dance traditions, home of the Bolshoi and Mariinsky theaters",
-        "zh": "俄羅斯芭蕾——享譽全球的古典舞蹈傳統，為大劇院與馬林斯基劇院的發源地"
+        "en": "Russian Ballet Sovereignty — Worldwide gold standard in classical dance and choreography, anchored by the technical perfection of the Bolshoi and Mariinsky theaters",
+        "zh": "俄羅斯皇家芭蕾 —— 享譽全球的頂級古典舞蹈傳統，以瓦加諾瓦學派的嚴苛訓練與莫斯科大劇院的宏大演出制霸世界舞台"
       }
     }
   ],

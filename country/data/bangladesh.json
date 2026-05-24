@@ -1,0 +1,359 @@
+{
+  "name": {
+    "en": "Bangladesh",
+    "zh": "孟加拉"
+  },
+  "nativeName": "বাংলাদেশ",
+  "capital": {
+    "en": "Dhaka",
+    "zh": "達卡"
+  },
+  "population": "173.5M",
+  "area": "148,460 km²",
+  "density": "1,169/km²",
+  "continent": "Asia",
+  "flagEmoji": "🇧🇩",
+  "dataEstYear": 2026,
+  "description": {
+    "en": "Bangladesh is a sovereign South Asian nation situated on the fertile Ganges-Brahmaputra-Meghna delta. It shares borders with Myanmar to the southeast, India along its west, north, and east perimeters, and opens into the Bay of Bengal to the south. Ranked as one of the most densely populated nations globally, Bangladesh functions as a crucial global powerhouse for Ready-Made Garments (RMG) manufacturing and textile exports. Dhaka stands as its dense geopolitical and financial heart, while the country navigates major industrial modernization alongside systemic climate adaptation.",
+    "zh": "Bangladesh全稱為孟加拉人民共和國，是位於南亞恆河—布拉馬普特拉—梅格納河三角洲核心地帶的世俗民主國家。國土西、北、東三面與印度接壤，東南一隅與緬甸為鄰，南臨廣闊的孟加拉灣。孟加拉是全球人口密度最高且人口破億的大型國家之一，亦是僅次於中國的全球第二大成衣與紡織品出口經濟體。首都達卡（Dhaka）為全國政經、金融與文化中心，整體國家在推動製造業轉型的同時，也深度參與全球氣候變遷與減災體制的構建。"
+  },
+  "seoText": {
+    "en": "Discover comprehensive facts about Bangladesh — population, land area, capital city, and detailed analyses. Explore Dhaka, Chittagong Port, Cox's Bazar beach, the Sundarbans mangrove forest, the global Ready-Made Garment (RMG) supply chain, climate resilience, and socio-demographic statistics.",
+    "zh": "深入了解孟加拉（孟加拉人民共和國）的基本資料：精確人口結構、國土面積、首都與詳盡概述。探索達卡都會區、吉大港港口、庫克斯巴扎爾長灘、世界遺產巽他伯倫紅樹林、全球成衣與紡織供應鏈、跨國水資源爭議、難民危機以及近年政局轉型趨勢。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Strategic South Asian nation sitting atop the world's largest river delta system",
+          "Ranked among the top globally for population density among mid-to-large countries",
+          "The world's second-largest exporter of ready-made garments and apparel tech",
+          "A vibrant, youth-dominated society heavily shaped by hydro-geography and rivers"
+        ],
+        "text": "Bangladesh forms a critical bridge between South and Southeast Asia, possessing a unique maritime opening onto the Bay of Bengal. Driven by an expansive riverine network, the territory is culturally uniform yet socially complex. After separating from Pakistan through the Liberation War of 1971, the nation rapidly outpaced early economic predictions, elevating its status from an agrarian baseline into a globally synchronized industrial manufacturing center led by Dhaka and the primary seaport hub of Chittagong."
+      },
+      "zh": {
+        "list": [
+          "高踞南亞戰略要衝，坐落於全球規模最大的河口三角洲腹地",
+          "全球大中型國家中人口密度最高者，國土承載極高的人力資本與勞動红利",
+          "全球第二大成衣（RMG）出口國，為歐美服飾零售供應鏈的重要支柱",
+          "人口結構極其年輕且富彈性的社會，日常生活與水文環境及河川治理密不可分"
+        ],
+        "text": "孟加拉在地理上是連接南亞與東南亞的戰略陸橋，向南直接延伸至孟加拉灣的海權航道。全境因發達的江河交匯而擁有極其肥沃的沖積土壤，文化認同高度統一。自 1971 年歷經殘酷的解放戰爭脫離巴基斯坦獨立後，孟加拉成功打破「國際乞丐」的早期悲觀預言，憑藉強大的勞動力優勢，迅速轉型為全球紡織製造巨頭。\n\n全國以政治心臟達卡與第一大外貿海港吉大港（Chittagong）為雙核心，持續推動基礎建設現代化與多元產業升級。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Dominated by flat, low-lying alluvial plains stretching across central South Asia",
+          "Formed by the convergence of the Padma (Ganges), Jamuna (Brahmaputra), and Meghna rivers",
+          "Over 80% of the land is vulnerable to seasonal flooding during peak monsoons",
+          "Features the Sundarbans — the planet's largest continuous mangrove wetland preserve"
+        ],
+        "text": "The geography of Bangladesh is overwhelmingly defined by water. The country functions as the drainage basin for a massive Himalayan watershed, directing hundreds of rivers into the Bay of Bengal. This flat terrain creates highly fertile silt deposits ideal for intensive paddy and jute farming, but leaves the nation highly vulnerable to riverbank erosion, seasonal flooding, and changing coastal deltas, requiring innovative water-engineering solutions."
+      },
+      "zh": {
+        "list": [
+          "全境絕大部分為平坦低窪的沖積平原，山地僅零星分布於東部與東南邊境",
+          "由恆河（國內稱帕德馬河）、布拉馬普特拉河（國內稱賈木納河）與梅格納河匯流沖積而成",
+          "國土超過 80% 屬於低海拔沖積平原，在季風峰值期面臨極高的洪水氾濫係數",
+          "擁有全球面積最大、列入聯合國教科文組織世界遺產的巽他伯倫（Sundarbans）潮汐紅樹林"
+        ],
+        "text": "孟加拉的地理環境本質上由水文所決定。該國位於喜馬拉雅山脈南麓巨型流域的總出海口，境內大大小小縱橫交錯的河流多達數百條，最終全部注入孟加拉灣。這種特殊的低地三角洲地形每年都會迎來上游的大量沖積黏土，為當地提供了極其肥沃的稻米與黃麻種植條件。\n\n然而，地勢低平也帶來了嚴峻的代價：每逢雨季，全國約有三分之一的土地會被河水吞沒。河道頻繁變遷、河岸侵蝕以及南部漫長的低海拔海岸線，使得泥沙淤積治理與防洪大堤建設成為國土規劃的長期核心任務。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Classic tropical monsoon climate with distinct warm-wet and cool-dry periods",
+          "High summer temperatures frequently paired with intense, oppressive humidity",
+          "Heavy monsoonal rains provide up to 80% of the country's annual precipitation",
+          "Highly exposed to severe tropical cyclones tracking northward from the Bay of Bengal"
+        ],
+        "text": "Bangladesh features three major seasons: a hot, muggy spring from March to May; the intense monsoon season from June to October; and a mild, dry winter from November to February. Its unique funnel-shaped coastal geography amplifies storm surges generated by Bay of Bengal cyclones, which makes the country a critical global testing ground for climate change adaptation, early warning systems, and community storm shelter infrastructure."
+      },
+      "zh": {
+        "list": [
+          "典型的熱帶季風氣候，全年分為酷熱潮濕的雨季與溫和乾燥的旱季",
+          "夏季平原氣溫高且空氣濕度極大，體感溫度常年居高不下",
+          "每年 6 月至 10 月的西南季風帶來全島約 80% 的年降雨量，極易引發水患",
+          "特殊的喇叭口海岸地形，使其極易受到孟加拉灣向北移動的毀滅性熱帶氣旋侵襲"
+        ],
+        "text": "孟加拉氣候具有顯著的季風交替特徵。每年 3 月至 5 月為熱季，氣溫常突破 40°C 且伴隨強烈雷雨；6 月至 10 月為季風雨季，西南季風攜帶大西洋與印度洋的飽和水氣傾瀉而下，造成全國性的大範圍降雨；11 月至次年 2 月則迎來乾涼舒適的冬季，是當地的黃金觀光期。\n\n由於孟加拉灣頂端呈漏斗狀，氣旋引發的暴潮往往會被急速壓縮抬升，對南部沿海低窪地區構成嚴重的生命財產威脅。這迫使孟加拉在過去數十年中建立了舉世聞名的氣旋預警體系與數千座社區避難所，成為全球應對極端氣候適應的重要典範。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Total population stabilizes at approximately 173.5 million inhabitants",
+          "Sustains an exceptional density exceeding 1,160 persons per square kilometer",
+          "Ethnically homogenous society with Bengalis comprising 98% of the total populace",
+          "Indigenous minority tribes (Chakma, Marma) reside primarily in the Chittagong Hill Tracts"
+        ],
+        "text": "The demographic landscape of Bangladesh is defined by high cultural and linguistic cohesion, with Bengali (Bangla) serving as the official and near-universal native tongue. According to official stats, Islam is the dominant religion, practiced by 89.6% of the population (overwhelmingly Sunni Muslim), making it one of the largest Muslim-majority countries globally. Hinduism forms the largest minority at 8.5%, while Buddhists (0.6%) and Christians (0.3%) maintain historic communities. The population remains highly dynamic and youthful, with a median age under 28, driving a rapid urban influx into the Greater Dhaka megacity."
+      },
+      "zh": {
+        "list": [
+          "全國總人口已達約 1 億 7,350 萬人，位列全球人口前十名大國",
+          "每平方公里人口密度高達 1,169 人以上，高居世界非城市島國型國家之冠",
+          "族群結構極其單一，孟加拉族（Bengalis）占總人口比例高達 98%",
+          "少數民族（如查克馬人、馬爾馬人）約占 2%，主要分布於東南部的吉大港山區"
+        ],
+        "text": "孟加拉在人口學上是一個具有極高文化與語言凝聚力的國家。官方語言孟加拉語（Bangla）是全境高達 98% 人口的母語。根據孟加拉普查局與最新統計，全國宗教人口分布數據非常精確：\n\n伊斯蘭教：占總人口的 89.6%，絕大多數屬於遜尼派（Sunni），使孟加拉成為全球僅次於印尼、巴基斯坦與印度的第四大穆斯林人口聚落。\n印度教：為最大少數宗教，占總人口的 8.5%，廣泛分布於全國城鄉。\n佛教：占總人口的 0.6%，多集中於吉大港山區（Chittagong Hill Tracts）的原住民族群中。\n基督教：占總人口的 0.3%，多包含早期殖民時期遺留下來的社群與部落皈依者。\n\n孟加拉的人口紅利極其顯著，國民年齡中位數不到 28 歲。隨著農村人口因土地侵蝕與尋求工作持續湧入都市，首都達卡已膨脹為全球人口密度最高的超級巨型大都會。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "Highly dynamic market economy sustained by heavy manufacturing and industrial exports",
+          "The Ready-Made Garment (RMG) sector generates over 80% of total national export revenue",
+          "Agriculture remains the primary employer, dominating global jute and rice cultivation",
+          "Massive financial inputs secured via billions in remittances from Middle East and Western diaspora"
+        ],
+        "text": "Bangladesh's economic model relies heavily on labor-intensive manufacturing. The country acts as a key global apparel supplier, leveraging a massive workforce to service multinational Western retail brands. In recent years, the government has pushed to expand beyond textiles into pharmaceutical manufacturing, shipbuilding, software services, and electronics assembly. Significant infrastructure megaprojects, such as the self-funded Padma Multipurpose Bridge and deep-sea port expansions at Matarbari, are steadily untangling chronic logistics bottlenecks."
+      },
+      "zh": {
+        "list": [
+          "發展勢頭強勁的工業化市場經濟，近年成功自最不發達國家（LDC）名單中畢業",
+          "成衣加工業（Ready-Made Garment, RMG）為絕對經濟命脈，產值占出口總額 80% 以上",
+          "農業仍吸收大量就業人口，黃麻（Jute）產量與精緻稻米農產在全球享有盛譽",
+          "數百萬海外勞工（主要分布於中東Gulf國家）每年匯回數百億美元，為外匯重要基石"
+        ],
+        "text": "孟加拉是當代開發中國家製造業崛起的典型代表。其經濟的飛速成長主要依賴於其龐大的「Ready-Made Garment (RMG)」成衣加工產業鏈，全球大眾服飾連鎖品牌絕大多數皆在孟加拉設有核心生產基地。為擺脫單一產業風險，孟加拉正積極輔導學名藥製藥、輕型造船、IT軟體外包以及消費性電子組裝等新興工業。\n\n政府近年大力推動跨時代的基礎建設，包括全額自資興建、打通西南交通任督二脈的「帕德馬多功能大橋」（Padma Bridge）、達卡首條捷運系統（MRT）以及由日資協助建設的馬達巴里（Matarbari）深水港，旨在大幅縮短對外貿易的物流週期。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Parliamentary republic with a highly polarized constitutional party framework",
+          "Executive authority is centered in the Prime Minister; President serves as head of state",
+          "History characterized by military coups, civilian uprisings, and intense factional rivalries",
+          "Experiencing a major democratic transition following massive political upheavals in recent years"
+        ],
+        "text": "The political trajectory of Bangladesh has historically swung between democratic governance and periods of military intervention. Following the historic anti-discrimination student-led mass protests in mid-2024, the long-standing administration collapsed, ushering in a significant transition phase led by an interim caretaker government focused on institutional reforms. The nation is currently overhauling its judiciary, electoral commission, and police forces to restore deep legislative transparency and human rights accountability ahead of national elections."
+      },
+      "zh": {
+        "list": [
+          "議會共和制國家，設有單一院制國民議會（Jatiya Sangsad，共 350 席）",
+          "行政實權集中於總理，總統主要擔任國家元首與憲政象徵職務",
+          "政治歷史充滿波折，經歷過多次軍事政變、政黨激烈對抗與大規模街頭運動",
+          "近年歷經重大政治洗牌，當前由過渡看守政府主導深度的體制與司法改革"
+        ],
+        "text": "孟加拉建國以來的政治體制長期由兩大歷史家族政黨（人民聯盟與民族主義黨）激烈輪替主導。然而，2024 年年中爆發了由大學生發起的反不公職位配額制大規模示威，迅速演變為全社會參與的「反威權公民起義」，導致執政長達15年的政權垮台並引發內閣重組。\n\n目前，孟加拉在國際與社會各界支持下，由諾貝爾獎得主領銜的臨時看守政府主持大局，全面整頓司法獨立性、反貪腐機制、選舉委員會與警政紀律。外交上則繼續在維持與最大鄰國印度的密切安全連結，和擴大與歐、美、日、中等國的經濟合作之間保持多元平衡。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "High urban density exerts continuous pressure on housing, municipal power, and clean water",
+          "Sustained successes in gender parity, with millions of women joining the formal labor force",
+          "Non-Governmental Organizations (NGOs) like BRAC play a world-leading role in grassroots development",
+          "Strong emphasis on social micro-finance and community welfare infrastructure"
+        ],
+        "text": "Socio-cultural dynamics in Bangladesh show incredible resilience despite spatial and resource limits. The proliferation of local NGOs and micro-credit programs pioneered by Grameen Bank has structurally reduced rural poverty and elevated female literacy. Despite these major rural development strides, managing hyper-congestion, toxic air quality, and wealth distribution in urban centers like Dhaka and Chittagong remains an acute public policy challenge."
+      },
+      "zh": {
+        "list": [
+          "極高的人口密度對大都市的住宅空置率、電網穩定度與自來水供應構成恆常挑戰",
+          "性別平權與婦女賦權成效顯著，數百萬女性進入成衣業，大幅提升女性社會地位",
+          "本土非政府組織（NGO，如BRAC、鄉村銀行）實力極強，深度補足政府基層治理",
+          "微型貸款（Microfinance）體系發達，有效扶持農村與底層民眾擺脫絕對貧窮"
+        ],
+        "text": "孟加拉社會在極端擁擠的空間壓力下展現出驚人的生存韌性。由諾貝爾和平獎得主穆罕默德·尤努斯創立的「鄉村銀行」（Grameen Bank）及全球最大的NGO「BRAC」，在孟加拉深耕數十年，透過微型貸款與基層教育，成功將數百萬農村文盲女性轉化為具備生產力的勞動人口，使孟加拉在聯合國千禧年發展指標中的婦幼健康與減貧項目表現亮眼。\n\n不過，都市化的急速擴張也讓達卡等大城長期面臨交通癱瘓、空氣污染以及貧民窟擴建等亟待解決的現代化都市治理難題。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "Deeply anchored in the thousand-year-old secular traditions of the Bengali language",
+          "Literature and poetry hold supreme status, immortalized by Nobel laureate Rabindranath Tagore",
+          "Architectural aesthetic features a synthesis of Mughal Islamic history and structural modernism",
+          "Pohela Boishakh (Bengali New Year) celebrated across all religions as a secular unified festival"
+        ],
+        "text": "Contemporary Bangladeshi culture is defined by a strong pride in its language, a sentiment that sparked the historic 1952 Language Movement, which is commemorated globally today as International Mother Language Day. Traditional folklore, handloom weaving (such as Jamdani sari art), and riverboat ballads coexist dynamically alongside traditional Islamic celebrations, expressing a distinct synthesis of traditional South Asian subcontinental identity and modern Islamic social life."
+      },
+      "zh": {
+        "list": [
+          "以擁有上千年歷史的孟加拉語（Bangla）為核心，擁有極強的語言主體自豪感",
+          "文學與詩歌在社會中享有崇高地位，深受諾貝爾文學獎得主泰戈爾等大師薰陶",
+          "古建築融合了莫臥兒帝國（Mughal）伊斯蘭風格，現代建築則以路易·康設計的國會大廈為經典",
+          "「孟加拉曆新年」（Pohela Boishakh）為不分宗教全民同慶的世俗節日，彰顯本土認同"
+        ],
+        "text": "孟加拉文化最鮮明的特徵在於對其母語的狂熱與保護。1952年發生的「孟加拉語言運動」直接奠定了後來的建國根基，這段歷史也被聯合國教科文組織定為現今「國際母語日」的由來。社會文化完美融合了南亞次大陸的抒情傳統與伊斯蘭的精神生活。\n\n不論是黃麻刺繡、列入世界無形文化遺產的「賈姆達尼莎麗」（Jamdani Sari）精細手織技術，還是傳唱於無數水路的漁歌（Bhatiali），都與開齋節等宗教盛事一樣深入人心。這座國家在維護穆斯林信仰的同時，依然保有極其強大且包容的世俗文化傳統。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Extreme systemic exposure to climate-induced sea-level rise and saltwater contamination",
+          "Urgent requirement to upgrade factory safety oversight, labor welfare, and minimum wage scales",
+          "Managing the prolonged humanitarian and security strains of over 1 million Rohingya refugees",
+          "Diversifying export portfolios to mitigate over-reliance on the textile industry"
+        ],
+        "text": "Bangladesh operates on the front lines of global climate risk planning. Deepening industrial energy demands frequently clash with targets to reduce carbon reliance, while managing the sprawling Rohingya refugee camps in Cox's Bazar exerts tremendous environmental, financial, and diplomatic friction. Transitioning toward automated high-value exports while upgrading human rights and economic transparency remain critical to securing long-term national stability."
+      },
+      "zh": {
+        "list": [
+          "全球氣候變遷的最前線，面臨海平面上升、南部土地鹽鹼化與極端氣候難民潮",
+          "成衣工廠的安全勞檢（如防止拉納廣場倒塌慘劇重演）、勞工薪資調升與人權保障",
+          "收容超過 100 萬名來自緬甸的羅興亞（Rohingya）難民，帶來沉重的財政與治安負擔",
+          "產業多樣化進度遲緩，高度暴露出過度集中於紡織單一產業的全球景氣風險"
+        ],
+        "text": "孟加拉是當前全球各國研究氣候變遷適應策略的焦點所在。隨著海平面上升，南部低地正面臨不可逆的地下水鹽鹼化，嚴重威脅糧食安全。工業面上，自 2013 年拉納廣場（Rana Plaza）倒塌悲劇後，雖然工安勞檢大幅收緊，但如何平衡跨國服飾巨頭的壓價與本土工人工資的調漲，仍具社會爭議。\n\n同時，國境東南端庫克斯巴扎爾收容了超過百萬名羅興亞難民，這場長期陷入僵局的國際人道危機，對孟加拉的國防安全、地方生態環境與外交斡旋能力構成了巨大的複合式壓力。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Jatiya Sangsad Bhaban — The national parliament building designed by architect Louis Kahn",
+          "Ahsan Manzil — The majestic Pink Palace reflecting Dhaka's grand princely history",
+          "The Sundarbans — UNESCO listed mangrove wilderness hosting the elusive Bengal Tiger",
+          "Cox's Bazar — The world's longest continuous natural sandy sea beach stretch"
+        ],
+        "text": "Bangladesh's physical attractions highlight a combination of architectural mastery and pristine wild reserves. Louis Kahn's modern national parliament building in Dhaka stands as a masterpiece of late 20th-century geometric design. Beyond the capital, the historic Mughal Lalbagh Fort, the ancient Buddhist viharas at Paharpur, and the vast coastal tea valleys of Sreemangal anchor a rich travel map."
+      },
+      "zh": {
+        "list": [
+          "國家國會大廈（Jatiya Sangsad Bhaban）—— 建築大師路易·康設計的幾何現代主義巨作",
+          "阿赫桑曼濟勒（Ahsan Manzil）—— 坐落於布里甘加河畔、見證達卡王公歷史的「粉紅宮殿」",
+          "巽他伯倫紅樹林（The Sundarbans）—— 橫跨印孟邊境的野生自然迷宮，皇家孟加拉虎的最後堡壘",
+          "庫克斯巴扎爾（Cox's Bazar）—— 全長達 120 公里、未經間斷的全球最長天然沙灘海岸線"
+        ],
+        "text": "孟加拉的人文與自然地標具有極高的震撼力。矗立於達卡的國家國會大廈以巨大的幾何清水混凝土體量聞名於世，被公認為20世紀最偉大的建築傑作之一。市區內另有莫臥兒帝國未完工的拉爾巴格堡（Lalbagh Fort）。\n\n走出首都，北部的巴哈爾布爾（Paharpur）保有南亞最大的古佛教僧院遺址；而南部的庫克斯巴扎爾則擁有綿延 120 公里的金色沙灘，與西側神祕、佈滿潮汐水道且棲息著瀕危孟加拉虎的巽他伯倫紅樹林遙遙相望。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "Founding member of SAARC and an active participant in the BIMSTEC regional framework",
+          "Navigates delicate geopolitics with India concerning cross-border river water-sharing treaties",
+          "A top-tier troop-contributing nation to United Nations Peacekeeping Operations (UNPKO)",
+          "A strong voice within the Climate Vulnerable Forum (CVF) urging global carbon accountability"
+        ],
+        "text": "Located at the head of the Bay of Bengal, Bangladesh is a strategic partner for major world powers. It balances strong historic and security ties with India against massive infrastructural investments from China under the Belt and Road Initiative, while retaining deep economic defense ties with Japan, the United States, and Western European democratic coalitions."
+      },
+      "zh": {
+        "list": [
+          "南亞區域合作聯盟（SAARC）發起國，積極參與環孟加拉灣多領域經濟技術合作倡議（BIMSTEC）",
+          "與最大鄰國印度關係千絲萬縷，雙方長期就 54 條跨界河流的水權分配進行複雜談判",
+          "聯合國維持和平部隊（UNPKO）全球最核心的兵力提供國之一，長年派駐數千名軍警維持國際安全",
+          "「氣候脆弱國家論壇」（CVF）的領袖發言國，在聯合國氣候大會上強力為低地開發中國家爭取權益"
+        ],
+        "text": "孟加拉因扼守印度洋東北側海域，成為各方強權在南亞角逐的戰略要地。孟加拉建國深受印度協助，兩國在安全與陸路互聯互通上合作極深，但高居上游的印度修築大壩常引發國內缺水爭議。同時，孟加拉積極引進中國資金與技術，用於港口與鐵路升級。\n\n作為聯合國維和行動的「出兵大國」，孟加拉軍隊在國際上享有良好聲譽。此外，該國利用其氣候受害者形象，在全球環境外交中扮演極具分量的道德發言人角色。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Commercial trade relations operate on a non-official economic basis",
+          "Taiwanese petrochemical and textile machinery firms serve as key B2B equipment suppliers",
+          "Expanding focus on technical manufacturing supply chains and footwear industries",
+          "Academic cooperation expanding with growing numbers of Bangladeshi researchers in Taiwan"
+        ],
+        "text": "Taiwan and Bangladesh maintain growing non-official commercial ties. Bilateral trade centers on industrial manufacturing inputs, with Taiwan exporting precision textile machinery, specialized polymers, and synthetic yarns to support Bangladesh's garment industry, while collaborative potential expands in software engineering outsourcing and agro-processing tech."
+      },
+      "zh": {
+        "list": [
+          "雙邊實質經貿往來完全依循非官方、互利互惠的 B2B 商業模式運作",
+          "台灣石化塑膠、人造纖維原料與精密紡織機械為孟加拉成衣業的核心設備來源",
+          "台商鞋業與電子零組件製造商逐步將孟加拉視為多元化海外產能移轉的重要選址",
+          "高階教育與科研人才交流升溫，越來越多孟加拉籍工程碩博士赴台深造或就業"
+        ],
+        "text": "孟加拉與台灣目前未設有官方代表處，實質往來由位於鄰國的代表處兼轄，但兩國在產業鏈上的互補性極高。台灣是全球機能性布料與高階紡織機械的研發重鎮，而孟加拉則是世界最大服裝下游組裝廠，台灣的聚酯纖維、染整技術與自動化縫紉設備長年源源不斷地輸出至達卡與吉大港的工業區，是隱形的供應鏈夥伴。\n\n近年來，隨全球產能風險分散，部分台灣大型製鞋集團與電子組裝廠正加大對孟加拉加工出口區（EPZ）的投資。在學術界，孟加拉優秀的理工與資訊人才赴台攻讀半導體、AI及生醫領域的人數亦呈穩定增長趨勢。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "Controls the primary river delta feeding over 170 million interconnected citizens",
+          "The second-most influential global garment export powerhouse behind mainland China",
+          "Fought a defining liberation struggle in 1971 deeply rooted in linguistic and cultural identity",
+          "Hosts the world's most extensive continuous mangrove and longest natural sandy sea beach networks",
+          "Pioneered global micro-finance and community NGO development models copied across the developing world"
+        ],
+        "text": "Bangladesh pairs intense population density with resilient industrial growth and rich cultural pride, making it an indispensable economic engine and key climate adaptation center in the modern Bay of Bengal region."
+      },
+      "zh": {
+        "list": [
+          "掌管全球最龐大的河口三角洲流域，供養著超過 1.7 億生命力頑強的國民",
+          "穩居全球第二大成衣出口國，在國際時尚與輕工業製造版圖中具有不可替代性",
+          "1971年因捍衛自身母語與文化尊嚴，爆發並贏得了現代史罕見的民族解放戰爭",
+          "同時坐擁地球上面積最大的潮汐紅樹林生態系與世界最長的連續天然黃金海岸線",
+          "孕育了舉世聞名的微型貸款與基層 NGO 治理模式，深刻改變了全球開發中國家的減貧軌跡"
+        ],
+        "text": "孟加拉是一個將密集的勞動潛能、深厚的母語文化自豪感，以及極端複雜的水文地理環境融合為一的國家。它在狹小的國土範圍內，爆發出令人矚目的經濟增長速度與社會改造活力，在當代南亞地緣經貿與全球氣候韌性治理的版圖中，正散發著不容忽視的強烈光芒。"
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": {
+        "en": "Bangladeshi taka (BDT / ৳)",
+        "zh": "孟加拉塔卡（BDT / 貨幣符號為 ৳）"
+      }
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "Bengali (Bangla - official and universal), English widely used in legal, corporate, and higher education sectors",
+        "zh": "孟加拉語（Bangla / 官方與唯一通用語言）；英語在司法、商務、高階行政與高等教育中極為通行"
+      }
+    },
+    {
+      "label": "GDP (nom.)",
+      "value": "$450B+"
+    },
+    {
+      "label": "Time zone",
+      "value": "UTC+6 (Bangladesh Standard Time - BST)"
+    },
+    {
+      "label": "Calling code",
+      "value": "+880"
+    },
+    {
+      "label": "ISO code",
+      "value": "BD / BGD"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "👕",
+      "text": {
+        "en": "Ready-Made Garments — Serving as the world's clothing factory and the engine of national economic modernization",
+        "zh": "成衣加工帝國（RMG）—— 僅次於中國的全球第二大服飾出口聚落，引領國家工業化與婦女就業轉型"
+      }
+    },
+    {
+      "icon": "🌊",
+      "text": {
+        "en": "Ganges-Brahmaputra Delta — The massive hydro-geographic basin forming the most fertile and dynamic wetland plain on earth",
+        "zh": "恆河三角洲地貌—— 喜馬拉雅山脈融雪匯流的終點，世界第一大河口沖積平原，土地極其肥沃且河流縱橫"
+      }
+    },
+    {
+      "icon": "🐅",
+      "text": {
+        "en": "Royal Bengal Tiger — The majestic national symbol thriving within the labyrinthine water channels of the Sundarbans",
+        "zh": "皇家孟加拉虎—— 孟加拉的國家神聖圖騰，現存最核心的野生族群隱匿於南部的巨型紅樹林沼澤區"
+      }
+    },
+    {
+      "icon": "🕌",
+      "text": {
+        "en": "City of Mosques — Historic Dhaka blends hundreds of Mughal imperial domes with vibrant, high-density Muslim life",
+        "zh": "千頂清真寺之城—— 歷史悠久的達卡古城區，莫臥兒帝國穹頂古蹟與極高密度的伊斯蘭庶民文化和諧並存"
+      }
+    },
+    {
+      "icon": "🏖️",
+      "text": {
+        "en": "Cox's Bazar Long Beach — An unbroken 120km golden coastline that ranks as the premier national domestic marine resort",
+        "zh": "庫克斯巴扎爾沙灘—— 擁有延綿 120 公里不間斷的全球最長天然沙灘地景，南亞最具規模的海濱度假勝地"
+      }
+    }
+  ],
+  "mapEmbedUrl": "https://www.openstreetmap.org/relation/184640"
+}

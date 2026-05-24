@@ -1,0 +1,359 @@
+{
+  "name": {
+    "en": "Myanmar",
+    "zh": "緬甸"
+  },
+  "nativeName": "မြန်မာ",
+  "capital": {
+    "en": "Naypyidaw",
+    "zh": "奈比多"
+  },
+  "population": "54.5M",
+  "area": "676,578 km²",
+  "density": "81/km²",
+  "continent": "Asia",
+  "flagEmoji": "🇲🇲",
+  "dataEstYear": 2026,
+  "description": {
+    "en": "Myanmar, officially the Republic of the Union of Myanmar and historically known as Burma, is the largest country in mainland Southeast Asia. Positioned at a critical geopolitical crossroads, it borders Bangladesh and India to the northwest, China to the northeast, and Laos and Thailand to the east, with an extensive coastline along the Bay of Bengal and the Andaman Sea. Myanmar is a highly multi-ethnic nation characterized by a deep Theravada Buddhist heritage, rich natural resources, and a complex political history dominated by protracted internal armed conflicts and periods of military rule. Naypyidaw serves as the purpose-built administrative capital, while Yangon remains the largest city and primary commercial center.",
+    "zh": "Myanmar全稱為緬甸聯邦共和國，是中南半島上面積最大的國家。其地緣戰略位置極為關鍵，西北與孟加拉及印度接壤，東北與中國毗鄰，東南與寮國及泰國交界，西南則瀕臨孟加拉灣與安達曼海。緬甸是一個多民族組成的聯邦國家，擁有深厚的上座部佛教文化底蘊與豐富的自然資源，但自1948年獨立以來，現代歷史長期受到軍政府統治、內部武裝衝突及族群矛盾所影響。現行法定行政首都為奈比多（Naypyidaw），最大都市、歷史古都與核心經濟樞紐則為仰光（Yangon）。"
+  },
+  "seoText": {
+    "en": "Discover comprehensive facts about Myanmar — population breakdown, land area, administrative capital, and detailed overview. Explore Yangon's Shwedagon Pagoda, the ancient ruins of Bagan, ethnic demographic statistics, the Irrawaddy river basin, precious resource exports, and the ongoing civil conflict.",
+    "zh": "深入了解緬甸的基本資料：精確人口結構、國土面積、首都架構與詳盡概述。探索仰光大金寺、蒲甘萬塔之城、少數民族人口比例、伊洛瓦底江流域、天然氣與翡翠玉石出口經濟，以及2021年軍事政變後的當前政局與內戰轉型趨勢。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Strategically bridges the geopolitical spheres of South Asia, East Asia, and ASEAN",
+          "Deeply rooted Theravada Buddhist culture serving as a foundation for societal norms",
+          "Complex multi-ethnic state composed of 135 officially recognized distinct groups",
+          "Modern governance severely strained by post-2021 coup civil war and political instability"
+        ],
+        "text": "Myanmar's geographic position gives it exceptional strategic value, serving as a gateway between the Indian Ocean and the massive inland markets of China and India. Culturally, the country is split between the dominant Buddhist lowlands and the mountainous periphery inhabited by diverse ethnic minority groups. Following independence from British colonial rule in 1948, Myanmar's history has been continuously defined by the world's longest-running ongoing civil war, with fluctuating periods of military dictatorship and brief democratic windows."
+      },
+      "zh": {
+        "list": [
+          "地緣上橫跨東亞、南亞與東南亞，扼守印度洋通道，具備極高戰略價值",
+          "以上座部佛教為核心的文化體系，深刻形塑了基層社會結構與道德規範",
+          "高度多元的民族國度，官方共劃分出 135 個法定少數民族與八大族群",
+          "現代政治長期動盪，2021年軍事政變後全面陷入全境內戰與人道危機"
+        ],
+        "text": "緬甸在地理上承接亞洲三大板塊，是連結中國大西南、印度東部與東協市場的天然陸海路樞紐，素有「亞洲十字路口」之稱。其社會結構呈現顯著的二元分布特徵：中部伊洛瓦底江流域平原由主體緬族主導，而環繞平原的高山高原邊疆則由各具武裝實力的少數民族世居。\n\n自 1948 年脫離英國殖民獨立以來，聯邦體制未能妥善解決地方分權問題，導致其陷入長達 70 餘年、被視為現代史上歷時最長的內部內戰。國家在軍方威權統治、民主化短暫嘗試與全境武裝對抗之間反覆震盪。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Formed by a central river valley flanked by rugged mountain horseshoe ranges",
+          "The Irrawaddy River functions as the vital north-south economic and transit artery",
+          "The eastern Shan Plateau dominates the terrain bordering China, Laos, and Thailand",
+          "Extensive southern coastline features fertile delta networks and pristine marine islands"
+        ],
+        "text": "Spanning 676,578 square kilometers, Myanmar's topography rises sharply from the sea-level Irrawaddy Delta up to the snow-capped Himalayan foothills in the far north, where Hkakabo Razi stands as Southeast Asia's tallest peak. The country's primary geographic feature is the fertile central plain, drained by the Irrawaddy and Chindwin rivers. This basin is surrounded by the Hengduan mountain continuations: the Arakan Yoma range in the west, the Kachin hills in the north, and the vast, rugged Shan Plateau in the east."
+      },
+      "zh": {
+        "list": [
+          "地勢呈北高南低，由北、西、東三面的高山高原合圍成馬蹄形的中央谷地",
+          "伊洛瓦底江縱貫南北，兩岸沖積出全境最富庶的農業與都市人口心臟帶",
+          "東側為平均海拔千公尺的撣邦高原（Shan Plateau），構成與中泰鄰國的天然邊界",
+          "南部海岸線曲折綿長，擁有極具經濟價值的三角洲平原及丹老群島（Myeik Archipelago）"
+        ],
+        "text": "緬甸國土面積達 67.6 萬平方公里，地形極具立體感。最北部與西藏高原接壤的開卡博峰（Hkakabo Razi）海拔 5,881 公尺，為東南亞第一高峰，終年積雪。全境水系發達，主要河流伊洛瓦底江自北向南奔流不息，其下游形成的三角洲平原是世界著名的稻米產區。\n\n平原外圍則被綿延的山脈鎖定：西側的若開山脈切斷了與印度的直接陸路，北側的克欽山區地勢險峻，東側的撣邦高原則遍布喀斯特溶岩地貌，這些高原山地不僅蘊藏了豐富的礦脈，也成為地方民族武裝割據的天然屏障。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Dominated by a classic tropical monsoon climate with three sharp seasonal shifts",
+          "Coastal regions register some of the highest monsoonal rainfall levels in Asia",
+          "Central lowlands reside within a protected rain shadow, creating a semi-arid 'Dry Zone'",
+          "Northern mountain zones experience true temperate and sub-alpine alpine conditions"
+        ],
+        "text": "Myanmar's annual cycle is strictly divided by the wind currents of the Indian Ocean. The hot season runs from March to May, bringing extreme heat to the central plains. The rainy monsoon season follows from June to October, bringing heavy precipitation to Yangon and coastal areas. A cool, dry winter runs from November to February, which serves as the peak travel and harvesting window for the country."
+      },
+      "zh": {
+        "list": [
+          "受印度洋季風全面主導，全年清晰劃分為熱季、雨季與涼季三大季節",
+          "沿海與南部地區降雨極為豐沛，年降雨量常突破 3,000 至 5,000 毫米",
+          "中部平原因西側山脈阻擋季風，形成特殊的低降雨量「乾燥地帶」（Dry Zone）",
+          "最北部高海拔山區呈現顯著的溫帶與高山氣候，冬季甚至出現結冰降雪"
+        ],
+        "text": "緬甸絕大部分地區位於熱帶，氣候受西南季風控制。每年 3 月至 5 月為「熱季」，中部乾旱平原如曼德勒氣溫常飆破 40°C，空氣極度炙熱；6 月至 10 月進入「雨季」，來自安達曼海的濕潤季風吹襲，為仰光及若開邦沿海帶來連續豪雨，常引發局地洪澇與土石流。\n\n11 月至次年 2 月則為舒適的「涼季」，吹拂乾燥的東北季風，全境放晴、氣溫回落至 20°C 至 25°C 之間，是農業收成與商務往來的精華時期。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Total population is recorded at approximately 54.5 million citizens",
+          "Mainland ethnic distribution is divided into 135 designated native races",
+          "The majority Bamar (Burman) racial group accounts for roughly 68% of the populace",
+          "Major registered minority groups include the Shan (9%), Karen (7%), Rakhine (4%), and Chin (1.5%)"
+        ],
+        "text": "Myanmar's demographic framework is legally tied to ethnicity, officially grouped into eight 'major national ethnic races' (Bamar, Shan, Karen, Rakhine, Mon, Kachin, Chin, and Kayah). In terms of religion, Theravada Buddhism is practiced by 87.9% of the population, closely mirroring the Bamar majority and Shan communities. Christians account for 6.2% (concentrated heavily among the Chin, Kachin, and Karen hill tribes), Muslims officially register at 4.3% (including urban communities and the non-citizen Rohingya population in Rakhine State, whose numbers have been heavily affected by displacement), and Hindus comprise 0.5% of the citizens. The population remains predominantly rural, with under 32% living in major urban centers."
+      },
+      "zh": {
+        "list": [
+          "全國總人口約 5,450 萬人，人口年齡結構相對年輕但增長放緩",
+          "憲法上將原住民族細分為 135 個法定種族，並歸類為八大主要民族主系",
+          "主體民族緬族（Bamar/Burman）占總人口比例最大，約為 68%",
+          "最核心的少數民族包含：撣族（9%）、克倫族（7%）、若開族（4%）及克欽族與欽族等"
+        ],
+        "text": "根據緬甸政府與聯合國人口基金（UNFPA）的官方人口普查及修正數據，緬甸的種族與宗教分布呈現高度碎片化。八大主要國家民族主系（Major National Ethnic Races）擁有各自的自治省邦。具體數據分布如下：\n\n主體民族與少數民族：緬族（約68%）主要居住在中央平原省份；外圍各邦則由撣族（約9%，撣邦）、克倫族（約7%，克倫邦）、若開族（約4%，若開邦）、克欽族（約1.5%，克欽邦）、欽族（約1.5%，欽邦）、孟族（約2%）及克耶族等少數民族構成。此外，還包含約占 2% 的緬甸華人與印裔緬甸人。\n宗教信仰比例：上座部佛教（87.9%）為絕對主流，亦是國家實質上的文化基石；基督教（6.2%）主要由英國殖民時期傳教的欽族、克欽族與部分克倫族所信仰；伊斯蘭教（官方登記約 4.3%）包含各大城市的回教商人群體，以及若開邦西北部未取得公民權、近年因地緣衝突大量流亡至孟加拉的羅興亞人（Rohingya）；其餘則為萬物有靈信仰（0.8%）與印度教（0.5%）。\n\n目前全國都市化率仍低於 32%，大部分人口分散在傳統農業村落中。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "A resource-rich developing economy severely constrained by financial isolation",
+          "Natural gas exports provide the primary channel for state foreign-currency reserves",
+          "Agriculture and fisheries employ over 60% of the active domestic workforce",
+          "The world's premier origin of rare Imperial Jadeite, rubies, and high-grade teak wood"
+        ],
+        "text": "Myanmar's economic landscape has suffered major setbacks following the political crisis of 2021. International sanctions, banking restrictions, and foreign asset freezes have triggered high inflation and disrupted major foreign investment. While manufacturing—particularly the garment cut-make-pack (CMP) sector—flourished during the 2011–2020 transition era, the economy has shifted back toward an informal resource-extraction model, relying heavily on border trade with China and Thailand for natural gas, minerals, and agricultural commodities."
+      },
+      "zh": {
+        "list": [
+          "資源稟賦優異的開發中經濟體，但長期受到國際制裁與金融孤立的沉重制約",
+          "離岸天然氣（Natural Gas）管道輸出為國家提供最核心且穩定的外匯收入來源",
+          "傳統農業與第一級產業仍為經濟支柱，吸納了全國高達 60% 以上的勞動力",
+          "全球最大且最頂級的翡翠玉石（Jadeite）、紅寶石以及高品質天然柚木原產地"
+        ],
+        "text": "緬甸擁有極為令人羨慕的天然資源，包括儲量巨大的天然氣、全球高達 90% 的頂級翡翠玉石礦藏，以及豐富的金屬礦產與珍貴林木。然而，2021 年政變後爆發的全面政局動盪，導致世界銀行與西方大國凍結援助並實施嚴厲的經濟制裁，外資大規模撤離、本幣（緬幣）急遽貶值，導致國內通膨率暴增。\n\n過去十年一度蓬勃發展的仰光外銷成衣加工業（CMP）面臨重創。當前經濟高度依賴與中國、泰國邊境進行的資源貿易，以及依賴非正規的「玉石地下經濟」維持運作，基礎建設與電力供應缺口在內戰衝突中進一步擴大。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Unitary state constitutional system historically paralyzed by military interventions",
+          "The armed forces (Tatmadaw) exert entrenched constitutional control over key state sectors",
+          "State power contested by the military junta and opposition groups like the NUG",
+          "Ethnic Armed Organizations (EAOs) govern major autonomous territories along the borders"
+        ],
+        "text": "Modern politics in Myanmar is defined by a deep institutional struggle between democratic civilian forces and the military establishment. Following the February 2021 coup that overturned the 2020 election results, the country plunged into full-scale political conflict. Armed resistance groups known as People's Defence Forces (PDF), aligned with the National Unity Government (NUG), joined forces with veteran Ethnic Armed Organizations (EAOs) to launch major offensives, significantly altering control over the country's borders and trade routes."
+      },
+      "zh": {
+        "list": [
+          "名義上為單一制聯邦共和國，實質政治長期受國防軍（Tatmadaw）制度性干預",
+          "軍方透過舊憲法保障，在國會與國防、內政等核心安全部隊中握有絕對否決權",
+          "2021政變後政體分裂，軍方組建的軍政權與反對派組建的「國家團結政府」（NUG）相互對立",
+          "邊疆長期由歷史悠久的少數民族地方武裝（民地武/EAOs）實施割據與實質自治治理"
+        ],
+        "text": "緬甸的現代政治是一部民主派勢力與強大軍方集團（Tatmadaw）長達數十年的拉鋸史。2011至2020年期間，翁山蘇姬領導的民主聯盟曾開啟短暫的文人執政窗口。然而，2021 年 2 月軍方發動政變逮捕文人領袖，導致該國民主進程徹底中斷。\n\n政變引發了前所未有的「春季革命」全民抵抗。反對派在地下成立了「國家團結政府」（NUG），並與克欽獨立軍（KIA）、撣邦果敢同盟軍（MNDAA）、克倫民族解放軍（KNLA）等「民地武」結盟，組建「人民防衛軍」（PDF）對抗軍政府。近年隨著地方武裝聯軍在多個戰線取得突破，軍政府逐漸失去對大部分邊境陸路關卡與戰略要地的控制，政局陷入高度零和的內戰僵局。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Socioeconomic divide exists between urban delta hubs and conflict-affected borderlands",
+          "Public healthcare and educational networks suffer severe, long-term funding collapses",
+          "Monasteries act as critical, highly trusted centers for education and social relief",
+          "Mass civilian displacement has driven an acute humanitarian crisis within rural areas"
+        ],
+        "text": "Civilian life in Myanmar has been severely reshaped by structural and political conflict. The collapse of formal public services post-2021 led to a reliance on private networks, volunteer medical groups, and Buddhist monastic charities to fill infrastructure gaps. While urban youths are highly digitalized and active on encrypted networks, rural communities face critical challenges including ongoing power outages, inflation, and dynamic security threats."
+      },
+      "zh": {
+        "list": [
+          "城鄉與地域發展嚴重分裂，中部省份與飽受戰火摧殘的邊疆少數民族地區形成對比",
+          "公立醫療與國民教育體系因內戰與教師罷工運動（CDM），陷入長期癱瘓與資源斷裂",
+          "地方佛教寺院（Monastery）與僧侶扮演核心角色，為底層社會提供庇護與基本教育",
+          "全境內戰導致數百萬難民（IDPs）流離失所，基層物資安全與生存保障陷入崩潰"
+        ],
+        "text": "緬甸的基層社會正在承受著現代史上最嚴重的治理危機。2021年政變後，數十萬公務員與醫護人員發起大規模的「公民不服從運動」（CDM）拒絕為軍政府工作，導致大批公立學校與醫院至今無法正常運作。社會救助極度依賴民間互助網絡與佛教寺廟。\n\n在都市，年輕世代高度數位化，藉由社群網路與加密通訊進行抗爭與生計維持；但在戰火波及的實皆省、馬圭省以及各少數民族邊境邦，家園被毀、基礎電力被切斷以及高達數百萬內部的「國內流離失所者」（IDPs），構成了極其嚴峻的人道主義慘劇。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "Theravada Buddhism infuses language, traditional etiquette, and regional architecture",
+          "Traditional clothing including the Longyi remains universally worn across all social classes",
+          "Renowned for exquisite cultural lacquerware, gold-leaf gilding, and woodcarving arts",
+          "Thanaka — a distinctive pale yellow cooling wood-bark paste worn daily on the face"
+        ],
+        "text": "Myanmar's cultural footprint remains distinct and visually apparent across its landscapes. Social customs emphasize Buddhist hierarchy and respect for elders, with calendar life centered on seasonal pagodas and monastic donation festivals. The ancient plain of Bagan, featuring over 2,000 historic temples dating back to the Pagan Kingdom, stands alongside Yangon’s massive, gold-clad Shwedagon Pagoda as defining historic monuments."
+      },
+      "zh": {
+        "list": [
+          "上座部佛教文化全面滲透語言、節慶與日常社交禮儀，佛塔（Pagoda）遍布大小城鎮",
+          "男女老少日常皆著傳統筒裙「籠基」（Longyi），為當今少數保留傳統服飾的現代社會",
+          "手工藝底蘊深厚，以精緻的竹藤漆器（Lacquerware）、佛像貼金與柚木鏤空雕刻聞名",
+          "「特納卡」（Thanaka，黃香楝粉）為國民天然護膚品，塗抹於雙頰具防曬與清涼功效"
+        ],
+        "text": "緬甸文化展現出強烈且獨特的宗教與視覺符號。佛教教義塑造了緬甸人溫和、知足且尊重的民族性格，全年的社會生活緊緊環繞著月圓節慶與寺廟供養。男子一生通常需至少出家剃度一次，被視為家庭至高無上的榮譽。\n\n在物質文化層面，歷史悠久的蒲甘（Bagan）平原上散布著兩千多座建於11至13世紀的古代佛塔與寺廟遺址，是與柬埔寨吳哥窟齊名的考古聖地；而仰光高聳入雲、耗費數噸黃金打造的「大金寺」（Shwedagon Pagoda），則是凝聚全緬精神信仰的萬代地標。各地少數民族也各自保留了其獨特的編織、樂舞與歷史敘事。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Resolving the severe national civil conflict between opposition coalitions and the military junta",
+          "Stabilizing hyper-inflation and securing stable energy, fuel, and formal banking access",
+          "Restoring basic safety and human rights protections for internal refugees and vulnerable minority groups",
+          "Combating extensive cross-border cyber-scam syndicates operating inside unregulated border zones"
+        ],
+        "text": "Myanmar stands at a critical historical turning point. The ongoing war has damaged economic productivity and caused a major domestic humanitarian emergency. Concurrently, weak rule of law along autonomous border areas has allowed transnational organized crime networks to build massive illicit cyber-scam and gambling enclaves, creating severe security challenges for neighboring countries and regional diplomacy."
+      },
+      "zh": {
+        "list": [
+          "如何結束軍政府與全境抵抗武裝（NUG/民地武）之間的激烈戰爭，重建聯邦體制",
+          "解決本幣暴跌與嚴重惡性通膨，恢復基礎電力供應與正常的跨國金融結算體系",
+          "應對龐大難民潮與邊境人道危機，提供被戰火波及群體基本的醫療與生存援助",
+          "全面根除並打擊邊境三不管地帶蓬勃滋生的跨國網絡詐騙與非法賭博園區（如妙瓦底）"
+        ],
+        "text": "緬甸當前面臨建國以來最複雜的複合式危機。除了政治與軍事上的生死存亡對決，內戰引發的治理真空，導致東部邊境（如妙瓦底、KK園區）與北部邊境部分三不管地帶，演變為全球跨國電信詐騙、非法線上賭博與人口販運的溫床。這不僅引發周邊鄰國（如中國、泰國）的強烈安全介入，也使緬甸的國際形象嚴重受損。\n\n如何在維護國家主權完整的同時，根除跨境犯罪並安置百萬名無家可歸的平民，是當前最迫切的挑戰。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Shwedagon Pagoda — The gold-plated Buddhist shrine anchoring the skyline of Yangon",
+          "Bagan Archaeological Zone — A world-heritage plain preserved with thousands of 11th-century temples",
+          "Inle Lake — A highland freshwater ecosystem famous for its distinct leg-rowing fishermen",
+          "Mandalay Royal Palace — The central cultural capital and final stronghold of the Burmese monarchy"
+        ],
+        "text": "Myanmar’s architectural and cultural geography contains major historical monuments. In the central dry zone, Mandalay serves as the center for traditional crafts, housing the revered Mahamuni Buddha image. In the mountainous Shan State, Inle Lake offers a unique cultural landscape, famous for floating gardens and the distinctive leg-rowing technique practiced by the local Intha community."
+      },
+      "zh": {
+        "list": [
+          "仰光大金寺（Shwedagon Pagoda）—— 矗立於仰光市區、貼滿金箔且供奉佛陀聖物的神聖地標",
+          "蒲甘考古特區（Bagan）—— 聯合國教科文組織世界文化遺產，萬塔矗立的古老佛教歷史地景",
+          "茵萊湖（Inle Lake）—— 位於撣邦高原的清涼高山淡水湖，以獨特的「單腳划船」漁民與水上村落聞名",
+          "曼德勒皇宮與古城（Mandalay）—— 緬甸最後一個封建王朝的王都，文化與傳統工藝的保存重鎮"
+        ],
+        "text": "緬甸的地標景觀融合了宏偉歷史與自然奇景。除了高聳的仰光大金寺與極具震撼力的蒲甘日落塔林外，中部第二大城曼德勒保留了大量清朝與貢榜王朝交織的歷史遺蹟，周邊的大金石（Kyaiktiyo Pagoda）更是以違反重力、懸吊於懸崖峭壁邊的金色奇石佛塔名震天下。\n\n東部的茵萊湖則展示了因他人（Intha）與水共生的精湛智慧，漁民單腳平衡於窄舟之上、騰出雙手拋撒魚網的畫面，已成為緬甸最具代表性的國際旅遊人文名片。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "Strategic littoral state adjacent to critical Indian Ocean shipping lanes",
+          "Maintains deep diplomatic links with China via the China-Myanmar Economic Corridor",
+          "Membership within ASEAN presents persistent diplomatic challenges regarding regional consensus",
+          "Relations with Western nations are frozen by strict arms embargos and trade sanctions"
+        ],
+        "text": "Due to its geographical coordinates, Myanmar acts as a pivotal hub in major-power geopolitical balancing. The country's infrastructure corridors—including dual oil and gas pipelines running from Kyaukphyu port to China's Yunnan province—provide mainland China with a direct bypass of the Malacca Strait. While Western democratic nations isolate the military government, regional neighbors like India, Thailand, and China maintain continuous, pragmatic diplomatic and border-management engagements."
+      },
+      "zh": {
+        "list": [
+          "扼守安達曼海沿岸，為各大強權印太戰略與海洋地緣博弈的焦點國家",
+          "與中國建有「中緬經濟走廊」（CMEC），包含直通雲南的深水港與油氣雙線管道",
+          "身為東協（ASEAN）成員國，其內戰僵局與人道問題對東協的區域外交共識構成巨大考驗",
+          "與歐美西方國家的外交關係因政變降至冰點，面臨全面的武器禁運與精準制裁"
+        ],
+        "text": "緬甸因其緊鄰印度洋、背靠大中國的區位，在地緣戰略上具備極高的博弈價值。中國在緬甸西海岸皎漂港（Kyaukphyu）建設的深水港與直通昆明的原油及天然氣管道，使中國能源供應得以直接避開高度飽和的馬六甲海峽，對中國具有重大戰略戰術意義。\n\n東協內部因「緬甸問題」分裂為主張強硬施壓與主張務實接觸的兩派。儘管歐美國家全面切斷與軍政府的官方往來，但基於邊境平穩與打擊跨境詐騙的迫切需求，中、泰、印等鄰國在外交、情報與邊境治理上依然與當地多方維持著極其複雜且務實的動態交往。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Bilateral interactions operate on a strictly non-official economic and consular basis",
+          "Taiwanese operations center on textile manufacturing and technical agricultural joint-ventures",
+          "Home to a significant, historic 'Overseas Chinese' community with strong roots in Taiwan",
+          "Exchange frameworks are restricted by domestic safety conditions and political instability"
+        ],
+        "text": "Taiwan and Myanmar maintain functional commercial and consular contact through respective representative offices in Yangon and Taipei. During Myanmar's opening era (2011–2020), numerous Taiwanese brands invested in Yangon's light industrial zones. Additionally, historic ties persist through Myanmar's local Chinese community, which has long established deep educational, cultural, and migration pathways to Taiwan."
+      },
+      "zh": {
+        "list": [
+          "雙邊關係常態維持於非官方的經貿往來、領事務實協作與民間投資架構下",
+          "台商投資主要聚焦於加工出口成衣業、製鞋、製磚及熱帶精緻農業技術合作",
+          "兩地留有深厚的歷史淵源，當地擁有規模龐大、對台向心力極強的緬甸華僑社群",
+          "近年受緬甸全境局勢動盪與治安惡化影響，雙邊商務考察與外派交流規模有所收縮"
+        ],
+        "text": "台灣與緬甸目前在台北及仰光互設有非官方代表處，實質經貿合作歷史悠久。在緬甸對外開放的黃金十年間，大批台商成衣廠與製造業進駐仰光周邊的工業區。在歷史與社會層面，緬甸北部與大城市保有大量在國共內戰與孤軍時期留下的華僑後裔，這群僑生長年選擇赴台攻讀大學、就業並定居，在台灣（如新北市中和區華新街）形塑了獨特的「緬甸移民聚落」。\n\n近年來，受到緬甸全境安全局勢不穩、銀行限額提款以及歐美品牌砍單的影響，台商在當地的運作多轉向保守低調，雙方目前的實質交流更加聚焦於基礎人道救援、緊急領事協助與高階人才招募。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "Mainland Southeast Asia's geographically largest and most strategically positioned state",
+          "An unmatched country landscape blanketed by millions of gold leaf historic pagodas",
+          "The Irrawaddy River serves as the vital lifeline sustaining national cohesion and trade",
+          "A nation striving to build a balanced, multi-ethnic democracy amidst deep military entrenchment",
+          "A treasure trove of global natural resources, dominating international jadeite and teak markets"
+        ],
+        "text": "Myanmar integrates immense resource potential, deep spiritual practices, and strategic geographic advantages, standing as a culturally rich but highly contested heartland navigating transition within the modern Indo-Pacific framework."
+      },
+      "zh": {
+        "list": [
+          "東南亞陸地面積最大的核心國家，掌握連結雙十億人口大國的關鍵陸海通道",
+          "無與倫比的萬塔之國，大大小小的金色佛塔與古老僧院構成了永恆的視覺地景",
+          "伊洛瓦底江宛如神聖的母親河，一肩挑起全國六成以上人口的生計、稻作與航運",
+          "正在戰火與體制重組的陣痛中，艱難摸索多元民族和解與擺脫軍人威權的建國道路",
+          "全球不可多得的天然寶庫，以無可替代的帝王翡翠、鴿血紅寶石與優質天然氣傲視國際"
+        ],
+        "text": "緬甸是一個將極致的自然財富、虔誠的上座部佛教信仰，以及極端殘酷的地緣政軍衝突揉合於一身的矛盾體。它擁有繁榮富強的天然本錢，卻在現代史上走過了漫長的泥濘與坎坷。隨著聯邦多民族力量的全面覺醒與國際格局的劇烈演變，這片古老的黃金土地正試圖在動盪的黑夜中，重新淬鍊出屬於自身的和平、尊嚴與全新未來。"
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": {
+        "en": "Myanmar kyat (MMK / K)",
+        "zh": "緬甸元（MMK / 貨幣符號為 K）"
+      }
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "Burmese (Official language), along with dozens of indigenous regional languages including Shan, Karen, and Kachin",
+        "zh": "緬甸語（Burmese / 官方與全國通用語言）；各少數民族省邦廣泛通行其自身的民族語言（如撣語、克倫語等）"
+      }
+    },
+    {
+      "label": "Government",
+      "value": "Unitary republic under military provisional governance (Contested by NUG)"
+    },
+    {
+      "label": "Time zone",
+      "value": "UTC+6:30 (Myanmar Standard Time - MMT)"
+    },
+    {
+      "label": "Calling code",
+      "value": "+95"
+    },
+    {
+      "label": "ISO code",
+      "value": "MM / MMR"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🛕",
+      "text": {
+        "en": "Shwedagon Pagoda — The spiritual and historical golden heart of Yangon, standing over 99 meters tall",
+        "zh": "仰光大金寺（Shwedagon Pagoda）—— 緬甸至高無上的宗教與精神地標，塔身貼滿純金葉、頂端鑲嵌數千顆鑽石"
+      }
+    },
+    {
+      "icon": "🪖",
+      "text": {
+        "en": "Military Governance — The Tatmadaw's continuous interventions have heavily institutionalized national policy and security",
+        "zh": "軍隊與威權政治—— 國防軍集團長年深度干預並掌控國家機器，構成現代緬甸政治演變的核心背景"
+      }
+    },
+    {
+      "icon": "🌾",
+      "text": {
+        "en": "The Irrawaddy Basin — The historic agricultural valley and navigation system binding the north and south corridors",
+        "zh": "伊洛瓦底江命脈—— 國家無可替代的母親河與黃金水道，孕育了兩岸發達的稻米農耕文明與千年古都"
+      }
+    },
+    {
+      "icon": "⛏️",
+      "text": {
+        "en": "Imperial Jadeite & Rubies — Commanding the global luxury gemstone markets through peerless natural mineral veins",
+        "zh": "帝王翡翠與頂級紅寶石—— 壟斷全球高端珠寶玉石的頂級供應鏈來源，山區蘊藏著富可敵國的優質礦脈"
+      }
+    },
+    {
+      "icon": "🧘",
+      "text": {
+        "en": "Theravada Orthodoxy — Serving as the foundation for modern social welfare, calendar holidays, and cultural preservation",
+        "zh": "正宗上座部佛教—— 超過八成五國民的精神歸宿，大小佛院不僅是修行之地，更是基層社區與村落的教育中心"
+      }
+    }
+  ],
+  "mapEmbedUrl": "https://www.openstreetmap.org/relation/50371"
+}

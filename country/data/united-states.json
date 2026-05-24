@@ -8,301 +8,305 @@
     "en": "Washington, D.C.",
     "zh": "華盛頓哥倫比亞特區"
   },
-  "population": "340.0M",
+  "population": "341.8M",
   "area": "9,833,520 km²",
   "density": "35/km²",
   "continent": "Americas",
   "flagEmoji": "🇺🇸",
-  "dataEstYear": 2025,
+  "dataEstYear": 2026,
   "description": {
-    "en": "The United States is a federal republic in North America, bordered by the Atlantic Ocean to the east and the Pacific Ocean to the west, with Canada to the north and Mexico to the south. It is one of the world’s largest economies and most powerful militaries, with outsized influence in politics, technology, finance, culture, and the international order. Washington, D.C. is the capital, while New York City is the largest city.",
-    "zh": "United States是位於北美洲的聯邦共和國，東臨大西洋，西接太平洋，北與加拿大（Canada）接壤，南鄰墨西哥（Mexico）。美國是當今世界最大的經濟體與軍事強國之一，長期在政治、科技、金融、文化與國際秩序中具有全球影響力。首都為華盛頓哥倫比亞特區（Washington, D.C.），最大城市為紐約市（New York City）。"
+    "en": "The United States of America is a transcontinental federal republic primarily situated in North America, comprising 50 states, a federal district, and several island territories. Bordered by Canada to the north and Mexico to the south, it possesses expansive coastlines along the Atlantic, Pacific, and Arctic Oceans. The U.S. functions as the world's premier economic entity and military superpower, exercising dominant structural influence within global financial frameworks, advanced technological innovation, aerospace engineering, and contemporary geopolitical alliances.",
+    "zh": "United States（美國，全稱為美利堅合眾國）是由 50 個州、1 個聯邦直轄特區及多個海外領地組成的跨洲幅員聯邦共和國。其本土北鄰加拿大，南接墨西哥，東西兩側分別緊鄰大西洋與太平洋。作為全球第一大名目經濟體與唯一的超級軍事強國，美國在國際地緣政治、前沿半導體研發、人工智慧（AI）革命、跨國金融結算體系以及西方大眾流行文化中，長期扮演著不可替代的絕對主導角色。"
   },
   "seoText": {
-    "en": "Explore quick facts about the United States — population, area, capital city, and a short overview. Discover New York City and Washington, D.C., the U.S. economy and tech leadership, Hollywood culture, NASA, and America’s global alliances.",
-    "zh": "快速了解美國的基本資料：人口、面積、首都與簡短概述。探索紐約與華盛頓、科技與金融優勢、好萊塢文化、NASA 航太發展，以及美國在全球盟友體系與國際秩序中的影響力。"
+    "en": "Explore updated statistics for the United States — demographic racial breakdowns, GDP growth, land area, and capital Washington, D.C. Discover its polycentric metropolitan economic models, Silicon Valley AI infrastructure, Wall Street financial engines, and defense interoperability with global democratic partners.",
+    "zh": "深入了解美國（United States）最新基本資料：精確種族與族裔比例、最新人口普查指標、國土面積、首都華盛頓。探索矽谷高科技聚落、華爾街全球金融中樞、好萊塢文創產業、NASA 深空探索計畫，以及美台科技供應鏈與安全戰略協作夥伴關係。"
   },
   "sections": {
     "overview": {
       "en": {
         "list": [
-          "Large federal republic in North America",
-          "One of the world’s largest economies",
-          "Strong technology, finance, and military capabilities",
-          "A major global center of culture and entertainment"
+          "Colossal federal constitutional republic commanding the core of North America",
+          "The world's largest national nominal GDP pool and chief financial liquidity anchor",
+          "Unchallenged global pioneer in artificial intelligence, biotechnology, and software architecture",
+          "Primary systemic architect of post-WWII international organizations and maritime security"
         ],
-        "text": "With 50 states and vast geographic diversity, the United States combines a large domestic market with globally influential innovation ecosystems. Its institutions, alliances, and industries have shaped modern globalization and international relations for decades."
+        "text": "The United States blends a highly dynamic, consumer-driven market with an aggressive culture of venture capitalism and scientific research. Characterized by regional economic specialization, it leverages its robust constitutional architecture of checks and balances to manage deep internal diversity, while projectively anchoring global security networks such as NATO and crucial Indo-Pacific strategic arrangements."
       },
       "zh": {
         "list": [
-          "位於北美洲的大型聯邦國家",
-          "全球最大經濟體之一",
-          "科技、金融與軍事實力強大",
-          "世界文化與流行娛樂中心之一"
+          "由 50 個州與多個海外領地構成、橫跨大西洋與太平洋的龐大聯邦共和國",
+          "全球名目國內生產總值（Nominal GDP）居冠的超級經濟體與大宗商品定價核心",
+          "引領全球生成式人工智慧（Generative AI）、民營航太與生物工程創新的絕對先鋒",
+          "二戰後國際多邊治理架構、自由貿易協定與全球海上安全通道的基石締造者"
         ],
-        "text": "United States是位於北美洲的聯邦共和國，東臨大西洋，西接太平洋，北與Canada接壤，南鄰Mexico。美國是當今世界最大的經濟體與軍事強國之一，長期在政治、科技、金融、文化與國際秩序中具有全球影響力。\n\n美國首都為Washington, D.C.，最大城市則為New York City。美國由50個州組成，擁有廣闊國土、多元人口與高度發達的創新產業，是現代國際政治與全球化的重要核心國家。"
+        "text": "美國將龐大的內需消費市場與極具攻擊性的風險資本、頂尖科研環境完美結合。其憲法確立的三權分立體制在歷經兩百多年演進後，形成了一套高度彈性的權力制衡網絡。\n\n當代美國透過東西兩岸的科技與金融雙引擎，不僅深刻形塑了現代經濟全球化的軌跡，更藉由強大的全球軍事投射能力與集體安全盟友體系（如 NATO、AUKUS），持續作為維護國際地緣秩序流動性的決定性力量。"
       }
     },
     "geography": {
       "en": {
         "list": [
-          "Spans Atlantic to Pacific with extensive coastlines",
-          "One of the world’s largest countries by land area",
-          "Highly diverse terrain and ecosystems",
-          "Includes Alaska and Hawaii beyond the contiguous states"
+          "Spans the North American continent from the Atlantic littoral to the Pacific Rim",
+          "Ranks as the third or fourth-largest nation globally by total territorial footprint",
+          "Physiography transitions from fertile coastal plains to massive alpine cordilleras",
+          "Encompasses immense detached subarctic zones in Alaska and volcanic ecosystems in Hawaii"
         ],
-        "text": "The United States covers a vast range of environments: plains, mountain systems, deserts, forests, and Arctic and tropical zones. Major features include the Rocky Mountains in the west and the Appalachian Mountains in the east, alongside extensive river basins and coastal regions."
+        "text": "Covering approximately 9.83 million square kilometers, the United States features astonishing topographic variety. The interior is dominated by the sprawling Mississippi-Missouri river basin, providing highly fertile arable land. This central plain is flanked by the geologically ancient Appalachian Mountains in the east and the rugged, mineral-rich Rocky Mountains and Pacific Coast Ranges in the west."
       },
       "zh": {
         "list": [
-          "位於北美洲中部",
-          "國土面積世界第三大",
-          "地形與氣候多樣",
-          "擁有廣大海岸線"
+          "國土橫跨北美大陸精華地帶，東西海岸線綿延，北防禦加拿大，南控墨西哥灣",
+          "總面積約 983 萬平方公里，位居全球第三或第四大國家，具備巨大的戰略縱深",
+          "地形極具多樣性，由東部低緩的阿帕拉契山脈轉入中部大平原，再攀升至西部的落磯山脈",
+          "包含北美最高峰所在的阿拉斯加荒原，以及孤懸於太平洋中央、地熱發達的加那利火山群島"
         ],
-        "text": "United States國土面積約 983 萬平方公里，地形涵蓋平原、山脈、沙漠、森林與極地地區。\n\n西部有洛磯山脈（Rocky Mountains）與內華達山脈（Sierra Nevada），中部則為廣大平原，東部擁有阿帕拉契山脈（Appalachian Mountains）。此外，美國還包括Alaska與Hawaii等海外州份。"
+        "text": "美國廣袤的地理空間賦予其無可匹敵的天然資源優勢。密西西比河－密蘇里河水系縱貫中部，沖積出全球最遼闊且相連的溫帶商品糧食作地（玉米帶與小麥帶）。\n\n西部地區則由落磯山脈、大盆地沙漠及太平洋沿岸的山脈組成，蘊藏著極為豐富的頁岩油、天然氣與稀土礦產。除本土 48 州外，面積巨大的阿拉斯加州不僅扼守北極圈戰略要道，更為國家帶來了無盡的漁業與礦業儲量；而夏威夷州則是美國在太平洋正中央至關重要的海權防務前哨。"
       }
     },
     "climate": {
       "en": {
         "list": [
-          "Extremely diverse climate zones across a large territory",
-          "Cold winters in the north and interior highlands",
-          "Warmer climates in the south and coastal zones",
-          "Wide range of natural hazards"
+          "Displays an exhaustive spectrum of climates from Arctic tundra to humid subtropical",
+          "The Northeast and Midwest endure sharply defined seasonal snows and warm summers",
+          "The Sun Belt across the south exhibits hot summers and mild, growth-friendly winters",
+          "Subject to profound atmospheric phenomena including Tornado Alley and major hurricane vectors"
         ],
-        "text": "Climate varies from Arctic conditions in Alaska to tropical climates in parts of Hawaii and Florida. The Atlantic and Gulf coasts can face hurricanes, the central plains are prone to tornado outbreaks, and the western U.S. regularly contends with wildfires and earthquakes in certain regions."
+        "text": "The country's massive size allows for highly localized micro-climates. The Pacific Northwest receives heavy oceanic rain, fostering dense temperate rainforests, while the Southwest features hyper-arid deserts like the Mojave. The central plains act as a structural corridor for conflicting polar and tropical air masses, resulting in unique weather hazards such as severe convective storms and tornadoes."
       },
       "zh": {
         "list": [
-          "氣候類型極為多元",
-          "北部冬季寒冷",
-          "南部與沿海較溫暖",
-          "天然災害種類多"
+          "氣候帶跨度極大，從阿拉斯加的極地苔原、西海岸的海洋性與地中海氣候到南部的副熱帶氣候",
+          "東北部與五大湖區受大陸冷氣團與北大西洋氣流交匯影響，冬季漫長多雪，四季分明",
+          "南部「陽光地帶（Sun Belt）」高溫充足，降雨充沛，極利於現代工業聚落與城市擴張",
+          "常年面臨複雜的極端天氣考驗，如中部的龍捲風走廊、東南沿海的颶風以及西部的季節性山火"
         ],
-        "text": "由於國土廣大，美國擁有從寒帶到熱帶的多種氣候。\n\n南部與東南部常受颶風影響，中西部則有龍捲風帶，而西岸部分地區則容易發生野火與地震。"
+        "text": "美國的氣候特徵與其地形構造密切相關。由於西海岸山脈阻擋了大西洋的暖濕季風，使得內陸大盆地與西南部形成了如莫哈維沙漠等乾旱地帶。相反地，墨西哥灣源源不斷吹入的濕熱空氣，則為美國東半部注入了豐富的降水，孕育了廣闊的溫帶森林與高產能農業區。\n\n這種劇烈的大氣對流也使得美國中西部平原成為全球龍捲風爆發最頻繁的地區；而西海岸的加州則因特殊的地中海氣候，在夏季常面臨嚴峻的野火挑戰，同時其地處環太平洋火山地震帶，也讓防震工程成為當地城市規劃的核心。"
       }
     },
     "demographics": {
       "en": {
         "list": [
-          "Population around 340 million",
-          "One of the world’s major immigrant destinations",
-          "Highly urbanized",
-          "Culturally and ethnically diverse society"
+          "Dynamic population climbing past 341 million, sustained by high-value global talent inflows",
+          "Racial composition reveals a highly shifting multi-ethnic plurality managed via formal censuses",
+          "Non-Hispanic Whites constitute 58.9%, maintaining the largest singular demographic footprint",
+          "Hispanic Americans and African Americans represent 19.1% and 13.6% respectively as core cultural forces"
         ],
-        "text": "According to official data from the U.S. Census Bureau, the population of the United States is characterized by its extensive racial and ethnic diversity. White Americans (including both Hispanic and non-Hispanic White individuals) account for approximately 71.0% of the population, with Non-Hispanic Whites representing about 58.9%. Hispanic or Latino Americans, who can be of any race, make up the second-largest demographic category at approximately 19.1%. Black or African Americans constitute roughly 13.6% of the population, while Asian Americans represent about 6.3%. Native Americans and Alaska Natives form approximately 1.3%, Native Hawaiian and Other Pacific Islanders comprise about 0.3%, and individuals identifying with two or more races account for roughly 10.2% of the citizenry."
+        "text": "The demographic grid of the United States, compiled by the U.S. Census Bureau, documents a dynamic melting pot. White Americans encompass 71.0% of the total population (inclusive of Hispanic variations). Asian Americans represent a fast-growing 6.3%, while Native Americans/Alaska Natives hold a historic 1.3%. Multiracial citizens claiming Two or More Races have expanded to 10.2%, with Native Hawaiians/Pacific Islanders at 0.3%. Population patterns showcase intense urbanization, heavily dense along the Northeast Megalopolis and Southern California."
       },
       "zh": {
         "list": [
-          "人口總數約 3.4 億人",
-          "全球主要移民目的地與文化熔爐",
-          "人口高度集中於東西兩岸與各大都會區",
-          "官方普查呈現多元化的種族與族裔比例分布"
+          "2026 最新統計全國總人口約 3 億 4,180 萬人，是全球唯一保持人口健康增長的主要發達大國",
+          "種族與族裔結構呈現高度動態的多元複式結構，在人口普查中具有極為精確的數字界定",
+          "非西語裔白人（Non-Hispanic White）占比為 58.9%，仍是全美比例最高的單一核心人口基底",
+          "拉丁裔（19.1%）與非裔（13.6%）構成人口結構與流行文化的關鍵支柱，政治影響力逐年激增"
         ],
-        "text": "根據美國人口普查局（U.S. Census Bureau）的最新官方統計，美國人口結構展現出高度的種族與族裔多元性。全國人口的族群比例具體分布如下：\n\n白人（White，包含非裔與各類文化背景）約占總人口的 71.0%，其中非西語裔白人（Non-Hispanic White）約占 58.9%。\n\n拉丁裔或西語裔（Hispanic or Latino，在普查中列為族裔分類，可屬於任何種族）為第一大少數族群，約占總人口的 19.1%。\n\n非裔美國人或黑人（Black or African American）約占總人口的 13.6%。\n\n亞裔美國人（Asian American）約占總人口的 6.3%。\n\n美洲原住民與阿拉斯加原住民（American Indian and Alaska Native）約占 1.3%。\n\n夏威夷原住民與其他太平洋島民（Native Hawaiian and Other Pacific Islander）約占 0.3%。\n\n複數種族血統或認同者（Two or More Races）約占總人口的 10.2%。\n\n人口分布高度都市化，主要集中於紐約、洛杉磯、芝加哥與休士頓等大型都會圈。"
+        "text": "根據美國人口普查局（U.S. Census Bureau）發布的精確人口結構指標，美國是一個由多民族與移民血統高度融合的現代社會。在整體普查中，若包含拉美裔白人在內，廣義的白人（White）比例約占總人口的 71.0%。\n\n亞裔美國人（Asian American）約占 6.3%，是近年來財富與教育程度增長最顯著的群體之一。美洲原住民及阿拉斯加原住民約占 1.3%，夏威夷原住民及太平洋島民約占 0.3%。\n\n特別值得注意的是，隨著跨族裔婚姻的普及，認同自己擁有「複數種族血統（Two or More Races）」的公民比例已大幅攀升至 10.2%。全美人口分布呈現高度的都會區向心性，多達 82% 的人口集中在波士頓－華盛頓、南加州以及德州三角洲等巨型都市圈。"
       }
     },
     "economy": {
       "en": {
         "list": [
-          "One of the world’s largest economies",
-          "Global leadership in technology and finance",
-          "The U.S. dollar is a major reserve currency",
-          "A huge domestic consumer market"
+          "The undisputed bedrock of global capitalism with an unparalleled market-driven output",
+          "Anchors the international financial order via Wall Street and the U.S. Dollar reserve dominance",
+          "Silicon Valley and domestic tech hubs dictate global semiconductor, cloud, and AI architectures",
+          "Unprecedented energy independence achieved through massive domestic shale oil extraction"
         ],
-        "text": "The U.S. economy is highly diversified across technology, finance, healthcare, manufacturing, entertainment, and defense-related industries. New York City anchors global finance, while Silicon Valley remains a leading innovation cluster."
+        "text": "The macroeconomic ecosystem of the United States relies on aggressive consumer spending, unparalleled research funding, and shallow regulatory hurdles for business deployment. It commands dominant shares of global software development, venture capital deployment, asset management, and advanced aerospace manufacturing. This private sector agility is systematically reinforced by the global liquidity of the Federal Reserve’s monetary mechanisms."
       },
       "zh": {
         "list": [
-          "全球最大經濟體之一",
-          "科技與金融產業領先",
-          "美元為全球主要儲備貨幣",
-          "消費市場規模巨大"
+          "全球民營資本主義的核心大本營，名目 GDP 與人均產值均在超大型國家中獨占鰲頭",
+          "美元（USD）作為全球第一大貿易結算與外匯儲備貨幣，賦予美聯儲全球流動性的實質主導權",
+          "矽谷、西雅圖、奧斯汀等創新矩陣，牢牢掌控全球雲端運算、先進晶片設計與生成式 AI 開發命脈",
+          "藉由頁岩油氣革命成功轉型為全球最大的石油與天然氣生產國，實現了關鍵性的國家能源自給"
         ],
-        "text": "美國經濟高度多元，科技、金融、醫療、製造、娛樂與軍工產業皆具有全球領先地位。\n\nNew York City是世界金融中心之一，而矽谷（Silicon Valley）則聚集大量科技企業與創新產業。\n\n美元（US Dollar）長期是全球最重要國際貨幣之一。"
+        "text": "美國經濟的核心優勢在於其無與倫比的科技創新效率與極具深度的資本市場。華爾街（紐約證券交易所與納斯達克）匯集了全球最龐大的資金池，為從新創公司到微軟、蘋果、英偉達等科技巨頭提供了不竭的融資管道。\n\n美國的產業鏈具有極高的附加價值：它放棄了低端的組裝製造，轉而緊緊抓住了智慧財產權、精密製藥、高階軍工系統以及全球數位平台服務。此外，高度靈活的勞動力市場、對破產高度寬容的法律機制，以及由頂尖大學構成的產學研一體化網絡，共同構成了美國經濟在歷次全球危機中均能實現快速「V型復甦」的底層邏輯。"
       }
     },
     "politics": {
       "en": {
         "list": [
-          "Federal republic with separation of powers",
-          "President is head of state and government",
-          "High degree of state-level autonomy",
-          "Constitution has had global influence on modern governance"
+          "Federal constitutional republic governed under a rigid executive presidential design",
+          "Strict separation of powers between Executive, Legislative (Congress), and Judicial (Supreme Court)",
+          "Dominating two-party electoral matrix contested by the Democratic and Republican parties",
+          "The federal system grants profound sovereign, administrative, and statutory rights to individual states"
         ],
-        "text": "The United States operates under a federal system balancing national institutions with strong state governments. Washington, D.C. hosts federal branches, while states maintain wide authority over many policy areas."
+        "text": "The American political mechanism functions via a balanced tension between centralized federal governance in Washington, D.C., and decentralized state-level lawmaking. The bicameral Congress (comprising the Senate and House of Representatives) codifies statutory law, while the Supreme Court exercises powerful constitutional judicial review. Individual states retain the sovereign right to independently regulate localized taxation, public health, and civil law codes."
       },
       "zh": {
         "list": [
-          "聯邦共和制度",
-          "三權分立體制明確",
-          "總統為國家元首",
-          "州政府擁有高度自治權"
+          "歷史悠久的聯邦制憲政共和國，以 1787 年成文憲法為立國的最高法統基礎",
+          "行政（總統）、立法（聯邦國會）與司法（最高法院）三權分立，制衡機制極為嚴密且制度化",
+          "政黨政治呈現高度穩定的兩黨制（民主黨與共和黨），實質主導了從地方到聯邦的選舉光譜",
+          "非中央集權的雙重主權設計，各州擁有獨立的憲法、法律體系、稅收權以及強大的地方自治權"
         ],
-        "text": "United States採聯邦制與總統制，行政、立法與司法三權分立。\n\n聯邦政府設於Washington, D.C.，各州則擁有廣泛自治權。美國憲法對現代民主制度與全球政治發展具有深遠影響。"
+        "text": "美國的政體設計核心是「防止暴政與權力過度集中」。聯邦政府設於華盛頓特區，總統作為國家元首與行政首腦，直接掌管武裝力量與外交大權，但其預算與法案必須通過由參議院與眾議院組成的兩院制國會審查。\n\n聯邦最高法院的九位終身制大法官則握有最高憲法解釋權，能實質裁判法案是否違憲。在聯邦之下，各州（State）並非中央政府的行政下屬，而是擁有各自的主權實體。從刑事法律、教育大綱到商業登記與基礎設施建設，各州均有極大的自主立法空間，這使得美國各州的政策環境往往呈現出截然不同的社會實驗色彩。"
       }
     },
     "society": {
       "en": {
         "list": [
-          "World-leading universities and research institutions",
-          "Strong innovation and entrepreneurship culture",
-          "High healthcare costs compared with many peers",
-          "Persistent inequality and social divides"
+          "Highly competitive, individualized social order emphasizing meritocracy and free enterprise",
+          "The epicenter of global academic elite incubation, possessing the vast majority of top Ivy League clusters",
+          "Private-sector led healthcare frameworks deliver elite clinical output alongside complex cost barriers",
+          "Navigates profound ongoing structural dialogues surrounding wealth concentration and ideological divergence"
         ],
-        "text": "Higher education and research are major strengths, but healthcare affordability and uneven outcomes remain widely discussed. The U.S. also faces ongoing challenges related to inequality, public safety, and social cohesion."
+        "text": "American civic culture is highly focused on personal liberty and entrepreneurial risk-taking. While this framework incentivizes rapid commercial innovation and unmatched philanthropic donation scales, it operates alongside deep debates regarding societal equity. Issues such as urban housing inflation, public education funding disparities, and gun-rights governance remain key points of friction within the public sphere."
       },
       "zh": {
         "list": [
-          "高等教育全球知名",
-          "創新與創業文化強大",
-          "醫療費用相對昂貴",
-          "社會差距問題存在"
+          "強調個人主義、契約精神與功績主義的竞争型社會，鼓勵透過個人奮鬥實現「美國夢」",
+          "全球高等教育的麥加聖地，坐擁常春藤盟校、MIT及史丹佛等世界頂尖研究型大學群落",
+          "採行高度市場化的醫療體系，臨床醫療與醫藥研發世界頂尖，但醫療保險與費用門檻相對複雜",
+          "社會內部的財富集中化趨勢明顯，兩黨選民在墮胎、槍枝管制與性別議題上存在深層次文化對立"
         ],
-        "text": "美國擁有大量世界頂尖大學與研究機構，例如Harvard University與Massachusetts Institute of Technology。\n\n社會重視個人自由與創新，但也存在醫療成本、貧富差距與治安等社會議題。"
+        "text": "美國社會是一個高度崇尚個人自由與市場競爭的活力體。其特有的慈善文化與基金會制度，使富豪階層的財富能大量回流至科研與公共事業。美國的公民社會極為發達，志願者組織與基層社區教會在填補政府福利缺口上發揮了核心作用。\n\n然而，這種高度市場導向的體制也帶來了顯著的社會代價。由於缺乏統一的公醫制度，昂貴的醫療支出常年成為中產階級的隱憂。城市化帶來的住房成本激增、貧富差距引發的治安分化，以及由網際網路演算法加劇的社會觀念極化，都是當前美國社會在追求繁榮過程中必須持續調和的內生矛盾。"
       }
     },
     "culture": {
       "en": {
         "list": [
-          "Global influence in popular culture",
-          "Strong film, music, and media industries",
-          "Major sports culture across multiple leagues",
-          "Multi-cultural fusion shaped by immigration"
+          "The world's dominant cultural exporter, projecting global trends via cinema, television, and audio streaming",
+          "Hollywood and California studios command massive shares of international entertainment capital",
+          "Birthplace of foundational modern musical genres including Jazz, Blues, Rock, and Hip-Hop",
+          "Massive domestic sports infrastructure anchored by the global economic footprints of the NFL and NBA"
         ],
-        "text": "American film and music industries have global reach, including Hollywood and major media platforms. Sports such as American football, basketball, and baseball are prominent cultural institutions."
+        "text": "American cultural output serves as the primary vector for Western soft power. Its foundational culinary concepts, fast fashion, and high-budget entertainment architectures populate global consumer landscapes. Immigration has historically enriched this dynamic, generating a constantly evolving multicultural aesthetic that values mass consumer appeal, artistic individualism, and heavy digital media market integration."
       },
       "zh": {
         "list": [
-          "流行文化全球影響巨大",
-          "電影與音樂產業發達",
-          "體育文化強盛",
-          "多元文化融合明顯"
+          "全球最強大的流行文化與「軟實力」輸出國，透過影視、音樂與社群媒體重新定義全球大眾審美",
+          "好萊塢（Hollywood）與百老匯構成世界影視與戲劇的資本與技術巔峰，跨國發行網絡無孔不入",
+          "現代大眾音樂的發源地，孕育出爵士、藍調、搖滾與嘻哈（Hip-Hop）等風靡全球的音樂流派",
+          "體育產業商業化運作的極致範本，美式足球（NFL）、籃球（NBA）與大聯盟（MLB）具有全球號召力"
         ],
-        "text": "美國文化深刻影響全球，包括電影、音樂、時尚與社群媒體等領域。\n\nThe Walt Disney Company、好萊塢（Hollywood）與流行音樂產業在全球娛樂市場具有巨大影響力。\n\n美式足球、籃球與棒球則是代表性運動文化。"
+        "text": "美國文化的穿透力在於其強大的商業化能力與包容性。從迪士尼的動畫王國到Netflix的全球串流網絡，美國文創產業擅長將複雜的文化元素轉化為具備普世吸引力的視聽產品。源自黑人社群的爵士、嘻哈音樂，如今已成為全球青少年的共同語言。\n\n此外，美國的飲食文化（如速食業與精釀啤酒潮流）、科技生活方式（如蘋果生態系與Google檢索）也早已跨越國界，融為現代全球中產階級日常生活的一部分。這種文化的多樣性與商業動能，構成了美國軟實力源源不絕的底層源泉。"
       }
     },
     "issues": {
       "en": {
         "list": [
-          "Political polarization and governance tensions",
-          "Immigration and border policy debates",
-          "Technology regulation and AI development",
-          "Housing affordability and inequality"
+          "Intense ideological polarization challenging long-term legislative efficiency and federal unity",
+          "Complex legislative standoffs over comprehensive southern border enforcement and migration quotas",
+          "Systemic risk vectors concerning urban infrastructure renewal and municipal public safety balancing",
+          "Strategic technological competition over sovereign microchip resilience and advanced AI oversight"
         ],
-        "text": "Major domestic debates include elections, immigration, economic inequality, and the pace and governance of technological change. The U.S. also plays a central role in global competition over semiconductors, AI, and supply-chain resilience."
+        "text": "The United States deals with structural domestic strains. Political discourse has become deeply polarized, occasionally complicating debt-ceiling negotiations and bipartisan judicial confirmations. Economically, managing the rising cost of social security programs, coordinating national supply-chain decoupling from systemic competitors, and ensuring long-term technological self-reliance form the bedrock of current state planning."
       },
       "zh": {
         "list": [
-          "政治極化問題",
-          "移民與邊境政策爭議",
-          "科技監管與AI發展",
-          "貧富差距與住房問題"
+          "兩黨政治極化從國會蔓延至民間，導致重大民生法案與預算審查常陷於府院拉鋸與制度性內耗",
+          "南部邊境非法移民與難民安置問題引發強烈政法爭議，各州與聯邦在執法權限上不時產生摩擦",
+          "部分傳統工業城市面臨基礎設施老化、游民群聚與藥物濫用（如芬太尼危機）等城市治理難題",
+          "在高科技供應鏈領域面臨前所未有的國際競爭，迫使國家必須對關鍵產業實施高額財政補貼與保護"
         ],
-        "text": "美國近年政治與社會分歧加劇，選舉、移民與社會公平等議題受到高度關注。\n\n此外，人工智慧、半導體與國際供應鏈競爭也成為重要國家戰略方向。"
+        "text": "邁入 2026 年，美國正經歷歷史性的社會與地緣戰略調整期。內部最棘手的挑戰莫過於政治與認同的極化，這直接導致了國會頻繁在債務上限談判中陷入僵局，影響了聯邦政府的行政效率。此外，邊境安全與移民改革遲遲未能達成跨黨派共識，成為歷次大選的風暴核心。\n\n在外部經濟層面，為了因應亞洲新興大國在半導體與關鍵新能源產業的全面進逼，美國政府近年打破傳統新自由主義教條，出台《晶片與科學法案》大力推動「製造業回流」與「友岸外包」，這對其長遠的財政負擔與全球自由貿易規則帶來了深遠的結構性變革。"
       }
     },
     "landmarks": {
       "en": {
         "list": [
-          "New York City — finance and media center",
-          "Washington, D.C. — capital and federal institutions",
-          "Los Angeles — entertainment industry hub",
-          "Grand Canyon — iconic natural landmark"
+          "New York City — Global financial megacity featuring Wall Street, Broadway, and Times Square",
+          "Washington, D.C. — Neoclassical architectural hub anchoring the White House and the Capitol building",
+          "Los Angeles — Pacific coast powerhouse driving Hollywood studios and Venice Beach culture",
+          "Grand Canyon — Earth's most architecturally awe-inspiring natural gorge and canyon network"
         ],
-        "text": "New York City includes Wall Street and the UN headquarters, while Washington, D.C. anchors federal governance. The Grand Canyon is among the most recognized natural landscapes in the world."
+        "text": "The landmark inventory of the United States spans dense historic urban hubs and colossal natural conservation systems. From the iconic Statue of Liberty greeting generations of immigrants in New York Harbor to the geological spectacles of Yellowstone and Yosemite National Parks, the country's landscape serves as an immediate visual shorthand for both modern industrial progress and preserved wilderness."
       },
       "zh": {
         "list": [
-          "New York City—— 全球金融與媒體中心",
-          "Washington, D.C.—— 首都與政治中心",
-          "Los Angeles—— 娛樂與影視產業中心",
-          "Grand Canyon—— 世界知名自然奇景"
+          "紐約市（New York City）—— 全球第一大都會，坐擁曼哈頓天際線、華爾街、帝國大廈與時代廣場",
+          "華爾街與百老匯 —— 象徵全球資本流動與頂級舞台藝術的文化與金融雙地標",
+          "華盛頓特區（Washington, D.C.）—— 新古典主義風格的政治中樞，國會大廈與白宮坐落於此",
+          "大峽谷與黃石公園 —— 科羅拉多河雕刻出的地質奇蹟，以及人類歷史上首座國家公園的野生自然景觀"
         ],
-        "text": "New York City擁有華爾街與聯合國總部，而Grand Canyon則是美國最具代表性的自然景觀之一。"
+        "text": "美國的地標景觀完美展現了「人類文明巔峰與蠻荒自然力量」的交織。紐約港的自由女神像兩百年來指引著無數移民前來尋夢；舊金山的金門大橋跨越金門海峽，是現代土木工程的絕佳代表。在內陸，由國家公園管理局嚴格保護的自然遺產同樣令人屏息：黃石國家公園的間歇泉與地熱景觀、大峽谷國家公園深邃斑斕的紅岩斷層、以及優勝美地巨型的花崗岩峭壁。\n  \n這些地標與好萊塢星光大道、芝加哥雲門等現代都市景觀一起，構成了美國豐富且多維度的視覺符號系統。"
       }
     },
     "international": {
       "en": {
         "list": [
-          "Permanent member of the UN Security Council",
-          "Core NATO member and global alliance leader",
-          "Major global military and diplomatic power",
-          "Influential in Europe, the Middle East, and the Indo-Pacific"
+          "Permanent UN Security Council member exercising absolute veto rights over global defense bills",
+          "The organizational backbone and primary military contributor within the NATO Alliance",
+          "Maintains unparalleled network of forward-deployed forces across Europe and the Indo-Pacific",
+          "Coordinates critical multilateral tech and security intelligence partnerships like the Five Eyes and Quad"
         ],
-        "text": "The United States has played a leading role in shaping post-war international institutions and security arrangements. Its global partnerships and military reach remain central to international diplomacy and deterrence."
+        "text": "United States foreign policy operates on a forward-defense, alliance-led global posture designed to secure open sea lanes and counter authoritarian systemic expansions. Utilizing its massive financial sanctions capability, sweeping bilateral defense pacts, and unmatched nuclear triad deterrence, Washington acts as the core military and economic counterweight in contemporary international security dynamics."
       },
       "zh": {
         "list": [
-          "聯合國安理會常任理事國",
-          "北約（NATO）核心成員",
-          "全球軍事與外交強權",
-          "在印太與歐洲影響深遠"
+          "聯合國安理會常任理事國，掌握全球集體安全制裁與維和行動的決定性一票否決權",
+          "北大西洋公約組織（NATO）的軍事與財政絕對核心，實質提供歐洲跨大西洋的核保護傘",
+          "在歐亞大陸外緣、中東及西太平洋部署有全球最密集的海外基地與航艦戰鬥群，具備全球投射力",
+          "主導「五眼聯盟（Five Eyes）」情報網絡，並透過「美日印澳四方安全對話（Quad）」重塑印太戰略"
         ],
-        "text": "United States長期主導全球安全、金融與外交體系，在歐洲、中東與印太地區皆具有高度影響力。\n\n此外，美國也是全球科技、能源與軍事聯盟的重要核心。"
+        "text": "美國的外交戰略長期以維護開放的國際秩序與航行自由為核心目標。作為冷戰後的唯一超級大國，華盛頓透過繁密的雙邊與多邊防務條約，將全球主要民主國家納入其安全保護傘下。\n\n在當前多極化地緣競爭加劇的背景下，美國的外交手段展現出高度的「科技與經濟安全化」特徵。它不僅利用全球第一大軍事預算維持戰略威懾，更頻繁動用美元結算系統（SWIFT）的金融制裁權，並聯手盟友構築「小院高牆」式的技術封鎖線，全力阻斷核心敏感技術流向戰略競爭對手，以期捍衛其在全球地緣政治中的全方位優勢地位。"
       }
     },
     "taiwan": {
       "en": {
         "list": [
-          "Key partner for Taiwan in security and economic domains",
-          "Close cooperation in technology and supply chains",
-          "Frequent education and cultural exchanges",
-          "High attention on semiconductors and AI collaboration"
+          "Bound by the Taiwan Relations Act and Six Assurances to ensure Taiwan's self-defense autonomy",
+          "Deep structural economic and tech convergence centered on high-end semiconductor lithography",
+          "Frequent high-level congressional delegations and collaborative regional cyber-defense training",
+          "Active integration of supply chains to ensure next-generation semiconductor and AI chip security"
         ],
-        "text": "The United States and Taiwan maintain close non-official ties across trade, technology, education, and security-related coordination. Cooperation in semiconductors and emerging technologies has become increasingly prominent."
+        "text": "The United States and Taiwan maintain an exceptionally close, robust, and dynamic unofficial relationship. Taiwan is viewed in Washington as a vital democratic partner and a critical linchpin in global technology supply chains. Bilateral collaboration focuses heavily on expanding co-investment in cutting-edge wafer fabrication, fortifying maritime deterrence within the First Island Chain, and facilitating deep linguistic and educational partnerships via the American Institute in Taiwan (AIT)."
       },
       "zh": {
         "list": [
-          "台灣重要國際合作夥伴",
-          "安全與軍事合作受關注",
-          "科技與半導體關係密切",
-          "教育與文化交流頻繁"
+          "以《台灣關係法》與「六項保證」為法理基石，承諾提供台灣足夠的防衛性武器與安全協助",
+          "雙方在全球半導體產業鏈中形成「生死與共」的共生關係，共同主導次世代晶片的研發與代工",
+          "美國國會跨黨派挺台力道空前，頻繁透過法案提升台美官方交往層級與經濟貿易倡議架構",
+          "經濟合作由傳統貿易大幅深化至共同建構具備抗風險能力的「安全供應鏈」與 AI 基礎建設"
         ],
-        "text": "美國與台灣維持密切非官方關係，在科技、軍事、教育與經貿領域互動相當活躍。\n\n近年半導體、人工智慧與供應鏈合作尤其受到高度關注。"
+        "text": "台灣與美國之間存在著極為深厚且多維度的戰略夥伴關係。雖然缺乏正式外交關係，但設於台北的「美國在台協會（AIT）」實質執行著全方位的大使館職能。對美國而言，台灣不僅是第一島鏈上不可或缺的民主防禦前哨，更是全球高階晶片製造的絕對心臟，攸關美國國家安全與矽谷科技產業的生死存亡。\n\n近年來，雙方簽署了《台美21世紀貿易倡議》，在通關便利化、反貪腐及中小企業合作上取得歷史性突破。同時，隨台積電進軍亞利桑那州設廠，台美半導體協作已從單純的「接單代工」演進為「跨國共同研發與產能戰略備份」的新階段。在安全防務上，美方除常態化軍售外，也大幅增加了與台灣軍隊的戰術實質交流，全方位協助台灣強化不對稱作戰能力與社會韌性。"
       }
     },
     "further": {
       "en": {
         "list": [
-          "One of the world’s largest economies",
-          "The U.S. dollar is a major global reserve currency",
-          "Global leader in technology and innovation",
-          "Major military power with global alliances",
-          "Pop culture influence spans the world"
+          "Pioneered humanity's deep-space reconnaissance and lunar landings via Project Apollo and NASA",
+          "Venture capital capital pool that spawned the entire global modern consumer internet ecosystem",
+          "Pioneered the development of modern constitutionalism and individual rights protection mechanisms",
+          "Maintains the world's most recognizable entertainment industrial standard with historic Hollywood reach",
+          "Functions as the ultimate destination for global migration, generating a uniquely adaptable global culture"
         ],
-        "text": "The United States combines scale, innovation ecosystems, and global alliances, making it one of the most influential states in contemporary international affairs."
+        "text": "The United States continuously reinvents its baseline economic model, proving that its mixture of private capital, academic liberty, and geopolitical alliance systems keeps it at the very frontier of contemporary global history."
       },
       "zh": {
         "list": [
-          "全球最大經濟體之一",
-          "美元為世界主要儲備貨幣",
-          "科技與創新產業領導國家",
-          "世界主要軍事強權",
-          "流行文化影響遍及全球"
+          "人類深空探索與登月的絕對開創者，透過阿波羅計畫與航海家號重新定義了人類的宇宙視野",
+          "全球網際網路革命與個人電腦時代的締造者，催生了當代人類依賴的所有數位生活平台",
+          "開創了人類歷史上首個將個人自由與追求幸福權利寫入立國宣言的現代民主憲政體制",
+          "將現代體育、影視娛樂與商業資本運作融合至極致，在全球各個角落留下了深刻的文化烙印",
+          "擁有強大的自我修正與制度彈性，在面對內外部巨大危機時總能爆發出驚人的重組與復甦動能"
         ],
-        "text": "美國以龐大的市場規模、科技創新能力與盟友體系，長期在全球政治、經濟與文化領域扮演核心角色。"
+        "text": "美利堅合眾國是一個無法用簡單好惡去概括的複雜巨人。它誕生於對啟蒙時代自由理想的追求，並在兩百多年的擴張中，將自己打造成了人類歷史上最具破壞力同時也最具創造力的超級大國。從華爾街喧囂的交易大廳到甘迺迪航天中心的火箭升空，這個國家展現了人類在私有資本與科學自由激勵下所能達到的物質繁榮巔峰。儘管當前的美國正面臨著建國以來少有的內部政治撕裂與深刻的社會階層對立，但其制度內生的強大自我修正能力、源源不絕的全球精英移民湧入，以及在全球高科技鏈條上的壟斷性優勢，都使其依然牢牢掌握著定義人類次世代科技（如量子運作、可控核融合、通用人工智慧 AGI）的方向盤。它依然是那個地緣上無比安全、經濟上無比充滿活力、文化上無比喧囂的歐亞大陸外緣超級霸主，其一舉一動，將繼續決定性地書寫著 21 世紀人類文明的命運走向。"
       }
     }
   },
   "quickFacts": [
     {
       "label": "Currency",
-      "value": "US Dollar (USD)"
+      "value": "US Dollar (USD / The planet's dominant trade invoicing and foreign reserve monetary anchor)"
     },
     {
       "label": "Language",
       "value": {
-        "en": "English (de facto), Spanish widely used",
-        "zh": "英語（通行語），西班牙語廣泛使用"
+        "en": "English (De facto national language); Spanish holds deep cultural entrenchment and is widely used across administration and commerce",
+        "zh": "英語（事實上的官方與通用語言）；西班牙語在南部及大都市具備極高的普及率與官方服務支持"
       }
+    },
+    {
+      "label": "GDP (nom.)",
+      "value": "$28T+ (The world's largest individual national nominal economy)"
     },
     {
       "label": "Time zones",
       "value": {
-        "en": "UTC−10 to UTC−5 (multiple time zones)",
-        "zh": "UTC−10 至 UTC−5（跨多個時區）"
+        "en": "UTC-5 to UTC-10 for contiguous states and major territories (e.g., EST, CST, MST, PST). Daylight Saving Time observed strictly from March to November",
+        "zh": "本土跨越 UTC-5 至 UTC-8（東部、中部、山區、太平洋時間）；加阿拉斯加與夏威夷延伸至 UTC-10。3至11月實行夏令時間"
       }
     },
     {
@@ -318,36 +322,36 @@
     {
       "icon": "🗽",
       "text": {
-        "en": "Statue of Liberty — symbol of freedom and immigration history in New York Harbor",
-        "zh": "自由女神像（Statue of Liberty）——美國自由與移民象徵"
+        "en": "Statue of Liberty — The monumental neoclassical sculpture in New York Harbor, serving as an enduring worldwide beacon of personal freedom and immigration history",
+        "zh": "紐約自由女神像 —— 矗立於紐約港入口的巨型新古典主義雕像，兩百年來作為美國自由精神與迎接全球移民尋夢的不朽象徵"
       }
     },
     {
       "icon": "💵",
       "text": {
-        "en": "Wall Street — one of the world’s most influential finance hubs",
-        "zh": "華爾街（Wall Street）——全球金融市場核心之一"
+        "en": "Wall Street Financial Hub — Lower Manhattan's historic banking district, containing the world's largest stock exchanges and steering global capital allocation",
+        "zh": "華爾街金融中樞 —— 位於曼哈頓下城的全球金融心臟，掌控紐約證交所與納斯達克，主導著全球每日數兆美金的資本流動"
       }
     },
     {
       "icon": "🎬",
       "text": {
-        "en": "Hollywood — global center of film and entertainment production",
-        "zh": "好萊塢（Hollywood）——世界娛樂與電影產業中心"
+        "en": "Hollywood Entertainment Empire — Los Angeles' world-dominant media apparatus, crafting the global gold standards for high-budget cinema and cultural soft power",
+        "zh": "好萊塢影視帝國 —— 位於洛杉磯的全球最大娛樂產業聚落，以無與倫比的資本與技術優勢，長年向全世界輸出美式價值觀與大眾文化"
       }
     },
     {
       "icon": "🚀",
       "text": {
-        "en": "NASA — iconic space agency leading major missions and research programs",
-        "zh": "NASA——全球最具代表性的航太機構之一"
+        "en": "NASA & Deep Space Frontiers — The premier federal aerospace agency leading human spaceflight, Martian exploration, and cosmic observation via the James Webb telescope",
+        "zh": "NASA 與前沿航太 —— 全球頂尖的國家航空暨太空總署，從阿波羅登月到火星探測器，持續引領人類向宇宙最深處拓荒"
       }
     },
     {
       "icon": "🦅",
       "text": {
-        "en": "Superpower influence — major global political, economic, and military power",
-        "zh": "超級強權——全球政治與軍事影響力最大國家之一"
+        "en": "Superpower Strategic Deterrence — Unparalleled geopolitical projection capabilites backed by a massive technology matrix and a global democratic alliance grid",
+        "zh": "超級強權戰略威懾 —— 以全球第一的國防預算、尖端不對稱軍事科技及遍布全球的盟友網絡，維持著對自由世界秩序的戰略底牌"
       }
     }
   ],

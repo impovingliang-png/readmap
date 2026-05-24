@@ -8,299 +8,303 @@
     "en": "Tokyo",
     "zh": "東京"
   },
-  "population": "125M",
+  "population": "123.8M",
   "area": "377,975 km²",
-  "density": "331/km²",
+  "density": "328/km²",
   "continent": "Asia",
   "flagEmoji": "🇯🇵",
-  "dataEstYear": 2025,
+  "dataEstYear": 2026,
   "description": {
-    "en": "Japan is an island nation in East Asia, consisting of four main islands—Hokkaido, Honshu, Shikoku, and Kyushu—and thousands of smaller ones. Known for its highly modernized economy, deep cultural traditions, and refined lifestyle, Japan blends technological innovation with historical depth to create a unique national identity.",
-    "zh": "Japan是位於東亞的島國，由北海道、本州、四國與九州四大島嶼及數千個小島組成，東臨太平洋，西隔日本海與亞洲大陸相望。以高度現代化經濟、深厚文化傳統與精緻生活方式聞名，日本融合科技創新與歷史底蘊，形成獨特的國家樣貌。"
+    "en": "Japan is a highly developed volcanic archipelago nation in East Asia, stretching across a strategic arc in the western Pacific Ocean. Comprising four primary islands—Honshu, Hokkaido, Kyushu, and Shikoku—alongside over 14,000 smaller islands, its geography is defined by the rugged peaks of the Pacific Ring of Fire. Historically characterized by a unique synthesis of native Shinto animism, imported continental traditions, and rapid post-Meiji Westernization, contemporary Japan is a constitutional monarchy. It stands as a global cultural superpower and pioneering industrial force, world-renowned for its ultra-efficient bullet train infrastructure, dominant automotive and precision robotics conglomerates, and a refined social aesthetic that seamlessly pairs ancient customs with cutting-edge digital subcultures.",
+    "zh": "Japan是位於東亞的火山群島國家，國土沿西太平洋邊緣呈狹長弓狀延伸。全境由本州、北海道、九州、四國四大主島以及超過 14,000 個周邊島嶼組成，地緣上坐落於極其活躍的環太平洋火山帶。日本歷史展現了獨特的文化熔爐特徵，將本土原始神道信仰、漢傳佛教精髓與明治維新後的西方現代思潮完美內化。現代日本採行君主立憲議會制，為全球頂尖的經濟大國與文化輸出強權。其以精密半導體材料、自動化機器人及汽車工業稱雄世界，並以無縫融合傳統匠人精神、職人餐飲美學與風靡全球的二次元動漫產業，構築出極具辨識度的國家軟實力。"
   },
   "seoText": {
-    "en": "Explore quick facts about Japan — population, land area, capital city, and a short overview. Japan spans four main islands: Honshu, Hokkaido, Kyushu, and Shikoku. Mount Fuji, at 3,776 m, is the country's highest peak and a UNESCO World Heritage Site.",
-    "zh": "快速了解日本的基本資料：人口、面積、首都與簡短概述。日本由本州、北海道、九州、四國四大島為主；富士山海拔 3,776 公尺，是日本最高峰，也是世界知名地標。"
+    "en": "Discover comprehensive facts about Japan — updated population dynamics, land area parameters, capital city Tokyo, and detailed macro breakdowns. Explore Mount Fuji UNESCO heritage, Shinkansen transport logistics, Bank of Japan yen monetary trends, Tokyo-Osaka megalopolis infrastructure, aging demographic shifts, and cultural outputs like anime and washoku.",
+    "zh": "深入了解日本的基本資料：最新人口普查趨勢、國土面積、首都東京與綜合概述。探索富士山自然文化遺產、新幹線軌道交通、日本銀行（BOJ）日圓匯率與利率轉折、東名阪超級都市帶、超高齡化社會因應對策、半導體供應鏈重組、台日科技聯防，以及動漫影視與和食文化輸出影響力。"
   },
   "sections": {
     "overview": {
       "en": {
         "list": [
-          "Island nation located in East Asia",
-          "Consists of four main islands and thousands of smaller ones",
-          "One of the world's third-largest economies",
-          "Highly urbanized and technology-oriented society"
+          "An advanced volcanic archipelago positioned along the western rim of the Pacific Ocean",
+          "The Tokyo-Nagoya-Osaka (Tokaido) corridor forms the world's premier urban economic belt",
+          "Maintains an exceptionally high global standard of living and the world's top life expectancy metrics",
+          "Blends deep-rooted ancestral concepts of harmony and collectivism with advanced technological systems"
         ],
-        "text": "Located on the Pacific Ring of Fire, Japan's topography is predominantly mountainous with sparse but densely populated plains. The Tokyo-Osaka-Nagoya corridor forms one of the world's most significant urban belts. As a developed nation, Japan leads in technology, manufacturing, and infrastructure, maintaining one of the highest life expectancies globally."
+        "text": "Japan spans 377,975 square kilometers of predominantly mountainous terrain, concentrating its massive economic output within narrow, coastal alluvial plains. Since its rapid post-war re-industrialization, the country has positioned itself as an indispensable linchpin of global technology, supply chains, and finance. Despite dealing with complex, long-term demographic contractions, Japan remains a highly stable, affluent democracy characterized by safe urban spaces, world-class infrastructure networks, and substantial diplomatic influence across the Indo-Pacific region."
       },
       "zh": {
         "list": [
-          "位於東亞的島國",
-          "由四大主島與數千個島嶼組成",
-          "全球第三大經濟體之一",
-          "高度城市化與技術導向社會"
+          "位處西太平洋邊緣的發達群島國家，由弧狀排列的四大主島及萬餘座孤島組成的天然天然防線",
+          "「東名阪」（東京-名古屋-大阪）構成的太平洋沿岸城市群，為全球密度最高、產值最大的超級都會帶",
+          "國民生活水準、公共安全、基礎衛生指標位居世界前列，平均壽命常年蟬聯全球頂尖榜單",
+          "社會運作高度仰賴「和（Choki）」的集體主義秩序與細緻禮節，並將其轉化為高效率的工業管理哲學"
         ],
-        "text": "日本地處環太平洋火山帶，地形以山地為主，平原狹小且人口密集。東京、大阪與名古屋構成全球最重要的都市帶之一。其地理位置使日本在歷史上既受到中國與朝鮮文化影響，也發展出獨特的本土文明。\n\n作為已開發國家，日本在科技、製造業與基礎建設方面居世界領先地位，同時擁有全球最高之一的平均壽命與完善的公共服務體系。"
+        "text": "日本國土面積約 37.8 萬平方公里，山地與丘陵割裂了地形，使得僅有的沿海沖積平原承受了極高的人口密度。二戰後，日本經濟締造了舉世震驚的「東亞奇蹟」，一躍成為全球核心技術與半導體關鍵材料不可或缺的供應鏈母體。\n\n儘管在經歷了資產泡沫化後步入長期低通膨與低成長階段，現代日本依然維持著極高的社會穩定度、近乎零犯罪率的市容、以及精準至秒級的鐵道運輸路網。其在印太區域的多邊地緣經貿框架中，持續扮演著舉足輕重的戰略制衡與協調角色。"
       }
     },
     "geography": {
       "en": {
         "list": [
-          "Archipelago nation with a long, rugged coastline",
-          "Approx. 70% covered by mountains and forests",
-          "Located on the Ring of Fire; frequent earthquakes and volcanoes",
-          "Plains concentrated in coastal areas with high density"
+          "Over 70% of the landmass consists of heavily forested, rugged mountainous alpine terrain",
+          "Situated at the hazardous junction of four major tectonic plates, resulting in high seismic vulnerability",
+          "The Kanto Plain on Honshu stands as the country's largest single contiguous flat agricultural and urban zone",
+          "Features an extensive Exclusive Economic Zone (EEZ) rich in marine resources and shipping lanes"
         ],
-        "text": "With a land area of approximately 378,000 square kilometers, Japan's terrain is rich and varied. The central mountain range divides the country into Pacific and Japan Sea climate zones. The Kanto and Kansai plains are the primary population and economic hubs. Its location on plate boundaries leads to frequent seismic activity, including the iconic Mount Fuji. The extensive coastline also supports thriving fishing and shipping industries."
+        "text": "Japan's physical geography is defined by tectonic volatility and maritime isolation. The country's central spinal mountain ranges, including the Japanese Alps, split the main island of Honshu into two distinct climatic watersheds. Flat land is a premium commodity; hence, intense terraced farming and vertical urbanism characterize the lowlands. The presence of over 100 active volcanoes, including the iconic Mount Fuji, infuses the country with rich geothermal hot springs (onsen) while presenting persistent risks of volcanic and tsunamigenic hazards."
       },
       "zh": {
         "list": [
-          "國土由群島構成，海岸線曲折綿長",
-          "約 70% 為山地與森林覆蓋",
-          "位於環太平洋火山帶，地震與火山頻繁",
-          "平原集中於沿海地區，人口密集"
+          "全境超過七成面積由茂密森林與崎嶇山脈覆蓋，河流短小流急，不具備大型內河航運條件",
+          "地處太平洋、亞歐、菲律賓海和北美四大板塊的十字交界，致使地震、海嘯與火山活動極其頻繁",
+          "關東平原（Kanto Plain）為全境面積最大的平原，是首都圈擴張與高科技農業的精華奠基石",
+          "海岸線因群島特性曲折且漫長，孕育了發達的天然良港，其專屬經濟海域（EEZ）高居全球前列"
         ],
-        "text": "日本國土面積約 37.8 萬平方公里，雖不大，便地形變化豐富。中央山脈貫穿本州，將國土分為太平洋側與日本海側兩種氣候區。關東平原與關西平原為最主要的人口與經濟核心。由於位於板塊交界，日本地震活動頻繁，並擁有大量火山，其中包括象徵性的富士山（Mount Fuji）。同時，豐富的海岸線也促進漁業與海運發展。"
+        "text": "日本的地理樣貌由「山」與「海」交織而成。本州中央的飛驒、木曾、赤石三條山脈被合稱為「日本阿爾卑斯山脈」，巍峨矗立，將國土一分為二。由於缺乏開闊的平原，日本歷史上的政治割據與方言演變皆受制於山嶺阻隔。 \n\n頻繁的板塊碰撞雖然帶來了2011年東日本大地震等歷史性天災，卻也為這片土地留下了遍布全國的優質溫泉（Onsen）地熱資源。其綿長的海岸線與黑潮、親潮兩大洋流交匯的特性，更催生了名列世界三大漁場之一的西北太平洋漁場，形塑了日本根深蒂固的海洋國家性格。"
       }
     },
     "climate": {
       "en": {
         "list": [
-          "Climate ranges from cold temperate to subtropical",
-          "Distinct four seasons with obvious transitions",
-          "Hot and humid summers; heavy snow in the north during winter",
-          "Typhoons primarily impact in summer and autumn"
+          "Spans distinct climatic zones ranging from subarctic in Hokkaido to subtropical in Okinawa",
+          "Western coastal regions face heavy winter snowfall driven by freezing Siberian monsoons",
+          "The 'Tsuyu' plum rain season heavily saturates central and southern zones throughout June and July",
+          "Autumn months bring frequent, powerful Pacific typhoons affecting western and eastern shorelines"
         ],
-        "text": "Influenced by monsoons and ocean currents, Hokkaido has cold winters and heavy snow, while the mainland has four distinct seasons, and Okinawa remains subtropical. The rainy season (June–July) and late-summer typhoons are notable features that significantly influence Japanese agriculture, architecture, and lifestyle."
+        "text": "The Japanese climate is characterized by exceptionally sharp seasonal transitions. Hokkaido and northern Honshu endure long, bitter winters with legendary light powder snow that attracts global winter sports enthusiasts. Conversely, the Pacific side experiences hot, muggy summers dominated by warm oceanic air masses. Spring brings the cherry blossom front (sakura zensen), while autumn cloaks the islands in vibrant foliage (koyo), both cycles heavily steering domestic tourism and cultural poetry."
       },
       "zh": {
         "list": [
-          "氣候橫跨寒帶至亞熱帶",
-          "四季分明，季節變化明顯",
-          "夏季高溫潮濕，冬季北部多雪",
-          "颱風主要影響夏秋季"
+          "氣候跨度極大，從最北端北海道的亞寒帶針葉林氣候，一路延伸至最南端沖繩的副熱帶季風氣候",
+          "冬季時，西伯利亞寒流吹拂日本海，與暖流濕氣結合，為日本海側（豪雪地帶）帶來世界級暴雪",
+          "每年 6 月至 7 月迎來廣泛的「梅雨」季節，高溫多濕的降雨帶為稻作提供了充沛的蓄水來源",
+          "夏末秋初（8 月至 10 月）是太平洋颱風肆虐的高峰期，常對沿海及離島基礎設施造成嚴重考驗"
         ],
-        "text": "日本氣候受季風與洋流影響顯著。北海道屬冷溫帶氣候，冬季嚴寒且降雪量大；本州大部分地區屬溫帶氣候，四季分明；沖繩則屬亞熱帶氣候，全年溫暖。梅雨季節（6–7 月）為全年重要氣候特徵之一，而夏秋之際的颱風亦可能帶來強降雨與災害。氣候條件深刻影響日本農業、建築與生活方式。"
+        "text": "日本的四季更迭如同精密運行的時鐘，季節感極其強烈。冬季時，日本海側的「裏日本」常被數公尺深的積雪覆蓋，而太平洋側的「表日本」（如東京）則呈現晴朗乾燥的寒冷氣候。到了夏季，來自太平洋的高壓脊支配全境，本州內陸盆地氣溫時常突破 38°C，濕熱難耐。\n\n春季的「櫻花前線」由南向北拂過群島，引發全民席地賞櫻（Hanami）的文化狂熱；而秋季的「紅葉前線」則將滿山遍野染成金黃與火紅。這種鮮明的氣候韻律，深刻形塑了日本人順應自然、悲憫萬物榮枯的獨特「物哀（Mono no aware）」審美觀。"
       }
     },
     "demographics": {
       "en": {
         "list": [
-          "Population: approx. 125 million",
-          "High density: approx. 330 people/km²",
-          "Highly urbanized; concentrated in metropolis",
-          "One of the world's most aging societies"
+          "Total population stood at approximately 123.8 million residents based on 2026 updates",
+          "Faces a historical demographic squeeze defined by a severe low birth rate and shrinking workforce",
+          "Over 29% of the population is aged 65 or above, making it the world's most hyper-aged country",
+          "The Greater Tokyo Area houses over 37 million people, retaining its rank as the world's largest metropolis"
         ],
-        "text": "Population is primarily concentrated along the Pacific coast, particularly in the Tokyo area—the world's largest megalopolis. Osaka and Nagoya are also key hubs. The society faces severe issues with a low birthrate and aging population, leading to labor shortages and long-term social security challenges. Conservative immigration policies make these shifts even more pronounced."
+        "text": "Japan is currently experiencing a historic and unprecedented demographic contraction. The total fertility rate remains stuck well below the replacement level, accelerating rural depopulation and creating thousands of abandoned homes (akiya) in regional prefectures. To balance this structural strain, the government is progressively relaxing visas for specialized foreign workers and heavily funding automated medical robotics, though the core social framework remains remarkably ethnically homogeneous."
       },
       "zh": {
         "list": [
-          "人口約 1.25 億",
-          "人口密度高，約 330 人/平方公里",
-          "高度城市化，人口集中於都市圈",
-          "全球老齡化最嚴重的國家之一"
+          "截至 2026 年最新統計，全國總人口已連續數年呈加速下滑態勢，目前約為 1 億 2,380 萬人",
+          "少子化與高齡化問題互為因果，總和生育率長年低迷，引發勞動力市場結構性的慢性短缺",
+          "65 歲以上高齡人口比例已突破 29.5%，是全球人口老化程度最高、負擔最沉重的福利國家",
+          "城鄉失衡極其加劇，以東京為首的首都圈匯聚了超過 3,700 萬人口，高居全球第一大都市圈"
         ],
-        "text": "日本人口主要集中於太平洋沿岸都市帶，尤其是以東京（Tokyo）為核心的首都圈，是全球最大都會區之一。大阪與名古屋亦為重要人口與經濟中心。日本社會面臨嚴重少子化與高齡化問題，65 歲以上人口比例持續上升，勞動力縮減對經濟與社會制度帶來長期挑戰。同時，日本在移民政策上相對保守，使人口結構變化更加顯著。"
+        "text": "日本目前正處於非戰爭減員的人口萎縮風暴中心。隨著不婚主義蔓延與育兒成本高企，日本地方小城鎮與農村正面臨大規模的消亡危機，催生了無數無人繼承的空屋（Akiya）。與此同時，國民平均壽命（女性約 87 歲，男性約 81 歲）高居世界前列，使養老金、醫療保險等社福支出對財政造成巨大壓力。\n\n為了維持社會運轉，岸田文雄及歷任政府近年打破傳統禁忌，逐步透過「特定技能簽證」擴大引進外籍勞工（如越南、菲律賓、印尼籍技術工），並全面發動「銀髮經濟」，鼓勵 70 歲以上長者重返職場。然而，整體而言，日本依舊維持著高達 97.5% 以上的單一日本民族結構，這使人口融合過程相對緩慢且謹慎。"
       }
     },
     "economy": {
       "en": {
         "list": [
-          "World's third-largest economy",
-          "Highly developed manufacturing and technology",
-          "Automobiles and electronics as export cores",
-          "Services account for the largest share of GDP"
+          "A foundational global economic power driven by high-tech manufacturing, robotics, and advanced services",
+          "The Yen (JPY) acts as a premier global safe-haven currency and heavy funding asset",
+          "Maintains absolute global dominance in automotive manufacturing, semiconductor materials, and machine tools",
+          "The Bank of Japan (BOJ) has historically pivoted away from decades of negative interest rates"
         ],
-        "text": "Japan possesses a mature and highly diversified economy, leading globally in automotive, semiconductor equipment, and precision machinery. Iconic brands like Toyota and Sony remain key market players. The service sector, including finance and retail, accounts for over 70% of GDP, with Tokyo serving as a premier financial hub. Despite its scale, the nation faces long-term deflationary and low-growth pressures."
+        "text": "Japan possesses a highly sophisticated economic apparatus. It is the world's largest net creditor nation, controlling trillions in overseas assets. Renowned corporate conglomerates (Keiretsu) like Toyota, Mitsubishi, and Hitach lead industrial execution. While the domestic market has emerged from decades of deflationary stagnation, the economy is currently focused on restructuring supply chains, expanding domestic semiconductor fabrications (such as TSMC's multi-phase mega-fabs in Kumamoto), and mitigating rising energy import vulnerabilities through the selective reactivation of its nuclear power fleet."
       },
       "zh": {
         "list": [
-          "全球第三大經濟體",
-          "製造業與科技產業高度發達",
-          "汽車與電子產品為出口核心",
-          "服務業佔 GDP 最大比重"
+          "全球頂尖的核心經濟體之一，以極致的高端精密工藝、基礎材料學與跨國資本投資見長",
+          "日圓（JPY）為全球第三大儲備貨幣，在國際金融市場長期扮演極其關鍵的「避險資產」角色",
+          "汽車工業（如 Toyota）、光學儀器、半導體特用化學品與高精度工具機在全球擁有壟斷性市佔率",
+          "日本銀行（BOJ）近年正式宣告終結實施多年的「負利率政策」，引導貨幣政策走向正常化"
         ],
-        "text": "日本擁有成熟且高度多元的經濟體系，汽車、半導體設備與精密機械為全球領先產業。代表性企業如豐田（Toyota）與索尼（Sony）在全球市場具有重要地位。服務業約佔 GDP 的 70% 以上，其中金融、零售與觀光產業發達。東京是亞洲最重要的金融中心之一。儘管經濟規模龐大，日本長期面臨低成長與通縮壓力。"
+        "text": "日本經濟擁有極其深厚的技術護城河。雖然其名目 GDP 在總量上受到日圓大幅貶值與人口萎縮影響，在國際排行上有所更迭，但日本至今仍是全球最大的「淨債權國」，在外國擁有龐大的海外資產與專利授權收益。日本經濟的真正命脈在於上游供應鏈——不論是荷蘭 ASML 的曝光機還是台灣台積電的晶圓廠，都高度依賴日本信越化學的光阻劑以及東京威力科創的半導體設備。\n\n近年來，在日本政府高額補貼與地緣政治轉移下，日本正全力重振本土半導體製造，最成功的典範即為台積電（TSMC）在熊本縣建置的一、二期超級晶圓廠，帶動了整個九州「矽島」的經濟大復興。此外，面對俄烏戰爭後的國際能源危機，原先停擺的核電廠正通過嚴格安全審查後陸續重啟，以緩減日本對進口液化天然氣（LNG）的過度財政依賴。"
       }
     },
     "politics": {
       "en": {
         "list": [
-          "Constitutional monarchy",
-          "Parliamentary democracy system",
-          "Divided into 47 prefectures",
-          "The Emperor as a symbolic head"
+          "Operates as a unitary parliamentary constitutional monarchy under strict constitutional rule of law",
+          "The Emperor serves exclusively as the symbolic 'Constitutional Emblem of State and Unity'",
+          "The Prime Minister functions as the active Head of Government, leading the legislative Cabinet",
+          "The National Diet consists of a dominant House of Representatives and a supportive House of Councillors"
         ],
-        "text": "Japan is a constitutional monarchy where Emperor Naruhito plays a symbolic role. Actual power lies with the Prime Minister and the Diet. The bicameral legislature consists of the House of Representatives and the House of Councillors. The country is divided into 47 prefectures, with local governments handling regional administration under significant central coordination."
+        "text": "The political arena of Japan is structured under the 1947 Constitution, famously containing Article 9, which formally renounces the country's sovereign right to wage war. Real governing power is concentrated within the conservative Liberal Democratic Party (LDP), which has held nearly continuous power since 1955. Policy formulation relies heavily on a powerful, elite national bureaucracy that maintains administrative stability across frequent cabinet reshuffles, while foreign policy remains centered on deepening the core US-Japan Security Treaty."
       },
       "zh": {
         "list": [
-          "君主立憲制國家",
-          "採議會民主制度",
-          "分為 47 個都道府縣",
-          "天皇為象徵性元首"
+          "採行單一制君主立憲議會民主制，國家運作以 1947 年頒布的和平憲法為最高法統依據",
+          "天皇（現為德仁天皇，年號令和）無政治實權，憲法定位其為「國家及國民整體總合之象徵」",
+          "內閣總理大臣（首相）為政府首腦，由國會多數黨黨魁出任，總攬中央行政與軍隊指揮權",
+          "最高立法機關為兩院制國會（Diet），由權力較大的眾議院與扮演制衡角色的參議院組成"
         ],
-        "text": "日本為立憲君主制國家，現任天皇為德仁（Naruhito），主要扮演象徵性角色。實際政治權力由首相與國會掌握。國會為兩院制，包括眾議院與參議院。行政區劃分為 47 個都道府縣，各地政府負責地方行政與公共服務。中央政府在財政與政策上仍具有高度主導權。"
+        "text": "日本政治呈現出一種獨特的「官僚主導」與「一黨獨大」特徵。自 1955 年保守政黨大聯合以來，自由民主黨（LDP，簡稱自民黨）幾乎實質壟斷了日本戰後所有的執政時間。自民黨內部派閥政治色彩濃厚，首相更迭頻繁，但由東京大學等名校畢業生構成的中央霞關菁英官僚體制，確保了國家政策的極高連續性與穩定度。\n\n日本憲法最著名的條款是「第九條（和平條款）」，規定日本放棄發動戰爭的權利，不保持海陸空軍及其他戰爭力量。這使得現代日本軍隊被命名為「自衛隊（JSDF）」。然而，面對台海局勢緊繃與北韓飛彈威脅，日本近年大幅拉高防衛預算至 GDP 的 2%，並實質調整政策，使自衛隊具備「反擊能力」，美日同盟防務合作也達到歷史最高峰。"
       }
     },
     "society": {
       "en": {
         "list": [
-          "High education standards; near 100% literacy",
-          "Excellent healthcare; world-leading longevity",
-          "Advanced and punctual public transport",
-          "Emphasis on norms and collective consciousness"
+          "Enforces a rigorous public educational structure yielding a near 100% functional literacy coefficient",
+          "Universal National Health Insurance delivers complete medical equity and top-tier clinical outcomes",
+          "The hyper-developed transit architecture functions via precise, second-level synchronized timetables",
+          "Social relations prioritize 'Meiwaku' avoidance (preventing individual disturbance to public groups)"
         ],
-        "text": "Known for high efficiency and order, Japanese society maintains clean and safe public spaces. The healthcare insurance covers the entire population, providing affordable care. The rail system is exceptionally advanced, with the Shinkansen (Bullet Train) being a global benchmark for punctuality and efficiency, deeply shaping urban life."
+        "text": "Japanese civil society is universally celebrated for its flawless civic cleanliness, rigorous institutional discipline, and exceptionally low rates of violent crime. Everyday interactions are governed by cultural dualities like 'Honne' (true private feelings) versus 'Tatemae' (publicly harmonized expressions). While collective consensus ensures safe streets and efficient emergency responses during natural disasters, it can also manifest as intense peer conformity pressures, corporate overwork strain (karoshi), and youth social withdrawal (hikikomori)."
       },
       "zh": {
         "list": [
-          "教育水準高，識字率接近 100%",
-          "醫療體系完善，壽命全球頂尖",
-          "公共交通系統發達且準時",
-          "社會秩序強調規範與集體意識"
+          "義務教育普及且素質極高，國民識字率接近 100%，技職訓練與高等學術研究體系發達",
+          "實施全民強制覆蓋的「國民健康保險」，不論階級皆享有高水準醫療服務，是長壽國的核心基石",
+          "大眾運輸路網發達，鐵道與地鐵系統以「秒級」的極致準時與零事故率名列全球交通工程奇蹟",
+          "核心社會制約為「不給他人添麻煩（Meiwaku）」，公共空間極度安靜、整潔且無垃圾桶"
         ],
-        "text": "日本社會以高效率與秩序著稱，公共空間整潔、安全性高。教育制度競爭激烈，高等教育普及率高。醫療保險制度覆蓋全體國民，提供相對可負擔的醫療服務。鐵路系統高度發達，其中新幹線（Shinkansen）為全球最準時與高效率的高速鐵路之一，深刻影響日常生活與城市發展。"
+        "text": "日本社會的運作猶如一台巨大且上了精密發條的機器。從小學開始，學童就被要求集體清掃教室、享用標準配給的營養午餐，這種教育培養出極強的集體榮譽感與高度自律。在日常社交中，日本人恪守「本音（Honne，內心真實想法）」與「建前（Tatemae，社交客套話）」的分際，以此來維持群體表面的和諧，避免發生直接衝突。\n\n然而，這種高壓力的集體主義也是一把雙面刃。在企業文化中，長期存在的加班應酬與論資排輩，曾導致嚴重的「過勞死（Karoshi）」問題；而在校園與職場壓力下，社會上也出現了百萬名拒絕與外界接觸、長年閉門不出的「蟄居族（Hikikomori）」。儘管如此，日本社會在面對大地震時展現出的井然有序、互助不哄搶的國民素質，依舊是全球現代公民社會的最高典範。"
       }
     },
     "culture": {
       "en": {
         "list": [
-          "Blend of tradition and modernity",
-          "Emphasis on etiquette and collective harmony",
-          "Globally renowned cuisine",
-          "High impact of anime and pop culture"
+          "Masterfully juxtaposes centuries-old spiritual architecture with hyper-futuristic neon cityscapes",
+          "Traditional culinary arts (Washoku) are cataloged as a UNESCO Intangible Cultural Masterpiece",
+          "The historical fusion of Shinto shrines and Buddhist pagodas guides annual cyclical celebrations",
+          "The multi-billion dollar Cool Japan initiative dominates global gaming, manga, and anime industries"
         ],
-        "text": "Rooted in Shinto and Buddhism, traditional arts like tea ceremony, ikebana, and kimono showcase refined aesthetics. Cuisine like Sushi and Ramen is world-famous. In the modern era, anime, gaming (e.g., Super Mario), and music industries exert massive global cultural influence."
+        "text": "Japanese culture exerts a profound global soft-power presence. Traditional disciplines, including Chado (tea ceremony), Ikebana (flower arranging), and the structural austerity of Zen rock gardens, emphasize absolute minimalism and transient beauty (Wabi-Sabi). Meanwhile, contemporary culture is defined by its media exports—spanning gaming giants like Nintendo and Sony, to legendary animation powerhouses like Studio Ghibli—which capture millions of global fans and establish Japan as a leading global pop culture capital."
       },
       "zh": {
         "list": [
-          "融合傳統與現代的文化體系",
-          "重視禮儀、秩序與群體和諧",
-          "飲食文化享譽全球",
-          "動漫與流行文化影響力巨大"
+          "具備無與倫比的文化雙面性，既能完美保存千年的古寺與祭典，又是全球前衛潮流的發源地",
+          "傳統餐飲「和食（Washoku）」被列入聯合國教科文組織非物質文化遺產，強調對食材原味的敬畏",
+          "神道教（Shinto）與佛教長期融合，國民習慣「生於神道、婚於基督、死於佛教」的多元信仰觀",
+          "透過「酷日本（Cool Japan）」戰略，動漫（Anime）、漫畫、電子遊戲（Nintendo）席捲全球影音市場"
         ],
-        "text": "日本文化深受神道與佛教影響，傳統藝術如茶道、花道與和服展現精緻審美。飲食文化如壽司（Sushi）與拉麵在全球廣受歡迎。現代文化方面，日本的動漫、遊戲與音樂產業具有全球影響力，例如《超級瑪利歐（Super Mario）》與動漫作品已成為文化輸出的重要象徵。"
+        "text": "日本文化對外展現出極強的侵略性與獨特性。其傳統美學植根於「侘寂（Wabi-Sabi）」哲學，崇尚殘缺、樸素與時光流逝的痕跡，這在京都的金閣寺、枯山水庭園及優雅的和服織造工藝中得到了極致體現。日本料理則是一場視覺與味覺的儀式，從精緻的頂級懷石料理到庶民熱愛的壽司、拉麵，無不將「職人精神」發揮到極致。\n\n在現代文化領域，日本是不折不扣的超級強權。從任天堂的《超級瑪利歐》、《薩爾達傳說》到席捲各年齡層的動漫IP，日本成功將虛擬二次元轉化為龐大的跨國經濟產值。每年吸引數百萬動漫迷前往東京秋葉原（Akihabara）進行文化朝聖，成功塑造了跨越國界的國家魅力。"
       }
     },
     "issues": {
       "en": {
         "list": [
-          "Aging and declining birthrate",
-          "Long-term low economic growth",
-          "Import-dependent energy",
-          "High natural disaster risks"
+          "Navigating financial and economic burdens induced by an irreversible population decline trajectory",
+          "Resolving the massive fiscal imbalances stemming from the world's highest debt-to-GDP ratios",
+          "Upgrading infrastructure resilience to counter forecasted tectonic disasters along the Nankai Trough",
+          "Balancing international zero-carbon targets with an acute reliance on imported global fossil fuels"
         ],
-        "text": "Japan faces structural demographic issues and economic transition challenges, balancing energy security with carbon goals. The 2011 Fukushima disaster significantly altered energy policy. Additionally, managing risks from earthquakes and typhoons remains a priority for infrastructure resilience."
+        "text": "Japan faces an interconnected matrix of structural challenges. Its public debt exceeds 260% of GDP, sustained primarily through domestic bond absorption. Geologically, the country remains highly vulnerable to natural hazards, requiring massive capital investments to fortify coastal cities against projected major earthquakes. Furthermore, following the 2011 Fukushima meltdown, the transition toward green energy has been complicated by limited domestic land for solar arrays and a reliance on imported coal and gas, though wind and geothermal sectors are seeing gradual expansion."
       },
       "zh": {
         "list": [
-          "人口老化與少子化",
-          "經濟長期低成長",
-          "能源依賴進口",
-          "自然災害風險高"
+          "面臨不可逆的人口總量萎縮，導致地方城鎮空心化、內需市場縮減與稅收體系動搖",
+          "中央主權債務總額高達 GDP 的 260% 以上，高居已開發國家之冠，仰賴超寬鬆金融體系借新還舊",
+          "地質災害威脅巨大，科學界預測三十年內「南海海槽大地震」發生機率極高，防災建設任務艱巨",
+          "福島核災後對傳統火力發電依賴加深，在 2050 碳中和目標下面臨巨大的減碳與綠能轉型壓力"
         ],
-        "text": "日本正面臨結構性人口問題與經濟轉型挑戰，同時需在能源安全與減碳政策之間取得平衡。2011 年的福島核災（Fukushima nuclear disaster）對能源政策產生深遠影響。此外，地震與颱風等自然災害仍是長期風險，政府持續強化防災與韌性建設。"
+        "text": "日本明亮整潔的外表下，潛藏著深刻的結構性危機。其龐大的政府債務總額在經濟學界屢屢被視為異數，全靠日本銀行開動印鈔機購買國債（YCC政策）與國民高儲蓄率來維持不倒。隨著高齡化達到頂峰，孤獨死（Kodokushi）與長照人力不足成為嚴峻的社會悲劇。\n\n在自然環境上，日本是一座與天災博弈的島國。除了每年常態性的強烈颱風外，針對東京直下型地震與南海海槽巨災的防範，逼使日本政府每年必須投入天文數字的財政預算進行橋樑、海堤的抗震加固。如何在縮減的經濟體量下維持如此龐大的硬體維護費，是日本本世紀最嚴峻的續航考驗。"
       }
     },
     "landmarks": {
       "en": {
         "list": [
-          "Tokyo — World's largest metropolitan area",
-          "Osaka — Commercial and industrial heart",
-          "Kyoto — Ancient cultural capital",
-          "Mount Fuji — Symbol of Japan"
+          "Tokyo Metropolis — The dazzling, hyper-connected political capital and premier world financial nexus",
+          "Kyoto — The millennia-old imperial sanctuary rich in historic palaces, Shinto shrines, and active geisha districts",
+          "Mount Fuji — The snow-capped stratovolcano standing as the sacred, definitive natural emblem of Japan",
+          "Osaka & Himeji — Featuring Western Japan's premier mercantile kitchens and iconic feudal castles"
         ],
-        "text": "Tokyo is the political and economic hub with leading technologies. Osaka serves as the western economic center, while Kyoto preserves vast historical assets. Mount Fuji, as the highest peak, is both a natural wonder and a core cultural icon."
+        "text": "Japan's landmark destinations offer contrasts between neon-lit futurism and historic preservation. Tokyo features the bustling Shibuya Crossing and the historic Senso-ji Temple side-by-side. Kyoto preserves seventeen distinct UNESCO World Heritage components, including the iconic Kinkaku-ji (Golden Pavilion). In the Kansai region, Himeji Castle exemplifies the absolute pinnacle of classical samurai-era wooden defensive fortresses."
       },
       "zh": {
         "list": [
-          "東京（Tokyo）——全球最大都會區",
-          "大阪（Osaka）——商業與工業重鎮",
-          "京都（Kyoto）——歷史文化古都",
-          "富士山（Mount Fuji）——日本象徵"
+          "東京都會區（Tokyo）—— 結合澀谷十字路口、新宿霓虹與丸之內金融總部的全球第一大繁華重鎮",
+          "京都古都（Kyoto）—— 千年天皇古京，保存有清水寺、金閣寺與祇園花街，為大和傳統文化的精神麥加",
+          "富士山（Mount Fuji）—— 海拔 3,776 公尺的完美對稱錐形聖山，是日本無可置疑的跨國視覺視覺圖騰",
+          "關西雙雄（Osaka & Himeji）—— 大阪展現狂放的庶民美食與商業活力，鄰近的姬路城則是白鷺翱翔的世界遺產城郭"
         ],
-        "text": "東京（Tokyo）是政治與經濟中心，擁有全球領先的金融與科技產業。大阪（Osaka）為西日本經濟核心，而京都（Kyoto）則保留大量歷史文化資產。富士山（Mount Fuji）作為日本最高峰，不僅是自然地標，也是文化象徵，每年吸引大量旅客與登山者。"
+        "text": "日本的地標景觀完美展現了現代美學與歷史資產的共生。在東京，前衛的晴空塔（Skytree）與古老的淺草寺遙遙相望；在京都，伏見稻荷大社綿延山頭的「千本鳥居」，將紅色神域與翠綠山林完美融合。\n\n位於山梨縣與靜岡縣交界的富士山，其春櫻、冬雪、秋楓的四季倒影（逆富士），是無數藝術家與浮世繪大師（如葛飾北齋）的靈感泉源。而廣島的嚴島神社海上大鳥居、奈良公園內與人互動的野生神鹿，皆以極高的精緻度呈現在全球旅客眼前，讓日本常年穩居全球最佳旅遊目的地前列。"
       }
     },
     "international": {
       "en": {
         "list": [
-          "G7 member state",
-          "US-Japan alliance at the core",
-          "Active in international organizations",
-          "Influential in the Asian region"
+          "Core leading nation within the G7, APEC, OECD, and crucial Indo-Pacific multilateral frameworks",
+          "The US-Japan Security Treaty serves as the cornerstone of national defense and geopolitical security",
+          "Spearheaded the implementation of the CPTPP trading bloc to anchor regional economic law and stability",
+          "Engaged in persistent maritime exclusive zone and boundary frictions with China, Russia, and South Korea"
         ],
-        "text": "As a G7 member, Japan maintains close security and economic ties with the United States. It plays a pivotal role in the UN, APEC, and WTO, focusing on multilateral cooperation and regional stability in its diplomacy."
+        "text": "Japan's contemporary diplomatic strategy centers on maintaining an open, rules-based international order. As the key driver behind the 'Free and Open Indo-Pacific' (FOIP) vision, Tokyo has transformed its traditional low-profile foreign policy into active regional leadership. While its closest security partnership remains anchored with Washington, Japan has significantly enhanced strategic intelligence and security ties with Australia, India (the Quad), and NATO partners to manage regional security balance."
       },
       "zh": {
         "list": [
-          "G7 成員國",
-          "美日同盟為外交核心",
-          "積極參與國際組織",
-          "在亞洲具有重要影響力"
+          "西方七大工業國集團（G7）在亞洲的唯一核心成員，並在 OECD、亞銀中居於核心出資國地位",
+          "以「美日安全保障條約」為國家國防安全與地緣防禦的絕對基石，橫跨第一島鏈的核心戰略紐帶",
+          "在美國退出後挺身主導《跨太平洋夥伴全面進步協定》（CPTPP），掌控印太地區最高階的自由貿易規則",
+          "地緣摩擦顯著，與中國存在尖閣諸島（釣魚臺）主權爭議，與俄羅斯及韓國分別存有北方四島及獨島糾紛"
         ],
-        "text": "日本是七大工業國組織（G7）成員，並與美國（United States）維持密切安全與經濟合作關係。同時，日本在聯合國（United Nations）、亞太經濟合作會議（APEC）與世界貿易組織（WTO）等國際組織中扮演重要角色，外交政策重視多邊合作與區域穩定。"
+        "text": "日本的外交政策正經歷戰後最深刻的轉型。過去奉行「經濟主導、軍事低調」的吉田路線，如今已全面轉向由前首相安倍晉三奠定的「自由開放的印太（FOIP）」大戰略。日本積極拉攏美國、澳洲、印度構築「美日印澳四方安全對話（Quad）」，試圖應對中國在東海與南海日益擴張的軍事實力。\n\n同時，日本在國際經貿規則制定上具有強大影響力，CPTPP 的成功運作即證明了東京具備脫離美國羽翼、獨立整合跨國自由貿易區的政治手腕。隨著韓日關係在安全壓力下大幅破冰，以及美日菲三邊同盟的確立，日本在東北亞至大洋洲的防禦縱深中，正扮演著日益關鍵的「前線總指揮」角色。"
       }
     },
     "taiwan": {
       "en": {
         "list": [
-          "Close economic and tourism ties",
-          "Frequent cultural interactions",
-          "Mutually top travel destinations",
-          "Friendly unofficial relations"
+          "Maintains exceptionally deep, resilient, and high-volume unofficial economic and technological ties",
+          "Forms a vital semiconductor industrial partnership linking TSMC Kumamoto with Taiwan's core science parks",
+          "Rank as premier mutually chosen leisure travel destinations with extensive aviation connections",
+          "Strong societal empathy rooted in historical affinity and reciprocal disaster relief support"
         ],
-        "text": "Japan and Taiwan maintain a very close unofficial relationship with high-frequency trade and tourism. Japan is the most popular destination for Taiwanese travelers, with numerous direct flights and deep cultural affinity between the two societies."
+        "text": "Taiwan and Japan share an exceptionally close, stable partnership managed through the Taiwan-Japan Relations Association and the Japan-Taiwan Exchange Association. Beyond historical cultural affinities and intense bilateral tourism, the relationship has evolved into a vital geopolitical and technological alliance. Governed by the strategic concept that 'a Taiwan emergency is a Japan emergency,' Tokyo has increasingly stated the vital importance of peace across the Taiwan Strait within global security forums."
       },
       "zh": {
         "list": [
-          "經饋與觀光交流密切",
-          "文化與民間互動頻繁",
-          "互為重要旅遊目的地",
-          "非正式但關係友好"
+          "雙邊雖無正式官方建交，但維持著全球最緊密、最堅韌且高產值的「實質實質夥伴關係」",
+          "科技產業結盟升級，台積電（TSMC）熊本廠成為台日晶圓代工與先進半導體材料互補的戰略典範",
+          "互為彼此極其核心的觀光客來源國，航線極度密集，民間社會互信度與親好度高居世界第一",
+          "建立「互利共生」的特殊情感，從 311 地震到花蓮地震，兩國國民在災難中實行高額互助捐款"
         ],
-        "text": "日本與台灣之間維持密切的非官方關係，雙方在貿易、科技與觀光領域往來頻繁。日本是台灣旅客最熱門的旅遊目的地之一，雙方之間有多條直飛航線。文化上亦有高度親近性，彼此影響深遠。"
+        "text": "台灣與日本的關係超越了傳統的非官方界定。雙邊透過民間「公益財團法人日本台灣交流協會」進行實質領事與官方對接。地緣政治上，前首相安倍晉三喊出的「台灣有事就是日本有事，亦是美日同盟有事」，已實質內化為日本國家安全保障戰略的核心共識。日本政府在 G7 峰會及各類國際聲明中，屢次強調台海和平穩定對全球供應鏈不可或缺。\n\n在經濟合作層面，台積電落腳熊本，掀起了台日高科技產業「金合流」的浪潮，台灣的晶圓製造速度結合日本在化學材料、精密設備（如東京電子）的絕對優勢，共同打造出抵禦地緣斷鏈風險的堅固盾牌。在民間，不論是動漫文化、J-Pop 的雙向流通，還是災難發生時毫無保留的慷慨捐助（如「台灣有事，日本幫忙；日本有事，台灣幫忙」），皆讓台日關係被視為國際非建交國交往的最高友好典範。"
       }
     },
     "further": {
       "en": {
         "list": [
-          "Top-tier passport strength",
-          "One of the highest life expectancies",
-          "Leading in global innovation",
-          "A top tourism destination in Asia"
-        ]
+          "An advanced volcanic archipelago balancing deep Shinto traditions with pioneering technology",
+          "Preserves Kyoto, an intact imperial treasure housing centuries of classical East Asian architecture",
+          "Propelled by a strict, consensus-driven social etiquette prioritizing harmony and civic order",
+          "Leveraging its top-tier tech matrix and strategic CPTPP trade status to navigate demographic shifts",
+          "A dominant cultural superpower whose anime, gaming icons, and culinary arts command global devotion"
+        ],
+        "text": "Japan beautifully balances ancestral tranquility with high-tech execution, standing as a culturally rich, economically vital democratic cornerstone steering industrial trends within the contemporary Indo-Pacific."
       },
       "zh": {
         "list": [
-          "全球護照強度排名前列",
-          "平均壽命世界最高之一",
-          "全球創新指數名列前茅",
-          "觀光人次亞洲領先國家之一"
-        ]
+          "東亞火山群島上的現代化奇蹟，成功將萬物有靈的神道信仰與全球最前衛的科技文明完美鎔鑄",
+          "妥善守護著以京都、奈良為代表的千年天皇古都，是東亞古典木構建築與精緻美學的在世活化石",
+          "高度自律且精準至秒級的社會秩序，依託「不給他人添麻煩」的道德契約維持超低犯罪率市容",
+          "依仗熊本台積電晶圓聚落與 CPTPP 經貿領袖地位，在少子化浪潮中全力發動機器人與半導體再興",
+          "無可爭辯的全球文化軟實力巨人，其動漫二次元、任天堂遊戲與精緻和食深深吸引著全球各世代信徒"
+        ],
+        "text": "日本是一個將極致的傳統秩序、孤高洗練的職人匠心，以及高度發達的賽博朋克式現代野心極具張力地鎔鑄一體的非凡國度。它在面對不可逆的人口老齡化危機時，既有著古老民族安靜隱忍、順應自然的淡然，卻又在自動化機器人、量子運算以及地緣安全防線的重構上，展現出驚人的冷靜與老辣。隨著全球半導體重心向第一島鏈回流，這座矗立於西太平洋的群島大國，正試圖在守護其精緻文化靈魂的同時，以科技與資本的雙重巨輪，再度領航印太世紀的下半場。"
       }
     }
   },
   "quickFacts": [
     {
       "label": "Currency",
-      "value": "¥ Yen"
+      "value": "¥ Japanese Yen (JPY)"
     },
     {
       "label": "Language",
       "value": {
-        "en": "Japanese",
-        "zh": "日語"
+        "en": "Japanese (Official and universally spoken language across all prefectures)",
+        "zh": "日語（Japanese / 官方與全國通用語言，採複雜的漢字、平假名、片假名混合書寫系統）"
       }
     },
     {
-      "label": "GDP (nom.)",
-      "value": "$4.2T"
+      "label": "Government",
+      "value": "Unitary parliamentary constitutional monarchy under the Liberal Democratic Party (LDP) coalition"
     },
     {
       "label": "Time zone",
-      "value": "UTC+9"
+      "value": "UTC+9 (Japan Standard Time - JST / No daylight saving time)"
     },
     {
       "label": "Calling code",
@@ -315,36 +319,36 @@
     {
       "icon": "🗻",
       "text": {
-        "en": "Mount Fuji — iconic stratovolcano and Japan's highest peak at 3,776 m",
-        "zh": "富士山——象徵性的成層火山，日本最高峰（3,776 公尺）"
+        "en": "Mount Fuji — The breathtaking, snow-capped sacred stratovolcano and UNESCO heritage site standing as the defining spiritual pillar of the nation",
+        "zh": "聖岳富士山—— 海拔 3,776 公尺的完美對稱火山，不僅是日本第一高峰，更是跨越信仰與藝術的世界文化遺產"
       }
     },
     {
       "icon": "🏯",
       "text": {
-        "en": "Himeji Castle — finest surviving feudal castle in Japan, a UNESCO site",
-        "zh": "姬路城——保存最完整的日本城郭之一，亦為世界遺產"
+        "en": "Himeji Castle — The spectacular 'White Heron Castle,' representing the absolute pinnacle of surviving samurai-era wooden defensive architecture",
+        "zh": "國寶姬路城—— 因潔白如鷺鷥展翅的外牆而得名「白鷺城」，是日本保存最完好、躲過戰火洗禮的中世紀木造城郭極致傑作"
       }
     },
     {
       "icon": "🌸",
       "text": {
-        "en": "Cherry blossom season (hanami) — celebrated every spring across the country",
-        "zh": "櫻花季（花見）——每年春天全國各地的代表性活動"
+        "en": "Sakura Hanami — The nationwide spring ritual where cherry blossom tracking completely defines domestic leisure, travel, and culinary seasonal specials",
+        "zh": "春季櫻花見—— 每年春天由南至北席捲群島的粉色浪潮，全民在櫻花樹下席地野餐，體驗春季限定的和菓子與極致浪漫"
       }
     },
     {
       "icon": "🚄",
       "text": {
-        "en": "Shinkansen bullet trains — connecting cities at up to 320 km/h since 1964",
-        "zh": "新幹線——自 1964 年起以最高約 320 公里／時串聯城市"
+        "en": "Shinkansen Network — The world's first dedicated high-speed rail line, redefining modern terrestrial transit with continuous safe execution since 1964",
+        "zh": "新幹線高鐵路網—— 開創全球高速鐵路先河，營運半世紀以來維持著令人驚嘆的「零乘客死亡」與「平均延誤以秒計」的工程奇蹟"
       }
     },
     {
       "icon": "🍣",
       "text": {
-        "en": "World-renowned cuisine: sushi, ramen, tempura, and kaiseki dining",
-        "zh": "世界知名的飲食文化：壽司、拉麵、天婦羅與懷石料理"
+        "en": "Washoku Culinary Arts — Spanning elite Michelin-starred Edomae sushi counters and complex kaiseki menus to smoky, ubiquitous neighborhood ramen houses",
+        "zh": "和食職人文化—— 登錄聯合國無形文化遺產，從講究刀工與米飯溫度的頂級壽司、慢火熬製的庶民拉麵，到美如畫卷的懷石料理，無不苛求完美"
       }
     }
   ],

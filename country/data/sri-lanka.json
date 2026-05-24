@@ -1,0 +1,359 @@
+{
+  "name": {
+    "en": "Sri Lanka",
+    "zh": "斯里蘭卡"
+  },
+  "nativeName": "ශ්‍රී ලංකාව",
+  "capital": {
+    "en": "Sri Jayawardenepura Kotte",
+    "zh": "斯里賈亞瓦德納普拉科特"
+  },
+  "population": "22.4M",
+  "area": "65,610 km²",
+  "density": "341/km²",
+  "continent": "Asia",
+  "flagEmoji": "🇱🇰",
+  "dataEstYear": 2026,
+  "description": {
+    "en": "Sri Lanka, historically known as Ceylon, is an island nation in South Asia located in the Indian Ocean, southwest of the Bay of Bengal and southeast of the Arabian Sea. It is separated from the Indian subcontinent by the Gulf of Mannar and the Palk Strait. Sri Lanka features a highly diverse cultural landscape with a deeply rooted Buddhist heritage, a tropical maritime climate, and a critical strategic position along major global sea lanes. Sri Jayawardenepura Kotte is the administrative capital, while Colombo is the largest city and primary commercial hub.",
+    "zh": "Sri Lanka舊稱錫蘭，是位於南亞印度洋上的熱帶島國，東北臨孟加拉灣，西北隔保克海峽與曼納灣與印度半島相望。斯里蘭卡擁有橫跨數千年的豐富文明，以深厚的佛教文化底蘊、高度多元的民族宗教結構、熱帶島嶼自然景觀，以及扼守印度洋東西海上航運線的關鍵戰略位置聞名。法定行政首都為斯里賈亞瓦德納普拉科特（Sri Jayawardenepura Kotte），最大城市、實質經濟中心與第一大港則為可倫坡（Colombo）。"
+  },
+  "seoText": {
+    "en": "Explore detailed facts about Sri Lanka — population, land area, capital city, and comprehensive insights. Discover Colombo and Kandy, Sigiriya Rock Fortress, the Temple of the Tooth, Ceylon tea highlands, wildlife tourism, and Sri Lanka's demographic distribution and economic recovery.",
+    "zh": "深入了解斯里蘭卡的基本資料：精確人口、國土面積、雙首都結構與詳盡概述。探索可倫坡港口、聖城康提、錫吉里耶獅子岩、佛牙寺、錫蘭紅茶高地山脈、熱帶海灘野生動物觀光，以及斯里蘭卡最新的民族人口比例、債務重建與區域地緣政治地位。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Strategic maritime crossroads anchoring the central Indian Ocean shipping lanes",
+          "Rich, layered history featuring ancient hydraulic civilizations and deep Buddhist heritage",
+          "A major global exporter of premium Ceylon tea, garments, and coastal eco-tourism",
+          "A multi-ethnic democratic republic navigating post-crisis macroeconomic stabilization"
+        ],
+        "text": "Sri Lanka occupies a position of immense geopolitical and commercial significance, sitting directly atop the primary East-West maritime trade arteries. Dubbed the 'Pearl of the Indian Ocean,' the country is defined by a striking geography that transitions from sun-drenched beaches to misty, tea-carpeted mountains. While Sri Jayawardenepura Kotte serves as the designated legislative and administrative capital, Colombo continues to command the nation's financial, logistical, and industrial operations."
+      },
+      "zh": {
+        "list": [
+          "扼守印度洋東西海上貿易航道中樞，具備極高地緣戰略價值",
+          "歷史悠久，擁有發達的古代水利文明與逾兩千年的佛教歷史傳承",
+          "全球頂級錫蘭紅茶出口地，成衣製造與熱帶海島觀光經濟發達",
+          "多民族、多宗教的民主共和國，近年積極推動震盪後的經濟與財政穩定"
+        ],
+        "text": "斯里蘭卡位於南亞印度洋的核心樞紐位置，自古以來便是連結歐亞海上絲綢之路的重要航運與貿易節點，素有「印度洋上的珍珠」之美譽。全國地形由沿海低地向中央高地遞升，孕育出極具對比的熱帶海濱與高山茶園地景。\n\n在政治運作上，國家採取雙首都體制，行政與立法機關設於斯里賈亞瓦德納普拉科特，而金融、對外貿易、各國使館與現代化港口物流則高度聚焦於最大都市可倫坡。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "An pear-shaped island separated from India by the shallow 30-kilometer Palk Strait",
+          "Topography is sharply divided into a mountainous central massif and extensive coastal plains",
+          "An extensive radial river network originates from the wet highlands to feed the lowlands",
+          "Stunning biodiversity hot spot containing multiple rainforests and vast marine ecosystems"
+        ],
+        "text": "Spanning 65,610 square kilometers, Sri Lanka's terrain is characterized by a central southern highland core—featuring peaks like Pidurutalagala and Adam's Peak—surrounded by a broad coastal plain. The island's geography creates distinct ecological variations, running from arid thorn scrubs in the northwest to dense, hyper-diverse rainforest complexes like the Sinharaja Reserve in the southwest, complemented by hundreds of kilometers of coral-fringed sandy coastlines."
+      },
+      "zh": {
+        "list": [
+          "呈梨形的獨立島嶼，西北隔著寬約 30 公里的狹窄保克海峽與印度相望",
+          "地形結構由中央的發達高山地塊（Massif）向外圍廣闊的沿海平原逐級下降",
+          "發源於中央濕潤高地的河流呈放射狀奔流向海，構成發達的灌溉流域",
+          "生物多樣性極其豐富，擁有熱帶雨林、濕地及高度密集的野生動物保護區"
+        ],
+        "text": "斯里蘭卡國土面積約 65,610 平方公里。全島地形界線分明，中南部為隆起的高原與山脈，其中最高峰皮杜魯塔拉格拉山（Pidurutalagala）海拔 2,524 公尺，而著名的聖山亞當峰（Adam's Peak）亦坐落於此。高山地帶阻擋了季風，也成為全島多條主要河流的發源地。\n\n環繞高地的則是平緩的沿海低地、沙灘與潟湖。由於地形與降雨落差，全島從西南部的潮濕常綠雨林（如辛哈拉加雨林），到西北部與東南部的乾燥疏林灌叢，構成了極為豐富且多樣的自然生態環境。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Tropical monsoonal climate offering warm, stable lowland temperatures year-round",
+          "Dominated by two major monsoons: the Southwest (Yala) and Northeast (Maha)",
+          "Central highlands experience a stark alpine thermal gradient, dropping down to 15°C",
+          "Precipitation patterns divide the island into distinct Wet, Dry, and Intermediate Zones"
+        ],
+        "text": "Sri Lanka’s weather is highly dictated by monsoonal wind patterns. The Southwest Monsoon brings heavy rainfall to the western and southern coasts and central hills from May to September, while the Northeast Monsoon waters the northern and eastern plains between December and February. This dynamic creates complex seasonal agricultural cycles, making water management via ancient and modern reservoirs vital to stabilizing the island's food and cash crop yields."
+      },
+      "zh": {
+        "list": [
+          "屬於典型的熱帶季風氣候，低地沿海地區全年高溫，無明顯四季交替",
+          "受兩大季節交替季風主導：西南季風（Yala）與東北季風（Maha）",
+          "中央山地展現顯著的垂直氣候變化，高海拔山區年均溫可降至 15°C 上下",
+          "降雨時空分布極不均勻，全國被明確劃分為濕潤區、乾燥區與半乾燥過渡區"
+        ],
+        "text": "斯里蘭卡整體氣候炎熱潮濕，平原地區年平均氣溫常年在 27°C 至 30°C 之間，但中部山區如努瓦拉埃利亞（Nuwara Eliya）因海拔超過 1,800 公尺，氣候清涼如春，是歷史悠久的避暑與茶葉種植勝地。\n\n全島降雨深受季風影響：每年 5 月至 9 月的西南季風為西部、南部及中央山脈迎風坡帶來豪雨（濕潤區）；12 月至次年 2 月的東北季風則主要影響北部與東部（乾燥區）。在季風轉換期，還常伴隨對流雷陣雨，複雜的雨季分布深刻塑造了當地的農業型態與水資源調配。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Total population reaches approximately 22.4 million residents",
+          "Racial and ethnic makeup is officially indexed into four major, historically distinct groups",
+          "Sinhalese constitute the majority at 74.9%; Sri Lankan and Indian Tamils combine for 15.4%",
+          "Sri Lankan Moors (Muslims) account for 9.2%, while Burghers, Veddas, and Malays comprise 0.5%"
+        ],
+        "text": "According to census data from the Department of Census and Statistics of Sri Lanka, the demographic profile is deeply intertwined with religious identities. Buddhism (primarily Theravada) is practiced by 70.2% of the population, closely mirroring the Sinhalese ethnic majority. Hinduism is followed by 12.6% (predominantly within the Tamil population), Islam is adhered to by 9.7% (mainly among Moors and Malays), and Christianity forms 7.4% of the citizenry, cutting across both Sinhalese and Tamil lines. The population is heavily concentrated in the south, west, and central highlands, with the Western Province alone hosting the highest urban density."
+      },
+      "zh": {
+        "list": [
+          "全國總人口約 2,240 萬人，人口密度在南亞島嶼中相對稠密",
+          "官方統計呈現高度多樣化的民族結構，主要由四大歷史悠久的族群所構成",
+          "僧伽羅族（Sinhalese）為最主要群體，占全國總人口的 74.9%",
+          "泰米爾族（Tamils）占 15.4%，摩爾人（Moors）占 9.2%，其餘少數族群約占 0.5%"
+        ],
+        "text": "根據斯里蘭卡政府普查局（Department of Census and Statistics）的最新官方數據，斯里蘭卡的種族與宗教結構高度重疊。全國人口的族群與宗教比例具體分布如下：\n\n僧伽羅族：約占 74.9%，主要居住在南部、西部和中部高地，多信仰上座部佛教。\n泰米爾族：合計約占 15.4%（其中歷史定居北部的斯里蘭卡泰米爾人占 11.2%，殖民時期由印度移入茶園的印度泰米爾人占 4.2%），多信仰印度教。\n斯里蘭卡摩爾人：約占 9.2%，屬於阿拉伯裔與在地融合的穆斯林群體，廣泛分布於東部及城鎮。\n其餘少數族群：如伯格人（Burghers，歐亞混血裔）、馬來人以及稀有的原住民維達人（Veddas）等，合計約占 0.5%。\n\n宗教信仰比例則為：佛教（70.2%）、印度教（12.6%）、伊斯蘭教（9.7%）及基督教（7.4%）。人口分布以首都圈所在的西部省（Western Province）密度最高。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "Lower-middle-income market economy recovering from a severe debt crisis",
+          "Ceylon tea, rubber, and coconut form the traditional agricultural export triad",
+          "Textile and apparel manufacturing drives primary industrial export earnings",
+          "Heavy economic reliance on expatriate workers' remittances and international tourism"
+        ],
+        "text": "Sri Lanka's economy is undergoing extensive structural adjustments following the historic default of 2022. Backed by IMF stabilization programs, the country has focused on restructuring its sovereign debt, controlling inflation, and rebuilding foreign reserves. The Port of Colombo remains a premier transshipment hub in South Asia, processing substantial cargo volumes for global shipping lines, while the high-value apparel sector and revitalized tourism industries serve as crucial engines for capturing hard foreign currency."
+      },
+      "zh": {
+        "list": [
+          "中低所得自由市場經濟體，當前正處於重大主權債務危機後的復甦與轉型期",
+          "以錫蘭紅茶、天然橡膠與椰子為傳統農業出口三寶，茶葉產量名列世界前茅",
+          "高品質成衣與紡織品製造業發達，為國家提供最主要的工業出口外匯收入",
+          "海外勞工匯款（Remittances）與國際觀光業（Tourism）為外匯存底的兩大經濟命脈"
+        ],
+        "text": "斯里蘭卡經濟正處於 2022 年爆發歷史性債務違約後的重建階段。在國際貨幣基金組織（IMF）的資助與監督下，政府積極推動財政改革、稅制重組與國營企業民營化，使通膨率與外匯存底逐步回穩。\n\n可倫坡港憑藉優越的地緣位置，已發展為南亞最重要的貨櫃轉運貨運樞紐。國家工業外匯極度依賴為歐美頂尖品牌代工的成衣製造業；而高山的茶園風光、南部的熱帶沙灘與古文明遺產，則讓觀光業成為推動斯里蘭卡重回經濟增長軌道的核心火車頭。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Democratic socialist republic governed under a unitary semi-presidential system",
+          "President functions as the directly elected executive head of state and commander-in-chief",
+          "A multi-party legislative framework centered around the 225-seat Parliament",
+          "Political discourse heavily reshaped by recent civilian movements and governance reforms"
+        ],
+        "text": "Modern political developments in Sri Lanka have been heavily shaped by the legacy of a 26-year ethnic civil war between the government and the Liberation Tigers of Tamil Eelam (LTTE), which concluded in 2009. Following intense anti-corruption and anti-economic-mismanagement protests ('Aragalaya') in 2022, the nation's political landscape shifted toward increased transparency, anti-graft oversight, and geopolitical balance, as the government carefully manages its parallel relationships with India, China, and Western democratic partners."
+      },
+      "zh": {
+        "list": [
+          "單一制民主社會主義共和國，政治體制採行單一制的半總統制",
+          "總統由人民直接選舉產生，為國家元首、最高行政首長及三軍總司令",
+          "國會實施一院制（共 225 席），朝野政黨多元且競爭激烈",
+          "近年經歷大規模公民運動洗禮，政治風向大幅轉向廉能治理與制度制衡"
+        ],
+        "text": "斯里蘭卡的現代政治發展長期受到 1983 年至 2009 年長達 26 年的內戰影響（政府軍與泰米爾伊蘭解放虎組織之衝突）。內戰結束後，國家步入族群和解與基礎建設擴張期。\n\n2022 年因經濟崩潰引發了席捲全國的「人民抗爭」（Aragalaya）大規模示威，導致當時政權更迭。此後，斯里蘭卡政壇更加重視反腐敗、財政透明度及司法獨立。在外交政策上，斯里蘭卡秉持不結盟原則，在傳統鄰國印度、主要債權與基建投資國中國，以及歐美自由陣營之間尋求精準的地緣政治平衡。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Boasts one of South Asia’s highest adult literacy rates at approximately 92%",
+          "Long-standing state commitment to universal free education and healthcare systems",
+          "Urbanization concentrates heavily within the Western Province transport corridors",
+          "Social safety nets are undergoing overhaul to mitigate post-inflation poverty gaps"
+        ],
+        "text": "Sri Lanka stands out in the South Asian region for its high physical quality of life indicators. The country provides free state education up to the university level and free state healthcare to all citizens, which has yielded high life expectancy and low infant mortality rates. However, the domestic severe economic crisis has put immense strain on these public systems, leading to medicine shortages and a brain drain of professionals, which the society is working to reverse as stability returns."
+      },
+      "zh": {
+        "list": [
+          "成人識字率高達約 92%，在南亞與開發中國家之中名列前茅",
+          "長期實施全民免學費公立教育與全額免費公立醫療制度，社會福利基礎紮實",
+          "城鄉發展存在落差，都會化人口與中產階級高度集中於西部省交通廊道",
+          "近年受高通膨與物價波動衝擊，社會正積極修補貧富差距與基礎民生安全網"
+        ],
+        "text": "斯里蘭卡在南亞以優異的人類發展指數（HDI）著稱。自20世紀中葉以來，政府堅持推動「免費教育」與「免費醫療」政策，使國民平均壽命與健康指標普遍優於鄰近南亞國家。\n\n社會風氣溫和、重視禮儀，這與深植人心的佛教、印度教等宗教教義密切相關。儘管 2022 年的經濟風暴導致民生物資短缺、藥品匱乏並引發一波專業人才外流潮，但隨著近年經濟重組與國際援助到位，基層社會與公共服務正逐步恢復常態運作。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "A layered culture centered on ancient Theravada Buddhism and Tamil Hindu arts",
+          "Distinct colonial elements visible in architecture, legal structures, and sports like cricket",
+          "Famous for vibrant performing arts, including Kandyan traditional drum and devil dancing",
+          "Rich culinary style defined by aromatic spices, coconut milk, and rice-and-curry staples"
+        ],
+        "text": "Sri Lankan culture reflects its position as a historic maritime meeting point. Traditional arts enjoy high patronage, highlighted by the annual Kandy Esala Perahera festival, which features grand processions of sacred relics and decorated elephants. The island's architecture shows a synthesis of indigenous styles and colonial Dutch and British designs, famously adapted by the world-renowned architect Geoffrey Bawa into the movement known as 'Tropical Modernism'."
+      },
+      "zh": {
+        "list": [
+          "以古老上座部佛教文明與泰米爾印度教傳統為雙核心的深厚文化底蘊",
+          "留有歐裔殖民時期的顯著印記，板球（Cricket）被奉為實質上的國民運動",
+          "傳統表演藝術精湛，以康提舞（Kandyan Dance）、面具驅魔舞與傳統鼓樂聞名",
+          "飲食文化獨特，廣泛運用在地香料、椰奶與海鮮，主食以辛辣濃郁的咖哩飯為主"
+        ],
+        "text": "斯里蘭卡的文化是南亞本土宗教與西方海上貿易殖民歷史交融的結晶。佛教文化對僧伽羅人的生活觀念影響至深，而泰米爾人則保留了精緻的南印度德拉威文化。每年在康提舉辦的「佛牙節大遊行」（Esala Perahera）雲集了無數身著盛裝的舞者與聖象，是全球規模最盛大的佛教慶典之一。\n\n西方殖民在此留下了葡萄牙風情民謠、荷蘭式城堡建築（如加勒古城）以及英國的法律與茶文化。著名的在地建築大師珍佛瑞·巴瓦（Geoffrey Bawa）將這些元素與在地熱帶環境融合，開創了名揚世界的「熱帶現代主義」建築美學。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Sovereign debt restructuring and fiscal discipline under IMF strict guidelines",
+          "Mitigating high domestic utility tariffs and cost-of-living strains on lower-income groups",
+          "Managing external geostrategic reliance and preventing infrastructure asset debt traps",
+          "Strengthening multi-ethnic reconciliation and political decentralization measures"
+        ],
+        "text": "Sri Lanka’s modern policy arena is focused on systemic economic recovery and structural balancing. Reforming inefficient state enterprises, securing stable fuel and power infrastructure, and attracting sustainable foreign direct investment are crucial to ensuring long-term financial independence. Meanwhile, maintaining post-war ethnic peace and strengthening institutional anti-corruption guardrails remain pivotal to ensuring lasting domestic stability."
+      },
+      "zh": {
+        "list": [
+          "在 IMF 架構下進行艱難的主權債務重組，面臨財政緊縮與增稅的兩難",
+          "解決國內高昂的水電能源費率與物價連帶效應，緩解基層民眾的生活壓力",
+          "妥善處理國際大型基建外資（如漢班托塔港），防範地緣戰略過度傾斜與債務陷阱",
+          "持續深化內戰後的族群和解、政治分權以及更具包容性的憲政體制改革"
+        ],
+        "text": "斯里蘭卡當前面臨的最核心議題是如何從破產陰霾中徹底實現經濟轉型。政府必須在滿足國際債權人與 IMF 緊縮要求的同時，避免過度剝奪底層民眾的生存福祉。此外，漢班托塔港（Hambantota Port）等大型基礎建設因債務問題而長租予外國國企的案例，引發國際對其主權獨立與地緣政治安全的廣泛討論。\n\n如何平衡跨國強權在印度洋的角力、提升青年就業機會，並徹底根除政治體系中的結構性貪腐，是該國實現長治久安的關鍵考量。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Colombo — The hyper-modern marine gateway, financial hub, and colonial port city",
+          "Kandy — The sacred mountain capital hosting the revered Temple of the Sacred Tooth Relic",
+          "Sigiriya — The breathtaking 5th-century ancient rock fortress and UNESCO world heritage site",
+          "Galle Fort — A perfectly preserved 16th-century sea-facing Dutch fortified citadel"
+        ],
+        "text": "Sri Lanka possesses a high concentration of UNESCO World Heritage sites relative to its size. The Cultural Triangle in the north-central plains encompasses the pristine ruins of Anuradhapura and Polonnaruwa, alongside the dramatic cave temples of Dambulla. For natural monuments, the misty evergreen tea plantations of Nuwara Eliya and Yala National Park—celebrated for having one of the highest leopard densities globally—draw extensive international acclaim."
+      },
+      "zh": {
+        "list": [
+          "可倫坡（Colombo）—— 現代化摩天大樓、歷史殖民建築與亞洲核心轉運港口交織的門戶",
+          "康提（Kandy）—— 中部山區的歷史聖城，供奉國寶級佛陀舍利子的佛牙寺（Temple of the Tooth）所在地",
+          "錫吉里耶（Sigiriya）—— 拔地而起的巨型岩石古堡「獅子岩」，擁有精美古代壁畫的世界文化遺產",
+          "加勒古城（Galle Fort）—— 位於南端、融合歐洲防禦工事與南亞傳統的極完整荷蘭殖民城堡遺蹟"
+        ],
+        "text": "斯里蘭卡擁有密度極高的世界遺產。「文化金三角」區域內涵蓋了阿努拉德普勒（Anuradhapura）與波隆納魯瓦（Polonnaruwa）等兩大古都遺址，以及丹布勒（Dambulla）的金石佛窟。在自然與景觀地標方面，除了終年雲霧繚繞的英倫風情茶鄉努瓦拉埃利亞，擁有全球最高密度野生豹群的雅拉國家公園（Yala National Park），也是無數自然愛好者必訪的朝聖地。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "Crucial state actor within the Indian Ocean Rim Association (IORA) maritime framework",
+          "Maintains deep, historically sensitive relationships with neighboring India and China",
+          "Leverages its strategic commercial ports as major bargaining chips in global logistics",
+          "Actively exercises tourism diplomacy and multilateral climate adaptation alignments"
+        ],
+        "text": "Due to its geographical position near the international sea lines of communication, Sri Lanka is a focal point of geopolitical competition in the Indo-Pacific region. The country follows a strictly non-aligned foreign policy, balancing India's regional security interests with China's maritime economic projects, while relying heavily on Western markets like the European Union and the United States as primary destinations for its garment and agricultural exports."
+      },
+      "zh": {
+        "list": [
+          "環印度洋地區合作聯盟（IORA）重要成員，為地緣航運安全的關鍵參與者",
+          "地緣上與鄰國印度關係根深蒂固，經濟與基建投資上則與中國維持高度互動",
+          "將其戰略港口轉運優勢轉化為全球供應鏈與國際地緣物流博弈的重要籌碼",
+          "積極透過優質紅茶與綠色旅遊推動外交，高度參與海島型氣候變遷多邊倡議"
+        ],
+        "text": "斯里蘭卡因其關鍵的地理位置，在現代美、日、印、澳推動的「印太戰略」與中國的「一帶一路」倡議中，皆處於地緣政治競爭的風暴眼。國家對外堅守「對所有人友善、不與任何強權結盟」的原則，力求在印度的傳統國防安全關切、中國的大型港口基建融資，以及歐美自由市場（斯里蘭卡成衣的最大出口國）之間維持精妙的槓桿平衡。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Bilateral interactions are maintained on a strictly non-official commercial basis",
+          "Steady economic and purchasing links centered around high-grade Ceylon tea imports",
+          "Active cultural and humanitarian pathways exist via Buddhist pilgrimage exchanges",
+          "Potential exists for expanding maritime logistics and technical agricultural consulting"
+        ],
+        "text": "Taiwan and Sri Lanka maintain practical non-official ties focused on trade and civilian interactions. Taiwan is a notable buyer of premium Sri Lankan black tea and coconut sub-products, while various Taiwanese non-governmental organizations and Buddhist foundations frequently engage in educational charity, medical aid, and religious exchanges across the island."
+      },
+      "zh": {
+        "list": [
+          "雙邊關係常態維持於非官方的經貿、民間與宗教文化交流基礎上",
+          "台灣對優質錫蘭紅茶原料、橡膠與外銷加工資材具有穩定的採購與經貿連結",
+          "民間互動熱絡，主要透過佛教聖地朝聖、僧侶互訪以及人道宗教基金會建立管道",
+          "未來在遠洋漁業基地協作、港口航運物流及熱帶精緻農業技術交流上具合作潛力"
+        ],
+        "text": "斯里蘭卡與台灣之間並無正式外交關係，雙方往來主要聚焦於民間商務與文化層面。台灣是錫蘭紅茶的重要進口國之一，諸多台灣連鎖茶飲與食品企業廣泛採用其高山茶葉原料。宗教層面上，由於兩地均擁有發達的佛教文化，雙方信徒與高僧大德在禪修、佛學教育上的交流相當頻繁。\n\n此外，台灣的慈善團體與醫療志工組織長年對斯里蘭卡偏鄉提供物資援助與義診服務，為雙方鞏固了深厚的民間友誼。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "The irreplaceable maritime anchor state navigating the maritime lifelines of South Asia",
+          "The undisputed global origin of authentic Ceylon tea, shaped by unique mountain microclimates",
+          "The longest continuous Buddhist majority society in existence, preserving classical Theravada scholarship",
+          "Hosts eight exceptionally well-preserved UNESCO World Heritage properties within a compact area",
+          "Pioneered iconic tropical modern architecture that seamlessly blends historical styles with nature"
+        ],
+        "text": "Sri Lanka blends high social infrastructure, deep civilizational roots, and exceptional geographic convenience, making it a culturally resilient and economically indispensable hub in the modern Indian Ocean region."
+      },
+      "zh": {
+        "list": [
+          "南亞海域不可或缺的航運錨地國家，實質掌控印度洋東西向海運命脈",
+          "無可替代的錫蘭紅茶正宗原產地，由獨特的中央山脈微氣候孕育頂級風味",
+          "全球歷史最悠久的連續佛教社會之一，極完整保存了古典上座部佛學與經藏",
+          "在有限的島嶼國土內高密度匯聚了八項登錄聯合國教科文組織的世界文化與自然遺產",
+          "開創了享譽國際的熱帶現代主義建築流派，將自然景觀與現代建築完美揉合"
+        ],
+        "text": "斯里蘭卡將深厚的古老宗教文明、發達的國民素質，以及優越的熱帶地理樞紐位置完美融合。儘管近年走過嚴峻的總體經濟風暴，這座島國仍展現出強韌的社會復原力與文化自信，持續在全球政治、跨國物流與高端旅遊版圖中扮演關鍵的明珠角色。"
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": {
+        "en": "Sri Lankan rupee (LKR / Re / Rs)",
+        "zh": "斯里蘭卡盧比（LKR / 符號為 ₨）"
+      }
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "Sinhala and Tamil (Official and National languages), English widely used in government and business",
+        "zh": "僧伽羅語（Sinhala）、泰米爾語（Tamil）同為官方與國家語言；英語在商務與政府高層廣泛通行"
+      }
+    },
+    {
+      "label": "HDI",
+      "value": "0.780+ (High / Top in South Asia)"
+    },
+    {
+      "label": "Time zone",
+      "value": "UTC+5:30 (Sri Lanka Standard Time - SLST)"
+    },
+    {
+      "label": "Calling code",
+      "value": "+94"
+    },
+    {
+      "label": "ISO code",
+      "value": "LK / LKA"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🍃",
+      "text": {
+        "en": "Ceylon Tea — The premier global tea standard produced within misty high-altitude mountain plantations",
+        "zh": "錫蘭紅茶（Ceylon Tea）—— 譽滿全球的茶中珍品，於中部清涼雲霧高原上純手工採摘調配"
+      }
+    },
+    {
+      "icon": "🛕",
+      "text": {
+        "en": "Sacred Buddhist Heritage — Home to historic global pilgrimage centers including Kandy's Temple of the Tooth",
+        "zh": "上座部佛教聖地—— 南亞保存最完整的佛教國度，以供奉佛陀舍利子的佛牙寺為全國精神核心"
+      }
+    },
+    {
+      "icon": "🏰",
+      "text": {
+        "en": "Sigiriya Rock Fortress — An architectural wonder of the ancient world built atop an imposing 200-meter sheer cliff",
+        "zh": "西格里亞獅子岩（Sigiriya）—— 拔地而起 200 公尺的天空宮殿，集古代水利、壁畫與防禦工程於一身"
+      }
+    },
+    {
+      "icon": "🐘",
+      "text": {
+        "en": "Sri Lankan Elephant — A distinct, heavily protected flagship subspecies roaming dense national wildlife sanctuaries",
+        "zh": "斯里蘭卡亞洲象—— 特有的重要保育類指標動物，在各大國家公園內擁有極高且受法律嚴格保護的野生族群"
+      }
+    },
+    {
+      "icon": "🚢",
+      "text": {
+        "en": "Indian Ocean Hub — Strategic container transshipment ports direct adjacent to international trade super-highways",
+        "zh": "印度洋航運心臟—— 可倫坡港扼守歐亞非三大洲航線交會點，為全球頂尖的高效率貨櫃轉運門戶"
+      }
+    }
+  ],
+  "mapEmbedUrl": "https://www.openstreetmap.org/relation/536599"
+}

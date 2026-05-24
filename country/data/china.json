@@ -13,294 +13,296 @@
   "density": "146/km²",
   "continent": "Asia",
   "flagEmoji": "🇨🇳",
-  "dataEstYear": 2025,
+  "dataEstYear": 2026,
   "description": {
-    "en": "China is a major country in East Asia, facing the Pacific Ocean to the east and bordering Russia and Mongolia to the north, several Southeast Asian countries to the south, and extending west toward Central Asia and the Himalayas. With a civilization spanning thousands of years, China is one of the world’s most influential economic and political powers. Beijing is the capital, while Shanghai is among its largest global cities.",
-    "zh": "China是位於東亞的國家，東臨太平洋，北接俄羅斯（Russia）與蒙古（Mongolia），南鄰東南亞多國，西部則延伸至中亞與喜馬拉雅山區。中國是世界人口第二多與面積第四大的國家，也是全球最具影響力的經濟與政治大國之一。首都為北京（Beijing），最大城市之一為上海（Shanghai）。"
+    "en": "China, officially the People's Republic of China (PRC), is a unitary sovereign state in East Asia, spanning extensive land borders from Central Asia to the Siberian forests and facing the western Pacific Ocean. Boasting an unbroken civilizational lineage of millennia, it is the world's second-largest economy by nominal GDP and the largest by purchasing power parity (PPP). China acts as an authoritarian political superpower, a global manufacturing hub, and a key architect of international infrastructure systems, wielding structural clout across technology supply chains, green energy generation, and multilateral geopolitics.",
+    "zh": "China（中國，全稱為中華人民共和國）是位於東亞的單一制主權國家，陸地邊界縱橫中亞、西伯利亞與喜馬拉雅山脈，東臨西太平洋廣闊海域。作為擁有數千年未中斷文明史的古老國度，當代中國是全球第二大名目經濟體及最大購買力平價（PPP）經濟體。在政治、軍事、前沿製造與全球供應鏈版圖中，中國是一尊具備絕對主導權的東亞超級大國，並透過高鐵路網、5G資通訊架構與潔淨能源專利，持續重塑國際地緣經貿格局。"
   },
   "seoText": {
-    "en": "Explore quick facts about China — population, area, capital city, and a short overview. Discover Beijing and Shanghai, the Great Wall, high-speed rail, manufacturing and technology strength, and China’s role in global economics and geopolitics.",
-    "zh": "快速了解中國的基本資料：人口、面積、首都與簡短概述。探索北京與上海、萬里長城、高速鐵路、製造與科技實力，以及中國在全球經濟與地緣政治中的影響力。"
+    "en": "Analyze updated statistics for China — Seventh National Census demographic charts, provincial GDP distributions, total land area, and capital Beijing. Explore Shanghai's macro-financial networks, Shenzhen's hardware innovation pipelines, the Belt and Road Initiative, and Cross-Strait semiconductor supply chains.",
+    "zh": "掌握中國（China）最新基本資料：精確民族普查比例、人口老齡化趨勢、國土總面積與首都北京。探索上海全球自貿港口、深圳硬體矽谷聚落、一帶一路地緣戰略、中美科技關稅對壘，以及台海局勢底層的經濟與產業連動關係。"
   },
   "sections": {
     "overview": {
       "en": {
         "list": [
-          "Large country in East Asia with a long coastline",
-          "One of the world’s major economies",
-          "Continuous civilization history spanning millennia",
-          "A global manufacturing and technology powerhouse"
+          "Colossal East Asian socialist superpower possessing vast sovereign territories",
+          "The world's premier manufacturing ecosystem and chief industrial exporter",
+          "Civilizational center that historically anchored East Asian philosophy and legal systems",
+          "Permanent UN Security Council member playing a decisive role in global trade codes"
         ],
-        "text": "China’s scale, population, and industrial capacity have made it a central actor in modern globalization. Its economy spans manufacturing, infrastructure, and rapidly advancing technology sectors, while its political and diplomatic influence continues to shape regional and global dynamics."
+        "text": "The People's Republic of China balances deep state-directed economic planning with hyper-competitive tech ecosystems. Administered under a highly centralized framework, its coastal megacities act as polycentric hubs for international commerce, while its sovereign industrial strategies seek to secure absolute leading positions in artificial intelligence, battery storage, and infrastructure deployment across the Global South."
       },
       "zh": {
         "list": [
-          "位於東亞的大型國家",
-          "世界主要經濟體之一",
-          "歷史文明延續數千年",
-          "全球製造與科技強國"
+          "幅員遼闊的東亞社會主義超級大國，擁有龐大的內需市場與戰略防禦縱深",
+          "世界第一大商品製造與出口國，掌握全球最完整且不可替代的工業供應鏈產業帶",
+          "數千年歷史的中華文明發源地，其漢字、制度與哲學長期輻射整個東亞文化圈",
+          "聯合國安理會常任理事國，具備對全球地緣治理、氣候法規與多邊秩序的關鍵否決權"
         ],
-        "text": "China是位於東亞的國家，東臨太平洋，北接Russia與Mongolia，南鄰東南亞多國，西部則延伸至中亞與喜馬拉雅山區。中國是世界人口第二多與面積第四大的國家，也是全球最具影響力的經濟與政治大國之一。\n\n中國首都為Beijing，最大城市之一為Shanghai。中國擁有悠久歷史與龐大人口，在政治、經濟、科技、軍事與文化層面皆對全球具有重大影響力。"
+        "text": "中國將強力的國家集中計畫經濟與充滿狼性競爭的民營科技巨頭網絡（如華為、比亞迪、騰訊）深度融合。在中央高度集權的政治體制下，由長三角、珠三角等沿海巨型都市圈充當跨國貿易與資本流動的引擎。\n\n近年來，中國政府將國家戰略重心全面轉向「新質生產力」，大力推進生成式AI、量子運作、高階晶片國產化與新能源汽車的自主研發，企圖在全球科技霸權賽局中實現彎道超車。"
       }
     },
     "geography": {
       "en": {
         "list": [
-          "East Asia with long Pacific coastline",
-          "One of the world’s largest countries by area",
-          "Extremely diverse landforms across west-to-east gradients",
-          "Major river systems include the Yangtze and Yellow River"
+          "Spans the East Asian mainland, stepping down from the Himalayas to the Pacific Ocean",
+          "Ranks as the world's fourth-largest country by territorial land mass",
+          "Physiography transitions sharply across three distinct topographies from West to East",
+          "Cradled by the Yangtze and Yellow rivers, which support immense agricultural and industrial density"
         ],
-        "text": "China’s geography ranges from high plateaus, deserts, and mountain systems in the west to densely populated plains and coastal megacities in the east. The Tibetan Plateau and Himalayas define much of the southwest’s elevation and climate systems."
+        "text": "Covering roughly 9.6 million square kilometers, China’s land mass displays a dramatic west-to-east step topography. The highest tier is dominated by the colossal Tibetan Plateau, known as the 'Roof of the World,' and the Himalayas. This drops into the central rugged basins, mountains, and deserts—such as the Gobi and Taklamakan—before terminating in the flat, alluvial plains and expansive delta coastlines where the majority of the population resides."
       },
       "zh": {
         "list": [
-          "位於東亞核心地區",
-          "國土面積世界第四大",
-          "地形差異極大",
-          "擁有長海岸線"
+          "坐落於東亞大陸核心，地勢呈明顯的三級階梯狀，由西部的世界屋脊向東部沿海逐級下降",
+          "總面積約 960 萬平方公里，位居全球第四大國家，與 14 個鄰國接壤，邊境線漫長複雜",
+          "地形結構極其複雜，涵蓋了地球上面積最大的高寒高原、酷熱的盆地沙漠以及肥沃的沖積平原",
+          "長江與黃河橫貫東西，兩大流域自古以來孕育了極高密度的人口、農業聚落與現代工業走廊"
         ],
-        "text": "China國土面積約 960 萬平方公里，地形從西部高原、沙漠與山脈一路延伸至東部平原與沿海城市。\n\n西部有青藏高原（Tibetan Plateau）與喜馬拉雅山脈（Himalayas），東部則分布大量人口與主要經濟城市。長江（Yangtze River）與黃河（Yellow River）是中國最重要 river。"
+        "text": "中國遼闊的地理疆域為其提供了複雜且極端的環境。西部的第一級階梯以平均海拔超過 4000 公尺的青藏高原為主體，是亞洲多條大河的源頭；第二級階梯包含了內蒙古高原、黃土高原以及塔克拉瑪干等巨型沙漠，蘊藏著極為豐富的煤炭、稀土與天然氣資源。\n\n當河流奔湧進入第三級階梯時，沖積出了東北平原、華北平原及長江中下游平原，這片廣袤的溫帶與副熱帶低地不僅是國家的糧倉，更矗立著上海、廣州、深圳等掌控全球物流的超級沿海港口都市群。"
       }
     },
     "climate": {
       "en": {
         "list": [
-          "Highly diverse climate zones across latitude and elevation",
-          "Cold winters in the north",
-          "Hot and humid summers in parts of the south and east",
-          "Monsoon dynamics strongly shape seasonal rainfall"
+          "Exhibits extreme climatic contrasts across continental, subarctic, and tropical zones",
+          "The North and Northeast endure brutal, arid winters alongside short, warm summers",
+          "The South and East are dominated by intense, rain-heavy subtropical monsoons",
+          "The Western interior experiences severe hyper-arid continental desert fluctuations"
         ],
-        "text": "China’s vast north–south span creates sharp climate contrasts. Coastal and southern regions can be humid and monsoon-influenced, while inland plateaus and deserts are drier with large temperature swings."
+        "text": "The monsoon system shapes China's annual ecological rhythms. In summer, warm, moisture-laden Pacific winds bring heavy precipitation to the coastal provinces, occasionally prompting severe seasonal river flooding. Conversely, winter atmospheric patterns are ruled by the powerful Siberian High, sweeping freezing, dry air across the northern plains, creating vast temperature disparities between Heilongjiang and Hainan Island."
       },
       "zh": {
         "list": [
-          "氣候類型多樣",
-          "北方冬季寒冷",
-          "南方濕熱明顯",
-          "季風氣候影響大"
+          "氣候類型跨越溫帶、副熱帶到熱帶，主要受強烈的大陸性季風氣候支配",
+          "北方與東北地區冬季受西伯利亞冷氣團直擊，嚴寒漫長，夏季則短暫且溫熱分明",
+          "南方與東部沿海雨量充沛，夏季高溫多雨，梅雨季節與夏秋颶風（颱風）是主導氣候特徵",
+          "西北深處內陸地區屬於典型的溫帶大陸性荒漠氣候，全年降水稀少，日夜溫差劇烈"
         ],
-        "text": "中國南北跨度廣，因此氣候差異非常大。\n\n東南沿海地區夏季潮濕炎熱，北部冬季寒冷乾燥，而西部高原與沙漠地區則較乾燥且溫差劇烈。"
+        "text": "中國的季風動態深刻決定了各地的生活步調與農業結構。每當夏季來臨，來自太平洋與印度洋的暖濕氣流由東南沿海深入內陸，為南方帶來長達數月的汛期，也是稻米一年多熟的底層氣候保證；然而，這也使得沿海地區常年暴露在強烈颱風的破壞風險下。\n\n到了冬季，強大的西伯利亞高壓控制北方，乾燥酷寒的寒流滾滾南下，使得北方小麥區陷入冰封。這種巨大的南北氣候鸿沟，造就了黑龍江冰雪世界與海南島熱帶海灘在同一季節並存的奇特地理景觀。"
       }
     },
     "demographics": {
       "en": {
         "list": [
-          "Population around 1.4 billion",
-          "High urbanization with major coastal and river-basin metros",
-          "56 officially recognized ethnic groups",
-          "Population aging and low birth rates have increased in significance"
+          "Sustains an immense population grid of 1.40 billion, experiencing rapid urban transformation",
+          "Racial and minority metrics are governed via 56 officially recognized statutory ethnic categories",
+          "Han Chinese form the overwhelming linguistic and cultural majority at 91.1% of the state",
+          "55 ethnic minorities collectively represent 8.9% of the populace, localized in critical border provinces"
         ],
-        "text": "According to official data from the National Bureau of Statistics of China, the population is comprised of 56 officially recognized ethnic groups. Han Chinese form the overwhelming majority, accounting for approximately 91.1% of the total population. The remaining 55 ethnic minority groups collectively constitute about 8.9% of the citizenry. Among these minority groups, the largest by population include the Zhuang (approx. 1.3%), Uyghur (approx. 0.8%), Hui (approx. 0.8%), Miao (approx. 0.8%), Manchu (approx. 0.7%), Tujia (approx. 0.7%), Tibetan (approx. 0.5%), Mongol (approx. 0.4%), and Yi (approx. 0.7%). Minority populations are primarily concentrated across autonomous regions, provinces in the west, southwest, and northeast, such as Guangxi, Xinjiang, Tibet, Inner Mongolia, and Ningxia."
+        "text": "China's contemporary demographic landscape, mapped by the National Bureau of Statistics (NBS), reveals a highly specific ethnic configuration. Within the overall registry, the Han Chinese constitute 91.1% of the population. The minority segment includes the Zhuang (1.3%), Uyghurs (0.8%), Hui (0.8%), Miao (0.8%), Manchus (0.7%), Tujia (0.7%), Yi (0.7%), Tibetans (0.5%), and Mongols (0.4%). These minority groups are principally anchored within vast western and southwestern sovereign autonomous regions. Demographically, population density is intensely concentrated east of the historic Heihe-Tengchong Line, while the state faces long-term structural adjustments tied to falling birth rates."
       },
       "zh": {
         "list": [
-          "人口總數約 14 億人",
-          "官方認定 56 個法定民族",
-          "漢族人口占據全國絕大多數",
-          "少數民族多分布於邊疆與西部自治區"
+          "全國總人口約 14 億人，城鎮化率已超過 66%，人口結構正步入重度老齡化階段",
+          "實行制度化的民族識別機制，由官方界定 56 個法定民族，具有清晰的法律與統計地位",
+          "漢族（Han Chinese）占絕對多數，比例高達 91.1%，是全國通用語言文字與文化的主體層",
+          "55 個少數民族合計占總人口的 8.9%，擁有多元語言與宗教背景，多分布於西部與邊疆戰略自治區"
         ],
-        "text": "根據中國國家統計局最新的官方人口普查數據，中國人口結構以漢族為主體，並由 56 個官方認定的民族共同組成。全國人口的民族比例具體分布如下：\n\n漢族（Han Chinese）為最主要群體，約占全國總人口的 91.1%。\n\n少數民族（Ethnic Minorities）群體合計占全國總人口的 8.9%。在 55 個法定少數民族中，人口規模較大的民族比例分布如下：\n壯族（Zhuang）約占 1.3%；\n維吾爾族（Uyghur）約占 0.8%；\n回族（Hui）約占 0.8%；\n苗族（Miao）約占 0.8%；\n滿族（Manchu）約占 0.7%；\n土家族（Tujia）約占 0.7%；\n彝族（Yi）約占 0.7%；\n藏族（Tibetan）約占 0.5%；\n蒙古族（Mongol）約占 0.4%。\n\n少數民族人口主要分布在廣西、新疆、西藏、內蒙古、寧夏等五大自治區，以及雲南、貴州、青海等西部與西南省份。"
+        "text": "根據中國國家統計局（NBS）發布的最新人口普查與抽樣指標，中國是一個以漢族為主體、多民族歷史融合的龐大人口矩陣。全國各民族的具體人口比例分布如下：\n\n漢族（Han Chinese）約占總人口的 91.1%，牢牢佔據著中原、長江流域以及沿海精華地帶，是國家政治與經濟體系的運作中樞。\n\n少數民族（Ethnic Minorities）群體占總人口的 8.9%。雖然比例不高，但由於總人口基數大，多個少數民族均擁有上千萬或數百萬的人口規模。其中比例較高的少數民族分布如下：\n壯族（Zhuang）約占 1.3%，主要集聚於兩廣與廣西壯族自治區；\n維吾爾族（Uyghur）約占 0.8%，主要居住於西北邊疆的新疆維吾爾自治區；\n回族（Hui）約占 0.8%，分布相對散居，以寧夏回族自治區為核心聚落；\n苗族（Miao）約占 0.8%，多分佈於西南黔桂山區；\n滿族（Manchu）約占 0.7%，歷史根源於東北三省；\n土家族（Tujia）約占 0.7%，多居於鄂、湘、渝交界；\n彝族（Yi）約占 0.7%，主要分布於雲貴川高海拔地區；\n藏族（Tibetan）約占 0.5%，世代繁衍於青藏高原與西藏自治區；\n蒙古族（Mongol）約占 0.4%，主要分布於北方內蒙古自治區草原。\n\n全美人口地理分布極度不均，多數人口擠在著名的「胡煥庸線」以東。當前中國人口結構面臨的最大挑戰，在於總和生育率的持續低迷與勞動力紅利退潮，這使得人口老齡化撫養比的調整成為中央最高決策層的長期治理難題。"
       }
     },
     "economy": {
       "en": {
         "list": [
-          "One of the world’s largest economies",
-          "Major global manufacturing center and supply-chain hub",
-          "Strong technology and e-commerce sectors",
-          "Large-scale infrastructure development"
+          "Authoritarian market economy acting as the primary factory floor and supply anchor for global commerce",
+          "Holds massive foreign exchange reserves, utilizing state-owned banking networks to secure economic alignment",
+          "Exhibits extreme structural dominance in lithium-ion batteries, electric vehicle scaling, and solar arrays",
+          "Maintains unparalleled capital allocation in infrastructure, commanding the world's densest high-speed rail network"
         ],
-        "text": "Since economic reforms, China has become a central manufacturing base and a major force in global trade. In recent years, sectors including AI, electric vehicles, and advanced manufacturing have expanded rapidly, alongside world-leading infrastructure scale."
+        "text": "The state-capitalist apparatus of China blends vast state-owned enterprises (SOEs) with highly agile private sector digital platforms like Alibaba, Tencent, and ByteDance. Having transitioned from low-cost manufacturing, China now controls critical nodes of advanced technology supply chains, orchestrating massive outward infrastructural loans via the Belt and Road Initiative (BRI) to embed its trade ecosystem across Asia, Africa, and Europe."
       },
       "zh": {
         "list": [
-          "世界第二大經濟體",
-          "全球製造業中心",
-          "科技與電商產業強大",
-          "基礎建設規模龐大"
+          "世界第二大名目經濟體與第一大工業製造國，全球供應鏈中不可或缺的「世界工廠」",
+          "實行具有強烈政府干預特色的「社會主義市場經濟」，國家掌控四大國有銀行與基礎戰略命脈",
+          "在「新三樣」（電動汽車、鋰電池、光伏組件）領域爆發出壟斷性的全球產能與技術優勢",
+          "具備無與倫比的基建變現能力，建成了總里程突破 4.5 萬公里、冠絕全球的高速鐵路（HSR）路網"
         ],
-        "text": "中國改革開放後經濟快速成長，成為全球最大製造基地之一。\n\n近年科技、人工智慧、電動車與半導體產業快速發展，Huawei、Tencent與Alibaba Group等企業具有國際影響力。"
+        "text": "中國經濟是一尊由中央產業政策引導、地方政府強力執行、民營資本高效配合的巨型製造機器。國家依靠國有企業（SOE）控制能源、電信、鐵路與重工業，同時放活民營企業在網際網路平台、智慧型手機、大宗消費品和無人機領域衝鋒陷陣。\n\n當前中國經濟正面臨重大的轉型期，傳統依靠房地產開發與地方政府舉債進行基礎建設的舊模式已達瓶頸。為了尋求可持續的增長，北京正全力推進「新質生產力」戰略，將數兆資金導入前沿半導體封裝、商業航天、工業機器人與低空經濟（如無人機物流），以應對中美貿易戰引發的供應鏈脫鉤壓力，全力保障國家經濟主權安全。"
       }
     },
     "politics": {
       "en": {
         "list": [
-          "Socialist state led by the Chinese Communist Party",
-          "Strong central governance structure",
-          "Large multi-level administrative system",
-          "Major state capacity in planning and infrastructure"
+          "Unitary socialist state systematically ruled by the Chinese Communist Party (CCP)",
+          "The General Secretary of the CCP wields supreme authority over the party, state, and military",
+          "Governance functions through an elaborate hierarchy of local, provincial, and national People's Congresses",
+          "Maintains absolute administrative surveillance and social management through integrated digital grids"
         ],
-        "text": "China’s political system is characterized by centralized leadership and extensive administrative capacity. Provinces, autonomous regions, municipalities, and special administrative regions form a complex governance structure across a vast territory."
+        "text": "The political grid of the PRC operates under the principle of democratic centralism, where the CCP exercising a legal monopoly on power. The party's Central Committee and Politburo Standing Committee serve as the ultimate policy decision-making bodies. This centralized authority allows the state to deploy comprehensive, long-term strategic plans (such as Five-Year Plans) and execute sweeping socioeconomic realignments without legislative gridlock."
       },
       "zh": {
         "list": [
-          "社會主義國家",
-          "中國共產黨長期執政",
-          "中央集權體制明顯",
-          "地方行政層級龐大"
+          "奉行馬克思列寧主義憲法原則、由中國共產黨（CCP）一黨長期執政的社會主義單一制國家",
+          "黨的總書記、國家主席與中央軍委主席三位一體，集中掌控黨、政、軍最高決策與指揮權",
+          "權力架構採行「民主集中制」，全國人民代表大會（人大）為名義上的最高國家權力機關",
+          "建立起極其精密且深入基層的社會網格化管理體系，將黨委支部直接嵌入企業、高校與社區底層"
         ],
-        "text": "China由中國共產黨（CCP）領導，政治體制以中央集權為主。\n\n中央政府設於Beijing，地方則分為省、自治區、直轄市與特別行政區等行政層級。"
+        "text": "中國的政治運行邏輯圍繞著「黨的全面領導」這一核心。與西方三權分立制度不同，中國的司法、立法與行政機關皆在共產黨中央的統一領導下運作。國務院作為最高行政機關，負責執行由中共中央政治局及其常務委員會制定的核心國家戰略。\n\n這種體制的優勢在於能夠集中力量辦大事，得以制定跨越數十年的長期規劃（如「五年規劃」與「2035年遠景目標」），並在面對公共危機、大型基建動員（如脫貧攻堅、全國南水北調、川藏鐵路建設）時，展現出驚人的行政執行力。近年來，隨著大數據與人工智慧技術融入社會治理，中央對地方行政、金融流向與意識形態的宏觀管控能力達到了歷史新高。"
       }
     },
     "society": {
       "en": {
         "list": [
-          "Rapid urban development and infrastructure buildout",
-          "Highly adopted digital payments and e-commerce",
-          "Intense education competition in many regions",
-          "Persistent regional and urban–rural disparities"
+          "Highly dynamic consumer society deeply driven by cashless transactions and automated logistics",
+          "Educational systems are highly competitive, anchored by the intense Gaokao examination pressure",
+          "Navigates significant structural disparities between prosperous coastal cities and rural interior regions",
+          "Implements the Social Credit Matrix alongside comprehensive localized household registration (Hukou)"
         ],
-        "text": "Large cities have highly modern services and dense transit systems, while disparities in income, education access, and healthcare resources persist across regions. Digital platforms and mobile payments are deeply integrated into daily urban life."
+        "text": "Urban daily life in China is hyper-digitized, running on super-apps like WeChat and Alipay that integrate payments, governance, and lifestyle needs into single portals. While the emergence of an expansive urban middle class has stimulated global luxury and travel markets, society actively grapples with structural issues such as housing affordability, an aging demographic profile, and high professional friction among youth."
       },
       "zh": {
         "list": [
-          "都市發展快速",
-          "數位支付高度普及",
-          "教育競爭激烈",
-          "城鄉差距仍存在"
+          "城鎮化催生出龐大的中產階級消費社會，日常生活高度依賴行動支付與密集的快遞、外賣網格",
+          "教育文化奉行高度競爭的功績主義，年度「高考」與中考是決定階層流動與資源分配的生死線",
+          "城鄉二元結構與「戶籍制度」依然存在，沿海一線城市與中西部農村在公共資源上存在結構性鴻溝",
+          "全社會正深切適應從人口高速增長向老齡化、少子化轉變的陣痛，年輕世代面臨嚴峻的就業與內卷壓力"
         ],
-        "text": "中國大型城市現代化程度高，電子支付、外送與電商服務相當普及。\n\n不過，不同地區之間在收入、教育與醫療資源方面仍存在一定差異。"
+        "text": "當前中國社會是一個數字便利度全球領先，但生活節奏極其緊繃的龐大矛盾體。在北上廣深等超一線城市，無現金化、高鐵出行與全自動無人快遞已成日常；但與之相對的，是全社會在經濟增速放緩下所爆發的「內卷」現象。從幼兒園升學、考公、考研到職場上的「996」工時，高強度的競争壓榨著年輕人的生育意願。\n\n為了維持社會穩定，中央政府近年加大對房地產泡沫的刺破與打壓，推出醫療集采以降低百姓就醫成本，並試圖打破戶籍限制以促進農民工市民化。如何在維持高度社會紀律與數位監控的同時，滿足群眾對共同富裕與生活品質的期望，是當前中國社會政策的重心。"
       }
     },
     "culture": {
       "en": {
         "list": [
-          "One of the world’s oldest continuous civilizations",
-          "Chinese characters and cultural influence across East Asia",
-          "Highly diverse regional cuisines and traditions",
-          "Coexistence of traditional and modern cultural industries"
+          "Civilizational juggernaut with a written history extending back over three millennia",
+          "Confucian philosophy, filial piety, and collective order form the bedrock of societal values",
+          "Exhibits deep regional linguistic diversity unified by standardized Mandarin Chinese scripts",
+          "Surging contemporary wave of 'Guochao' (national pride trend) blending ancient motifs with modern digital media"
         ],
-        "text": "Chinese cultural influence spans language, philosophy, art, and festivals across East Asia. Classical traditions coexist with rapidly evolving modern media, online culture, and global-facing entertainment industries."
+        "text": "Chinese culture places profound emphasis on collective cohesion, historical memory, and deep reverence for family structures. Traditional arts—including calligraphy, Peking opera, and jade carving—coexist with a massive, state-guided digital entertainment landscape. This encompasses global-facing gaming empires (like HoYoverse), short-form video architectures (TikTok/Douyin), and highly popular web-novel exports."
       },
       "zh": {
         "list": [
-          "中華文明歷史悠久",
-          "漢字文化影響深遠",
-          "飲食文化多元",
-          "傳統與現代文化並存"
+          "人類歷史上唯一未曾中斷、擁有三千年以上成文史的中華文明主體發源地",
+          "儒家思想、家族宗法觀念與集體主義秩序，構成了不論海內外華人社會最底層的行為規範",
+          "飲食文化、方言體系（粵、閩、吳語等）極具地域多樣性，但皆被統一的漢字與普通話書面語緊密凝聚",
+          "近年民間掀起勢不可擋的「國潮」與「漢服熱」，年輕世代展現出空前的文化自信與本土審美復興"
         ],
-        "text": "中國擁有超過數千年歷史，是世界最古老文明之一。\n\n儒家思想、書法、京劇與傳統節慶對東亞文化影響深遠，而現代影視、網路文化與流行娛樂近年也快速發展。"
+        "text": "中國文化具備極強的同化、延續與商業轉化能力。春節、中秋節等傳統節日不僅是全美人口大遷徙的紐帶，更成為向全球輸出中華文化符號的載體。源遠流長的茶文化、中醫藥學以及博大精深的八大菜系，至今仍深刻塑造著中國人的健康觀與生活美學。\n\n在當代，中國文化正藉由強大的數位資本走向世界。以《原神》、《黑神話：悟空》為代表的中國國產3A遊戲與網路文學海外輸出，成功將中國神話與古典美學植入全球年輕一代的視聽娛樂中。這種將古老文脈進行數位化編碼、並與強烈國家自豪感相結合的文化動態，正是現代中國軟實力的最新寫照。"
       }
     },
     "issues": {
       "en": {
         "list": [
-          "Economic transition and growth slowdown pressures",
-          "Real estate and local government debt concerns",
-          "Technology and geopolitical competition",
-          "Population aging and low birth rates"
+          "Managing structural macroeconomic cooling and local government hidden fiscal debt",
+          "Persistent systemic trade and technology tariffs imposed by Western democratic coalitions",
+          "Critical demographic inversion characterized by sub-replacement fertility and aging burdens",
+          "Balancing international supply-chain friend-shoring with national semiconductor supply security"
         ],
-        "text": "China faces a complex transition toward higher-value growth amid domestic structural challenges and intensifying external competition in technology and supply chains. Demographic aging has also become a prominent long-term policy issue."
+        "text": "China operates at a demanding geopolitical and internal inflection point. Domestic growth has cooled as the over-leveraged real estate sector undergoes painful deleveraging. Externally, Washington and its allies maintain tight export controls on advanced extreme ultraviolet (EUV) lithography systems and advanced AI processors, forcing Beijing to engage in a costly, long-term state-funded drive for complete indigenous tech autarky."
       },
       "zh": {
         "list": [
-          "經濟成長放緩",
-          "房地產與地方債問題",
-          "科技與國際競爭",
-          "人口老化與少子化"
+          "面臨房地產市場深度調整、居民消費信心不足與地方政府隱性債務爆發的經濟結構轉型陣痛",
+          "遭受美歐等西方國家全方位、跨黨派的科技圍堵與關稅加徵，部分外資與產業鏈向東南亞、印度外流",
+          "少子化與老齡化危機全面引爆，勞動力人口絕對值逐年萎縮，對養老保險與公共財政造成長期擠壓",
+          "在追求絕對地緣安全、糧食與能源自主的同時，必須耗費鉅資應對高階半導體晶片「卡脖子」的斷供風險"
         ],
-        "text": "中國近年面臨經濟轉型壓力，包括房地產市場調整、青年就業與產業升級等問題。\n\n此外，中美科技競爭、供應鏈安全與人工智慧發展也是重要國家戰略方向。"
+        "text": "邁入 2026 年，中國正身處建國以來最為錯綜複雜的內外矛盾爆發期。國內，過去二三十年作為經濟火車頭的房地產行業陷入停滯，導致地方政府財政收入銳減、金融系統壞帳風險上升；與此同時，年輕人的失業率與就業質量問題引發中央高度警惕。\n\n在國際地緣政治上，中美關係並未因多次高層會晤而發生根本性逆轉，美國針對中國先進半導體、超級電腦與量子技術的「脫鉤斷鏈」與制裁名單不斷拉長。這迫使中國政府不得不動用「新型舉國體制」，將大筆財政補貼砸向晶片製造與成熟製程產能的擴張，以防在極端地緣衝突下遭遇斷網、斷芯的毀滅性打擊。這場事關國運的結構性大考，考驗著北京最高領導層的戰略定力與治理智慧。"
       }
     },
     "landmarks": {
       "en": {
         "list": [
-          "Beijing — capital and political-cultural center",
-          "Shanghai — major finance and commercial hub",
-          "Shenzhen — technology and innovation city",
-          "Great Wall of China — iconic historical landmark"
+          "Beijing Nucleus — The political heartland anchoring the Forbidden City and Tiananmen Square",
+          "Shanghai Bund — The global financial waterfront showcasing historic banks and the Oriental Pearl Tower",
+          "Shenzhen Silicon Valley — The southern technology frontier driving hardware industrial innovation",
+          "The Great Wall — The colossal ancient brick and stone defensive fortification crawling across northern ridges"
         ],
-        "text": "China’s major cities reflect different economic roles, while heritage sites such as the Great Wall and the Forbidden City represent powerful symbols of historical continuity and statecraft."
+        "text": "The landmark map of China charts a long trajectory from ancient imperial consolidation to hyper-modern vertical urbanism. While monuments like the Terracotta Army in Xi'an represent archaeological foundations of historical statecraft, the towering glass needles of Shanghai's Lujiazui financial district and the sprawling automated tech infrastructure of the Pearl River Delta signify China's unyielding drive toward futuristic technological dominance."
       },
       "zh": {
         "list": [
-          "Beijing—— 首都與政治文化中心",
-          "Shanghai—— 金融與商業中心",
-          "Shenzhen—— 科技與創新城市",
-          "Great Wall of China—— 世界著名歷史地標"
+          "萬里長城與故宮 —— 橫跨北方山嶺與坐落於北京市中心的古老防禦工程與明清兩代皇家權力中樞",
+          "外灘與陸家嘴 —— 上海象徵東方第一金融大都會的近代萬國建築群與對岸直插雲霄的現代摩天大樓群",
+          "西安兵馬俑 —— 埋藏於地下兩千年的大秦帝國地下軍陣，見證中國歷史上首個大一統中央集權國家的誕生",
+          "深圳市民中心與華強北 —— 象徵中國改革開放奇蹟與全球電子硬體供應鏈心臟的現代化科技景觀"
         ],
-        "text": "Shanghai是中國國際金融與航運中心，而Great Wall of China則是中國最具代表性的歷史文化象徵之一。"
+        "text": "中國的地標符號是其「五千年歷史底蘊與二十一世紀科幻感」劇烈碰撞的寫照。北京的故宮和天安門廣場，是整個國家政權與歷史法統的實體化身；而西安的秦始皇陵兵馬俑則向世界宣告著不列顛群島尚在部落混戰時，東亞大陸便已建立起精密的中央集權官僚體系。\n\n轉向南方，沿海城市則展現出完全不同的視覺景觀。上海陸家嘴由上海中心大廈等超高層摩天樓構成的天際線，是全球資本在東方集聚的明證；而深圳這座由小漁村在四十年內演變而來的創新都市，其高聳的科技總部大樓與密布的自動化智造園區，則是不折不扣的當代科技地標。這些景觀與長江三峽、桂林山水等自然遺產交織在一起，共同繪就了現代中國繁複的視覺地圖。"
       }
     },
     "international": {
       "en": {
         "list": [
-          "Permanent member of the UN Security Council",
-          "Major global economic and military power",
-          "Promoter of large-scale connectivity initiatives",
-          "Expanding influence across Asia and beyond"
+          "Permanent UN Security Council member exercising structural veto constraints over global diplomacy",
+          "Maintains the world's largest standing military force via the expanding People's Liberation Army (PLA)",
+          "Drives global financial and economic integration via the BRICS block and the New Development Bank",
+          "Expands exclusive cross-border infrastructure dependency networks via the Belt and Road Initiative"
         ],
-        "text": "China plays a central role in global trade, industrial supply chains, and international diplomacy. Competition and cooperation with other major powers shape many of its external relationships."
+        "text": "China's foreign policy works to systematically reform the post-WWII US-led global financial and security architecture to align with its sovereign interests. Deploying its massive economic gravity, sovereign debt loans, and expanding deep-water navy, Beijing effectively projects deep diplomatic and defense leverage across Central Asia, Africa, Latin America, and the Middle East, positioning itself as the primary alternative polar center in a multipolar world order."
       },
       "zh": {
         "list": [
-          "聯合國安理會常任理事國",
-          "全球主要經濟與軍事大國",
-          "「一帶一路」倡議推動者",
-          "在亞太與全球影響力擴大"
+          "聯合國安理會常任理事國，手握國際法統、集體安全與維和行動的絕對一票否決權",
+          "擁有全球規模最大且現代化程度極高、配備第三艘航空母艦福建艦的中國人民解放軍（PLA）",
+          "主導「金磚國家（BRICS）」與「上海合作組織（SCO）」，全力拉攏全球南方建構非西方主導的結算機制",
+          "推動跨越歐亞非大陸的「一帶一路（BRI）」倡議，透過海外港口（如瓜達爾港）租約鎖定全球戰略控制點"
         ],
-        "text": "China近年積極擴大國際經濟與外交影響力，在亞洲、非洲與拉丁美洲投資與合作增加。\n\n同時，中國與United States之間的科技、貿易與地緣政治競爭亦受到全球關注。"
+        "text": "中國的外交戰略近年已從傳統的「韜光養晦」全面轉向積極主動的「大國外交」。北京將自身定位為全球南方的領頭羊與西方新自由主義秩序的修正者。它運用龐大的市場准入權與巨額的基礎設施貸款，在非洲、拉美和中東建立起穩固的政治朋友圈，並在 2023 年成功促成沙烏地阿拉伯與伊朗歷史性復交，展現出強大的中東斡旋實力。\n\n面對美國在印太地區的軍事集結，中國正加速打造島鏈防禦與反介入/區域拒止（A2/AD）能力，透過在南海進行實質控島、常態化巡航西太平洋，全力推動多極化世界秩序的建立，意圖終結冷戰後由美國獨霸的單極格局。"
       }
     },
     "taiwan": {
       "en": {
         "list": [
-          "Cross-strait relations are highly sensitive",
-          "Deep economic and supply-chain links",
-          "Security and political issues draw significant attention",
-          "Large-scale people-to-people interaction in multiple domains"
+          "Considers Taiwan an inalienable renegade province under its absolute 'One China Principle'",
+          "Refuses to renounce the historical and sovereign right to utilize military force for 'reunification'",
+          "Maintains immense economic links, serving as Taiwan's primary export market for electronics",
+          "Enforces comprehensive global diplomatic exclusion networks and regular gray-zone PLA encirclement patrols"
         ],
-        "text": "China and Taiwan are deeply connected economically and culturally, while political and sovereignty disagreements remain central. Cross-strait dynamics continue to be a major regional security and diplomatic issue."
+        "text": "Cross-Strait relations are characterized by intense political and military polarization, alongside highly complex economic interdependencies. Beijing continuously ramps up gray-zone maritime pressure, combat readiness patrols, and economic leverage to counter perceived pro-independence narratives in Taipei and military cooperation between Taiwan and the United States. Concurrently, high-end cross-strait semiconductor component flows remain highly integrated, serving as a vital stabilizer for both economies."
       },
       "zh": {
         "list": [
-          "兩岸關係高度敏感",
-          "經貿與供應鏈連結深",
-          "政治與安全議題受關注",
-          "民間交流規模龐大"
+          "堅持「一個中國原則」與「九二共識」，在憲法層面將台灣界定為其不可分割的神聖領土",
+          "將台灣問題視為核心利益中的核心，始終拒絕承諾放棄使用武力來完成「祖國統一」大業",
+          "兩岸經貿依賴度極深，大陸（含香港）長期為台灣商品出口、台商投資與半導體中間財的最主要市場",
+          "在國際上全面圍堵台灣的官方外交空間，並透過軍機軍艦常態化越過海峽中線、圍台軍演實施極限施壓"
         ],
-        "text": "台灣與中國之間在經濟、文化與人員往來上具有深厚連結，但政治與主權議題長期存在分歧。"
+        "text": "台海局勢是當前全球最敏感且最具爆炸性的地緣政治斷層線。北京方面將台灣問題定性為中國內政，強烈反對任何外部勢力（特別是美國）對台進行軍事援助與官方交往。近年來，中國人民解放軍顯著提升了「以武拒統」的實戰準備，透過無人機繞台、海警在金馬海域常態化執法等「灰色地帶戰術」，全面壓縮台灣的戰略縱深。\n\n然而，在這種高度緊繃的軍事對抗下方，卻隱藏著極其深厚的經濟共生關係。台灣的半導體技術是大陸電子產品與AI硬體研發不可或缺的齒輪，大批台資企業亦深深嵌入大陸的製造鏈中。北京政府在保持高壓軍事威懾的同時，也持續推出「惠台政策」與「海峽兩岸融合發展示範區（福建）」，企圖透過「以通促融、以惠促融」的雙軌戰略，在國際變局中逐步推進其反獨促統的最終政治目標。"
       }
     },
     "further": {
       "en": {
         "list": [
-          "One of the world’s largest economies",
-          "World’s largest high-speed rail network",
-          "Core homeland of Chinese civilization",
-          "Major global manufacturing and supply-chain hub",
-          "Rapidly growing technology sectors"
-        ],
-        "text": "China’s modern position is shaped by scale, infrastructure, industrial capacity, and a long civilizational tradition that continues to influence regional culture and global affairs."
+          "The sovereign birthplace and global custodian of Chinese civilization and Han characters",
+          "Constructed the largest artificial commercial transit marvel via the Grand Canal and Great Wall",
+          "Controls world-dominant monopolies over raw rare-earth mineral processing and photovoltaic cell output",
+          "Pioneered humanity's historic lunar far-side soft landings via the Chang'e aerospace program",
+          "Maintains unprecedented macroeconomic organizational capacity to deploy state-wide technological transformations"
+        ]
       },
       "zh": {
         "list": [
-          "世界第二大經濟體",
-          "擁有全球最大高鐵網路",
-          "中華文明核心國家",
-          "全球主要製造業中心",
-          "科技與電動車產業快速成長"
-        ],
-        "text": "中國以龐大人口與市場規模、製造與基礎建設能力，以及快速演進的科技產業，長期在全球經濟與政治結構中扮演關鍵角色。"
+          "漢字與四大發明（造紙術、印刷術、火藥、指南針）的故鄉，奠定了人類文明進程的半壁江山",
+          "擁有全球規模最大、效率最高且全產業鏈覆蓋的現代製造業集群，鋼鐵與水泥產量居全球首位",
+          "主導全球絕大部分稀土金屬的提煉加工與鋰電池核心材料供應，牢牢扼住全球綠色轉型的咽喉",
+          "航太工業發展極其迅猛，獨立建成了「天宮」太空站，並歷史性實現人類探測器首次月球背面軟著陸",
+          "在應對大規模地緣政治風暴與科技圍堵時，具備西方民主國家難以企及的國家資源動員與體制抗壓韌性"
+        ]
       }
     }
   },
   "quickFacts": [
     {
       "label": "Currency",
-      "value": "Renminbi (CNY)"
+      "value": "Renminbi (CNY / ¥ / The world's primary trade alternative invoicing currency and a major IMF SDR basket component)"
     },
     {
       "label": "Language",
       "value": {
-        "en": "Chinese (Mandarin)",
-        "zh": "漢語（普通話）"
+        "en": "Standard Mandarin Chinese (Based on the Beijing dialect scripts). Numerous regional tongues (Cantonese, Shanghainese, Hokkien) alongside official minority languages (Tibetan, Uyghur, Mongolian) enjoy statutory regional protection",
+        "zh": "現代標準漢語（普通話，以北京語音為標準音）；各地方言（粵語、閩南語、吳語等）底蘊深厚；在少數民族聚居區，藏文、維吾爾文、蒙古文等享有法定少數民族語言文字地位"
       }
     },
     {
+      "label": "GDP (nom.)",
+      "value": "$18T+ (The planet's second-largest nominal national economy and the undisputed locomotive of global industrial output)"
+    },
+    {
       "label": "Time zone",
-      "value": "UTC+8"
+      "value": "UTC+8 (China Standard Time - CST / A singular unified official time zone stretching across five geographic hours by decree)"
     },
     {
       "label": "Calling code",
@@ -315,36 +317,36 @@
     {
       "icon": "🏯",
       "text": {
-        "en": "Forbidden City — iconic imperial palace complex in Beijing",
-        "zh": "故宮（Forbidden City）——中國古代皇宮代表建築"
+        "en": "The Forbidden City — The majestic Ming and Qing imperial palace complex in Beijing, representing the architectural and bureaucratic apex of historical Chinese statecraft",
+        "zh": "北京故宮博物院 —— 世界上保存最完整、規模最大的明清兩代木結構皇家宮殿群，中華封建帝制權力與禮制美學的巔峰象徵"
       }
     },
     {
       "icon": "🧱",
       "text": {
-        "en": "Great Wall — world-famous ancient defensive system",
-        "zh": "萬里長城（Great Wall of China）——世界著名古代防禦工程"
+        "en": "The Great Wall of China — The awe-inspiring military defense stone fortification snaking over thousands of kilometers, standing as a legendary icon of civilizational identity",
+        "zh": "萬里長城 —— 橫亙於中國北方的巨型古代防禦工程，人類歷史上耗費人力最巨的軍事建築奇蹟，中華民族堅韌不拔與疆域防線的圖騰"
       }
     },
     {
       "icon": "💹",
       "text": {
-        "en": "World’s second-largest economy — central to global supply chains and manufacturing",
-        "zh": "世界第二大經濟體——全球供應鏈與製造中心"
+        "en": "Industrial Superpower Leverage — Serving as the primary manufacturing locus and structural supply chain crucible for the global consumer and technology markets",
+        "zh": "全球第二大經濟體 —— 作為世界第一製造大國與大宗商品黑洞，掌握著全球工業運作與跨國供應鏈生死存亡的深層底牌"
       }
     },
     {
       "icon": "🚄",
       "text": {
-        "en": "High-speed rail — the largest HSR network in the world by scale",
-        "zh": "高速鐵路——全球規模最大的高鐵系統"
+        "en": "High-Speed Rail Network — The world's largest and most technologically advanced HSR network, stitching together distant provinces via hyper-efficient state connectivity",
+        "zh": "中國高鐵（CRH）—— 總里程與技術成熟度全球第一的龐大高速鐵路網絡，以時速 350 公里的「中國速度」實質重塑了神州大陸的空間經濟學"
       }
     },
     {
       "icon": "🚀",
       "text": {
-        "en": "Technology and space — rapidly advancing sectors including AI and space programs",
-        "zh": "科技與航太發展——太空與AI產業快速成長"
+        "en": "Aerospace & Tech Superpower Autarky — Aggressively expanding space projection via independent orbital stations and deploying state-directed artificial intelligence ecosystems",
+        "zh": "自主航太與前沿科技 —— 憑藉獨樹一幟的探月計畫、獨立太空站以及在生成式 AI 與量子通訊領域的舉國突圍，全力爭奪次世代文明的話語權"
       }
     }
   ],
