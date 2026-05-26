@@ -1,0 +1,358 @@
+{
+  "name": {
+    "en": "Armenia",
+    "zh": "亞美尼亞"
+  },
+  "nativeName": "Հայաստան",
+  "capital": {
+    "en": "Yerevan",
+    "zh": "葉里溫"
+  },
+  "population": "2.8M",
+  "area": "29,743 km²",
+  "density": "94/km²",
+  "continent": "Asia",
+  "flagEmoji": "🇦🇲",
+  "dataEstYear": 2026,
+  "description": {
+    "en": "Armenia, officially the Republic of Armenia, is a landlocked, highly mountainous nation situated in the Armenian Highlands of the South Caucasus region. Positioned at the tectonic and cultural crossroads of Eastern Europe and Western Asia, it is bordered by Turkey to the west, Georgia to the north, Azerbaijan to the east, and Iran to the south. Historically recognized as the world's first sovereign state to officially adopt Christianity as its state religion (traditionally dated to AD 301), Armenia possesses a unique ethnic, linguistic, and civilizational identity spanning thousands of years. The contemporary republic is profoundly defined by its rugged volcanic topography, its sprawling global diaspora networks, and a critical period of strategic recalibration and security restructuring following the loss of the Nagorno-Karabakh enclave.",
+    "zh": "Armenia（亞美尼亞，全稱為亞美尼亞共和國）是位於南高加索地區、高聳於亞美尼亞高原之上的內陸山岳主權國家。該國地處東歐與西亞的地理及文明交界重鎮，西鄰土耳其，北接喬治亞，東臨亞塞拜然，南與伊朗交界。作為世界上第一個將基督教確立為法定國教的主權國家（傳統認定為公元 301 年），亞美尼亞擁有跨越數千年的獨特民族、語言與古文明傳承。當前亞美尼亞的國家面貌，深受其破碎的高原火山地貌、規模龐大的全球僑民網絡，以及在失去納戈爾諾－卡拉巴赫（納卡）割據地區後、全民族所面臨的歷史性外交轉向與國家安全重組秩序所形塑。"
+  },
+  "seoText": {
+    "en": "Discover Armenia's academic and geopolitical profile for 2026 — pink tuff architecture in capital Yerevan, demographic breakdown, and unique Indo-European Armenian language roots. Explore its early Christian milestones, medieval Khachkar cross-stones, the trauma of the 1915 Armenian Genocide, the influential global diaspora network, and the democratic reforms and security shifts post-Nagorno-Karabakh conflict.",
+    "zh": "全面解析亞美尼亞（Armenia）當代國情、人口與政治結構：包含首都葉里溫「粉紅之城」火山凝灰岩基建指標、主體民族與少數裔人口數據、獨特的印歐語系亞美尼亞語系譜。深入剖析世界最早國教基督教遺存、世界遺產蓋加爾德石窟修道院、1915年亞美尼亞大屠殺歷史集體記憶、全球千萬僑民政經網絡，以及納卡衝突失利後葉里溫政權的民主改革與向西方傾斜的外交戰略大轉型。"
+  },
+  "highlights": [
+    {
+      "icon": "⛪",
+      "text": {
+        "en": "First Christian State — Formally crowned Christianity as its official state religion in AD 301, preserving an ancient, apostolic liturgical legacy",
+        "zh": "全球首個基督教國家 —— 於公元 301 年正式將基督教定為國教，擁有獨立的使徒教會體系與世俗政權無法動搖的信仰圖騰"
+      }
+    },
+    {
+      "icon": "🏔️",
+      "text": {
+        "en": "Sacred Mount Ararat — The biblical resting place of Noah's Ark remains the absolute heart of Armenian identity despite sitting in modern Turkey",
+        "zh": "聖山亞拉拉特 —— 傳說中諾亞方舟的停泊地，雖在近現代劃歸土耳其管轄，但始終是全民族無可替代的精神與主權文化靈魂"
+      }
+    },
+    {
+      "icon": "🪨",
+      "text": {
+        "en": "Monastic Stones & Khachkars — Intricately hand-carved medieval cross-stones and ancient mountain monasteries define the architectural landscape",
+        "zh": "千年石雕與修道院 —— 遍布深山峽谷的獨特石刻十字架（Khachkar）與依山鑿建的火山岩修道院，構築了厚重的世界文化遺產景觀"
+      }
+    },
+    {
+      "icon": "🕯️",
+      "text": {
+        "en": "Diaspora & Genocide Memory — The legacy of the 1915 Ottoman atrocities binds a highly cohesive global network of over 7 million scattered expatriates",
+        "zh": "大屠殺記憶與千萬僑民 —— 1915 年鄂圖曼帝國大屠殺的歷史創傷，凝聚起全球遠超本土人數、在西方政壇影響力巨大的流亡僑民網絡"
+      }
+    },
+    {
+      "icon": "⚔️",
+      "text": {
+        "en": "Geopolitical Realignment — Navigating a existential transition in national security, state borders, and foreign alliances following the Nagorno-Karabakh paradigm shift",
+        "zh": "地緣戰略大重組 —— 在經歷納卡地區主權易手與難民危機的沉重打擊後，國家正面臨與傳統盟友疏離、全面轉向歐美的生存防衛考驗"
+      }
+    }
+  ],
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "An ancient civilization with enduring resilience, wedged between dominant regional empires",
+          "The Armenian Apostolic Church functions as the primary custodian of written language and cultural history",
+          "Economic operational space is significantly constricted by total border closures maintained by Ankara and Baku",
+          "A hyper-active transnational diaspora channels substantial capital, advocacy, and technology back to the fatherland"
+        ],
+        "text": "Armenia has historically survived at the precarious intersection of competing empires—the Persian, Ottoman, and Russian—forging a national character anchored in existential survival and collective memory. Modern Armenia operates as a parliamentary democracy seeking domestic transparency and economic modernization while dealing with severe security threats. Following the sudden loss of Nagorno-Karabakh (Artsakh) and the influx of over 100,000 displaced ethnic Armenians, the state is actively striving to diversify its defense agreements, transition its economy toward high-tech innovation, and leverage its global diaspora to bolster its sovereignty."
+      },
+      "zh": {
+        "list": [
+          "高加索地區最古老的原住民文明之一，在千百年間大國帝國的夾縫與征服中展現出驚人的生存韌性",
+          "亞美尼亞使徒教會不僅是宗教信仰的核心，更是亞美尼亞文字、古典文學與民族認同的最高守護者",
+          "地緣封鎖極其嚴重，因歷史恩怨與領土衝突，其與西側土耳其及東側亞塞拜然的邊界處於完全關閉狀態",
+          "擁有全球性的僑民游說與投資網絡，在華盛頓、巴黎及莫斯科擁有不容小覷的軟實力與財政反哺能力"
+        ],
+        "text": "亞美尼亞是一個將無比輝煌的古代文明與無比沉重的近現代悲壯歷史交織一體的國家。在歷史上，這片高原曾遭到羅馬、波斯、阿拉伯、鄂圖曼與沙俄的輪番爭奪，導致其國土不斷萎縮，大批精英流亡海外。\n\n今日的亞美尼亞共和國正處於獨立建國以來的命運轉折點。2018年「天鵝絨革命」將現任政府推上舞台，開啟了反貪腐與全面擁抱西方的民主化進程。然而，地緣政治的殘酷現實隨之而來——隨著在與亞塞拜然的軍事對抗中失利，長年實質獨立的納卡割據政權於近年宣告解散，導致超過十萬名當地亞美尼亞同胞集體撤回本土，給這個小國帶來了前所未有的社會安頓與國防防線崩潰危機。當前，葉里溫當局正痛苦地重塑其國家戰略，試圖在傳統安全保護傘失靈的情況下，依靠國際法、西方外交支持及高科技產業化尋求長治久安。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Occupies 29,743 square kilometers of land dominated by the Armenian Highlands' volcanic plateaus",
+          "Features an average altitude of over 1,800 meters, with less than 10% of the territory lying below 1,000 meters",
+          "The Ararat Plain along the western frontier serves as the primary agricultural basket and economic hub",
+          "Lake Sevan dominates the eastern highlands, operating as a vital freshwater repository and ecological crown"
+        ],
+        "text": "Armenia’s physical geography is rugged and highly elevated. The landscape is a network of extinct volcanic cones, deep river canyons, and fault-block plateaus, making cross-country transport infrastructure difficult to construct. The country possesses no sea access, leaving its northern route through Georgia and southern passage via Iran as its only active trade corridors. Lake Sevan, positioned at 1,900 meters above sea level, covers roughly one-sixth of the interior's surface area, acting as a crucial reservoir for irrigation, hydro-power, and national tourism."
+      },
+      "zh": {
+        "list": [
+          "國土面積僅為 29,743 平方公里，全境無出海口，是一個徹頭徹尾的內陸高山國家",
+          "地形以亞美尼亞高原為主體，全國平均海拔高達 1,800 公尺以上，多為險峻的斷裂褶皺山脈與火山熔岩台地",
+          "西部的亞拉拉特平原（Arat Plain）地勢相對平緩，是全國人口最稠密、農業灌溉最發達的命脈核心區",
+          "高聳於東部的塞凡湖（Lake Sevan）面積約佔全國面積的六分之一，是高加索最大、也是世界最高的高山淡水湖之一"
+        ],
+        "text": "亞美尼亞的地貌特徵可以用「亂石成堆、高山仰止」來形容。其位於小高加索山脈南麓，全境充斥著由古代火山噴發形成的玄武岩與安山岩構造，崎嶇不平的地形極大地限制了鐵路與大規模工業區的布設。北部的阿拉加茨山（Mount Aragats）是境內最高峰，海拔達 4,090 公尺，是一座死火山。\n\n由於東、西兩側邊境遭到亞塞拜然與土耳其的全面聯合封鎖，亞美尼亞的對外生命線被攔腰截斷，只能高度仰賴北向通往喬治亞黑海港口的崎嶇山路，以及南向跨越阿拉斯河、進入伊朗的狹窄陸路通道。這種極端的「地緣囚徒」困境，使得國內任何資源都顯得彌足珍貴。東部的塞凡湖不僅蓄積了數百億立方公尺的珍貴淡水，更是調節整個高原微氣候與水力發電的國家心臟。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Exhibits a distinct dry, highland continental climate profile with severe seasonal contrasts",
+          "Summers in the Ararat basin are intensely hot and sunny, frequently scaling past 40°C",
+          "Winters are characterized by stagnant Siberian sub-zero cold and persistent alpine snow cover",
+          "Annual precipitation is heavily altitude-dependent, leaving valleys prone to moisture deficits"
+        ],
+        "text": "Armenia's continental climate produces extreme temperature fluctuations throughout the calendar year. While the high-altitude ranges experience brief, cool summers and prolonged, freezing alpine winters that attract regional ski enthusiasts, lower elevations like Yerevan face desert-like aridity in mid-summer. This variation creates sharp local micro-climates within neighboring valleys. Agriculture is highly dependent on precise seasonal snow-melt capture and modern canal networks channeling water from high reservoirs down into the thirsty clay soils of the plains."
+      },
+      "zh": {
+        "list": [
+          "呈現極其鮮明的高地大陸性氣候，垂直氣候帶特徵顯著，冬夏兩季溫差呈現極端化發展",
+          "低海拔的葉里溫盆地與平原夏季漫長、乾燥且烈日當空，最高氣溫常年突破 40°C",
+          "高海拔山區冬季漫長而嚴寒，受西伯利亞高壓控制，長年積雪不化，氣溫常下探至 -30°C",
+          "全國年平均降雨量僅為 300 至 800 毫米，且分佈極不均勻，中低部盆地春夏季普遍面臨乾旱威脅"
+        ],
+        "text": "亞美尼亞的氣候是一場關於高度與季節的極端對話。當夏季來臨，首都葉里溫所在的低地被滾燙的熱浪籠罩，空氣乾燥得幾乎沒有一絲濕氣，促使市民形成了在日落後才湧上街頭、聚集於噴泉廣場消暑的獨特夜生活習慣。\n\n然而此時，若驅車前往一小時車程之外的塞凡湖畔，氣溫則可能只有涼爽的 20°C 上下。到了冬季，整座國家則會迅速被冰雪封印，高山埡口常因暴風雪而中斷交通，這使得位於迪利然（Dilijan）和察赫卡佐爾（Tsaghkadzor）的山地小鎮化身為冰雪世界，吸引著整個高加索地區的滑雪愛好者。由於整體氣候偏向乾旱，春季的高山融雪成為全年生態與灌溉用水的決定性來源，水資源管理直接關係到國家的糧食安全。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Maintains a stable home population base estimated at 2.8 million within domestic bounds",
+          "Displays an extreme, nearly absolute ethnic homogeneity with Armenians at 98.1% of the total",
+          "The Yazidi community constitutes the largest recognized non-Armenian indigenous minority at 1.2%",
+          "More than two-thirds of the worldwide Armenian population lives outside the country's sovereign borders"
+        ],
+        "text": "Armenia stands out globally as an exceptionally homogeneous country, a direct consequence of historical border realignments, the 1915 mass deportations, and population exchanges with Azerbaijan in the late 1980s. According to local statistical reviews, the permanent resident composition is as follows: ethnic Armenians (98.1%), Yazidis (1.2%), Russians (0.4%), and a scattering of Assyrians, Kurds, Ukrainians, and Pontic Greeks (0.3%). Religiously, 92.6% of residents belong to the Armenian Apostolic Church, which retains a protected, historic status under the constitution as the national church. Sociomilitarily, the country recently absorbed over 100,000 Karabakh Armenian refugees, expanding urban housing demands. Meanwhile, the Armenian global diaspora remains massive, with estimated populations of 2.2 million in Russia, 1.5 million in the United States, and 600,000 in France, providing the home nation with important financial support."
+      },
+      "zh": {
+        "list": [
+          "2026 年底境內實際常住人口約為 280 萬人，呈現出高度向首都葉里溫都市圈集中的趨勢",
+          "民族構造呈現全球罕見的極致單一性，主體民族亞美尼亞族佔據了總人口的 98.1% 以上",
+          "雅茲迪族（Yazidis）是國內唯一的顯著少數民族（約占 1.2%），保留著獨特的古代宗教與游牧傳統",
+          "全球亞美尼亞裔總數高達 1,000 萬人，其中高達七成以上定居海外，形成龐大的全球流散社群"
+        ],
+        "text": "根據亞美尼亞國家統計局（Armstat）與國際人口普查數據的最新梳理，經歷了 20 世紀末的多次地緣政治震盪與近年納卡地區的難民大遷徙後，亞美尼亞的民族與宗教構成已凝結為一個高度純淨、高度團結但備受人口流失外流折磨的結構，詳細數據與分佈如下：\n\n**境內民族結構：**\n* **亞美尼亞族（Armenian）：** 占境內總人口的 **98.1%**。這是一個擁有獨立文字與古老高加索/近東血統的民族。2023年底，隨著納卡地區割據政權解體，高達 **10.6 萬** 名原本居住在納卡的亞美尼亞人全數打包撤退、湧入亞美尼亞本土，這批難民的遷入在短期內填補了本土因人口外流造成的勞動力空缺，但也帶來了沉重的財政與社會保障安置負擔。\n* **雅茲迪族（Yazidis）：** 占 **1.2%**。主要分佈在葉里溫西北部的農牧區，他們是該國最受尊重的少數群體，信奉獨特的孔雀天使宗教，不與外族通婚，在亞美尼亞建有全球最大的雅茲迪教神廟。\n* **俄羅斯族（Russians）：** 占 **0.4%**。多為前蘇聯時期留下的技術人員、軍人家屬，以及近年因俄烏局勢而大舉移居至葉里溫的俄羅斯 IT 精英、自由職業者。\n* **其他微少民族（亞述人、庫德人、希臘人、烏克蘭人）：** 合計占 **0.3%**。在 1988 年蘇聯解體前夕，該國曾有數十萬亞塞拜然族居民，但隨後的全面戰爭導致兩國境內進行了徹底的「民族大清洗與交換」，現境內已無公開居住的亞塞拜然族。\n\n**全球流散人口（Diaspora）對比：**\n亞美尼亞真正的民族力量在於國境之外。由於 1915 年鄂圖曼帝國的大屠殺以及蘇聯解體初期的經濟崩潰，全球有超過 **700萬至800萬** 亞美尼亞裔生活在海外。主要分佈為：**俄羅斯**（約 220 萬人）、**美國**（約 150 萬人，以洛杉磯「小亞美尼亞」為大本營）、**法國**（約 60 萬人）。海外僑民在好萊塢、華爾街與歐洲政壇群星閃耀（如名媛卡戴珊家族、已故巨星亞茲納弗等），其遊說集團在美法兩國國會具有左右外交政策的龐大能量。\n\n**宗教信仰分佈：**\n* **亞美尼亞使徒教會（Armenian Apostolic Church）：** 占總人口的 **92.6%**。這是一個極其古老的東方正統教會，直屬總部設在聖城埃奇米阿津（Etchmiadzin），在歷史上當國家滅亡時，教會實際上充當了影子政府的角色。\n* **其他宗教（福音派基督教、俄羅斯正教、雅茲迪孔雀教）：** 合計占 **7.4%**。雖然宗教情感極其深厚，但在蘇聯世俗化教育體制與當代西方自由主義思潮夾擊下，亞美尼亞本土地區的日常社會運作依然遵循現代世俗法規。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "A small, dynamic knowledge economy constrained by closed borders and infrastructure limits",
+          "Yerevan has emerged as a high-growth technological hub for global software outsourcing",
+          "Maintains high economic integration with Russia via the EAEU, while aggressively expanding trade with the EU",
+          "Remittances and philanthropic grants from the global diaspora serve as essential fiscal backstops"
+        ],
+        "text": "Armenia’s economy is small but has shown notable agility, with a nominal GDP of approximately 25 billion dollars. Due to strict blockades enforced along 80% of its land borders by Turkey and Azerbaijan, the state has actively bypassed its lack of mineral wealth by prioritizing intellectual capital. The information technology and software engineering sector has expanded rapidly, supported by government tax incentives and an influx of foreign tech workers. Agriculture remains important in the rural plains, alongside premium brandy production and copper mining, though trade flows depend on transit links via Georgia and Iran."
+      },
+      "zh": {
+        "list": [
+          "屬於精緻、敏捷型的小型高地經濟體，長期在土耳其與亞塞拜然雙重地緣经济封鎖下逆境求生",
+          "資訊科技（IT）與軟體開發產業在葉里溫爆發式成長，被譽為高加索地區的「新興矽谷」",
+          "儘管政治關係日趨冷淡，但經濟上仍是俄羅斯主導的「歐亞經濟聯盟（EAEU）」成員，同時積極爭取歐盟自貿待遇",
+          "海外僑民的無償匯款、愛國慈善基金注入與直接跨國投資，構成國家外匯儲備與基礎建設的重要支柱"
+        ],
+        "text": "亞美尼亞的經濟總量約為 250 億度美元，在南高加索三國中規模最小。由於缺乏阿塞拜疆那樣的石油黑金天賦，又遭到兩大強鄰的鐵路與貿易封鎖，亞美尼亞被迫將目光投向了「人腦開發」。自獨立以來，歷屆政府皆將 IT 產業列為國家戰略核心，憑藉蘇聯時代遺留下來的強大數學與物理教育根基，葉里溫吸引了大量美資科技巨頭前來設立研發中心。\n\n近年，因地緣政治震盪導致大批俄羅斯高階工程師與科技企業集體遷往葉里溫，更為該國注入了龐大的資金與技術活力，推動服務業與房地產迎來一波罕見的景氣繁榮。除了高科技之外，亞美尼亞傳統的鉬、銅等有色金屬礦產出口，以及利用亞拉拉特平原頂級葡萄釀造、連溫斯頓·邱吉爾都為之傾倒的「亞美尼亞頂級白蘭地（Ararat Brandy）」，依然是其賺取外匯的傳統主力。然而，能源供給（天然氣與核電原料）幾乎百分之百捏在俄羅斯手中，是其經濟主權上難以擺脫的軟肋。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Operates as a parliamentary republic where legislative majorities direct state affairs",
+          "The ruling Civil Contract party, led by Prime Minister Nikol Pashinyan, directs governance",
+          "Domestic political debates are highly polarized, centering on post-war security compromises",
+          "Engaged in a historical pivot away from traditional Kremlin pacts toward European integration"
+        ],
+        "text": "Armenia's contemporary political structure was fundamentally reshaped by the 2018 Velvet Revolution, which dismantled decades of oligarchic rule and brought journalist-turned-politician Nikol Pashinyan to power as Prime Minister. Since then, the political sphere has been characterized by intense polarization. Despite experiencing a catastrophic military defeat in the 2020 Karabakh war, Pashinyan secured a renewed democratic mandate in subsequent elections, reflecting a public desire to avoid the return of old elites. The administration is focused on systematic anti-corruption campaigns, institutional judicial reforms, and seeking alternative western security partnerships."
+      },
+      "zh": {
+        "list": [
+          "採用議會共和制，總理作為政府首腦握有實質行政大權，議會多數黨決定內閣組成",
+          "由 2018 年革命領袖帕希尼揚（Nikol Pashinyan）所領導的「公民合約黨」掌握執政權",
+          "國內政壇因納卡戰敗割地問題陷入長期撕裂，反對派與教會勢力頻繁發動街頭抗爭試圖罷免內閣",
+          "當前外交政策正經歷歷史性的「去俄羅斯化」轉向，凍結集體安全條約組織（CSTO）活動，全面引入歐盟觀察團"
+        ],
+        "text": "亞美尼亞的政治是一場在民主理想、歷史創傷與地緣殘酷現實之間的艱難博弈。2018 年，民眾因不滿老牌親俄軍政集團的腐敗，發動了震驚世界的「天鵝絨革命」，將走街串巷高呼反腐口號的帕希尼揚推上總理寶座，使亞美尼亞成為前蘇聯空間中少有的民主燈塔。\n\n然而，2020 年與 2023 年在納卡戰場上的連續慘敗，將執政當局推向了風口浪尖。反對派強烈譴責帕希尼揚政府是「賣國賊」，指責其外交幼稚導致國家失去安全屏障，軍隊內部與亞美尼亞使徒教會的高層也多次公開站台支持反政府示威。但出乎國際觀察家意料的是，在多次提前大選中，主流選民出於對舊體制腐敗復辟的恐懼，依然選擇將選票投給現任政府。目前，帕希尼揚政權正採取極其大膽的政治冒險：公開指責俄羅斯在關鍵時刻背叛了盟友義務，宣布實質退出集體安全條約組織（CSTO），轉而尋求法國、美國的軍事援助與歐盟的政治庇護，這場大國博弈的平衡術正將亞美尼亞帶入未知的水域。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Maintains deep social continuity grounded in cultural conservatism and strong family bonds",
+          "The collective memory of historical tragedies shapes public viewpoints and nationalism",
+          "Yerevan serves as the absolute cosmopolitan, lifestyle, and civic-protest center of the republic",
+          "Possesses highly advanced general literacy rates, inherited from strong educational foundations"
+        ],
+        "text": "Armenian society exhibits a fascinating combination of deep cultural conservatism and active, forward-looking civic engagement. Social life centers around the extended family network, where respect for elder consensus and protection of children remain paramount. The collective memory of historical traumas, most notably the 1915 Genocide, functions as a powerful socio-political glue that unifies domestic citizens and diaspora communities globally. While rural areas remain strongly traditional, Yerevan features a lively, European-style lifestyle centered around outdoor cafes, contemporary jazz venues, and a highly active student activist population."
+      },
+      "zh": {
+        "list": [
+          "社會風氣高度重視家族紐帶與宗族血緣，尊老愛幼與集體互助的傳統在城鄉皆根深蒂固",
+          "1915年大屠殺的創傷集體記憶與近代數次戰爭的陣亡將士祭奠，構成全民族最神聖不可觸碰的社會共識",
+          "首都葉里溫集中了全國近半數人口與幾乎所有的高等學府，是嬉皮文化、公民運動與政治集會的絕對舞台",
+          "得益於蘇聯時期打下的紮實基礎，國民整體受教育水平與識字率高達 99.7%，極度崇尚學術與知識成就"
+        ],
+        "text": "亞美尼亞社會的面貌，宛如一尊歷經風霜卻依然神聖佇立的石刻十字架。在日常生活中，家庭是所有人最堅實的港灣，傳統的男主外、女主內觀念在廣大農村依然普遍，而對家族榮譽的維護則刻在每個人的骨子裡。儘管近年來西方個人主義思潮隨著網路與 IT 產業大量湧入葉里溫，使年輕一代在著裝、戀愛與政治表達上日趨前衛自由，但在面對國家生死存亡的重大議題時，整個社會往往會展現出驚人的保守凝聚力。\n\n全社會對軍隊與陣亡士兵（Fedayeen）抱有近乎宗教般的崇拜，葉里溫市中心的「耶拉布勒（Yerablur）軍人公墓」終年鮮花不斷，成為民族悲壯感的精神朝聖地。同時，社會對教育的重視達到虔誠的地步，亞美尼亞是全球第一個將「西洋棋」列為中小學義務教育必修課的國家，他們堅信智力開發是這個缺乏資源的小國在世界上立足的唯一武器。近十萬納卡難民進入本土後，社會各界自發組織了大規模的民間收容與物資捐贈，未發生大規模動盪，再次印證了這個民族在災難面前的超強互助韌性。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "An ancient civilization derived from Urartian archetypes and elegant Indo-European traditions",
+          "The distinctive Armenian alphabet, created by Mesrop Mashtots in AD 405, remains a prime pride marker",
+          "The Duduk, a double-reed apricot-wood oboe, yields the globally recognized melancholic national sound",
+          "Culinary traditions blend fresh highland herbs, flatbread lavash, and early wine-making history"
+        ],
+        "text": "Armenia’s cultural landscape is an ancient civilizational landmark. Its unique 36-letter alphabet, created in AD 405, allowed the transmission of rich liturgical, historical, and philosophical texts through centuries of foreign rule. Traditional Armenian architecture is marked by domed stone basilicas made of pink and golden volcanic tuff, engineered to survive major seismic events. In the performing arts, the deep, soulful sound of the Duduk woodwind instrument captured the world's attention via UNESCO classification, while archaeological sites like Areni-1 confirm that the country possesses some of the oldest documented winemaking facilities on earth."
+      },
+      "zh": {
+        "list": [
+          "上溯至公元前烏拉爾圖（Urartu）王國的古老血統，發展出完全獨立於周邊突厥與斯拉夫的文化體系",
+          "聖人馬什托茨於公元 405 年創製的 36 個亞美尼亞獨特字母，是民族歷經千年不被異化的文化密碼",
+          "國寶級樂器「杜讀克（Duduk）」木笛以杏木雕成，其低沉、空靈而略帶哭腔的音色被公認為民族靈魂的哀歌",
+          "飲食文化位居高加索與地中海交界，以現烤薄餅（Lavash）、高山烤肉與擁有 6000 年歷史的古老釀酒業聞名"
+        ],
+        "text": "亞美尼亞文化是一座與世隔絕的文明孤島，散發着古樸而孤傲的芬芳。當周邊國家普遍使用拉丁字母或西里爾字母時，亞美尼亞人依然在使用公元 405 年便定型的亞美尼亞字母。這種形似密碼的文字不僅僅是溝通工具，更是沙場征戰時凝聚軍民、免遭波斯同化的文化盾牌。\n\n在視覺藝術上，亞美尼亞建築是人類石造工程的傑作。遍布全國的「石刻十字架（Khachkar）」在幾公分厚的玄武岩板上精雕細刻出繁複不重複的蕾絲花紋、石榴與葡萄圖騰，象徵著復活與永生，已被列入聯合國非物質文化遺產。\n\n其古老修道院如塞凡納旺克（Sevanavank）或塔特夫（Tatev），一律採用當地特產的粉紅色火山凝灰岩建構，樸素的錐形圓頂與厚實的石牆與背後的荒涼雪山融為一體，給人帶來強烈的視覺震撼。而當杜讀克笛（Duduk）的笛聲在修道院迴廊想起，那種綿延數千年的憂傷與尊嚴，便會瞬間擊中每一位傾聽者的心靈。此外，阿雷尼（Areni）洞穴中出土了世界上最古老的釀酒作坊與皮鞋，向世人證明這片土地是人類早期文明與精緻生活的搖籃。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Integrating and housing over 100,000 forcibly displaced ethnic Armenian refugees from Karabakh",
+          "Defending absolute sovereign territorial integrity against border incursions and corridors proposed by Azerbaijan",
+          "Managing extreme energy and economic strategic vulnerabilities stemming from long reliance on Moscow",
+          "Reversing sustained rural depopulation caused by the historic outward migration of younger workers"
+        ],
+        "text": "Armenia's primary national issues are rooted in long-term geopolitical vulnerability and demographic pressures. The complete dissolution of the separatist entity in Karabakh created a humanitarian emergency, requiring the state to absorb and integrate an influx equal to over 3% of its total domestic population. Border demarcation with Azerbaijan remains highly sensitive, with constant risks of localized skirmishes along the southern Syunik province—a strategic strip coveted by Baku for its Zangezur Corridor project. Structurally, the state must replace its fading security reliance on Russia without provoking aggressive regional pushback."
+      },
+      "zh": {
+        "list": [
+          "如何就地消化、長期安頓並深度融合高達 10.6 萬名從納卡地區撤出的失土難民同胞，財政面臨嚴峻考驗",
+          "堅決捍衛南部休尼克省（Syunik）的主權完整，全力抵制亞塞拜然試圖強行開闢「贊格祖爾走廊」的軍事威脅",
+          "在與俄羅斯政治決裂的同時，必須尋求替代方案以應對俄方隨時可能實施的天然氣斷供與關稅報復",
+          "國內人口出生率持續低迷，加之青年精英因就業機會有限而持續外流歐美，國家面臨長期的勞動力萎縮危機"
+        ],
+        "text": "2026年的亞美尼亞正面臨著建國以來最險惡的內憂外患「完美風暴」。地緣安全方面的頭號大敵是防線的空前脆弱。隨著納卡緩衝區的徹底消失，亞塞拜然的正規軍直接開到了亞美尼亞本土的邊界線上，邊境劃界談判稍有不慎便會演變為局部軍事衝突。亞塞拜然與土耳其聯手施壓，要求葉里溫割讓或開放南部休尼克省的控制權以建立「贊格祖爾走廊」，這條走廊一旦由外國掌控，將徹底切斷亞美尼亞與唯一友善鄰國伊朗的實質邊界，使其陷入四面楚歌的絕對孤立。\n\n在內部，10 多萬納卡難民的就業、子女教育與永久住房安置是一筆沉重的財政無底洞，極易引發本土居民與難民之間的資源爭奪怨言。更具長遠威脅的是「結構性人口失血」，由於長期看不到和平前景，大批受過高等教育的年輕人選擇藉由海外僑民關係网移民歐美，導致內陸省份出現大片「老人村」，這對於一個國防高度依賴義務兵役制、鄰國人口高達自己數倍的小國而言，無異於釜底抽薪。如何在極其有限的時間內完成國防現代化轉型、確保國家不被從地圖上抹去，是擺在全民族面前的生死考驗。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "The Yerevan Cascade — A giant, Soviet-era limestone systemic stairway hosting contemporary modern art museums",
+          "Khor Virap Monastery — The historic pilgrimage site offering an unmatched view of Mount Ararat across the border",
+          "Geghard Monastery — A spectacular UNESCO world heritage cathedral complex carved directly out of solid rock",
+          "Tatev Monastery — A medieval stronghold perched on a cliff edge, reached via the world's longest reversible aerial tramway"
+        ],
+        "text": "Armenia’s physical landmarks capture its deep spiritual legacy and unique engineering triumphs. Yerevan is characterized by its pink volcanic tuff facades, with the massive open-air Cascade complex acting as its modern architectural axis. Near the Turkish border, Khor Virap Monastery marks where Saint Gregory the Illuminator was imprisoned before converting the Armenian King to Christianity in AD 301. Architectural marvels like the rock-carved Geghard complex and the remote Tatev Monastery—accessed by the spectacular 'Wings of Tatev' cable car over deep gorges—continue to draw global travelers."
+      },
+      "zh": {
+        "list": [
+          "葉里溫大階梯（The Cascade）—— 依山而築的巨型白色大理石階梯地標，內部與平台陳列著無數世界級現代藝術雕塑",
+          "深坑修道院（Khor Virap）—— 亞美尼亞基督教奠基人曾被囚禁於此，是眺望邊界外聖山亞拉拉特山雙峰的絕佳位置",
+          "蓋加爾德修道院（Geghard）—— 聯合國教科文組織世界遺產，整座聖堂完全從堅硬的山體巨石中鏤空開鑿而成",
+          "塔特夫修道院（Tatev）—— 聳立於深淵斷崖之巔的中世紀經院學府，需搭乘世界上最長的有軌高空索道方可抵達"
+        ],
+        "text": "亞美尼亞的地標是一場洗滌心靈的視覺與歷史饗宴。走進首都葉里溫，市中心的黑達爾廣場與縱貫南北的大階梯（The Cascade）展現出獨特的粉紅色火山岩蘇聯現代主義美學，這裡擺放著哥倫比亞雕塑大師博特羅的肥胖雕塑，頂層平台則能將整座城市與遠處白雪皚皚的亞拉拉特山連成一幅壯麗的畫卷。\n\n走出市區，歷史的厚重感迎面撲來。矗立在土耳其邊境線僅數百公尺處的深坑修道院（Khor Virap），是亞美尼亞人的信仰發源地，公元 301 年聖格列高利正是從這裡的幽深地牢中脫困，成功感化國王將基督教定為國教；這裡也是拍攝亞拉拉特聖山巨大背影的最佳機位。\n\n而隱匿在阿扎特山谷深處的蓋加爾德修道院（Geghard，意為聖矛），則展示了中世紀工匠的鬼斧神工，大殿內的柱子、拱頂與祭壇完全是在一整塊花崗岩巨石內部向下挖掘雕鑿而成，陽光從石頂的孔洞射入，照亮壁畫，迴響著神聖的聖歌。南部的塔特夫修道院（Tatev）則守護著險要的Vorotan大峽谷，遊客必須搭乘被載入金氏世界紀錄、長達 5.7 公里的「塔特夫之翼」高空索道，在幾百公尺的高空飛越雲霧與深淵，方能一睹這座中世紀學術與軍事堡壘的孤傲尊容。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "Relations with Moscow are frozen due to faddish mutual recriminations over regional security pact breakdowns",
+          "Maintains highly active, cooperative defensive and trade development pacts with neighboring Iran",
+          "Formally signed Rome Statute membership to align with Western international judicial courts",
+          "Leverages its expansive transnational diaspora lobbies to secure high-level political sympathy from Paris and Washington"
+        ],
+        "text": "Armenia’s foreign policy is undergoing an unprecedented and risky strategic transformation. Having historically relied almost entirely on the Russian Federation for military deterrence, Yerevan has frozen its participation in the CSTO alliance following Russia's failure to intervene during border crises. Concurrently, Armenia has ratified the ICC Rome Statute, deeply angered Moscow. To survive regional threats, the Pashinyan administration is pursuing comprehensive Western integration, receiving expanded military equipment from France, hosting joint drills with the United States, and deepening a pragmatic trade relationship with Iran, which opposes any border adjustments in the region."
+      },
+      "zh": {
+        "list": [
+          "與克里姆林宮的傳統戰略盟友關係降至歷史冰點，公開凍結集安組織席位，拒絕俄方駐軍擴張",
+          "與南部鄰國伊朗維持極其緊密的務實戰略合作，德黑蘭將亞美尼亞邊境主權完整視為其自身核心地緣利益",
+          "正式批准加入國際刑事法院（ICC）《羅馬規約》，在法理上與莫斯科劃清界線，向西方展現民主合規決心",
+          "依託強大的海外流散政治精英，成功促使法國向其提供現代化防空導彈與裝甲車，美軍亦派遣教官聯合演習"
+        ],
+        "text": "亞美尼亞的外交正在上演一場南高加索版的「大國推圖與反切」。在過去三十年裡，葉里溫將國防安全的身家性命全部押在了俄羅斯身上，境內至今駐紮著第 102 號俄軍基地。然而，近年來當亞塞拜然發動猛烈進攻時，深陷俄烏戰場泥潭且需要拉攏巴庫與土耳其的莫斯科選擇了袖手旁觀，這讓亞美尼亞舉國上下產生了被盟友「徹底出賣」的強烈憤怒。\n\n帕希尼揚政府隨後展開了決絕的外交大轉向：不僅拒絕參加集安組織峰會，甚至高調批准了《羅馬規約》，意味著一旦普丁踏上亞美尼亞土地，葉里溫在法律上有義務將其逮捕。為了填補安全真空，亞美尼亞積極向歐美示好，歐盟隨即向亞美尼亞邊境派遣了長期非軍事觀察團以阻止亞塞拜然進一步入侵，法國則打破禁忌，成為第一個向亞美尼亞出口先進雷達與導彈等致命性防衛武器的西方大國。與此同時，亞美尼亞小心翼翼地維護著與伊朗的「背靠背」關係，因為信奉什葉派的伊朗為了防止土耳其勢力北上合圍，明確警告亞塞拜然：絕不允許消滅亞美尼亞或更改兩國邊境，這使得德黑蘭成了亞美尼亞現階段實質上最可靠的非主流安全底牌。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "No formal diplomatic representation established, with transactional consular affairs managed via Ankara or Moscow",
+          "Bilateral commercial exchanges concentrate on semiconductor electronic imports and cultural tourism",
+          "Often cited in Taipei's defense research circles as an illustrative study of gray-zone warfare challenges",
+          "People-to-people exploration is growing among travelers drawn to early Christian antiquities and hiking trails"
+        ],
+        "text": "The Republic of Armenia and Taiwan maintain no official diplomatic channels. Dominated by complex Eurasian alliance networks, Armenia aligns with traditional international statehood consensus, leading to all bilateral consular, tourist, or administrative issues being handled through the Taipei Economic and Cultural Mission in Ankara or Moscow. Economic exchange is modest but expanding within niche markets, primarily comprising Armenian imports of Taiwanese computational components, balanced by niche exports of regional spirits. In Taiwanese political science, Armenia's strategic dilemmas serve as an active comparison case for studying asymmetric defense and border defense dynamics."
+      },
+      "zh": {
+        "list": [
+          "雙方無正式官方外交關係，相關領事簽證與國民權益事務由台灣駐土耳其代表處或駐俄羅斯代表處兼轄",
+          "雙邊經貿呈現小而精的特徵，主要進口台灣的高階半導體元件與工業電腦，出口少量高檔白蘭地與礦產製品",
+          "在台灣國防與戰略研究界，亞美尼亞的遭遇常被作為「小國過度依賴單一大國安全承諾」的慘痛警示教材",
+          "民間文化交流隨高原徒步健行與早期基督教歷史熱潮而逐漸升溫，葉里溫古籍館的中文文獻交流近年有所增加"
+        ],
+        "text": "亞美尼亞與台灣之間的官方互動幾近於零。由於亞美尼亞在國際舞台上長期依賴俄羅斯提供外交護航，且近年極力爭取中國大陸對其「中間走廊」鐵路基建的資金注入，因此在涉台政治立場上維持極其嚴格的保守中立，台灣旅客前往亞美尼亞需申請相對繁瑣的電子簽證或經由海外使館面簽。然而，在民間實質層面，兩地的連結正在以一種「智慧型」的方式悄然展開。\n\n台灣的高科技資訊產品、特別是高穩定度的工業控制芯片與網通設備，是亞美尼亞大力發展其國內 IT 產業不可或缺的硬體基石。在學術與戰略思維領域，亞美尼亞在台灣的曝光率近年顯著飆升。台灣的智庫與國防戰略專家，將 2020 年與 2023 年發生的納卡戰爭視為現代「無人機蜂群戰術」與「電子干擾戰」的教科書級案例進行深度拆解。同時，亞美尼亞因外交誤判導致傳統安全盟友（俄羅斯）形同虛設、最終在國際孤立中被迫割地保國的悲壯遭遇，也在台灣社會引發了強烈的唇亡齒寒式共鳴，常年被拿來與台灣自身的防衛處境進行對比討論，成為探討「不對稱作戰」與「自主國防建設」時最常被提及的高加索案例。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "A foundational South Caucasus civilizational cradle built entirely around the Armenian Apostolic Church",
+          "Mount Ararat and rock-carved masonry serve as immutable architectural Anchors of the state",
+          "A sprawling global diaspora network bridges domestic industries directly into Western financial circles",
+          "A resilient small republic aggressively restructuring its national security and regional border architecture",
+          "Navigating a daring geopolitical transition away from post-Soviet pacts toward deep Western integration"
+        ]
+      },
+      "zh": {
+        "list": [
+          "南高加索無可替代的文明搖籃，依託獨立使徒教會與萬年石刻文字築起不滅的民族防線",
+          "以聖山亞拉拉特與粉紅凝灰岩修道院為靈魂符號，構築了人類歷史上最具悲壯美感的地景美學",
+          "龐大的海外千萬僑民網絡跨越華爾街與好萊塢，持續為本土母國輸送關鍵的政治游說與科技資本",
+          "在痛失納卡割據土地後、正展現出極強的民族韌性，全面轉入安置難民與邊境國防重建的生存戰役",
+          "正以極具歷史勇氣的政治冒險決心，毅然斬斷對俄安全依賴，轉向歐美尋求全新的主權長治久安之道"
+        ]
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": {
+        "en": "Armenian dram (AMD / ֏)",
+        "zh": "亞美尼亞德拉姆（AMD / 符號：֏）"
+      }
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "Armenian (Official state language written in its own historical 36-letter alphabet script; Russian remains highly understood and structurally integrated as a secondary commercial language across Yerevan)",
+        "zh": "亞美尼亞語（Armenian，國家唯一法定官方語言，採用專屬的古老 36 字母系統；俄語在全國特別是葉里溫都市圈仍具備極高的普及率與商務實用價值）"
+      }
+    },
+    {
+      "label": "GDP (nom.)",
+      "value": "$25B+"
+    },
+    {
+      "label": "Time zone",
+      "value": "UTC+4 (Armenia Time - AMT / No daylight saving time observations)"
+    },
+    {
+      "label": "Calling code",
+      "value": "+374"
+    },
+    {
+      "label": "ISO code",
+      "value": "AM / ARM"
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/364066",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=43.4%2C38.8%2C46.6%2C41.3&layer=mapnik"
+}

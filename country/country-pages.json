@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23",
+  "generatedAt": "2026-05-25",
   "countries": [
     {
       "slug": "canada",
@@ -290,8 +290,48 @@
       "nameEn": "Sri Lanka"
     },
     {
+      "slug": "turkmenistan",
+      "nameEn": "Turkmenistan"
+    },
+    {
+      "slug": "uzbekistan",
+      "nameEn": "Uzbekistan"
+    },
+    {
+      "slug": "kyrgyzstan",
+      "nameEn": "Kyrgyzstan"
+    },
+    {
+      "slug": "tajikistan",
+      "nameEn": "Tajikistan"
+    },
+    {
+      "slug": "georgia",
+      "nameEn": "Georgia"
+    },
+    {
+      "slug": "armenia",
+      "nameEn": "Armenia"
+    },
+    {
+      "slug": "azerbaijan",
+      "nameEn": "Azerbaijan"
+    },
+    {
       "slug": "taiwan",
       "nameEn": "Taiwan"
+    },
+    {
+      "slug": "ethiopia",
+      "nameEn": "Ethiopia"
+    },
+    {
+      "slug": "tanzania",
+      "nameEn": "Tanzania"
+    },
+    {
+      "slug": "uganda",
+      "nameEn": "Uganda"
     }
   ]
 }

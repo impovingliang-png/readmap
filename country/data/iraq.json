@@ -133,40 +133,40 @@
         ],
         "text": "After 2003, Iraq rebuilt its political institutions and operates a parliamentary republic framework. Relations among parties, communities, and regional authorities remain central to political stability, including the governance of the Kurdistan Region."
       },
-  "zh": {
-    "list": [
-      "採行聯邦議會共和制，實權由總理掌握，總統多由庫德族出任以示民族和解",
-      "政治體制依循不成文的教派配額制（Muhasasa），各方利益集團博弈激烈",
-      "北部庫德自治區（Kurdistan Region）擁有自己獨立的軍隊與立法權，地位超然",
-      "宗教宗教政黨、部族勢力與地方武裝在國家權力架構中依舊擁有深厚的輻射影響力"
-    ],
-    "text": "伊拉克在 2003 年伊拉克戰爭及薩達姆政權倒台後，逐步摸索並建立起一套全新的現代政治秩序。在聯邦憲法架構下，國家權力核心進行了精密的教派與民族平權分配：總理（實權首腦）固定由什葉派阿拉伯人擔任，國會議長由遜尼派阿拉伯人出任，而國家元首（總統）則保留給庫德族。這種設計有效防止了單一派系再度走向專制。\n\n位於北部的「庫德斯坦自治區」首府設在艾比爾（Erbil），是聯邦國內一個實力雄厚的「國中之國」，擁有高度自治的預算審批與防務部隊（Peshmerga）。如何妥善處理巴格達中央政府與庫德自治區在石油收益分配、爭議領土劃分上的動態平衡，始終是考驗歷屆內閣政治智慧的核心政治課題。"
-  }
-},
-"society": {
-  "en": {
-    "list": [
-      "Reconstruction continues in many cities",
-      "Uneven public service capacity",
-      "Large youth population",
-      "Security conditions have improved but remain uneven"
-    ],
-    "text": "Urban life has gradually resumed in many areas, yet infrastructure and public services require long-term investment. Security has improved compared with peak conflict periods, though conditions can vary by region."
-  },
-  "zh": {
-    "list": [
-      "各大核心城市正歷經前所未有的城市現代化大更新，星級酒店與商場大舉進駐",
-      "公共服務設施（如夏季電力供應、現代醫療）在不同省份與城鄉之間仍顯現落差",
-      "戰後出生、極其渴望與國際接軌的年輕人口比例極高，正重新定義社會消費主流",
-      "全國整體治安與社會穩定度已取得歷史性的大幅改善，國際商務與宗教旅遊全面解凍"
-    ],
-    "text": "現代伊拉克的社會風貌早已告別了過去烽火連天的舊印象。隨著對極端組織「伊斯蘭國（ISIS）」的決定性勝利，全國安全形勢步入長期的穩定紅利期。巴格達（Baghdad）的街頭拆除了大量的防爆水泥牆，取而代之的是徹夜通明的網紅咖啡館、現代化大型購物中心以及喧囂的國際體育賽事，都市夜生活再度焕發活力。\n\n規模無比龐大的年輕一代正成為推動社會風尚變革的核心力量。他們高度依賴智慧型手機與社交媒體，對反腐敗、提高政府行政效能、增加公共就業機會有著極其強烈的訴求，這股朝氣蓬勃的社會思潮正加速推動著伊拉克向開放、務實的世俗商務社會轉型。"
-  }
-},
-"culture": {
-  "en": {
-    "list": [
-      "Deep roots in ancient Mesopotamian civilizations",
+      "zh": {
+        "list": [
+          "採行聯邦議會共和制，實權由總理掌握，總統多由庫德族出任以示民族和解",
+          "政治體制依循不成文的教派配額制（Muhasasa），各方利益集團博弈激烈",
+          "北部庫德自治區（Kurdistan Region）擁有自己獨立的軍隊與立法權，地位超然",
+          "宗教宗教政黨、部族勢力與地方武裝在國家權力架構中依舊擁有深厚的輻射影響力"
+        ],
+        "text": "伊拉克在 2003 年伊拉克戰爭及薩達姆政權倒台後，逐步摸索並建立起一套全新的現代政治秩序。在聯邦憲法架構下，國家權力核心進行了精密的教派與民族平權分配：總理（實權首腦）固定由什葉派阿拉伯人擔任，國會議長由遜尼派阿拉伯人出任，而國家元首（總統）則保留給庫德族。這種設計有效防止了單一派系再度走向專制。\n\n位於北部的「庫德斯坦自治區」首府設在艾比爾（Erbil），是聯邦國內一個實力雄厚的「國中之國」，擁有高度自治的預算審批與防務部隊（Peshmerga）。如何妥善處理巴格達中央政府與庫德自治區在石油收益分配、爭議領土劃分上的動態平衡，始終是考驗歷屆內閣政治智慧的核心政治課題。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Reconstruction continues in many cities",
+          "Uneven public service capacity",
+          "Large youth population",
+          "Security conditions have improved but remain uneven"
+        ],
+        "text": "Urban life has gradually resumed in many areas, yet infrastructure and public services require long-term investment. Security has improved compared with peak conflict periods, though conditions can vary by region."
+      },
+      "zh": {
+        "list": [
+          "各大核心城市正歷經前所未有的城市現代化大更新，星級酒店與商場大舉進駐",
+          "公共服務設施（如夏季電力供應、現代醫療）在不同省份與城鄉之間仍顯現落差",
+          "戰後出生、極其渴望與國際接軌的年輕人口比例極高，正重新定義社會消費主流",
+          "全國整體治安與社會穩定度已取得歷史性的大幅改善，國際商務與宗教旅遊全面解凍"
+        ],
+        "text": "現代伊拉克的社會風貌早已告別了過去烽火連天的舊印象。隨著對極端組織「伊斯蘭國（ISIS）」的決定性勝利，全國安全形勢步入長期的穩定紅利期。巴格達（Baghdad）的街頭拆除了大量的防爆水泥牆，取而代之的是徹夜通明的網紅咖啡館、現代化大型購物中心以及喧囂的國際體育賽事，都市夜生活再度焕發活力。\n\n規模無比龐大的年輕一代正成為推動社會風尚變革的核心力量。他們高度依賴智慧型手機與社交媒體，對反腐敗、提高政府行政效能、增加公共就業機會有著極其強烈的訴求，這股朝氣蓬勃的社會思潮正加速推動著伊拉克向開放、務實的世俗商務社會轉型。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "Deep roots in ancient Mesopotamian civilizations",
           "A historic center of Islamic scholarship",
           "Long Arabic literary and academic traditions",
           "Multiple religious cities and pilgrimage sites"

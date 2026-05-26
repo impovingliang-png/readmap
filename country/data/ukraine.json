@@ -253,7 +253,7 @@
         ],
         "text": "Although Ukraine and Taiwan do not share official diplomatic ties, their relations have grown warm through shared democratic values and resilience.\n\nTaiwan's government and civic NGOs have dispatched substantial medical, reconstruction, and fiscal donations to Ukrainian cities. Academic dialogue, civic interactions, and mutual tech startup discussions continue to increase quietly."
       },
-  "zh": {
+      "zh": {
         "list": [
           "雙方無正式外交關係",
           "經貿與人道交流存在",
@@ -300,7 +300,7 @@
     },
     {
       "label": "Time zone",
-      "value": "UTC+2"
+      "value": "UTC+2 / UTC+3（夏令時間）"
     },
     {
       "label": "Calling code",

@@ -300,7 +300,7 @@
     },
     {
       "label": "Time zone",
-      "value": "UTC+1"
+      "value": "UTC+1 / UTC+2（夏令時間）"
     },
     {
       "label": "Calling code",
@@ -349,5 +349,5 @@
     }
   ],
   "mapOpenUrl": "https://www.openstreetmap.org/relation/2978650",
-  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=4.0%2C57.5%2C31.5%2C71.5&layer=mapnik"
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=-180.0%2C-90.0%2C180.0%2C90.0&layer=mapnik"
 }

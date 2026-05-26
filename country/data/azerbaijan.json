@@ -1,0 +1,358 @@
+{
+  "name": {
+    "en": "Azerbaijan",
+    "zh": "亞塞拜然"
+  },
+  "nativeName": "Azərbaycan",
+  "capital": {
+    "en": "Baku",
+    "zh": "巴庫"
+  },
+  "population": "10.4M",
+  "area": "86,600 km²",
+  "density": "120/km²",
+  "continent": "Asia",
+  "flagEmoji": "🇦🇿",
+  "dataEstYear": 2026,
+  "description": {
+    "en": "Azerbaijan, officially the Republic of Azerbaijan, is a transcontinental nation situated at the crossroads of Eastern Europe and Western Asia in the South Caucasus region. Bounded by the Caspian Sea to the east, Russia to the north, Georgia to the northwest, Armenia to the west, and Iran to the south, its territory includes the strategic Nakhchivan exclave bordering Turkey. Blending an ancient Turkic linguistic identity with profound Persian cultural layers, Caucasian heritage, and a foundational Soviet bureaucratic legacy, Azerbaijan operates as a critical, hydrocarbon-rich Eurasian energy hub. The country's contemporary trajectory is heavily defined by its immense oil and natural gas wealth, centralized governance, and a fundamentally reshaped regional security landscape following the full reclamation of the Nagorno-Karabakh territory.",
+    "zh": "Azerbaijan（亞塞拜然，全稱為亞塞拜然共和國）是位於東歐與西亞交界、南高加索核心地帶的跨大陸主權國家。其疆域東臨浩瀚的裏海，北接俄羅斯，西北鄰喬治亞，西接亞美尼亞，南與伊朗接壤，並擁有一塊與本土分離、與土耳其相連的戰略飛地——納希切萬自治共和國。這個國家將古老的突厥語族認同、深厚的波斯文明遺存、高加索本土傳統與前蘇聯時期的體制烙印深度融合，是當代歐亞大陸最關鍵的石油與天然氣地緣中樞。當前亞塞拜然的國家面貌，深受其龐大裏海油氣財富、高度集權的政治體制，以及完全收復納戈爾諾－卡拉巴赫（納卡）地區後徹底重組的高加索地緣新秩序所主導。"
+  },
+  "seoText": {
+    "en": "Explore Azerbaijan's comprehensive 2026 profile — capital Baku infrastructure, detailed ethnic and religious demographics, and Azerbaijani language roots. Discover Caspian hydrocarbon geopolitics via the Southern Gas Corridor, architectural symbols like the Flame Towers and Heydar Aliyev Center, the 'Land of Fire' cultural heritage, Yanar Dag natural gas vents, and the post-Nagorno-Karabakh strategic realignment in the South Caucasus.",
+    "zh": "深入解析亞塞拜然（Azerbaijan）當代國家地理、經貿與政治結構數據：包含精確的各主要民族人口結構、什葉派與世俗化社會分布、首都巴庫核心政經指標。全面解構南方天然氣走廊（Southern Gas Corridor）的地緣經濟價值、巴庫火焰塔與黑達爾·阿利耶夫中心的建築美學、「火之國」古典拜火教歷史意象，以及完全收復納卡地區後南高加索地緣政治秩序的全面重塑。"
+  },
+  "highlights": [
+    {
+      "icon": "🛢️",
+      "text": {
+        "en": "Caspian Hydrocarbon Titan — Vast oil and gas reserves drive national wealth, industrial modernization, and pivotal regional energy diplomacy",
+        "zh": "裏海油氣巨擘 —— 龐大的裏海大陸棚石油與天然氣儲量構成國家經濟絕對命脈，賦予其左右歐亞能源版圖的戰略底牌"
+      }
+    },
+    {
+      "icon": "🏙️",
+      "text": {
+        "en": "Baku Metro-Hub — A hyper-modern energy capital where futuristic skyscrapers frame a UNESCO-listed medieval walled old city",
+        "zh": "巴庫能源之都 —— 裏海西岸的國際化大都市，前衛的摩天大樓群與被列入世界遺產的中世紀伊斯蘭古城交相輝映"
+      }
+    },
+    {
+      "icon": "🔥",
+      "text": {
+        "en": "Land of Fire Identity — Perpetual natural gas flames shape national branding, folklore, and historic echoes of Zoroastrian culture",
+        "zh": "「火之國」文化圖騰 —— 境內多處因天然氣外洩引發的終年不滅地火奇景，淬鍊出深植於國徽與民族認同中的火焰崇拜"
+      }
+    },
+    {
+      "icon": "⚔️",
+      "text": {
+        "en": "Territorial Sovereign Reclaimed — The complete integration of Karabakh forms the primary pillar of modern nationalism and security doctrine",
+        "zh": "國土主權全面收復 —— 歷經數十年衝突後最終實現納卡地區的完整主權回歸，成為當代愛國主義與國防政策的最核心基石"
+      }
+    },
+    {
+      "icon": "🌉",
+      "text": {
+        "en": "Eurasian Trans-Corridor — Strategic pipelines and logistics links bypass traditional routes to connect Caspian resources directly to European markets",
+        "zh": "歐亞物流與能源走廊 —— 作為「南方天然氣走廊」與「中間走廊」的核心節點，成為銜接中亞、裏海至歐洲不可或缺的戰略通道"
+      }
+    }
+  ],
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Dominant South Caucasus economy backed by extensive offshore Caspian hydrocarbon assets",
+          "Proud Turkic identity reinforced by close security and linguistic alliances with Ankara",
+          "National narrative highly unified around territorial integrity and post-conflict reconstruction",
+          "Masterful diplomatic balancing between Moscow's regional weight, Turkish alliance, and Western consumers"
+        ],
+        "text": "Since regaining independence following the 1991 dissolution of the Soviet Union, the Republic of Azerbaijan has converted its Caspian Sea energy reserves into formidable macroeconomic and geopolitical leverage. Through aggressive pipeline diplomacy, Baku has transformed itself into an essential guarantor of European energy security, offering alternative channels independent of traditional routes. Domestically, state consolidation and public sentiment are anchored by a powerful national pride stemming from the absolute restoration of territorial sovereignty over the long-disputed Karabakh region, paired with petro-funded infrastructural investments that project a wealthy, forward-looking national brand."
+      },
+      "zh": {
+        "list": [
+          "南高加索絕對的經濟領頭羊，依託裏海龐大的離岸油氣資源建立起強大的財政實力",
+          "突厥語族文化的核心成員，與安卡拉保持「一民族，兩國家」的極致戰略與軍事同盟",
+          "國家凝聚力與政權合法性高度凝聚於領土主權的完整收復，全面轉入「後衝突時期」的國土重建",
+          "在俄羅斯的區域傳統影響力、土耳其的兄弟同盟、伊朗的複雜鄰里及西方的能源需求間進行務實平衡"
+        ],
+        "text": "亞塞拜然共和國自 1991 年蘇聯解體獨立以來，憑藉其得天獨厚的裏海油氣儲量，走出了一條迥異於鄰國的資源崛起之路。藉由精準的管線外交，巴庫方面打造了繞過俄羅斯的直接輸歐通道，使其在國際能源地緣政治中的權重不斷飆升。\n\n當前，亞塞拜然的內政與社會氛圍正處於歷史性的高昂期。在經歷了 1990 年代初期的慘痛失敗後，現任政府透過 2020 年的四十四天戰爭以及 2023 年的闪击軍事行動，徹底解決了困擾國家三十年的納卡割據問題，實現了領土主權的百分之百完整。這場歷史性勝利不僅極大鞏固了執政當局的統治根基，也為其利用石油紅利推動大規模非油氣產業轉型、重塑高加索地緣經濟版圖提供了前所未有的戰略操作空間。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Controls 86,600 square kilometers encompassing plains, lowlands, and high-altitude fault blocks",
+          "Flanked by the majestic Greater Caucasus range to the north and Lesser Caucasus to the west",
+          "The fertile Kur-Araz Lowland forms the agricultural and hydrographic heart of the interior",
+          "The geopolitically sensitive Nakhchivan Autonomous Republic persists as a vital southwest exclave"
+        ],
+        "text": "Azerbaijan features a highly strategic geographic footprint centered on the western littoral of the Caspian Sea. The country is bounded by steep topographic barriers: the northern frontier is defined by the high alpine peaks of the Greater Caucasus, while the Lesser Caucasus folds across the west. These glaciated highlands descend into the expansive, semi-arid central Kur-Araz Lowland, a depression nourished by the country's primary river systems. The Absheron Peninsula juts into the Caspian Sea, accommodating the urban weight of Baku, while the Nakhchivan exclave remains separated from mainland Azerbaijan by Armenian territory."
+      },
+      "zh": {
+        "list": [
+          "坐擁 86,600 平方公里國土，地跨歐亞交界，東側擁有漫長的裏海海岸線",
+          "北部由挺拔的大高加索山脈環繞，西部依偎著小高加索山脈，形成天然的地理屏障",
+          "中部為廣闊平坦的庫拉－阿拉斯低地（Kur-Araz Lowland），是全國的農業與水利核心",
+          "西南方擁有一塊被亞美尼亞領土隔開的飛地——納希切萬自治共和國，緊鄰伊朗與土耳其邊境"
+        ],
+        "text": "亞塞拜然的地形輪廓呈現出一個巨大的天然盆地夾縫結構。北側的大高加索山脈擁有全國最高峰巴扎爾迪聚峰（Bazardüzü，海拔 4,466 公尺），與南側的小高加索山脈及塔雷什山脈共同構成了巍峨的屏障。兩大山脈之間，則是該國的生命線——庫拉河（Kur River）及其支流阿拉斯河沖積而成的低地平原，這裡是精耕細作的棉花與水果產區。\n\n向東延伸，地勢急劇下降至海平面以下 28 公尺的裏海沿岸。呈勺子狀突入裏海的阿普歇倫半島（Absheron Peninsula）是整個高加索地區人口最稠密、工業最集中的區域。此外，西南方的納希切萬飛地（Nakhchivan）具有極高地緣戰略價值，亞塞拜然當前極力推動建設穿過亞美尼亞南部領土的「贊格祖爾走廊（Zangezur Corridor）」，企圖以此打通本土與納希切萬乃至土耳其的直接陸路連接。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Claims 9 out of the 11 recognized global climate zones within its compact borders",
+          "Lowlands feature semi-desert and dry steppe conditions with blazing summer heat",
+          "The Absheron Peninsula endures subtropical semi-arid dynamics with aggressive year-round winds",
+          "Mountainous ecoregions shift into alpine tundras experiencing severe, snow-heavy winters"
+        ],
+        "text": "Due to massive altitudinal variations, proximity to the world's largest inland body of water, and northern alpine wind breaks, Azerbaijan possesses a hyper-diverse climatic matrix. The central lowlands are arid and warm, requiring intensive irrigation networks. Baku and the coast feature a classic Mediterranean-influenced semi-arid climate, known culturally as the 'City of Winds' due to the competing northern 'Khazri' arctic blasts and southern 'Gilavar' warm breezes. Conversely, the high Caucasus ranges enjoy alpine micro-climates that support dense forests and luxury winter resorts."
+      },
+      "zh": {
+        "list": [
+          "氣候多樣性極其罕見，在狹小的國土內驚人地包攬了全球 11 種氣候類型中的 9 種",
+          "中部平原與低地主要屬乾燥的半沙漠與草原氣候，夏季酷熱且蒸發量極大",
+          "巴庫所在的阿普歇倫半島呈現典型的亞熱帶半乾旱氣候，終年強風肆虐",
+          "高山地區隨著海拔攀升迅速過渡為溫帶濕潤及高寒苔原氣候，冬季降雪量極其豐沛"
+        ],
+        "text": "亞塞拜然的微氣候分佈完全由其複雜的地形起伏與裏海的水體調節所決定。當你從海平面以下的裏海沿岸開車前往高加索山區，只需幾個小時便能體驗從半沙漠的滾熱麥浪到白雪皚皚的高山草甸的極致轉變。\n\n首都巴庫氣候極其特殊，因長期受到來自北方北極氣流（Khazri）與南方熱帶氣流（Gilavar）的交替猛烈吹襲，得名「風之城」。這裡夏季乾燥炎熱，溫度的最高點常突破 40°C，但強烈的裏海海風提供了一定的調節。與此同時，南部的蘭卡蘭低地（Lankaran）則因屏障地形截留了裏海水氣，年降雨量高達 1,600 毫米以上，形成了溫潤多雨的亞熱帶綠洲，盛產茶葉與柑橘，與中部乾旱的鹽鹼草原形成鮮明對比。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Reaches a dynamic population base of 10.4 million as of 2026 demographic accounts",
+          "The Azerbaijani ethnic group constitutes an overwhelming 91.6% national supermajority",
+          "The national language, Azerbaijani (Azeri), is a Turkic tongue highly intelligible with Turkish",
+          "Maintains a deeply secular civil sphere despite a predominantly Muslim religious lineage"
+        ],
+        "text": "The population of Azerbaijan is heavily homogeneous and concentrated within urban corridors. According to comprehensive data from the State Statistical Committee, the ethnic composition stands as follows: Azerbaijani (91.6%), Lezgins concentrated in the northern mountains (2.0%), Russians whose numbers have stabilized post-Soviet migration (1.3%), Talysh inhabiting the humid south (1.3%), and a smaller collection of Avars (0.6%), Turks (0.4%), Tatars (0.3%), Tsakhurs (0.1%), and Udins (0.1%). The remaining 2.3% includes remnants of various high-Caucasus minority clans. Historically, ethnic Armenians formed a significant percentage, but following the dissolution of the Karabakh separatist entity, almost the entire Armenian population relocated to Armenia. In terms of spiritual alignment, approximately 96.0% of the population is culturally Muslim (traditionally estimated at 65.0% Shi'a and 35.0% Sunni), with Russian Orthodox and ancient Christian Caucasian Albanian communities making up the balance. However, due to seven decades of Soviet state atheism, Azerbaijan stands as one of the most thoroughly secularized societies in the Islamic world, with the constitution strictly enforcing the separation of religion and public education."
+      },
+      "zh": {
+        "list": [
+          "2026 年底全國總人口約為 1,040 萬人，人口增長率在獨立後的南高加索地區保持領先",
+          "主體民族亞塞拜然族佔據絕對統治地位，佔全國總人口的 91.6% 以上",
+          "官方語言亞塞拜然語屬突厥語族烏古斯語支，與現代土耳其語的互通度高達八成",
+          "儘管伊斯蘭教歷史根深蒂固，但社會公共生活、法律體系與政治架構呈現高度世俗化"
+        ],
+        "text": "根據亞塞拜然國家統計委員會（SSC）與當代人口學結構的精確梳理，亞塞拜然在經歷了蘇聯解體初期的移民潮與長期邊境衝突後，其民族與宗教構成已演變為一個高度單一但保留了邊緣多元性的結構，具體比例與空間分佈如下：\n\n**主要民族結構：**\n* **亞塞拜然族（Azerbaijani）：** 占總人口的 **91.6%**。他們是國家的核心主體，廣泛分佈於全國各大城市與鄉村。其文化深受波斯、突厥與高加索三重影響，並與伊朗境內龐大的亞塞拜然族群（約兩千萬人）擁有深厚的跨國血緣紐帶。\n* **列茲金族（Lezgins）：** 占 **2.0%**。主要聚居於北部鄰近俄羅斯達吉斯坦共和國的邊境山區，屬於高加索本土民族，多信奉伊斯蘭教遜尼派。\n* **俄羅斯族（Russians）：** 占 **1.3%**。多數留居在首都巴庫及周邊都市圈，主要從事技術、教育與文化產業，信奉東正教。\n* **塔雷什族（Talysh）：** 占 **1.3%**。聚居於南部與伊朗接壤的蘭卡蘭山區，語言屬於印歐語系伊朗語支，多信奉什葉派。\n* **阿瓦爾族（Avars）：** 占 **0.6%**。分佈於西北高山地帶。\n* **土耳其族（阿克斯土耳其人 Turks）：** 占 **0.4%**。\n* **塔塔爾族（Tatars）：** 占 **0.3%**。\n* **查胡爾族（Tsakhurs）：** 占 **0.1%**。\n* **烏丁族（Udins）：** 占 **0.1%**。這是一個極具歷史價值的少數群體，被認為是古代高加索阿爾巴尼亞王國（Caucasian Albania）基督徒的直接後裔，至今保留著獨特的古典基督教儀軌。\n* **其他少數民族（包括庫德族、猶太人及高加索各山地部落）：** 合計占 **2.3%**。在歷史上，亞美尼亞族曾占有顯著比例，但隨著 2023 年亞塞拜然完全收復納卡地區，當地的亞美尼亞居民幾乎全數撤離至亞美尼亞本土，導致現存亞美尼亞族比例已降至微乎其微。\n\n**宗教信仰分佈：**\n* **伊斯蘭教（Muslim）：** 信眾約占總人口的 **96.0%**。在傳統構造上，什葉派（Shi'a）約占 **65.0%**，遜尼派（Sunni）約占 **35.0%**。這種什葉派占多數的特徵在突厥語系國家中絕無僅有（多數突厥國家為遜尼派），但什葉派認同並未轉化為伊朗式的政教合一狂熱。\n* **基督教與其他宗教（東正教、天主教、猶太教、亞爾巴尼亞教會）：** 合計占 **4.0%**。巴庫市內至今保留著活躍的「山地猶太人（Mountain Jews）」社區，展現了良好的宗教寬容度。\n\n**社會世俗化特徵：**\n長達 70 年的蘇聯無神論統治與巴庫自 19 世紀末以來的工業國際化，摧毀了宗教干預政治的社會基礎。獨立後的憲法嚴格規定政教分離，公共場所禁止穿戴具有強烈宗教政治含義的服飾，酒精飲料隨處可見，世俗享樂主義與現代西方生活方式在巴庫年輕世代中佔據絕對主流。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "Macroeconomic health completely anchored by massive Caspian crude oil and natural gas production",
+          "The State Oil Fund of Azerbaijan (SOFAZ) methodically manages sovereign wealth generation",
+          "Actively expanding the Southern Gas Corridor to supply strategic energy alternatives to the EU",
+          "Heavy public investment centers on building transport infrastructure to cement its Eurasian 'Middle Corridor' role"
+        ],
+        "text": "Azerbaijan's economic framework operates as an energy-centric petro-economy, with nominal GDP hovering around 75 billion dollars. The energy sector accounts for over 90% of total national exports and the vast majority of government budget funding. World-class engineering fields, such as the Azeri-Chirag-Gunashli oil complex and the Shah Deniz natural gas field, feed international transport corridors like the Baku-Tbilisi-Ceyhan (BTC) oil pipeline and the Trans-Anatolian Pipeline (TANAP). Recognizing oil depletion risks, the state is investing sovereign wealth into dry-land logistics, transit rail networks, and digital communication networks."
+      },
+      "zh": {
+        "list": [
+          "典型的資源創富型油氣經濟體，宏觀財政狀況與國際原油及天然氣價格震盪高度連動",
+          "設有功能強大的「亞塞拜然國家石油基金（SOFAZ）」，負責將黑金利潤轉化為長期主權財富儲備",
+          "主導建設「南方天然氣走廊」，在歐俄能源脫鉤後，成為歐盟極力爭取的替代天然氣核心供應源",
+          "巨額財政資金傾注於「中間走廊（Middle Corridor）」陸運基建，力求成為跨裏海多式聯運的歐亞樞紐"
+        ],
+        "text": "亞塞拜然的經濟總量約為 750 億美元，高居南高加索三國之首。自 1994 年已故總統黑達爾·阿利耶夫與西方跨國石油巨頭簽署被譽為「世紀合同（Contract of the Century）」的裏海油田開發協議以來，黑金便源源不斷地灌溉這片土地。位於裏海深海的阿澤里-奇拉格-古內什利（ACG）油田與全球最大氣田之一的沙赫德尼茲（Shah Deniz）氣田，是整個國家的財富印鈔機。\n\n透過貫穿高加索、直抵地中海的巴庫-提比利斯-傑伊漢（BTC）輸油管線，以及橫跨土耳其送往南歐的 Trans-Anatolian（TANAP）天然氣管線，亞塞拜然成功繞過俄羅斯掌控，將能源直接變現為地緣政治籌碼。在俄烏戰爭爆發、歐洲急需切斷對俄能源依賴的背景下，歐盟委員會高官頻繁造訪巴庫，簽署加倍購氣協議。\n\n然而，經濟結構單一（油氣佔出口總額 90% 以上）是其致命軟肋。為了防範「荷蘭病」，政府近年大力撥款扶持非油氣領域，利用巴庫國際海港（Alat）打造自由貿易區，並依託巴庫-提比利斯-卡爾斯（BTK）跨境鐵路，積極將自身包裝為中國通往歐洲最便捷的跨裏海現代物流樞紐，同時大力推動裏海沿岸的奢華觀光業與綠色能源發電轉型。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Operates under a highly centralized presidential republic where executive mandates dominate",
+          "The New Azerbaijan Party (YAP), under the Aliyev presidency, commands comprehensive state authority",
+          "Internal stability and governance continuity have been maintained by the Aliyev family since 1993",
+          "The domestic political spectrum is highly unified around the reconstruction and development of Karabakh"
+        ],
+        "text": "Azerbaijan’s political power architecture is strictly institutionalized and centralized. Since 1993, the office of the President has been held by the Aliyev dynasty: first by former Soviet Politburo member Heydar Aliyev, and followed since 2003 by his son, Ilham Aliyev. The regime leverages high political continuity to manage complex geostrategic relationships and enforce law and order. Following the historic victory that dissolved the Armenian separatist state in Karabakh, President Aliyev’s domestic approval and state legitimacy reached historic heights, consolidating the ruling party's legislative supermajorities."
+      },
+      "zh": {
+        "list": [
+          "實行高度集權的總統共和制，總統依法擁有廣泛的行政、軍事與法令發布權力",
+          "執政黨「新亞塞拜然黨（YAP）」在總統兼黨主席阿利耶夫的帶領下，全面主導議會與地方政權",
+          "政治權力自 1993 年以來由阿利耶夫家族長期承襲，展現出極強的政策連續性與對內控制力",
+          "在完全收復納卡領土後，國內各政治派別與社會輿論在愛國主義大旗之下達成了空前的一致"
+        ],
+        "text": "亞塞拜然的政治權力運作具有鮮明的家族治理與威權延續特徵。冷戰結束初期，國家一度陷入內戰與割據邊緣。1993 年，前蘇聯克格勃將領、政治局委員黑達爾·阿利耶夫重返巴庫執掌大權，迅速平定內亂並引進西方石油資本，奠定了現代國家的骨架。2003 年其子伊爾哈姆·阿利耶夫（Ilham Aliyev）繼任總統並連任至今，其第一夫人梅赫里班·阿利耶夫（Mehriban Aliyeva）則擔任第一副總統，家族影響力深植於國家安全、石油外匯與核心經濟命脈。\n\n在這種高度集權的體制下，反對派的活動空間與新聞媒體的審查相對受到嚴格限縮，國際人權組織常對其選舉體制與公民權利提出關切。然而，2023 年阿利耶夫政府憑藉強大的現代化軍隊，以迅雷不及掩耳之勢徹底解散了納卡地區的非法武裝，實現了幾代亞塞拜然人夢寐以求的領土完整。這一軍事史詩級的勝利徹底洗刷了民族恥辱，將阿利耶夫的威望推向了「民族英雄」的巔峰，極大地轉化為內部統治的穩固合法性，使其在面對西方的人權指責時擁有更為強硬的政治底氣。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Baku serves as a thoroughly globalized, Europeanized metro-hub completely distinct from rural provinces",
+          "Social morality blends modern Cosmopolitan secular habits with traditional Turkic patriarchal family structures",
+          "Public sentiment displays an incredibly intense, post-victory patriotic cohesion",
+          "The younger urban demographic is fully integrated into international tech, digital arts, and lifestyle trends"
+        ],
+        "text": "Azerbaijan’s societal fabric is marked by a deep contrast between its hyper-capitalized capital city and its agrarian hinterlands. Baku is an expansive, wealthy metropolis that hosts high-profile global spectacles like the Formula 1 Grand Prix and COP29, fostering an elite, English-fluent tech and consumer class. In rural districts, social norms remain anchored by ancestral Caucasian codes of conduct, where family honor and patriarchal consensus guide community life. Across both spheres, a shared pride in the country's recent geopolitical victories acts as a powerful social stabilizer."
+      },
+      "zh": {
+        "list": [
+          "首都巴庫高度國際化與歐洲化，財富與現代基建集中，與內陸保守鄉村形成顯著二元對立",
+          "社會道德完美揉合了蘇聯式的世俗化生活方式與中東突厥傳統的宗族與家庭倫理規範",
+          "收復失土的集體記憶在全社會催生出極其強烈的愛國主義氛圍與對軍隊的高度崇拜",
+          "都市青年世代深度融入全球網際網路文化，英語普及率與對科技創新的接受度逐年飆升"
+        ],
+        "text": "當步入亞塞拜然首都巴庫，街道上奔馳的奢華跑車、設計大膽的現代主義玻璃幕牆、隨處可見的露天咖啡座，會讓人產生置身西歐一線都市的錯覺。這裡的市民熱衷於舉辦國際盛事，從歐洲歌唱大賽（Eurovision）到 F1 世界一級方程式賽車巴庫街道賽，再到聯合國氣候變遷大會（COP），財大氣粗的巴庫全力向世界展示其富庶與開放。\n\n然而，在離開阿普歇倫半島進入中部的半乾旱平原或高加索山區後，社會節奏便切換回傳統的節制模式。農村家庭依然保持著嚴格的父權結構，部族長老的意見在社區糾紛中舉足輕重。即便存在這種城鄉差距，當前社會最大的共識依然是國族認同。在長達三十年的納卡難民潮中（曾有近百萬亞塞拜然人因第一次內戰被逐出家園），全社會積壓了深沉的集體創傷；如今隨土回歸，推動難民「大重返（Great Return）」國土重建，成為連結城鄉、跨越階級的共同社會使命。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "A rare cultural crosscurrent synthesized from Oghuz Turkic folklore and sophisticated Persian aesthetics",
+          "Azerbaijani carpet weaving arts remain inscribed on UNESCO's Representative List of Intangible Heritage",
+          "Mugham classical music serves as the supreme traditional vocal-instrumental cultural expression",
+          "Architectural design acts as a primary tool for projecting modern state power and regional leadership"
+        ],
+        "text": "Azerbaijan’s cultural identity is historically complex and expressive. It is the birthplace of the first opera in the Islamic world ('Leyli and Majnun' in 1908), embodying its historic role as an intellectual pioneer in Eurasia. The nation's classical artistic pinnacle is Mugham—a highly structured, emotional form of modal singing accompanied by traditional stringed instruments like the tar and kamancha. This historic legacy is mirrored by world-famous carpet-weaving schools, whose complex geometric motifs visually encode regional tribal genealogies and cosmological folklore."
+      },
+      "zh": {
+        "list": [
+          "地處歐亞文明十字路口，完美交織了烏古斯突厥的遊牧史詩與波斯帝國宮廷的精緻美學",
+          "傳統手工地毯工藝享譽全球，被列入聯合國非物質文化遺產，是解碼區域部落歷史的活化石",
+          "「穆卡姆（Mugham）」古典音樂是其國寶級藝術形式，融即興吟唱與複雜調式於一體",
+          "當代建築成為國家意志與文化自信的外顯工具，以突破常規的曲線流線設計震驚世界建築界"
+        ],
+        "text": "亞塞拜然文化最迷人之處，在於其不著痕跡的跨界融合。它既是突厥世界的一部分，卻又流淌著深厚的波斯文藝血液。歷史上，巴庫曾在 20 世紀初誕生了伊斯蘭世界第一部歌劇、第一座女子學校，展現出強烈的新文化啟蒙傳統。\n\n其音樂圖騰「穆卡姆（Mugham）」是一種極具精神震撼力的古典調式音樂，歌者伴隨著塔爾琴（Tar，一種長頸琵琶狀樂器）與卡曼查琴（Kamancha）的弦音，用高亢悲涼的嗓音進行充滿張力的即興詠嘆，內容多為吟誦偉大的蘇菲派詩作。\n\n在視覺藝術方面，亞塞拜然地毯則是幾何美學的極致，庫巴、希爾凡、卡拉巴赫等七大地毯學派以天然染料與繁複的象徵符號記錄著古老的薩滿與拜火教遺風。而在現代，由傳奇建築師札哈·哈蒂設計的黑達爾·阿利耶夫中心（Heydar Aliyev Center），以其完全沒有直線和硬角的白色流線型液態外觀，成為將古老伊斯蘭書法線條轉化為現代主義地標的巔峰之作，完美演繹了「火之國」的文化蛻變。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Executing the massive, multibillion-dollar demining and resettlement infrastructure programs in Karabakh",
+          "Securing a permanent, legally binding interstate bilateral peace treaty with Armenia",
+          "Breaking structural macroeconomic vulnerability caused by near-total reliance on hydrocarbon export rents",
+          "Navigating complex administrative relations and balancing interests with neighboring Tehran and Moscow"
+        ],
+        "text": "Azerbaijan’s strategic challenges are closely tied to its post-conflict successes and structural macroeconomic realities. Having structurally won the territorial conflict with Armenia, Baku's primary domestic hurdle is the 'Great Return'—an expensive program requiring the clearance of millions of landmines and rebuilding flattened ghost cities like Agdam and Fuzuli from scratch. On the geopolitical stage, establishing secure transit access across southern Armenia to Nakhchivan via the proposed Zangezur Corridor remains a sensitive issue, requiring careful diplomatic navigation amid shifting balances between Russia, Turkey, and Iran."
+      },
+      "zh": {
+        "list": [
+          "耗資數十億美元在收復區進行人類歷史上最密集的排雷行動與大規模城鎮重建基礎設施工程",
+          "如何與戰敗後的亞美尼亞簽署具有歷史約束力的雙邊永久和平條約，並在國際法框架下劃定最終邊界",
+          "破除對石油與天然氣單一財政收入的病態依賴，在國際綠能轉型大潮前夜完成結構性多元化",
+          "與南方鄰國伊朗的複雜地緣摩擦（涉及什葉派世俗化及伊朗境內亞塞拜然少數民族問題）需要高超外交手腕"
+        ],
+        "text": "儘管全面贏得了軍事勝利，亞塞拜然在 2026 年依然面臨著多重結構性與地緣政治挑戰。首要任務是「收復失土的消化與重建」。納卡及其周邊地區在三十年的對峙中變成了全球地雷密度最高的區域之一，巴庫方面正投入天文數字的預算進行全面排雷，並推動名為「智慧鄉村（Smart Village）」與「綠色能源區」的全面重建，試圖將廢墟轉化為現代經濟增長點。\n\n其次是「地緣政治的引信——贊格祖爾走廊（Zangezur Corridor）」。亞塞拜然迫切希望開闢一條穿越亞美尼亞休尼克省、免經亞美尼亞海關審查的直通飛地納希切萬的陸路通道。這一戰略訴求得到了土耳其的全力支持，但被伊朗視為切斷其與高加索及俄羅斯陸路通道的「地緣紅線」，遭到強烈抵制。同時，如何應對歐美在納卡亞美尼亞人撤離問題上施加的輿論壓力，以及如何在不可再生的油氣資源枯竭前成功培育出具有國際競爭力的跨國物流與科技產業，是關乎亞塞拜然國運長治久安的兩大核心難題。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Baku Walled Old City — The medieval fortress heart containing the iconic Maiden Tower and Shirvanshahs' Palace",
+          "Flame Towers — A trio of flame-shaped skyscraper LED monoliths dominating the Caspian shoreline skyline",
+          "Gobustan Rock Art Reserve — A UNESCO-listed archaeological park packed with thousands of prehistoric rock engravings",
+          "Yanar Dag Gas Vent — An extraordinary geological hill site where natural gas deposits have blazed non-stop for centuries"
+        ],
+        "text": "Azerbaijan’s structural landmarks display an aesthetic dialogue between deep historical roots and modern engineering. Within Baku, the medieval Walled City (Icherisheher) features the mysterious 12th-century Maiden Tower, standing in contrast to the nearby Flame Towers—three glass skyscrapers that illuminate at night to simulate burning fire. Outside the capital, the Gobustan National Park preserves prehistoric petroglyphs detailing ancient maritime and tribal life, while the burning hillside of Yanar Dag provides real geological evidence for the country's historic title as the 'Land of Fire'."
+      },
+      "zh": {
+        "list": [
+          "巴庫古城（Icherisheher）—— 聯合國教科文組織世界遺產，包含神秘的少女塔（Maiden Tower）與宏偉的希爾凡宮",
+          "火焰塔（Flame Towers）—— 頂天立地的三座火焰形巨型摩天大樓，夜間藉由全屏幕 LED 模擬熊熊燃燒的烈火",
+          "戈布斯坦岩畫保護區（Gobustan）—— 萬年石器時代的考古聖地，上千幅精美壁畫記錄了人類先民的捕獵與祭祀場景",
+          "亞納爾達格（Yanar Dag）—— 舉世罕見的天然地熱奇觀，富含烴類的氣體穿透頁岩裂縫，在山坡上形成終年不滅的烈焰"
+        ],
+        "text": "亞塞拜然的地標風貌完美詮釋了「時間的跨越」。在首都核心的巴庫古城內，狹窄的鵝卵石巷弄、斑駁的伊斯蘭驛站與中世紀希爾凡沙阿王朝（Shirvanshahs）的宮殿將遊客帶回絲綢之路的輝煌歲月。而古城上方，便是傲然聳立的火焰塔。這三棟流線型超高層建築，外牆由上萬個高性能 LED 燈管覆蓋，每當夜幕降臨，建築表面便會化為躍動的巨大火舌，或是揮舞著亞塞拜然國旗的士兵，成為這座石油帝國財富與雄心的終極圖騰。\n\n走向自然深處，則能觸摸到這片土地更為原始的靈魂。位於巴庫郊外的戈布斯坦（Gobustan）擁有一片荒涼的石灰岩丘陵，其上鐫刻著超過 6,000 幅上溯至冰河時期的岩畫，生動再現了當時高加索先民集體跳「亞老（Yally）」舞蹈以及划動獨木舟的場景。而著名的亞納爾達格（Yanar Dag，意為燃燒的山）則在黑夜中吐出數公尺長的天然氣火舌，任憑狂風暴雨也從未熄滅，正是這永恆的地火，引領了古代拜火教僧侶前來興建聖壇，也點亮了現代亞塞拜然「火之國」的閃亮名片。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "Maintains a deep strategic and military alliance with Turkey under the 'One Nation, Two States' framework",
+          "Utilizes strategic oil and natural gas transit connectivity to secure structural diplomatic leverage with the EU",
+          "Secured systemic global integration by gaining official admission into the expanded BRICS bloc",
+          "Pragmatically balances relationships with Russia while asserting absolute sovereignty in the Caucasus"
+        ],
+        "text": "Azerbaijan’s foreign policy framework is built on pragmatic realpolitik and regional balancing. The bedrock of its external security is its unique relationship with Turkey, which provided critical military and technological backing during its territorial reclamation campaigns. Concurrently, Baku acts as a key diplomatic node within the Non-Aligned Movement and has expanded its geopolitical options by entering the BRICS alliance. This move strengthens its economic leverage among Global South economies while maintaining functional, treaty-based energy relationships with European markets."
+      },
+      "zh": {
+        "list": [
+          "與土耳其締結堅不可摧的全面戰略軍事同盟，將「一民族，兩國家」奉為國家外交最高指導原則",
+          "巧妙將裏海油氣出海口與中亞大宗物資轉運相結合，把自身打造為歐盟無法割捨的戰略夥伴",
+          "近年正式獲准加入金磚國家（BRICS）聯盟，極大拓展了其在全球南方與非西方經濟圈的地緣籌碼",
+          "與克里姆林宮簽署戰略合作宣言的同時，堅決拒絕俄軍長期駐紮，捍衛南高加索的主權獨立性"
+        ],
+        "text": "亞塞拜然在國際地緣政經博弈中的手腕極其老練、務實。安卡拉與巴庫之間的同盟關係超越了普通的外交範疇——兩國軍隊實施深度一體化聯合演習，土耳其著名的拜拉克塔（Bayraktar）無人機在亞塞拜然收復失土的戰役中立下了汗馬功勞，土耳其更將亞塞拜然視為其向中亞突厥世界擴張勢力的天然跳板。\n\n在與西方交往時，巴庫方面完全以實力為導向。它不尋求加入北約或歐盟，而是透過提供穩定的天然氣供應，換取西方對其內部政治體制的默許。近年來，為了進一步在全球金融與多極化格局中佔據有利地形，亞塞拜然正式提交並獲准加入金磚國家（BRICS），與中俄印巴等新興大國平起平坐，這不僅為其主權財富基金開闢了新的投資渠道，也使其在與西方進行地緣博弈時，擁有了更為寬廣的戰略回旋空間與多邊談判底氣。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "No formal diplomatic ties, with consular dynamics managed through Taipei's office in Turkey or Russia",
+          "Bilateral interactions focus on direct commercial purchases of high-grade Caspian CPC Blend crude oil",
+          "Public awareness within Taiwan remains selective, primarily viewed through energy security studies",
+          "Academic exchanges occur through specialized regional geopolitical forums exploring Caucasus stabilization"
+        ],
+        "text": "The Republic of Azerbaijan and Taiwan do not share official diplomatic relations. Due to Baku's strict alignment with standard geopolitical statehood frameworks and close ties with Beijing, official contact is non-existent, with consular or logistical issues routed through the Taipei Economic and Cultural Mission in Ankara or Moscow. Bilateral economics are primarily transactional and commodity-focused: Taiwanese state-owned energy enterprises periodically purchase crude oil shipments from Caspian extraction pipelines. Culturally, Azerbaijan remains an exotic ecoregion to the Taiwanese public, increasingly visible through documentary features on the Silk Road and regional energy corridors."
+      },
+      "zh": {
+        "list": [
+          "雙方無正式官方外交關係，相關領事簽證與國民權益事務由台灣駐土耳其代表處或駐俄羅斯代表處兼轄",
+          "雙邊經貿高度集中於大宗能源物資，台灣中油等能源龍頭定期採購裏海優質輕質原油（CPC Blend）",
+          "台灣社會對亞塞拜然的整體大眾認知仍處於起步階段，多在國際能源供應鏈與地緣政治範疇受關注",
+          "學術與文化互動主要侷限於跨區域國際關係研究論壇，探討高加索秩序重建對歐亞格局的啟示"
+        ],
+        "text": "亞塞拜然與台灣在政治關係上極為疏離。由於巴庫方面在國際上高度依賴與北京的經濟合作與聯合國框架互動，在涉台議題上採取全然迴避且嚴格尊奉一中原則的立場。然而，這並未妨礙雙方在實質能源貿易上的互利合作。台灣作為一個能源高度仰賴進口的島嶼經濟體，為了實現原油進口來源的多元化、降低對中東地區的過度依賴，每年皆透過國際現貨市場，穩定採購大量經由 BTC 管線輸出的裏海輕質原油。這筆龐大的原油交易，構成了雙邊經貿關係的絕對主體。\n\n在民間文化層面，台灣對亞塞拜然的印象正逐步脫離早期的「前蘇聯神秘高加索國家」標籤。隨著近年旅遊資訊的開放，巴庫火焰塔的魔幻夜景、戈布斯坦的萬年岩畫以及精美的突厥手工地毯，開始吸引少數熱愛深度文史旅遊的台灣背包客前來探險。同時，亞塞拜然在納卡衝突中展現的「現代科技無人機體系化作戰」以及其在歐俄能源夾縫中的管線外交平衡術，也成為台灣國家安全與地緣政治學界近年在研究「中小國家如何在大國夾縫中求生存」時，高頻率引用的經典案例。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "The South Caucasus hydrocarbon giant holding absolute dominion over strategic Caspian Sea transit networks",
+          "Preserves a mesmerizing identity blending Oghuz Turkic lineage, Persian cultural arts, and secular Soviet habits",
+          "Baku serves as a compelling petro-metropolis juxtaposing prehistoric UNESCO masonry with glass Flame Towers",
+          "The definitive reclamation of the Karabakh region has permanently reset nationalism and internal state legitimacy",
+          "Forging a powerful Eurasian futures path spanning BRICS integration, Southern Gas Corridor expansion, and 'Middle Corridor' logistics sovereignty"
+        ]
+      },
+      "zh": {
+        "list": [
+          "南高加索不容置疑的能源霸主，牢牢掌控裏海通往歐洲與中亞的跨國管線與戰略物流主權",
+          "驚艷融合烏古斯突厥血統、波斯古典文藝美學與蘇聯高度世俗化生活方式的文明奇葩",
+          "首都巴庫以極具視覺衝擊力的城市景觀，完美演繹了中世紀古老要塞與石油財富未來主義的跨時空對話",
+          "納卡領土的完整收復徹底重鑄了當代亞塞拜然的國族自信，將愛國主義轉化為國家重建的澎湃動能",
+          "正以金磚國家成員的強勢姿態，在擴建南方天然氣走廊、打造跨裏海多式聯運與大國務實平衡中大步邁進"
+        ]
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": {
+        "en": "Azerbaijani manat (AZN / ₼)",
+        "zh": "亞塞拜然馬納特（AZN / 符號：₼）"
+      }
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "Azerbaijani (Official state language governing all administrative, legal, and national educational frameworks; Russian remains widely utilized as an elite inter-ethnic and commercial tongue in Baku)",
+        "zh": "亞塞拜然語（Azerbaijani，國家唯一法定官方語言，全面主導行政、司法與國民教育體系；俄語在首都巴庫商業與高階知識階層中仍具備極高通商與社交實用價值）"
+      }
+    },
+    {
+      "label": "GDP (nom.)",
+      "value": "$75B+"
+    },
+    {
+      "label": "Time zone",
+      "value": "UTC+4 (Azerbaijan Time - AZT / Daylight saving time abolished since 2016)"
+    },
+    {
+      "label": "Calling code",
+      "value": "+994"
+    },
+    {
+      "label": "ISO code",
+      "value": "AZ / AZE"
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/364110",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=44.8%2C38.4%2C51.2%2C42.0&layer=mapnik"
+}

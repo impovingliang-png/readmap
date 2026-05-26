@@ -301,10 +301,10 @@
       "value": "$3.9T"
     },
     {
-      "label": "Time zones",
+      "label": "Time zone",
       "value": {
-        "en": "UTC+5:30 (IST)",
-        "zh": "UTC+5:30（印度標準時間）"
+        "en": "UTC+1 / UTC+2 (DST)",
+        "zh": "UTC+1 / UTC+2（夏令時間）"
       }
     },
     {

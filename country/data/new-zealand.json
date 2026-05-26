@@ -153,7 +153,7 @@
         ],
         "text": "New Zealanders ('Kiwis') enjoy a balanced lifestyle characterized by safety, community care, and outdoor sports. Public trust is exceptionally high, backed by stellar public services.\n\nEgalitarian ideals define the culture. Native Māori integration is actively supported, and high environmental standards protect the land for future generations."
       },
-  "zh": {
+      "zh": {
         "list": [
           "高生活品質國家",
           "公共服務完善",
@@ -300,7 +300,7 @@
     },
     {
       "label": "Time zone",
-      "value": "UTC+12"
+      "value": "UTC+12 / UTC+13（夏令時間）"
     },
     {
       "label": "Calling code",

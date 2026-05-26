@@ -300,13 +300,13 @@
     },
     {
       "label": "GDP (nom.)",
-      "value": "$28T+ (The world's largest individual national nominal economy)"
+      "value": "$28T+"
     },
     {
       "label": "Time zones",
       "value": {
-        "en": "UTC-5 to UTC-10 for contiguous states and major territories (e.g., EST, CST, MST, PST). Daylight Saving Time observed strictly from March to November",
-        "zh": "本土跨越 UTC-5 至 UTC-8（東部、中部、山區、太平洋時間）；加阿拉斯加與夏威夷延伸至 UTC-10。3至11月實行夏令時間"
+        "en": "UTC-5 to -10 / UTC-4 to -9 (DST)",
+        "zh": "UTC-5 至 UTC-10 / UTC-4 至 UTC-9（夏令時間）"
       }
     },
     {

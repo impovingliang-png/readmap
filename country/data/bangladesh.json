@@ -355,5 +355,6 @@
       }
     }
   ],
-  "mapEmbedUrl": "https://www.openstreetmap.org/relation/184640"
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=88.0%2C20.4%2C92.7%2C26.6&layer=mapnik",
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/184640"
 }

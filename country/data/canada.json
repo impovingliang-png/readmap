@@ -213,7 +213,7 @@
         ],
         "text": "Canada's major cities cluster in the south, each with a distinct character and economic specialisation. Toronto, with a metro population exceeding 6 million, is the country's financial and commercial core — home to the TSX stock exchange, the country's largest banks, and a tech sector rivalling many global hubs. Its neighbourhood-level diversity makes it one of the most multicultural cities in the world.\n\nVancouver commands Canada's gateway to the Asia-Pacific, combining a world-class natural setting with a thriving film industry and international trade. Montréal is the cultural heart of French Canada, celebrated for its festivals, gastronomy, and arts scene. Ottawa, the federal capital, anchors political life, while natural wonders such as Niagara Falls, Banff National Park, and the Northern Lights draw millions of visitors annually."
       },
-          "zh": {
+      "zh": {
         "list": [
           "渥太華（Ottawa）與多倫多（Toronto）—— 聯邦政治心臟與高聳入雲的 CN 塔金融不夜城",
           "溫哥華（Vancouver）與班夫國家公園（Banff）—— 太平洋明珠與洛磯山脈翡翠般的冰川湖泊天際線",
@@ -302,8 +302,8 @@
     {
       "label": "Time zones",
       "value": {
-        "en": "UTC−8 – UTC−3:30 (spanning 6 time zones)",
-        "zh": "UTC−8 – UTC−3:30（橫跨 6 個時區）"
+        "en": "UTC-3:30 to -8 / UTC-2:30 to -7 (DST)",
+        "zh": "UTC-3:30 至 UTC-8 / UTC-2:30 至 UTC-7（夏令時間）"
       }
     },
     {

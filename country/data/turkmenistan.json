@@ -1,0 +1,356 @@
+{
+  "name": {
+    "en": "Turkmenistan",
+    "zh": "土庫曼"
+  },
+  "nativeName": "Türkmenistan",
+  "capital": {
+    "en": "Ashgabat",
+    "zh": "阿什哈巴德"
+  },
+  "population": "7.1M",
+  "area": "491,210 km²",
+  "density": "14/km²",
+  "continent": "Asia",
+  "flagEmoji": "🇹🇲",
+  "dataEstYear": 2026,
+  "description": {
+    "en": "Turkmenistan is a desert-dominated, landlocked country in the heart of Central Asia. It borders the Caspian Sea to the west, Kazakhstan and Uzbekistan to the north, Iran to the south, and Afghanistan to the southeast. The country is widely known for the vast Karakum Desert, world-class natural gas reserves, and a tightly controlled political system. From Ashgabat’s white-marble monumental cityscape to the long-burning Darvaza Gas Crater (the \"Door to Hell\"), Turkmenistan presents a striking blend of Silk Road legacy, energy wealth, and isolationist statecraft.",
+    "zh": "Turkmenistan是位於中亞（Central Asia）腹地的沙漠型內陸國家。西臨裏海（Caspian Sea），北接哈薩克（Kazakhstan）與烏茲別克（Uzbekistan），南鄰伊朗（Iran），東南與阿富汗（Afghanistan）接壤。這個國家以廣袤無垠的卡拉庫姆沙漠（Karakum Desert）、世界級天然氣（Natural Gas）蘊藏量，以及高度封閉且強人色彩濃厚的政治體制聞名於世。從首都阿什哈巴德（Ashgabat）鋪滿白色大理石的宏偉建築群，到燃燒數十年的「地獄之門」達瓦札天然氣坑洞（Darvaza Gas Crater / \"Door to Hell\"），土庫曼（Turkmenistan）展現出一種介於古老絲路文明、能源國家財富與神秘孤立主義之間的特殊國家樣貌。"
+  },
+  "seoText": {
+    "en": "Explore key facts about Turkmenistan — population, area, capital city, and a detailed profile. Discover the Karakum Desert, Darvaza Gas Crater (Door to Hell), Ashgabat’s white-marble architecture, major gas fields, and the country’s permanent neutrality strategy in Central Asia.",
+    "zh": "深入了解土庫曼（Turkmenistan）的核心資料：人口、國土面積、首都阿什哈巴德（Ashgabat）與完整國家概述。探索卡拉庫姆沙漠（Karakum Desert）、「地獄之門」達瓦札天然氣坑洞（Darvaza Gas Crater / Door to Hell）、世界前列天然氣（Natural Gas）儲量、永久中立（Permanent Neutrality）外交路線，以及中亞（Central Asia）地緣政治中的微妙平衡。"
+  },
+  "highlights": [
+    {
+      "icon": "🔥",
+      "text": {
+        "en": "Darvaza Gas Crater — the long-burning \"Door to Hell\" in the Karakum Desert",
+        "zh": "達瓦札天然氣坑洞（Darvaza Gas Crater）—— 被稱為「地獄之門（Door to Hell）」的卡拉庫姆沙漠（Karakum Desert）世界奇景"
+      }
+    },
+    {
+      "icon": "🏛️",
+      "text": {
+        "en": "Ashgabat — a capital of white-marble monuments and grand state aesthetics",
+        "zh": "白色大理石之城阿什哈巴德（Ashgabat）—— 充滿宏偉國家美學與白色大理石紀念碑的全球最具視覺衝擊力首都之一"
+      }
+    },
+    {
+      "icon": "🐎",
+      "text": {
+        "en": "Akhal‑Teke horse — a national symbol famed for metallic sheen and endurance",
+        "zh": "阿哈爾捷金馬（Akhal-Teke horse）—— 以金屬光澤與強大耐力聞名於世、被譽為「汗血寶馬」的國寶級精神象徵"
+      }
+    },
+    {
+      "icon": "⛽",
+      "text": {
+        "en": "Natural gas powerhouse — an energy-export economy tied closely to pipeline geopolitics",
+        "zh": "超級天然氣（Natural Gas）資源大國 —— 經濟高度依賴能源出口，且與管線地緣政治緊密相連的能源輸出體"
+      }
+    },
+    {
+      "icon": "🏜️",
+      "text": {
+        "en": "Karakum Desert — covers most of the country and defines settlement patterns",
+        "zh": "卡拉庫姆沙漠（Karakum Desert）—— 覆蓋全國大部分國土並決定人口聚落分布模式的巨大荒漠"
+      }
+    }
+  ],
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Central Asian landlocked state with a Caspian shoreline and a vast desert interior",
+          "Among the world’s major natural gas reserve holders; economy strongly energy-dependent",
+          "Highly centralized governance with long-standing limits on media and openness",
+          "Foreign policy anchored in \"permanent neutrality\" and low-profile regional balancing"
+        ],
+        "text": "Turkmenistan is a country of sharp contrasts. Energy wealth funds ambitious monumental construction—especially in Ashgabat—while political and information space remain tightly managed. Historically part of the Silk Road corridor, modern Turkmenistan blends Turkic cultural traditions with institutions shaped by the Soviet legacy. Since independence in 1991, the state has emphasized presidential authority and a neutrality-oriented diplomatic posture, navigating between Russia, China, and the wider Central Asian geopolitical environment."
+      },
+      "zh": {
+        "list": [
+          "位於中亞（Central Asia）核心地帶，西臨裏海（Caspian Sea）並擁有廣袤沙漠內陸的國家",
+          "位列全球主要天然氣（Natural Gas）儲量國之一，國家經濟高度依賴能源出口",
+          "政治體制高度集中，對新聞媒體、資訊流通與對外開放程度長期實施嚴格限制",
+          "外交政策以「永久中立（Permanent Neutrality）」為核心，在中亞地區維持低調的平衡戰略"
+        ],
+        "text": "土庫曼（Turkmenistan）是一個極具矛盾與強烈對比的國家。一方面，龐大的天然氣（Natural Gas）財富資助了極其雄心勃勃的宏偉建築計畫——尤其在首都阿什哈巴德（Ashgabat）打造了令人震撼的白色大理石市容；但另一方面，其國內的政治與資訊空間卻長年維持極度嚴密的集權管理。在歷史上，這片土地是古代絲綢之路（Silk Road）的重要走廊，現代土庫曼（Turkmenistan）則將突厥（Turkic）傳統遊牧文化，與前蘇聯（Soviet）留下的體制遺產深度揉合。自 1991 年自蘇聯獨立以來，國家治理極度強調總統權威與集權領導，並以「永久中立（Permanent Neutrality）」的外交戰略定位，在俄羅斯（Russia）、中國（China）與更廣泛的中亞（Central Asia）地緣政治環境之間，極其微妙地權衡各方利益與平衡。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Area ~491,000 km²; predominantly arid plains and desert",
+          "Karakum Desert covers a large majority of the territory",
+          "Caspian Sea coastline in the west; mountains and oases toward the south and southeast",
+          "Population and agriculture concentrate in irrigated oases and river-fed zones"
+        ],
+        "text": "Turkmenistan’s geography is defined by the Karakum Desert and the struggle to manage scarce water. Settlement and farming cluster around oases and irrigation networks. The Karakum Canal—built during the Soviet era—diverts water from the Amu Darya to irrigate farmland and support cities, reshaping land use while also contributing to salinization and broader regional ecological stress. The western Caspian shore carries strategic energy value as a corridor for hydrocarbon infrastructure."
+      },
+      "zh": {
+        "list": [
+          "國土面積約 49 萬平方公里，地形主要以乾燥平原與廣袤荒漠為主",
+          "卡拉庫姆沙漠（Karakum Desert）覆蓋了全國絕大部分的領土面積",
+          "西部擁有臨裏海（Caspian Sea）的海岸線，南面與東南面則逐漸過渡至山地與綠洲",
+          "人口聚落與農業活動高度集中於人工灌溉綠洲以及河流補給流域"
+        ],
+        "text": "土庫曼（Turkmenistan）的地理特徵完全由無垠的卡拉庫姆沙漠（Karakum Desert）以及對極度匱乏水資源的治理角力所定義。由於降水極少，絕大多數的人口定居與農業耕作，都只能被迫圍繞在稀有的綠洲與密布的人工灌溉網路周邊。在蘇聯（Soviet）時期建造的卡拉庫姆運河（Karakum Canal），強行從阿姆河（Amu Darya）引水橫貫國土，藉此灌溉廣大的棉花農田並供應沿線城市，這雖然徹底重塑了土庫曼（Turkmenistan）的土地利用與綠洲農業格局，但大規模引水卻也帶來了嚴重的土地鹽鹼化問題，並與中亞鹹海（Aral Sea）整體的生態環境惡化存在深遠的歷史關聯。相較之下，西部臨近裏海（Caspian Sea）的沿岸地區則具備極高的能源戰略價值，作為碳氫化合物基礎設施的關鍵通道，無數石油與天然氣管線從此向外輸送，成為連結高加索與歐洲市場的重要門戶。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Extremely arid continental desert climate",
+          "Very hot, dry summers; some regions can exceed 45°C",
+          "Cold winters with large day–night temperature swings",
+          "Low precipitation makes water a core national constraint"
+        ],
+        "text": "Most of the year is hot and dry, with intense summer heat across the Karakum. Winters can bring sharp cold snaps driven by continental air masses, and large diurnal temperature ranges are common due to inland geography and limited maritime moderation. Water availability is a defining development bottleneck: agriculture, urban supply, and energy operations depend heavily on engineered irrigation and distribution systems."
+      },
+      "zh": {
+        "list": [
+          "屬於典型的極端乾旱大陸性沙漠氣候（Continental Desert Climate）",
+          "夏季酷熱且極度乾燥，部分沙漠核心區域氣溫可輕易突破 45°C",
+          "冬季受到大陸氣團強烈侵襲而顯得寒冷，且日夜溫差極大",
+          "全年降水量稀少，使得水資源成為限制國家發展的最核心瓶頸"
+        ],
+        "text": "土庫曼（Turkmenistan）全年多數時間都處於炎熱乾燥的狀態。夏季時，卡拉庫姆沙漠（Karakum Desert）全境籠罩在炙熱的暴曬之下，地表熱浪翻騰；而到了冬季，由於缺乏地形屏障，來自西伯利亞的大陸氣團常會南下帶來劇烈的寒潮與極端低溫。由於深處內陸的地理位置，加上缺乏海洋調節作用，晝夜溫差極大是這裡非常普遍的氣候特徵，白日高溫如火，夜晚卻可能迅速轉為刺骨低溫。這種極端的氣候條件使水資源成為國家發展中最核心的戰略瓶頸：不論是支柱性的農業灌溉、城鎮國民供水，還是龐大的天然氣產業營運，皆高度依賴大型人工水利工程與分配系統，氣候與水源問題也因此始終與其國家安全緊密交織。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Population around 7 million; low overall density",
+          "Ethnically majority Turkmen with smaller Uzbek, Russian, and Kazakh minorities",
+          "Urban concentration in Ashgabat and southern oasis cities",
+          "Turkmen is the official language; Russian retains limited functional influence"
+        ],
+        "text": "Turkmenistan’s population is relatively concentrated in irrigated zones and major urban centers, with vast desert regions sparsely inhabited. Migration abroad for work—especially among younger cohorts—has been a recurring feature given limited private-sector opportunity and a controlled domestic environment. Language policy emphasizes Turkmenization, while Russian remains present in some business and higher-education contexts."
+      },
+      "zh": {
+        "list": [
+          "總人口數約為 710 萬人，人口總體密度偏低",
+          "主體民族為土庫曼族（Turkmen），並包含少數的烏茲別克族（Uzbek）、俄羅斯族（Russian）及哈薩克族（Kazakh）",
+          "人口高度集中於首都阿什哈巴德（Ashgabat）及南部的綠洲城市地帶",
+          "官方語言為土庫曼語（Turkmen），俄語（Russian）在特定功能領域仍保留有限影響力"
+        ],
+        "text": "根據最新官方與人口統計查證，土庫曼（Turkmenistan）的主要族群結構中，主體民族土庫曼族（Turkmen）佔絕對多數的 85.6%，其次為烏茲別克族（Uzbek）佔 5.8%、俄羅斯族（Russian）佔 5.1%，其餘則為哈薩克族（Kazakh）等少數族群。全國人口主要稠密分布在受河流與運河滋養的灌溉綠洲與主要都市中心，而廣袤的沙漠腹地則近乎無人居住。由於國內私營經濟空間受到高度壓縮，民生就業機會受限，許多年輕世代選擇遠赴土耳其（Turkey）或俄羅斯（Russia）等地跨國務工。在語言與文化政策上，政府自獨立後大力推行「土庫曼化（Turkmenization）」政策，強制確立土庫曼語（Turkmen）的官方主導地位；不過，俄語（Russian）在高等教育、跨國商業與部分行政文書處理中，仍保留了相當的實質功能與影響力。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "Natural gas exports are the economic backbone",
+          "State-dominated model with limited diversification",
+          "Cotton remains an important irrigated agricultural crop",
+          "China is the primary large-scale gas buyer via Central Asia pipeline routes"
+        ],
+        "text": "Turkmenistan’s economy is heavily concentrated in hydrocarbons. Large fields such as Galkynysh anchor national revenue, while pipeline geography and external demand shape export options. Cotton continues as a legacy agricultural pillar but relies on intensive irrigation and centralized management, raising efficiency and environmental challenges. Overall, fiscal stability is highly sensitive to global energy price cycles."
+      },
+      "zh": {
+        "list": [
+          "天然氣（Natural Gas）出口是支撐國家生存的絕對經濟命脈",
+          "實行高度由國家主導的計畫經濟模式，產業結構極度缺乏多元化發展",
+          "棉花（Cotton）仍是極具代表性且依賴密集灌溉的傳統農業支柱",
+          "中國（China）是其最核心的天然氣買家，透過中亞天然氣管線進行大規模輸給"
+        ],
+        "text": "土庫曼（Turkmenistan）的經濟命脈瘋狂向碳氫化合物（Hydrocarbons）產業傾斜。其國土下方蘊藏著世界前列的天然氣，諸如世界最大氣田之一的加爾基尼什氣田（Galkynysh Gas Field）直接奠定了國家的財政基礎。在地緣政治與管線外交上，中國（China）是土庫曼（Turkmenistan）最重要的戰略級能源買家，中亞天然氣管線（Central Asia–China Gas Pipeline）跨越數千公里將氣源送往新疆，使兩國形成了牢不可破的能源相互依賴關係。相比之下，與俄羅斯（Russia）及歐洲市場的能源合作常因路線爭端而顯得起伏不定。在能源之外，棉花（Cotton）是前蘇聯時期遺留至今的另一大傳統產業，但這種高耗水作物極度依賴集中式計畫管理與大規模人工灌溉，不僅面臨生產效率低下的質疑，更帶來嚴峻的生態危機。整體而言，其國家財政極其脆弱地對全球能源價格波動保持高度敏感。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Presidential system with highly centralized executive power",
+          "Long-standing reputation as one of the world’s most closed political environments",
+          "Strict controls over media, internet, and political competition",
+          "State-led symbolism and large-scale monumental projects are prominent"
+        ],
+        "text": "Since independence, Turkmenistan’s governance has emphasized personal authority and centralized control. Under the first president, Saparmurat Niyazov, a strong cult-of-personality emerged alongside expansive state propaganda. Contemporary governance continues to be characterized by tight information management and limited space for independent media and opposition, drawing sustained criticism from international rights observers."
+      },
+      "zh": {
+        "list": [
+          "採行總統制（Presidential System），行政權力高度集中於國家元首",
+          "長期在國際上被公認為全球最封閉、透明度最低的政治體制之一",
+          "對大眾媒體、網際網路與政黨競爭實施滴水不漏的嚴格新聞審查與控制",
+          "高度擅長運用國家主導的強烈視覺符號，並興建極其誇張的宏偉紀念碑工程"
+        ],
+        "text": "土庫曼（Turkmenistan）自獨立以來，其國家治理便帶有極其濃厚的強人權威與中央集權色彩。首任總統薩帕穆拉特·尼亞佐夫（Saparmurat Niyazov）曾自封為「土庫曼人之父（Türkmenbaşy）」，其在位期間發展出令人瞠目結舌的個人崇拜（Cult of Personality）文化，全國各處矗立著其不銹鋼鍍金雕像，甚至將自身著作《靈魂之書》（Ruhnama）奉為全民義務教育的核心教條。現今的治理模式依然延續了高度集中與資訊嚴格管控的特徵，國內媒體幾乎全數國有化，並建構了高度屏蔽的外國網路防火牆，徹底杜絕了獨立媒體與反對黨的生存空間，這也使其長期遭受國際人權與新聞自由觀察組織的強烈批評。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Energy-subsidy welfare model historically significant, with gradual tightening in recent years",
+          "Daily life shaped by state oversight and administrative control",
+          "Education and healthcare retain strong Soviet-era institutional features",
+          "Internet and information access remain constrained"
+        ],
+        "text": "For years, subsidized utilities and fuel formed a defining feature of the social contract in an energy-export state. As fiscal pressures evolved, parts of the subsidy regime have reportedly been reduced. Social norms remain conservative, and limited information flows shape both the business environment and everyday civic life. Ashgabat’s modern avenues and monumental architecture coexist with a broader society characterized by high state involvement."
+      },
+      "zh": {
+        "list": [
+          "歷史上曾實行極其慷慨的國家補貼福利體系，但近年已逐步縮減緊縮",
+          "國民的日常社會生活受到政府官僚體系與行政權力的全方位規管",
+          "教育與醫療衛生體系至今仍保留著深厚的前蘇聯（Soviet）時期制度烙印",
+          "民眾在網路虛擬空間與外部資訊的獲取管道上，面臨極大的人為限制"
+        ],
+        "text": "在過去的數十年中，土庫曼（Turkmenistan）最著名的社會契約便是由國家補貼所帶來的「免費福利模型」——國民曾可享受完全免費或價格極其低廉的天然氣、水電、食鹽與燃料補貼。然而，隨著近年國際能源市場震盪與國家財政壓力攀升，政府已逐步取消了這些慷慨的補貼，改採市場化計價。在這種高壓掌控的體制下，社會民風極其保守，家庭與傳統突厥部族觀念仍具備強大的基層約束力。首都阿什哈巴德（Ashgabat）寬闊、空曠且鋪滿昂貴白色大理石的現代化大道，與高度受到國家行政監控、與世隔絕的基層國民日常生活，共同編織出極具反差感且帶有超現實主義色彩的社會浮世繪。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "Turkic nomadic heritage remains a strong cultural foundation",
+          "Akhal‑Teke horses are a national identity symbol",
+          "Carpet weaving is a hallmark craft and visual national motif",
+          "Predominantly Muslim society under a strongly secularized state framework"
+        ],
+        "text": "Turkmen culture is deeply rooted in Turkic pastoral traditions and clan histories. National symbolism often draws from horses, textiles, and geometric motifs, with carpets recognized as signature craftsmanship. Islam is the majority religion, but religious life operates under strong state supervision, producing an overall cultural environment where ethnic tradition is prominent while politicized religion is comparatively muted."
+      },
+      "zh": {
+        "list": [
+          "古代突厥（Turkic）的遊牧與畜牧文明是其根深蒂固的文化基石",
+          "國寶級的阿哈爾捷金馬（Akhal-Teke horse）被尊為國族認同的核心圖騰",
+          "精美絕倫的手工手工地毯（Handwoven Carpets）是享譽國際的頂級工藝符號",
+          "社會普遍信仰伊斯蘭教（Islam），但整體宗教活動被框限在強烈的世俗化國家架構內"
+        ],
+        "text": "土庫曼（Turkmenistan）的文化血脈深植於古老的突厥（Turkic）遊牧傳統與部族歷史中。其國家的主權符號與民族美學大量吸取了馬匹、紡織品與複雜的幾何圖騰。其中，土庫曼手工地毯（Turkmen Carpet）更是聞名遐邇的靈魂工藝，其象徵著不同古老部族的五大幾何花紋（Guls），甚至被直接編織進了土庫曼（Turkmenistan）的國旗之中。雖然大眾在宗教信仰上以遜尼派伊斯蘭教（Islam）為絕對主流，但國家的治理方針實行極其嚴格的世俗化管理，所有宗教神職人員任命與講經內容均受到官方情報單位的嚴密監督與限縮，這使得當地的文化氛圍呈現出「民族遊牧傳統極其彰顯，但宗教政治化色彩極低」的鮮明特點。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Over-dependence on gas exports and limited economic diversification",
+          "Youth unemployment and outward migration pressures",
+          "Persistent criticism over restricted information space and civil liberties",
+          "Rising water stress and desertification risks under climate change"
+        ],
+        "text": "A core structural challenge is the economy’s reliance on a single export pillar. Energy price volatility can translate rapidly into fiscal stress. At the same time, limited private-sector dynamism and tight governance constrain innovation and job creation, contributing to migration pressures. Environmental constraints—especially water management and land degradation—remain long-run national security issues."
+      },
+      "zh": {
+        "list": [
+          "經濟結構單一化，面臨過度依賴天然氣（Natural Gas）出口的結構性財政風險",
+          "青年失業率居高不下，引發嚴重的勞動力與高素質人才外流壓力",
+          "因嚴重壓制資訊自由、網際網路屏蔽與剝奪公民自由而長年飽受國際社會譴責",
+          "在氣候變遷（Climate Change）威脅下，面臨日益嚴峻的水資源枯竭與土地沙漠化危機"
+        ],
+        "text": "土庫曼（Turkmenistan）當前遭遇的最大結構性死結，在於國家財政對單一化石能源出口的極端依賴，一旦國際天然氣（Natural Gas）價格暴跌，往往會迅速引發國內劇烈的通貨膨脹與外匯存底危機。與此同時，國家對私營經濟的長期打壓與計畫體制的僵化，嚴重扼殺了民間的創新活力與就業市場的多元化，迫使大量優秀的青年人口外流海外。在環境層面，全球氣候變遷（Climate Change）正加速卡拉庫姆沙漠（Karakum Desert）向外擴張，而歷史留下來的過度灌溉政策更使阿姆河（Amu Darya）流量銳減。如何在極端的威權控制、單一的資源詛咒以及迫在眉睫的生態與水資源危機之間進行戰略突圍，是土庫曼（Turkmenistan）未來無法迴避的巨大國家挑戰。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Ashgabat — white-marble capital and administrative core",
+          "Türkmenbaşy — Caspian coastal port city",
+          "Darvaza Gas Crater — iconic burning desert crater",
+          "Karakum Desert — defining landscape of Central Asia"
+        ],
+        "text": "Ashgabat is internationally known for a distinctive monumental urban aesthetic featuring extensive white marble, grand boulevards, and state-built memorial complexes. The Caspian port city of Türkmenbaşy serves as a key gateway for maritime logistics. For many travelers, the Darvaza crater remains the most famous destination—a fiery landmark set deep within the desert."
+      },
+      "zh": {
+        "list": [
+          "阿什哈巴德（Ashgabat）—— 由無數白色大理石堆砌而成的奢華首都與政治心臟",
+          "土庫曼巴希（Türkmenbaşy）—— 扼守裏海（Caspian Sea）沿岸的戰略物資與門戶港口城市",
+          "達瓦札天然氣坑洞（Darvaza Gas Crater）—— 深陷荒漠中央、晝夜燃燒數十年的「地獄之門」奇景",
+          "卡拉庫姆沙漠（Karakum Desert）—— 構成整個中亞（Central Asia）最典型意象的巨大乾旱荒漠"
+        ],
+        "text": "首都阿什哈巴德（Ashgabat）在國際上以其無與倫比、甚至有些超現實的白色大理石城市美學著稱。全城擁有數百棟高聳的純白大理石政府機關、空曠如鏡的巨型廣場與金碧輝煌的紀念碑，曾數次創下「全球純大理石建築密度最高城市」的世界紀錄。位於西部的門戶港口土庫曼巴希（Türkmenbaşy），則承載著裏海（Caspian Sea）航運物流、跨國渡輪與向高加索地區輸送油氣的地緣任務。然而，對於全球無數的狂熱探險旅行者而言，最著名的朝聖地莫過於位於荒漠腹地的達瓦札天然氣坑洞（Darvaza Gas Crater）——這座自 1971 年蘇聯工程師鑽探崩塌後便被點燃、至今已日夜不熄燃燒了超過半個世紀的「地獄之門」，在深夜的漫天黃沙中噴湧著熊熊烈火，構成了土庫曼（Turkmenistan）最廣為人知的視覺地標。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "Foreign policy built around UN-recognized permanent neutrality (1995)",
+          "Deep energy ties with China through pipeline infrastructure",
+          "Typically low-profile in regional alliances and multilateral blocs",
+          "Balances interests among Russia, neighboring Central Asian states, and external powers"
+        ],
+        "text": "Turkmenistan’s international posture centers on permanent neutrality, formally recognized by the United Nations in 1995. Compared with more integrationist regional neighbors, it tends to avoid deep institutional entanglement while remaining strategically significant in energy diplomacy. Gas exports—especially to China—shape much of its external economic relationship-building."
+      },
+      "zh": {
+        "list": [
+          "外交戰略完全奠基於 1995 年獲得聯合國（UN）正式承認的「永久中立（Permanent Neutrality）」地位",
+          "透過跨國能源管線基礎設施，與中國（China）構建了極其深厚的戰略能源同盟關係",
+          "在區域軍事聯盟（如集體安全條約組織）與多邊政治集團中，通常保持置身事外的極低調姿態",
+          "謹慎地在俄羅斯（Russia）、中國（China）、美國（United States）及中亞鄰國之間尋求利益平衡"
+        ],
+        "text": "土庫曼（Turkmenistan）的國際外交路線完全圍繞著「永久中立（Permanent Neutrality）」這一核心教條展開，該地位於 1995 年獲得聯合國大會（United Nations General Assembly）一致決議通過。相較於積極參與區域一體化或軍事結盟的哈薩克或烏茲別克，土庫曼（Turkmenistan）極力避免捲入任何具有約束力的國際制度Entanglement，拒絕加入任何可能損害其獨立性的軍事或政治集團。然而在能源外交（Energy Diplomacy）舞台上，它卻是不容忽視的巨頭。其龐大的天然氣出口——尤其是源源不斷輸往中國（China）的藍色能源——幾乎全面主導了其對外關係的經濟建構，使其在維持孤立主義與不結盟方針的同時，依舊深深嵌入在全球地緣能源供應鏈的關鍵節點上。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "No formal diplomatic relations",
+          "Limited trade and people-to-people exchange at present scale",
+          "Potential interest areas: energy, Central Asia studies, and niche commercial cooperation",
+          "Public awareness in Taiwan remains relatively low"
+        ],
+        "text": "Turkmenistan and Taiwan do not maintain official diplomatic relations, and direct connectivity is limited. However, as Taiwan’s attention to Central Asia and energy supply chains grows, Turkmenistan’s role as a major gas exporter can draw academic and industry interest. Practical cooperation, where it occurs, tends to be exploratory and non-political."
+      },
+      "zh": {
+        "list": [
+          "雙方在中民國/台灣（Taiwan）與土庫曼之間並無建立任何形式的正式外交關係",
+          "受限於地理距離與簽證封閉，現階段兩國的經貿往來與民間交流規模極其有限",
+          "在國際能源供應鏈研究、中亞（Central Asia）地緣政治學術探討及特定利基商業合作中具備潛在空間",
+          "台灣（Taiwan）社會大眾與企業界對土庫曼（Turkmenistan）的整體文化與市場認識度目前普遍偏低"
+        ],
+        "text": "土庫曼與台灣之間目前缺乏正式的官方外交管道，且由於該國簽證核發極其嚴格，雙方不論是在直接航線、觀光旅遊還是大規模商業投資上的互動都顯得相當邊緣與疏離。然而，隨著台灣（Taiwan）近年來對中亞（Central Asia）地緣戰略地位、絲路文化歷史研究，以及多元化全球能源供應鏈（Energy Supply Chains）安全關注度的日益提升，土庫曼（Turkmenistan）作為國際天然氣出口巨擘的戰略角色，正逐步吸引台灣（Taiwan）部分智庫、學術界以及綠能產業界的探索性目光。雙方未來若有實質性的互動，預計也將率先落腳於不具政治敏感性的非官方經貿考察、學術文化交流或利基型的進出口貿易領域。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "One of Central Asia’s most closed and least transparent states",
+          "A desert geography where water management is strategic",
+          "Energy wealth underpins both infrastructure and fiscal risk",
+          "Strong Turkic cultural continuity expressed through carpets and horse culture",
+          "A permanent neutrality doctrine shaping a distinct foreign policy profile"
+        ],
+        "text": "Turkmenistan’s national story is largely written in desert geography and gas infrastructure: a state funded by energy exports, constrained by water scarcity, and shaped by a political system that prioritizes control and stability. Its culture and symbols remain strongly Turkic and pastoral in origin, while its external posture is built around neutrality and cautious engagement."
+      },
+      "zh": {
+        "list": [
+          "中亞（Central Asia）地緣版圖上最神秘、最具神話色彩且高度封閉的資源型主權國家之一",
+          "由卡拉庫姆沙漠（Karakum Desert）的荒涼與「地獄之門」的烈焰，共同交織出強烈的國家魔幻視覺意象",
+          "源源不斷的天然氣財富支撐了極度奢華的首都硬體建設，卻也帶來了高風險的資源詛咒經濟體質",
+          "阿哈爾捷金馬與繁複的土庫曼地毯工藝，代代傳承著古老突厥（Turkic）遊牧民族的文化不滅火種",
+          "在極端的內部孤立主義、對外永久中立（Permanent Neutrality）戰略與現代化改革的夾縫中持續尋找平衡點"
+        ],
+        "text": "土庫曼（Turkmenistan）的國家敘事，可以說完全是由其嚴酷的沙漠地理以及龐大的天然氣基礎設施所共同撰寫：這是一個財政由能源出口全額資助、命脈受制於水資源極度匱乏，且國家性格完全由追求絕對控制與秩序穩定之政治體制所形塑的獨特國度。從白色大理石鋪就的魔幻首都到大漠深處日夜咆哮的火焰巨坑，這些極具視覺衝擊的符號共同拼湊出外界眼中的「中亞北韓」神秘輪廓。而在單一資源依賴、環境沙漠化加劇與地緣政治風起雲湧的當下，如何在孤立中求生存、在永久中立（Permanent Neutrality）中尋求大國博弈的戰略安全，並逐步引導國家走向多元化與現代化轉型，將是這匹中亞「天馬」在未來漫長歲月中最重要的核心考驗與命題。"
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": {
+        "en": "Turkmenistan manat (TMT)",
+        "zh": "土庫曼馬納特（Turkmenistan Manat / TMT）"
+      }
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "Turkmen",
+        "zh": "土庫曼語（Turkmen）"
+      }
+    },
+    {
+      "label": "Time zone",
+      "value": "UTC+5"
+    },
+    {
+      "label": "Calling code",
+      "value": "+993"
+    },
+    {
+      "label": "ISO code",
+      "value": "TM / TKM"
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/223026",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=52.3%2C35.1%2C66.7%2C42.8&layer=mapnik"
+}

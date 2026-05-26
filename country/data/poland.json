@@ -300,7 +300,7 @@
     },
     {
       "label": "Time zone",
-      "value": "UTC+1 / +2"
+      "value": "UTC+1 / UTC+2（夏令時間）"
     },
     {
       "label": "Calling code",

@@ -300,13 +300,13 @@
     },
     {
       "label": "GDP (nom.)",
-      "value": "$1.6T+ (Ranking as Europe's 4th largest economic entity)"
+      "value": "$1.6T+"
     },
     {
-      "label": "Time zones",
+      "label": "Time zone",
       "value": {
-        "en": "UTC+1 (CET / Central European Time); Canary Islands operate on UTC+0 (WET). Daylight Saving Time (active March to October)",
-        "zh": "本土為 UTC+1（中歐時間，3至10月實施夏令時間 UTC+2）；加那利群島為 UTC+0（較本土慢1小時）"
+        "en": "UTC+1 / UTC+2 (DST)",
+        "zh": "UTC+1 / UTC+2（夏令時間）"
       }
     },
     {
