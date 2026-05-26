@@ -1,0 +1,353 @@
+{
+  "name": {
+    "en": "Greece",
+    "zh": "希臘（Greece）"
+  },
+  "nativeName": "Ελλάδα",
+  "capital": {
+    "en": "Athens",
+    "zh": "雅典（Athens）"
+  },
+  "population": "10.4M",
+  "area": "131,957 km²",
+  "density": "79/km²",
+  "continent": "Europe",
+  "flagEmoji": "🇬🇷",
+  "dataEstYear": 2025,
+  "description": {
+    "en": "Greece is a southern European nation located at the southern tip of the Balkan Peninsula, bordered by the Aegean Sea to the east, the Ionian Sea to the west, and the Mediterranean Sea to the south. Renowned as the cradle of classical Western civilization, the birthplace of democracy and Western philosophy, and famous for its spectacular island geography and coastal tourism, Greece serves as the foundational cultural cornerstone of the Western world.",
+    "zh": "Greece（希臘，正式國名為海倫共和國）是位於南歐巴爾幹半島南端的璀璨古國。地理上，希臘東臨愛琴海（Aegean Sea），西接愛奧尼亞海（Ionian Sea），南方面向遼闊的地中海（Mediterranean Sea），扼守歐亞非三大洲的戰略交界。希臘被舉世公認為西方古典文明的搖籃、民主制度與西方哲學的至高發源地。憑藉其夢幻的群島地形、蔚藍的地中海風情與無與倫比的文化遺產，希臘不僅是全球頂級的度假旅遊勝地，更是整個西方世界無可替代的精神與文化基石。"
+  },
+  "seoText": {
+    "en": "Explore quick facts about Greece — population, land area, capital city, and a short overview. Learn about Parthenon temples, Athens Acropolis, Santorini domes, merchant shipping, Socrates philosophy, and Olympic history.",
+    "zh": "快速掌握地中海文明古國希臘（Greece）的最新基本國情資料：包含人口規模、領土土地面積、首都雅典（Athens）以及宏觀國家深度概述。帶您一探歷史教科書中的巴特農神殿、雅典衛城（Acropolis）歷史奇蹟、風靡全球的聖托里尼（Santorini）藍頂教堂、稱霸名列全球第一的希臘商船航運大隊，以及蘇格拉底（Socrates）古典哲學思辨與奧林匹克運動會的偉大發源歷史。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Strategically located at the southern tip of the Balkan Peninsula in Southern Europe",
+          "Universally recognized cradle of Western civilization, philosophy, and democracy",
+          "Boasts thousands of pristine islands and extremely elongated coastline systems",
+          "A global pillar in international marine shipping fleets and holiday tourism"
+        ],
+        "text": "Greece's rich history traces back to the legendary Ancient Greek civilization, which laid down the mathematical, theatrical, architectural, and ethical foundations of the Western world.\n\nToday, the Hellenic Republic is an active EU member state, playing a vital strategic role in East Mediterranean security, holding the world's largest merchant marine fleet by capacity, and welcoming tens of millions of global travelers annually."
+      },
+      "zh": {
+        "list": [
+          "高居南歐巴爾幹半島最南端的咽喉地帶，地理位置極具地緣戰略價值",
+          "舉世公認的西方文明搖籃，率先培育出人類歷史上的思辨哲學、科學邏輯與民主政治雛形",
+          "坐擁數千座散落於愛琴海的珍珠島嶼，曲折漫長的海岸線勾勒出無與倫比的海洋文明",
+          "實力雄厚的全球海洋航運巨頭，同時以現象級的文化古蹟與度假海灘主宰全球休閒觀光市場"
+        ],
+        "text": "希臘歷史可追溯至古希臘（Ancient Greece）文明，對哲學、數學、政治與藝術發展影響深遠。後來歷經羅馬帝國（Roman Empire）與鄂圖曼帝國（Ottoman Empire）統治，19世紀後恢復獨立並建立現代國家。\n\n現代希臘為歐盟（European Union）成員國，在航運、觀光與海洋經濟方面具有重要地位。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Sprawling archipelago encompassing thousands of scenic islands",
+          "Highly mountainous inland topography with limited fertile plains",
+          "Possesses one of the longest and most jagged coastlines in Europe",
+          "Archetypal Mediterranean geography surrounded by deep-blue seas"
+        ],
+        "text": "Spanning approximately 132,000 square kilometers, Greece consists of a mountainous mainland and a sprawling archipelago of over 2,000 islands, with Crete, Rhodes, and the Cyclades group being the most famous.\n\nMountains cover nearly 80% of the territory, pushing population centers and agricultural towns to the jagged coastal strips. Its extensive shoreline is deeply integrated into daily lives and maritime commerce."
+      },
+      "zh": {
+        "list": [
+          "由綿延的本土與多達數千座大大小小的絢麗島嶼共組而成，堪稱實至名歸的愛琴海千島之國",
+          "境內山嶺層巒疊嶂，山地地形佔國土面積近八成，這使得可耕作的肥沃平原顯得極其珍貴",
+          "海岸線長度在歐洲名列前茅，海灣與半島縱橫交錯，呈現極度曲折且發達的鋸齒狀地理特徵",
+          "被深邃空靈的蔚藍海域深情環抱，展現出最純粹、最典型且最具詩意的地中海地貌特徵"
+        ],
+        "text": "希臘國土由本土與約數千座島嶼組成，其中克里特島（Crete）、羅德島（Rhodes）與西克拉德斯（Cyclades）群島最為知名。地形以山地為主，平原較少，因此人口與城市多集中於沿海地區。希臘擁有歐洲最長的海岸線之一，海洋對經濟與生活影響極大。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Classic and highly prototypical Mediterranean climate weather patterns",
+          "Extremely sunny, hot, and dry summer holiday seasons",
+          "Mild and wet winters with precipitation focused in coastal areas",
+          "Island microclimates boast exceptionally stable sea breezes"
+        ],
+        "text": "Greece enjoys a quintessential Mediterranean climate. Summers are brilliantly sunny, hot, and virtually rainless, offering ideal weather for coastal tourism and beach holidays.\n\nWinters are mild and damp, though northern inland peaks regularly experience freezing temperatures and heavy snow. Iconic islands like Santorini and Mykonos boast exceptionally stable weather throughout the extended travel season."
+      },
+      "zh": {
+        "list": [
+          "全境呈現極具範本教科書意義的地中海型氣候，陽光充足是其永恆的國家標籤",
+          "夏季迎來漫長且萬里無雲的黃金度假季，氣候炎熱乾燥，降雨極其稀少，最利於海濱觀光",
+          "冬季氣候溫和且舒適多雨，但北方內陸山區受大陸氣流影響，仍會迎來寒冷雪季",
+          "得天獨厚的群島微氣候環境，常年吹拂著極其穩定且清爽的愛琴海海 breezes，令人心曠神怡"
+        ],
+        "text": "希臘典型地中海氣候特徵明顯，夏季陽光充足且乾燥，非常適合旅遊。冬季較溫和，但北部與山區可能出現降雪。島嶼地區如聖托里尼（Santorini）與米克諾斯（Mykonos）氣候穩定，是全球著名度假勝地。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Vibrant population of approximately 10 million residents",
+          "High concentration in massive metropolitan city basins",
+          "Athens acts as the absolute demographical and cultural core",
+          "Vast global network of highly successful overseas Greek diasporas"
+        ],
+        "text": "Greece is home to roughly 10 million people, with over one-third of the population residing in the Athens metropolitan area, followed by the northern port city of Thessaloniki.\n\nGreek is the official language, and the population shares a highly cohesive cultural and religious heritage centered on the Greek Orthodox Church. Centuries of emigration have also created a vibrant global Greek diaspora in the US, Australia, and Europe."
+      },
+      "zh": {
+        "list": [
+          "總人口規模維持在 1,000 多萬人，民族文化認同感極強且高度凝聚",
+          "人口在地理分佈上呈現高度的都市集中化，沿海平原大都會聚集了全國主要人口",
+          "歷史古都雅典（Athens）扮演著絕對的人口天際線、行政核心與舉足輕重的文化心臟",
+          "海外希臘僑民網絡極其龐大且實力不容小覷，廣泛分佈於美、澳、英等國並在商界掌握強大話語權"
+        ],
+        "text": "希臘人口主要集中於雅典大都會區（Athens metropolitan area）與塞薩洛尼基（Thessaloniki）等城市。官方語言為希臘語（Greek），民族組成相對單一，東正教是其主要宗教與精神紐帶。由於歷史上的經濟因素，希臘有大量海外僑民分布於歐洲（Europe）、美國（United States）與澳洲（Australia）。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "Dominated by service industries, international shipping, and tourism",
+          "Owns and controls the largest merchant shipping fleet on Earth",
+          "Successfully recovering from the deep impacts of the 2010 debt crisis",
+          "Traditional agricultural exports and olives hold premium value"
+        ],
+        "text": "The Greek economy is heavily driven by services, with tourism acting as a core pillar of national income, drawing millions to its ruins and beaches.\n\nMaritime shipping is Greece's strongest international industry; the Greek-owned merchant fleet is the largest in the world by deadweight tonnage. After enduring a severe sovereign debt crisis in the 2010s, Greece has successfully navigated fiscal reforms to restore economic growth."
+      },
+      "zh": {
+        "list": [
+          "產業結構高度依賴第三級服務業，現代海運國際貿易與假日觀光是其兩大經濟擎天神柱",
+          "低調的遠洋霸主，希臘船東控制著全球最大規模的商船隊總噸位，主宰全球大宗物資航運鏈",
+          "經歷了2010年代歐洲債務危機的陣痛與嚴苛洗禮，如今財政赤字大幅改善，經濟全面重回健康增長軌道",
+          "地中海精緻農業獨具市場優勢，頂級橄欖油、菲達起司與優質葡萄酒行銷全球，享有極高溢價"
+        ],
+        "text": "希臘經濟高度依賴服務業，其中觀光業是核心支柱，每年吸引大量國際旅客。航運業是希臘最強產業之一，希臘商船隊規模在全球名列前茅。2010年代的歐洲債務危機（European debt crisis）對希臘經濟造成重大衝擊，之後經歷結構性財政改革，已逐步恢復穩定增長。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Democratic parliamentary republic with a stable multi-party system",
+          "President serves as a ceremonial head of state",
+          "Executive administration is led by the Prime Minister",
+          "Fully integrated within European Union and Eurozone frameworks"
+        ],
+        "text": "Greece is a parliamentary republic where the President serves a ceremonial role, and governing authority is held by the Prime Minister. The parliament, the Hellenic Parliament, consists of 300 seats.\n\nGreek policy is deeply integrated with the European Union, which guides fiscal, trade, and agricultural regulations. The capital Athens remains the undisputed epicenter of political decision-making."
+      },
+      "zh": {
+        "list": [
+          "實行成熟的議會民主共和制，憲政體制健全，多黨制輪替與聯合執政運作穩定",
+          "希臘總統為虛位元首，扮演超然的國家主權象徵與對外禮儀性職責",
+          "實質行政大權由掌握議會多數實權的內閣總理（Prime Minister）全權執掌並對議會負責",
+          "深度嵌入歐洲聯盟（EU）與歐元區（Eurozone）一體化架構，財政與地緣政治外交與歐盟高度一致"
+        ],
+        "text": "希臘為議會制共和國，總統為象徵性元首，實際權力由總理與政府行使。政治體制受歐盟（European Union）規範影響較大，財政與貨幣政策（歐元區）與歐盟整合度高。首都雅典（Athens）為全國無可爭議的政治、經濟與行政中心。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Deep historical cultural ties and close-knit family units",
+          "Strong social role of the Greek Orthodox Church",
+          "Distinct lifestyle differences between bustling cities and tranquil islands",
+          "Relaxed Mediterranean social rhythm and focus on gastronomy"
+        ],
+        "text": "Greek society places immense value on family ties, hospitality (Philoxenia), and local community connections. The Greek Orthodox Church remains an important cultural anchor.\n\nWhile metropolitan cities like Athens are fast-paced, life on the Aegean islands follows a relaxed, seasonal rhythm centered on outdoor cafes, fresh Mediterranean gastronomy, and coastal leisure."
+      },
+      "zh": {
+        "list": [
+          "社會風氣飽含古典文明的浪漫與厚重，家族與親友紐帶極其緊密，重視鄰里社群情誼",
+          "希臘東正教會（Greek Orthodox Church）在社會精神生活中佔據核心地位，是不可或缺的文化凝聚力",
+          "生活型態呈現顯著的雙重性：既有雅典等大都市的現代現代喧囂，又有愛琴海群島的超然物外與寧靜",
+          "崇尚南歐典型的悠閒生活哲學，極度重視戶外咖啡館社交與健康養生的地中海慢食饗宴"
+        ],
+        "text": "希臘社會深受古典文化與東正教影響，家庭關係緊密，並以熱情好客（Philoxenia）的傳統聞名。島嶼生活與都市生活差異明顯，觀光地區經濟依賴季節性旅遊。整體生活節奏較南歐其他國家更為悠閒，崇尚戶外咖啡文化與精緻的地中海飲食。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "The historic birthplace of Western philosophy and intellectual debate",
+          "Pioneered early democratic models and mathematical proofs",
+          "Towering historical legacy in architecture, drama, and sculptures",
+          "Founding birthplace of the legendary ancient Olympic Games"
+        ],
+        "text": "Greece is the intellectual cradle of Western philosophy, home to towering thinkers like Socrates, Plato, and Aristotle. It pioneered early democratic self-governance in Athens and gave birth to the ancient Olympic Games.\n\nClassical Greek architecture, represented by the iconic Doric temples, has inspired government buildings and artistic styles worldwide for over two millennia."
+      },
+      "zh": {
+        "list": [
+          "全人類輝煌的古希臘文明發祥地，拉開了西方理性科學與思辨美學的歷史序幕",
+          "西方哲學與現代民主制度的絕對起點，蘇格拉底、柏拉圖等巨擘的辯證法至今仍啟迪世人",
+          "古典時期的多立克式神殿建築、悲喜劇文學及維妙維肖的雕塑美學，為全球藝術立下萬世標竿",
+          "舉世矚目的奧林匹克運動會（Olympic Games）唯一故鄉，點燃了和平、競技與崇高的人文精神"
+        ],
+        "text": "希臘是西方哲學（Western philosophy）發源地之一，柏拉圖（Plato）與亞里斯多德（Aristotle）等哲學巨擘對後世理性思維影響深遠。奧林匹克運動會（Olympic Games）起源於古希臘（Ancient Greece），現代奧運精神亦源自此文化。以巴特農神殿（Parthenon）為代表的古典希臘建築與雕塑，兩千多年來持續啟發全球的藝術風格。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Addressing high youth unemployment and brain drain migration",
+          "Managing state debt recovery and structural tax reforms",
+          "Navigating migration and refugee waves at Southern EU sea borders",
+          "Reducing high seasonal dependence on global tourism fluctuations"
+        ],
+        "text": "Following the debt crisis, Greece continues to address youth unemployment and the brain drain of young professionals. As a frontline state on the EU's southern maritime border, it manages large migration and refugee flows from the Mediterranean.\n\nAdditionally, reducing high economic reliance on seasonal summer tourism and developing year-round industries remains a primary structural goal."
+      },
+      "zh": {
+        "list": [
+          "面臨結構性青年失業率偏高的頑疾，如何遏制高階受教育年輕人才的海外「大腦外流」是當務之急",
+          "雖走出破產陰霾，但仍需恪守嚴格的財政紀律，持續推進深水區的稅制改革與債務去槓桿",
+          "地處歐盟最前線的南部海洋邊界，常年承擔著安頓與篩選跨越地中海的龐大外來移民與難民潮壓力",
+          "國家財政與就業對季節性「夏季旅遊」依賴度過高，如何將其轉化為全天候、多元化的經濟體系是一大挑戰"
+        ],
+        "text": "希臘在歐洲債務危機（European debt crisis）後仍面臨結構性財政改革挑戰。青年失業率長期偏高，導致不少年輕專業人才外流。同時，作為歐盟南部海域邊境國家，希臘承擔了大量跨越地中海的移民與難民潮壓力。如何減少對季節性夏季觀光業的高度依賴，亦是結構性經濟轉型的主軸。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Athens Acropolis — The world-famous crowning jewel of classical Greece",
+          "Santorini — Picturesque island famous for white villas and blue domes",
+          "Thessaloniki — Rich cultural port city blending Roman and Byzantine history",
+          "Delphi — Ancient sanctuary once considered the center of the world"
+        ],
+        "text": "The Acropolis of Athens, crowned by the majestic Parthenon, stands as the ultimate symbol of classical Greek civilization. Santorini draws global admiration with its dramatic volcanic cliffs, whitewashed houses, and blue-domed churches.\n\nThessaloniki offers a vibrant waterfront lined with Byzantine walls, while the mountain slopes of Delphi preserve the ancient ruins of the sacred Oracle."
+      },
+      "zh": {
+        "list": [
+          "雅典衛城（Acropolis）—— 傲視全人類歷史的古文明皇冠，山巔之上的巴特農神殿是神聖不可侵犯的民主圖騰",
+          "聖托里尼（Santorini）—— 全球蜜月度假頂流島嶼，火山斷崖上的純白懸崖洞穴別墅與深藍圓頂教堂交織成夢幻天堂",
+          "塞薩洛尼基（Thessaloniki）—— 充滿煙火氣與文藝底蘊的北方第一大港，完美融合了古羅馬、拜占庭與鄂圖曼的帝國歲月",
+          "德爾菲古聖所（Delphi）—— 隱匿於帕納索斯山間的「世界之臍」，古希臘人前來聆聽阿波羅神諭、探尋命運的神秘聖地"
+        ],
+        "text": "雅典（Athens）坐擁雅典衛城（Acropolis）與雄偉的巴特農神殿（Parthenon），是全球最重要的古典文明遺址。聖托里尼（Santorini）則以火山斷崖、純白石牆別墅與藍頂教堂的絕美風光風靡全球。第二大城塞薩洛尼基（Thessaloniki）融合了羅馬與拜占庭歷史，擁有充滿活力的海濱步道；而德爾菲（Delphi）山坡上的古代聖所遺址，則記錄了當年被視為世界中心的阿波羅神諭傳奇。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "Fully integrated member state of the European Union",
+          "Key strategic military partner within the NATO alliance",
+          "Complex historical and geopolitical relations with neighbor Turkey",
+          "Important regional anchor for East Mediterranean cooperation"
+        ],
+        "text": "Greece holds a highly critical strategic position in the East Mediterranean, guarding the southern borders of both the EU and NATO.\n\nIts geopolitical relations are heavily defined by complex maritime boundary disputes and air space negotiations with neighboring Turkey. Greece actively promotes regional security and serves as a major trade link connecting Europe, Asia, and Africa."
+      },
+      "zh": {
+        "list": [
+          "歐洲聯盟（EU）與歐元區的核心元老級成員國之一，扮演著歐盟伸向東地中海的最重要地緣觸角",
+          "北約（NATO）在南歐與近東地區極其關鍵的軍事戰略盟友，掌握多個控製地中海咽喉的戰略海空軍基地",
+          "與鄰國土耳其（Turkey）維持著微妙且複雜的外交博弈，雙方在愛琴海大陸棚劃分、領空主權及歷史問題上長期對峙",
+          "積極主導東地中海多邊安全與能源論壇，是連結歐、亞、非三大洲國際物流與天然氣管線的關鍵樞紐"
+        ],
+        "text": "希臘在歐盟（European Union）與北約（NATO）中具有極關鍵的戰略位置，守護著歐洲與地中海東部的安全門戶。外交上長期受到與鄰國土耳其（Turkey）複雜的海域劃分、領空主權爭議與歷史糾葛所影響。同時，希臘也扮演著連結歐洲、亞洲與非洲的重要貿易紐帶。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Commercial links in global maritime transport and cargo shipping",
+          "Steady growth in bilateral trade of industrial parts and agriculture",
+          "Growing tourism exchanges and academic collaborations",
+          "Friendly non-official relations based on cultural heritage"
+        ],
+        "text": "Greece and Taiwan share stable commercial connections, particularly in the global maritime industry, where Taiwanese shipping giants (like Evergreen and Yang Ming) maintain close cargo trade links with Greek shipowners.\n\nBilateral trade is steady, featuring Greek olive oil and wine imports. Cultural and tourism exchanges have steadily expanded, introducing more Taiwanese travelers to the ancient wonders of Greece."
+      },
+      "zh": {
+        "list": [
+          "海運連結異常緊密，台灣的全球貨櫃三雄（如長榮、陽明）與希臘的頂級遠洋船東在國際物流與船舶融資上合作無間",
+          "雙邊經貿往來結構穩定，台灣高階資通訊設備與綠能精密零組件積極銷德希，希臘頂級橄欖油與農產品則深受台灣市場喜愛",
+          "民間旅遊與文史學術交流近年呈爆發式增長，越來越多台灣新婚夫妻與自助旅客將希臘群島視為一生必去的夢幻清單",
+          "在無正式外交關係的架構下，雙方基於對民主普世價值與悠久文化遺產的共同崇敬，維繫著極其親實且友好的實質互動"
+        ],
+        "text": "希臘與台灣之間維持穩定的非官方經貿互動。由於希臘是全球海運超級大國，台灣的航運巨頭（如長榮、陽明）與希臘船東在國際貨運物流方面維持著密切的商業連結。雙方在橄欖油、葡萄酒進口與工業零組件的雙邊貿易亦穩步增長，文化與歷史觀光交流近年也吸引了更多台灣旅客前來探索古典古蹟。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "The historic birthplace of classical Western civilization",
+          "The founding homeland of the ancient Olympic Games",
+          "Global superpower in maritime shipping and merchant fleets",
+          "Stunning archipelagos boasting world-class tourism spots"
+        ]
+      },
+      "zh": {
+        "list": [
+          "西方世界的精神故鄉，其孕育的哲學思考、科學邏輯與戲劇美學，奠定了現代西方社會的制度與文明骨架",
+          "世界體育聖火的唯一起源地，古奧林匹亞遺跡至今每四年仍為現代奧運會點燃象徵和平與純潔的神聖火種",
+          "無可爭議的全球第一航運霸主，希臘船東麾下控制的巨型貨輪與商船總噸位長年雄踞世界之冠，掌握海上貿易命脈",
+          "大自然無私眷顧的度假天堂，聖托里尼、米克諾斯等上千座風情萬種的珍珠島嶼，構築了全球旅客心目中的終極蔚藍夢境"
+        ]
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": "歐元（Euro / €，歐元區不可或缺的南歐成員，其財政改革與經濟復甦進程長年受到歐洲中央銀行與國際資本市場的密切注視）"
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "Greek",
+        "zh": "希臘語（Greek，全境唯一的官方與通用語言，擁有超過三千年的文字記載史，是人類印歐語系中最古老且沿用至今的傳奇語言之一）"
+      }
+    },
+    {
+      "label": "GDP (nom.)",
+      "value": "$250B"
+    },
+    {
+      "label": "Time zone",
+      "value": "UTC+2 / UTC+3（夏令時間）"
+    },
+    {
+      "label": "Calling code",
+      "value": "+30"
+    },
+    {
+      "label": "ISO code",
+      "value": "GR / GRC"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🇬🇷",
+      "text": {
+        "en": "Hellenic Flag — The iconic sky-blue and ocean-white striped flag with a cross representing Greece's deep sea roots and Orthodoxy",
+        "zh": "愛琴海藍白十字旗——經典的藍白條紋旗幟與東正教十字標誌，代表希臘的蔚藍晴空與浩瀚海洋，充滿了濃厚的地中海風情"
+      }
+    },
+    {
+      "icon": "🏛️",
+      "text": {
+        "en": "Parthenon & Acropolis — The awe-inspiring, two-thousand-year-old historic temples crowning Athens representing democracy",
+        "zh": "雅典衛城與巴特農神殿——聳立於首都雅典之巔的兩千年古文明神殿，是古希臘建築美學、民主制度與西方哲學的至高歷史象徵"
+      }
+    },
+    {
+      "icon": "🏝️",
+      "text": {
+        "en": "Santorini & Domes — The spectacular volcanic cliff archipelagos famous for whitewashed cave villas and blue-domed churches",
+        "zh": "聖托里尼藍頂教堂——矗立於愛琴海火山斷崖上的純白洞穴別墅與深藍圓頂教堂，以夢幻的日落景緻聞名全球，是經典度假地標"
+      }
+    },
+    {
+      "icon": "🏺",
+      "text": {
+        "en": "Classical Philosophy — The foundational intellectual birthplace of giants Socrates, Plato, Aristotle, and the ancient Olympic Games",
+        "zh": "古典哲學與奧運發源地——西方理性的搖籃，蘇格拉底、柏拉圖與亞里斯多德等哲學巨擘在此辯證，同時也是古代奧運會的誕生地"
+      }
+    },
+    {
+      "icon": "🚢",
+      "text": {
+        "en": "Maritime Merchant Fleet — The world's largest commercial ship fleet ruling global maritime transport and trade networks",
+        "zh": "全球第一商船航運隊——希臘擁有的商船總噸位高居全球之冠，是主宰全球海上貨運與貿易供應鏈的絕對海洋航運超級霸主"
+      }
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/87062",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=19.0%2C34.5%2C28.5%2C42.0&layer=mapnik"
+}

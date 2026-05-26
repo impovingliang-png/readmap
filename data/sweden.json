@@ -1,0 +1,353 @@
+{
+  "name": {
+    "en": "Sweden",
+    "zh": "瑞典"
+  },
+  "nativeName": "Sverige",
+  "capital": {
+    "en": "Stockholm",
+    "zh": "斯德哥爾摩"
+  },
+  "population": "10.5M",
+  "area": "450,295 km²",
+  "density": "23/km²",
+  "continent": "Europe",
+  "flagEmoji": "🇸🇪",
+  "dataEstYear": 2025,
+  "description": {
+    "en": "Sweden is a Scandinavian nation located in Northern Europe, bordered by Norway to the west, Finland to the east, and the Baltic Sea to the south. Renowned for its exceptional standard of living, cutting-edge technology, comprehensive social welfare system, and breathtaking natural wilderness, Sweden stands as one of the most prominent economic and cultural powers among the Nordic countries.",
+    "zh": "Sweden是位於北歐的斯堪地那維亞國家，西鄰挪威（Norway），東接芬蘭（Finland），南臨波羅的海（Baltic Sea）。瑞典以極高的生活品質、頂尖的創新科技、完善的「從搖籃到墳墓」社會福利制度與壯麗的自然原始荒野聞名，是北歐諸國（Nordic countries）中舉足輕重的經濟與文化強國。"
+  },
+  "seoText": {
+    "en": "Explore quick facts about Sweden — population, land area, capital city, and a short overview. Learn about IKEA design, Spotify startups, Volvo engineering, Stockholm archipelagos, Lapland auroras, and Swedish Fika.",
+    "zh": "快速了解瑞典的基本資料：人口、面積、首都與簡短概述。探索北歐簡約IKEA家具設計、Spotify科技新創、Volvo安全造車工藝、斯德哥爾摩群島、極地極光觀測以及瑞典咖啡手作午茶（Fika）文化。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Largest country in Northern Europe, spanning the Scandinavian Peninsula",
+          "Global gold standard for a highly developed, robust social welfare system",
+          "Towering powerhouse of global technological innovation and minimalist design",
+          "Vast wilderness of pristine forests, countless lakes, and sparse populations"
+        ],
+        "text": "Historically, Sweden was a major European military superpower under the Swedish Empire, subsequently transforming into a modern champion of peaceful development and international diplomacy.\n\nToday, Sweden consistently dominates international tables for ecological protection, sustainable energy, advanced high-tech startups, human rights, and social policy."
+      },
+      "zh": {
+        "list": [
+          "位於北歐斯堪地那維亞半島",
+          "高度發達福利國家",
+          "創新科技與設計產業強",
+          "自然環境廣闊且人口密度低"
+        ],
+        "text": "瑞典在歷史上曾是瑞典帝國（Swedish Empire）治下震撼全歐的軍事強權，隨後成功轉型為引領全球和平發展、國際調停與人道外交的現代典範。如今，瑞典在生態環境保護、永續綠色能源、高端高科技新創產業、人權保障以及社會福利政策等多項國際評比中，長期穩居世界首屈一指的領先地位。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Extremely elongated national shape spanning dramatic north-south climates",
+          "Vast resources of pristine boreal forests and thousands of glacier lakes",
+          "The northern polar region of Norrland approaches the Arctic Circle",
+          "Spectacular archipelagos and rugged coastlines framing the Baltic Sea"
+        ],
+        "text": "Spanning approximately 450,000 square kilometers, Sweden is the largest nation in Northern Europe. The northern Norrland region lies near the Arctic Circle, featuring frozen subarctic landscapes and a very sparse population.\n\nIn contrast, the southern Götaland and Svealand plains host the majority of the population and economic hubs. Boasting millions of hectares of coniferous forest and nearly 100,000 lakes, Sweden is a global treasury of natural resources and protected wilderness."
+      },
+      "zh": {
+        "list": [
+          "國土狹長且南北差異大",
+          "森林與湖泊資源豐富",
+          "北部接近北極圈",
+          "海岸線與群島眾多"
+        ],
+        "text": "瑞典國土面積約 45 萬平方公里，是北歐面積最大的國家。其國土呈現極為狹長的型態，北部的諾爾蘭（Norrland）地區緊鄰並深入北極圈，擁有壯麗的亞寒帶冰凍景觀，且人口極為稀少；相反地，南部的約塔蘭（Götaland）與斯韋阿蘭（Svealand）平原則是全國人口與經濟樞紐的核心集中地。瑞典境內坐擁數百萬公頃的針葉林與將近 10 萬座冰河湖泊，堪稱全球自然資源與受保護荒野的綠色寶庫。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Pronounced climatic contrasts between the northern and southern halves",
+          "Long, dark, and severely cold winters in subarctic territories",
+          "Mild, temperate marine climate in the southern metropolitan zones",
+          "Dramatic seasonal shifts in daylight hours, including midnight sun"
+        ],
+        "text": "Sweden's climate varies greatly due to its latitudinal span. The far north has a subarctic climate with long, freezing winters and short summers with the legendary 'midnight sun'.\n\nSouthern regions like Stockholm enjoy a temperate marine climate with four balanced seasons. High-latitude geography results in brief, dark winter days and long, sunlit summer nights."
+      },
+      "zh": {
+        "list": [
+          "南北氣候差異明顯",
+          "北部寒冷漫長冬季",
+          "南部溫帶海洋性氣候",
+          "夏季日照時間長"
+        ],
+        "text": "受緯度跨度極大的影響，瑞典南北氣候呈現強烈對比。極北地區屬於亞寒帶氣候，冬季漫長嚴寒且陷入漫漫黑夜，夏季雖然短暫，卻能觀賞到傳奇的「午夜太陽（Midnight sun）」現象；而以斯德哥爾摩（Stockholm）為代表的南部地區則屬於溫和的溫帶海洋性氣候，四季分明。高緯度地理特性也導致了全國冬季日照極短而黑暗、夏季夜晚卻漫長且灑滿陽光的極端晝夜規律。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Vibrant population of approximately 10.5 million citizens",
+          "Relatively low overall population density across vast open lands",
+          "Extremely high concentration in major southern coastal cities",
+          "Steady transition towards a highly diverse, multicultural demography"
+        ],
+        "text": "Sweden is home to around 10.5 million people, making it highly urbanized yet sparsely populated overall. Settlements are heavily clustered around Stockholm, Gothenburg, and Malmö.\n\nSwedish is the official language, though English proficiency is among the highest globally for non-native speakers. A historically welcoming approach to immigration has fostered a highly diverse, cosmopolitan modern society."
+      },
+      "zh": {
+        "list": [
+          "人口約 1,050 萬",
+          "人口密度低",
+          "高度城市化",
+          "移民比例逐年增加"
+        ],
+        "text": "瑞典全境擁有約 1,050 萬人口，整體呈現出「國土廣袤、人口稀疏」但「城鎮高度集中」的獨特特徵。全國絕大多數人口與定居點都圍繞在斯德哥爾摩（Stockholm）、哥德堡（Gothenburg）與馬爾摩（Malmö）三大南部沿海城市。在族群構成上，本土瑞典人（Swedes）約佔總人口的 74%；而因長年推行包容的移民與人道難民庇護政策，外國背景人口（海外出生或父母雙方均在海外出生者）比例已高達 26%，其中最大的外裔族群為敘利亞裔（佔 2%），其次為來自前南斯拉夫與中東地區的移民（約 8%），以及傳統的芬蘭裔少數民族（1.5%），極北地區亦有法定的北歐原住民薩米人（Sami）。瑞典語（Swedish）為唯一官方語言，但瑞典國民的英語普及率與流暢度長年高居全球非英語母語國家的前三甲。近年來，瑞典社會正由傳統的單一民族逐步過渡為高度多元、國際化的現代社會。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "Highly advanced, highly innovative, export-oriented economy",
+          "Global pioneer in high-tech research and industrial manufacturing",
+          "High taxes fund outstanding public infrastructure and services",
+          "Home to powerhouse international brands and consumer icons"
+        ],
+        "text": "Sweden is a major export powerhouse, home to global corporate giants like Volvo, Scania, Ericsson, Electrolux, H&M, and IKEA. Stockholm is also a primary incubator for modern high-tech startups, creating unicorns like Spotify and Klarna, earning its title as Europe's primary tech capital.\n\nThe economy is deeply centered on technological efficiency, green energy solutions, and highly collaborative labor markets."
+      },
+      "zh": {
+        "list": [
+          "高度發達創新經濟體",
+          "科技與製造業強",
+          "福利制度完善",
+          "出口導向型經濟"
+        ],
+        "text": "瑞典是一個典型高度發達、科技驅動且出口導向型的經濟強國，培育出了 Volvo（富豪汽車）、斯堪尼亞重車（Scania）、愛立信通訊（Ericsson）、伊萊克斯家電（Electrolux）、H&M 服飾與 IKEA 家居等享譽全球的頂尖工業與消費品牌。此外，首都斯德哥爾摩已成為現代高科技新創企業的夢幻搖籃，成功孕育出 Spotify、Klarna 等跨國獨角獸企業，被譽為「歐洲的矽谷」。瑞典經濟高度強調研發效率、綠能系統解決方案，以及勞資雙方高信任度的合作體制。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Stable constitutional monarchy structured as a parliamentary democracy",
+          "Representative legislature governed by a multi-party parliament",
+          "Executive administration is led by the Prime Minister",
+          "Deep-seated political culture prioritizing negotiation and transparency"
+        ],
+        "text": "Sweden is a constitutional monarchy where the King serves a ceremonial role, and governing authority is held by the Prime Minister and cabinet. The unicameral parliament, the Riksdag, is characterized by proportional representation.\n\nThis multi-party dynamic fosters a collaborative governance model based on consensus. Sweden is also celebrated globally for its high government transparency, strong freedom of information laws, and exceptionally low corruption."
+      },
+      "zh": {
+        "list": [
+          "君主立憲制",
+          "議會民主制度",
+          "多黨政治",
+          "高度社會共識文化"
+        ],
+        "text": "瑞典政治體制為極其穩固的君主立憲制議會民主國家，國王僅扮演純粹禮儀性的國家元首角色，國家實質最高行政權則由總理（Prime Minister）及其內閣共同行使。一院制的瑞典國會（Riksdag）採行比例代表制，這種多黨並存的政治生態催生出了講求妥協、協商與共識的聯合執政模式。瑞典政府同時因傲視全球的政治透明度、極其嚴格的資訊自由法案以及全球最低的貪腐率而廣受國際讚譽。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "World-famous 'cradle-to-grave' social safety and welfare system",
+          "Outstanding levels of gender equality and progressive family policies",
+          "Exceptional value placed on work-life balance and family time",
+          "High degree of trust in public institutions and fellow citizens"
+        ],
+        "text": "The Swedish model (Folkhemmet) provides top-tier public healthcare, free education, and generous family support systems. Its progressive parental leave laws are highly admired worldwide.\n\nDaily life is guided by 'lagom'—the philosophy of 'just enough' or balanced moderation. This emphasis on equality and balance consistently ranks Sweden among the happiest nations globally."
+      },
+      "zh": {
+        "list": [
+          "福利制度完善",
+          "性別平等程度高",
+          "工作與生活平衡重視",
+          "社會信任度高"
+        ],
+        "text": "著名的「瑞典模式（Folkhemmet / 人民之家）」提供了世界最頂尖的全民公立醫療、完全免費的優質教育制度，以及無微不至的家庭生育津貼。其超前且平權的男女共享育嬰假政策更引領全球潮流。日常社會生活中普遍遵循著名為「Lagom」的獨特哲學，意即「不多不少、恰到好處」的平衡與中庸之道。這種對性別平等、階級扁平與生活平衡的極致追求，使瑞典長年穩居全球幸福指數的前列。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "The global face of clean, highly functional Nordic design",
+          "Towering global influence in pop music and digital media",
+          "Rich traditions in literature, Nordic Noir, and dramatic cinema",
+          "Cherished winter activities and deep connection to wild nature"
+        ],
+        "text": "Swedish design is synonymous with minimalism and functionality, popularized globally by IKEA's home furnishings. In pop culture, Sweden is a massive music exporter, from legendary band ABBA to Avicii.\n\nIts literary heritage is also renowned, pioneer of the dark 'Nordic Noir' crime fiction genre. Daily life features the beloved tradition of 'fika'—the social coffee and cinnamon bun break."
+      },
+      "zh": {
+        "list": [
+          "北歐設計風格代表",
+          "音樂與流行文化影響全球",
+          "文學與電影產業成熟",
+          "冬季文化與戶外活動盛行"
+        ],
+        "text": "瑞典設計是簡約主義與超強功能性的代名詞，並透過 IKEA 的推廣在全球蔚為風潮。在流行文化領域，瑞典是繼美、英之後的全球第三大流行音樂淨出口國，從傳奇樂團 ABBA 到電音巨星艾維奇（Avicii）皆具備跨時代影響力。文學與影視上，瑞典亦是冷冽、晦暗的「北歐黑色美學（Nordic Noir）」犯罪推理流派鼻祖。在日常生活中，則有風靡全球的「Fika」儀式——這是一種專屬於瑞典、與朋友同事停下腳步享用熱咖啡與手工肉桂捲的慢活社交文化。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Promoting integration and social cohesion in immigrant communities",
+          "Managing urban housing shortages and rising property costs",
+          "Pioneering strict ecological policies and carbon reductions",
+          "Adapting national security frameworks and defense stances"
+        ],
+        "text": "Sweden is actively addressing challenges surrounding the social integration of immigrant populations and addressing urban crime. In major cities, housing shortages have led to a highly competitive rental market.\n\nFollowing tectonic geopolitical shifts in Europe, Sweden recently made the historic decision to abandon its long-standing policy of military non-alignment, formally joining NATO in 2024."
+      },
+      "zh": {
+        "list": [
+          "移民與社會融合問題",
+          "房價與住房供應壓力",
+          "氣候變遷與永續政策",
+          "北歐安全與軍事政策轉變"
+        ],
+        "text": "瑞典近年正積極面對大規模移入人口後的社會邊緣化、文化隔閡與大城市新興幫派治安挑戰。在民生層面，一線城市的嚴重成屋短缺，導致了租屋與購屋市場面臨激烈的通膨與競爭。而在地緣政治與國防安全上，受到歐洲局勢劇烈震盪的結構性衝擊，瑞典做出了顛覆兩百年來「軍事不結盟」傳統中立方針的歷史性決策，已於 2024 年正式加入北約（NATO），全面調整北歐安全架構。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Stockholm — Spectacular archipelagic capital named 'Venice of the North'",
+          "Gothenburg — Major shipping harbor city famous for seafood and parks",
+          "Malmö — Modern technological gateway connecting Sweden to Denmark",
+          "Kiruna — Polar outpost hosting space facilities and northern lights"
+        ],
+        "text": "Stockholm is built across 14 islands, combining medieval historic centers (Gamla Stan) with sleek modern architecture. Gothenburg offers a relaxed maritime vibe with scenic canals, seafood, and parks.\n\nMalmö features the iconic Turning Torso tower and links directly to Copenhagen via the Öresund Bridge. Kiruna, in the far north, is a gateway to Lapland, offering magnificent northern lights, ice hotels, and space research facilities."
+      },
+      "zh": {
+        "list": [
+          "Stockholm——首都與最大城市",
+          "Gothenburg——重要港口城市",
+          "Malmö——南部經濟樞紐",
+          "Kiruna——北極圈內城市"
+        ],
+        "text": "首都斯德哥爾摩（Stockholm）由 14 座美麗的島嶼交織串聯而成，享有「北方威尼斯」的美譽，將中世紀老城區（Gamla Stan）的鵝卵石古蹟與最前衛的現代建築美學完美熔於一爐。第二大城哥德堡（Gothenburg）展現了悠閒的海洋都市氛圍，以迷人的運河網絡、頂級海鮮佳餚與開闊的城市公園著稱。南方的馬爾摩（Malmö）則是不折不扣的科技門戶，除了坐擁劃時代的地標摩天大樓「扭轉大廈（Turning Torso）」，更透過宏偉的厄勒海峽大橋（Öresund Bridge）與丹麥哥本哈根實現跨國高鐵與公路的一線直通。而遠在極北地區的基律納（Kiruna）則是通往拉普蘭神祕荒野的冰雪門戶，以魔幻的北極光觀測、世界首創的冰旅館（Icehotel）以及先進的歐洲太空研究基地名噪全球。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "Active and committed member state of the European Union",
+          "Recent historic transition to full member status within NATO",
+          "Highly prominent advocate for foreign aid and human rights",
+          "Deeply collaborative leader within the Nordic Council"
+        ],
+        "text": "Sweden is a highly committed member of the European Union, actively championing free trade, human rights, and environmental standards.\n\nIn 2024, Sweden officially joined NATO, marking a historic pivot from decades of formal military neutrality. It remains a major global donor of foreign development aid and is a key driver of collaboration within the Nordic Council."
+      },
+      "zh": {
+        "list": [
+          "European Union成員國",
+          "近年加入NATO",
+          "重視外交與人道主義",
+          "國際調停角色活躍"
+        ],
+        "text": "瑞典是歐洲聯盟（European Union）不可或缺的重量級成員國，長年在歐盟內部高舉自由貿易、普世人權與嚴格環保標準的大旗。2024 年，瑞典正式加入北約（NATO），完成了從數十年軍事中立轉變為跨大西洋集體防務核心成員的歷史性轉折。在國際舞台上，瑞典依然是全球人均國內生產毛額中對外人道發展援助捐贈比例最高的國家之一，同時也是北歐理事會（Nordic Council）內部推動區域一體化與綠色轉型的主要領頭羊。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Stable trade links in automotive parts, green tech, and design",
+          "Expanding partnerships in green energy and startup innovation",
+          "Productive university exchanges and joint scientific research",
+          "Friendly non-official relationship focused on sustainable development"
+        ],
+        "text": "Sweden and Taiwan share a growing non-official partnership focused on green transition, high-tech manufacturing, and democratic values.\n\nMajor Swedish brands like Volvo and IKEA are household names in Taiwan, while the two nations actively cooperate on carbon reduction systems and micro-electronics research. Academic links continue to grow, facilitating vibrant student exchanges."
+      },
+      "zh": {
+        "list": [
+          "科技與貿易交流穩定",
+          "綠能與創新合作增加",
+          "教育與研究往來存在",
+          "無正式外交關係"
+        ],
+        "text": "瑞典與台灣之間維持著穩健增長且高度互補的非官方夥伴關係，雙方在推動綠色轉型、高科技智慧製造以及堅守民主價值方面享有高度共識。諸多瑞典標誌性品牌如 Volvo 與 IKEA 在台灣早已是家喻戶曉的民生必備象徵，而兩國近年更在碳封存與減碳系統、資安科技、次世代微電子與半導體研究上展開實質合作。雙邊高等學府間的學術鏈結也日益緊密，催生了極具活力的教授互訪與青年學生交換計畫。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "The gold standard of the highly developed Nordic welfare state",
+          "The birthplace of globally acclaimed brands IKEA, Volvo, and Spotify",
+          "Consistently ranks near the top of global happiness indexes",
+          "High-latitude territory experiencing the stunning midnight sun"
+        ]
+      },
+      "zh": {
+        "list": [
+          "北歐福利國家代表",
+          "IKEA與Volvo發源地",
+          "全球幸福指數常居前列",
+          "夏季有午夜太陽現象"
+        ]
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": "Swedish Krona (SEK)"
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "Swedish",
+        "zh": "瑞典語"
+      }
+    },
+    {
+      "label": "GDP (nom.)",
+      "value": "$600B"
+    },
+    {
+      "label": "Time zone",
+      "value": "UTC+1 / UTC+2（夏令時間）"
+    },
+    {
+      "label": "Calling code",
+      "value": "+46"
+    },
+    {
+      "label": "ISO code",
+      "value": "SE / SWE"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🇸🇪",
+      "text": {
+        "en": "Nordic Flag — The iconic blue and yellow Nordic cross flag representing Swedish crown history and historic heraldic shields",
+        "zh": "北歐十字旗——經典的藍黃雙色十字旗，象徵瑞典王室歷史與高潔的藍天與金黃陽光，展現出純粹的斯堪地那維亞美學"
+      }
+    },
+    {
+      "icon": "🛋️",
+      "text": {
+        "en": "Nordic Design & IKEA — Minimalist, democratic, and highly functional home interior design philosophy that shaped global lifestyle",
+        "zh": "北歐極簡設計與IKEA——以民主、簡約且高度實用的居家生活美學聞名，倡導大眾買得起的好設計，深刻形塑全球家居文化"
+      }
+    },
+    {
+      "icon": "🚗",
+      "text": {
+        "en": "Volvo & Innovation — Globally recognized safety engineering, industrial icons, and pioneering green startup tech ecosystems like Spotify",
+        "zh": "Volvo造車工藝與創新科技——引領全球汽車安全工程的富豪汽車，以及誕生Spotify、Skype等科技巨擘的頂尖北歐創新搖籃"
+      }
+    },
+    {
+      "icon": "☕",
+      "text": {
+        "en": "Fika Coffee Break — The cherished daily social tradition of pausing for hot coffee and fresh cinnamon rolls with friends",
+        "zh": "瑞典咖啡午茶（Fika）——神聖的每日生活儀式，與朋友或同事暫停工作，享用熱咖啡與新鮮手工肉桂捲，體現平衡的慢活態度"
+      }
+    },
+    {
+      "icon": "🌌",
+      "text": {
+        "en": "Lapland & Auroras — kiruna's breathtaking frozen wilderness offering spectacular northern lights and polar ice hotels",
+        "zh": "極北拉普蘭與極光——位於北極圈內的基律納與冰雪荒野，是全球觀賞魔幻北極光、體驗極光雪橇與入住極地冰旅館的勝地"
+      }
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/52822",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=10.5%2C55.0%2C24.5%2C69.0&layer=mapnik"
+}

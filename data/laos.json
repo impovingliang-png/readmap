@@ -1,0 +1,360 @@
+{
+  "name": {
+    "en": "Laos",
+    "zh": "寮國"
+  },
+  "nativeName": "ລາວ",
+  "capital": {
+    "en": "Vientiane",
+    "zh": "永珍"
+  },
+  "population": "7.9M",
+  "area": "236,800 km²",
+  "density": "33/km²",
+  "continent": "Asia",
+  "flagEmoji": "🇱🇦",
+  "dataEstYear": 2026,
+  "description": {
+    "en": "Laos, officially the Lao People's Democratic Republic (Lao PDR), is the only landlocked country in Southeast Asia, occupying the heart of the Indochina Peninsula. It is bordered by China to the northwest, Vietnam to the east, Cambodia to the south, Thailand to the west, and Myanmar to the northwest. Tracing its historical roots to the ancient kingdom of Lan Xang (Million Elephants), contemporary Laos is a single-party socialist state characterized by rugged mountain topography, an extensive river culture centered on the Mekong, and deep-seated Theravada Buddhist ethics. Economically, the nation is transitioning from an isolated agrarian society into a regional infrastructure corridor, heavily investing in cross-border railways and massive hydroelectric generation.",
+    "zh": "Laos官方全稱為老撾人民民主共和國，是東南亞中南半島上唯一的內陸國家。其地緣位置居中，西北與緬甸及中國毗鄰，東部與越南接壤，南部與柬埔寨交界，西側則以湄公河為界與泰國隔河相望。寮國歷史可追溯至古老的高棉同代強權「瀾滄王國」（意為萬象之國），現代政體則為少數現存的一黨制社會主義國家。全境地形多山且森林密布，上座部佛教傳統深刻形塑了其不爭世俗、恬靜平和的國民性格。近年來，寮國政府積極推動能源與交通轉型，依託豐富的水利資源建構「東南亞蓄電池」，並透過跨境鐵路將其從「陸鎖國」翻轉為「陸聯國」。"
+  },
+  "seoText": {
+    "en": "Discover comprehensive facts about Laos — updated population census, land area, administrative capital Vientiane, and detailed breakdowns. Explore Luang Prabang UNESCO heritage, the Laos-China Railway economic impact, Mekong River hydropower development, ethnic group classifications, Lao Kip currency fluctuations, and political structures.",
+    "zh": "深入了解寮國的基本資料：精確人口結構、國土面積、首都永珍與詳盡概述。探索世界文化遺產龍坡邦、中老鐵路地緣經濟、湄公河水力發電、三大法定民族劃分（老龍、老聽、老松）、基普匯率變動、一黨專政體制與台商經貿互動趨勢。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "The sole landlocked state in Southeast Asia, acting as a crucial regional land bridge",
+          "The Mekong River serves as the foundational spine for local commerce, transit, and culture",
+          "Theravada Buddhism operates as a universal moral guide and community anchor",
+          "Maintains a centralized, socialist political model under a single ruling revolutionary party"
+        ],
+        "text": "Laos occupies 236,800 square kilometers of mountainous terrain, positioning it as a strategic overland buffer between China and the maritime nations of ASEAN. Following the establishment of the Lao PDR in 1975, the country maintained a strict command economy before enacting market reforms in 1986. While it remains one of the lower-income nations in Southeast Asia, the completion of major mega-projects—most notably the high-speed Laos-China Railway—has rapidly accelerated urban integration, tourism arrivals, and logistics processing."
+      },
+      "zh": {
+        "list": [
+          "東南亞唯一的完全內陸國家，地緣上正轉型為連結周邊五國的陸路樞紐",
+          "湄公河（Mekong River）縱貫南北，是歷史、交通、城鎮聚落與農業的發源主軸",
+          "以上座部佛教為靈魂，僧侶暮鼓晨收的化緣文化成為全國最具代表性的人文圖景",
+          "實行高度集權的社會主義一黨制，政局長期封閉穩定但公民社會空間相對有限"
+        ],
+        "text": "寮國國土面積約 23.7 萬平方公里，境內高山疊嶂，歷史上曾因地理阻隔而長期處於相對封閉、自給自足的世外桃源狀態。1975 年共產主義政權「寮人民革命黨」奪取政權後建立共和國，並於 1986 年效法中越啟動新經濟機制（開放市場改革）。\n\n雖然其人均國內生產毛額在東協內部仍屬落後，但近年來寮國打破內陸限制，積極引入外部資金。隨著中老高鐵的全面開通與沿線經濟帶的開發，這座曾經的「陸鎖國」（Land-locked）正在加速蛻變為高效聯通中國大市場與中南半島的「陸聯國」（Land-linked）。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Dominated by thick tropical forests and rugged terrain covering over 70% of the land",
+          "The Annamite Range forms a formidable eastern natural border separating Laos from Vietnam",
+          "The Mekong alluvial basin along the west accommodates the bulk of fertile agriculture",
+          "The northern highlands are heavily scarred by steep limestone karst mountains"
+        ],
+        "text": "Laos' topography is heavily defined by its vertical landscape, with mountains and high plateaus leaves only small pockets of flat plains. The northern region is exceptionally rugged, characterized by sharp limestone formations, while the center and south feature the vast Bolaven Plateau, famous for premium coffee plantations. The Mekong River flows through nearly 1,865 kilometers of Lao territory, providing a natural western boundary with Thailand and supplying the rich silt deposits required for intensive wet-rice cultivation."
+      },
+      "zh": {
+        "list": [
+          "山地與高原占據全國總面積 70% 以上，森林覆蓋率極高，地形崎嶇險峻",
+          "安南山脈（Annamite Range）綿延東側，構成與越南之間難以逾越的天然地理邊界",
+          "西側湄公河沿岸狹長沖積平原是全境唯一的精華農業區與主要人口聚落點",
+          "北部地勢最為崇高險要，川壙高原（Xiangkhoang）與石缸平原坐落其間"
+        ],
+        "text": "寮國的地形呈現顯著的北高南低、東高西低態勢。全國最高峰普比亞山（Phou Bia）海拔 2,819 公尺，位於地勢險要的中北部山區。東部的安南山脈切斷了前往南中國海的直接陸路，而北部的喀斯特溶岩地貌則孕育了無數神秘的溶洞與激流。\n\n相比之下，唯有沿著湄公河流域的萬象平原、沙灣拿吉平原和巴色平原具備開闊的稻作空間。南部的波羅芬高原（Bolaven Plateau）則因火山灰土質肥沃、氣候涼爽，成為享譽國際的優質阿拉比卡咖啡（Arabica Coffee）核心產區。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Tropical monsoon climate split by predictable dry-wet monsoonal winds",
+          "The rainy spell extends from May to October, driving intense tropical downpours",
+          "The winter dry phase lasts from November to February, bringing pleasant, clear weather",
+          "Highland and mountainous areas experience cool, sub-tropical microclimates"
+        ],
+        "text": "Laos experiences standard monsoonal rhythms. The wet season brings high humidity and southwest winds, accounting for up to 80% of annual precipitation and causing the Mekong to swell. The hot dry season (March–April) sees temperatures in low-lying Vientiane climb above 38°C, culminating in the Pi Mai (Lao New Year) water festival. The cool dry season features bright skies and cooler mountain nights, making it the prime travel window."
+      },
+      "zh": {
+        "list": [
+          "屬於典型熱帶季風氣候，因地形高度與緯度不同，呈現顯著的垂直氣候差異",
+          "每年 5 月至 10 月為西南季風雨季，降雨集中且常伴隨突發性山洪與河流泛濫",
+          "11 月至次年 2 月為涼爽乾季，受東北季風影響，晴朗乾燥，夜間高地氣溫頗低",
+          "3 月至 4 月為酷熱乾季，是一年當中最炎熱的乾旱期，全境氣溫常突破 38°C"
+        ],
+        "text": "寮國的全年氣候受風向精準支配。雨季時，大量來自印度洋的濕潤氣流被阻擋在安南山脈西側，為寮國帶來瓢潑大雨，雖然造成部分山區道路中斷，卻是水稻插秧與各大水電站蓄水發電的關鍵時期。\n\n對旅行者而言，11月至次年2月的「涼季」是天堂般的季節，此時萬象與古城龍坡邦日間氣溫約 25°C，到了北部山區山頂夜間甚至會降至 10°C 以下，清晨濃霧繚繞，極具詩意。隨後的4月則迎來最熱的季節，全國會透過潑水節（Pi Mai Lao）的狂歡來消暑降溫。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Total population reached approximately 7.9 million citizens as of 2026",
+          "Maintains the lowest population density in Southeast Asia, with uneven habitation",
+          "Officially classifies its diverse multi-ethnic population into 50 distinct ethno-linguistic groups",
+          "Demographic split historically grouped into Lao Loum (68%), Lao Theung (22%), and Lao Soung (10%)"
+        ],
+        "text": "The demographic profile of Laos is deeply intertwined with altitude and ethno-linguistic ancestry. Officially, the government groups 50 recognized tribes into four linguistic families: Lao-Tai, Mon-Khmer, Hmong-Mien, and Sino-Tibetan. Religiously, Theravada Buddhism is practiced by 64.7% of the nation, dominating the lowland Lao Loum ethnic majority. Traditional tribal animism and ancestor worship (Satsana Phi) are extensively practiced by 31.4% of the population, particularly among highland groups. Christians account for 1.7%, while Muslims and Hindus form tiny urban enclaves. The population is notably young, with a median age of 24.8, and over 60% still live in rural, agrarian villages."
+      },
+      "zh": {
+        "list": [
+          "全國總人口已成長至約 790 萬人，是東南亞除汶萊外人口最稀少的國家之一",
+          "人口密度極低（每平方公里僅 33 人），大半國土屬於人煙稀少的高山密林",
+          "官方放棄傳統粗略劃分，現行法規精確將全國識別為 50 個法定少數民族",
+          "歷史上依據居住海拔高度分為三大族群：老龍族（68%）、老聽族（22%）與老松族（10%）"
+        ],
+        "text": "根據寮國統計局與聯合國最新人口抽樣修正，寮國的民族與居住海拔高度有著極其奇特的歷史對應關係，官方目前將50個民族歸類為四大語系。精確人口結構分布如下：\n\n三大傳統族群分布：\n1. 老龍族（Lao Loum，約占68%）：主要包含主體民族寮族（Lao），居住在湄公河沿岸的低地平原，通行寮語，是政治、經濟與佛教文化的絕對主導者。\n2. 老聽族（Lao Theung，約占22%）：主要為克木族（Khmu）等孟高棉語系民族，世居於中海拔的半山腰與丘陵地帶，歷史上多從事山田燒墾。\n3. 老松族（Lao Soung，約占10%）：包含苗族（Hmong）、瑤族（Iu Mien）及阿卡族等，多在19世紀從中國南方遷徙而來，世居於海拔1000公尺以上的高山頂峰。\n\n宗教信仰比例：上座部佛教（Theravada Buddhism）信徒約占 64.7%，主要為老龍族人，深刻嵌入政府法統與節慶；傳統萬物有靈與精靈崇拜（Satsana Phi）在邊遠山區根深蒂固，信徒高達 31.4%，多數老聽與老松族人在日常中將佛教與精靈信仰混合並存；基督教（包含天主教與新教）因西方傳教歷史在部分苗族與克木族村落擴散，比例約占 1.7%；其餘為微量的伊斯蘭教與印度教（主要在萬象印裔商人群體中，約占0.2%）。\n\n全國目前都市化率僅約 36%，超過六成的人口仍屬於傳統依山傍水的農林漁業人口，年齡結構極度年輕。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "A resource-dependent transitional socialist economy facing structural fiscal and debt stresses",
+          "Hydropower generation drives export growth, selling vast surplus electricity to Thailand and Vietnam",
+          "Mining yields significant foreign reserves via heavy extraction of copper, gold, and bauxite",
+          "The high-speed Laos-China Railway transforms overland cargo transit speeds across the region"
+        ],
+        "text": "Laos has pivoted toward a resource-extractive and energy-exporting economic model. Dubbed the 'Battery of Southeast Asia', the country has constructed dozens of mega-dams along the Mekong and its tributaries. While GDP growth remains steady, the economy faces severe challenges, including high external debt, currency depreciation of the Lao Kip, and high inflation. The government is attempting to counter these pressures by expanding special economic zones (SEZs) near Vientiane and Luang Namtha, while promoting organic agricultural exports and railway-driven eco-tourism."
+      },
+      "zh": {
+        "list": [
+          "資源驅動型的社會主義轉型經濟體，近年面臨嚴峻的外債償付與本幣貶值考驗",
+          "全力打造「東南亞蓄電池」（Battery of Southeast Asia），電力高居出口商品第一位",
+          "地下礦藏極其豐富，大規模開採的銅礦（Copper）、金礦與鋁土礦為國家換取核心外匯",
+          "中老鐵路（LCR）全面營運，大幅縮短跨境物流時間，帶動沿線跨境電商與物流園區爆發"
+        ],
+        "text": "寮國經濟具備典型的新興邊界市場特徵。其最大戰略是利用高山峽谷的落差，發動全面性的水力發電工程，將電力跨國輸銷給工業需求龐大的泰國、越南及馬來西亞。此外，其境內由外資（主要為中國與澳洲）主導的塞公省及沙灣拿吉省大型礦場，每年源源不斷輸出高純度的陰極銅與黃金。\n\n然而，由於基礎建設多仰賴外債融資，寮國目前正面臨高額的雙邊債務壓力，導致本幣基普（LAK）匯率出現大幅波動，引發進口通膨。為此，萬象當局正積極推動「沙灣-席諾經濟特區」與「磨丁開發區」的免稅招商，並高度依賴無污染的熱帶農業（如輸華天然橡膠、優質木薯）與鐵路帶來的各國觀光客來平衡財政赤字。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Single-party Marxist-Leninist socialist republic organized under strict political hierarchy",
+          "The Lao People's Revolutionary Party (LPRP) maintains an absolute monopoly on executive power",
+          "The Politburo and Central Committee dictate all vital administrative and legislative policies",
+          "Maintains deep structural political governance alignments with neighboring Vietnam and China"
+        ],
+        "text": "Political power in Laos is centralized within the leadership of the Lao People's Revolutionary Party (LPRP), with the General Secretary serving as the ultimate authority. The National Assembly reviews and passes state laws, though all representatives are vetted by the party-led Lao Front for National Development. The government emphasizes internal stability, security, and rural poverty alleviation, while tightly managing civil society organizations and domestic media outlets."
+      },
+      "zh": {
+        "list": [
+          "實行馬克思列寧主義的一黨專政社會主義共和國，政治體制與中、越、古高度同構",
+          "寮人民革命黨（LPRP）為憲法唯一的合法執政黨，對國家權力擁有絕對的壟斷地位",
+          "黨的中央政治局與中央委員會為核心決策圈，總書記（國家主席）握有最高實權",
+          "外交與意識形態上，與鄰國越南維持傳統「特殊團結關係」，並與中國結為命運共同體"
+        ],
+        "text": "寮國是世界上少數幾個碩果僅存的社會主義國家之一。其政治結構高度穩定且封閉，不存在公開的政黨競爭。每五年召開一次的黨代會決定最高領導層。全國最高立法機構為國民議會（National Assembly），但所有候選人均需通過官方組織的資格審查。\n\n政府日常運作極度強調維穩與集體領導。近年來，面對經濟通膨與債務重組壓力，內閣技術官僚的更迭有所加速，施政核心全面轉向精簡政府開支、嚴厲打擊公務員貪腐，並將大量行政資源傾斜至邊遠山區的減貧與基本衛生建設。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Social rhythms remain tranquil and slow-paced, deeply tied to Buddhist seasonal cycles",
+          "The rural agrarian populace relies on mutual village support networks and subsistence farming",
+          "Basic education and maternal healthcare indicators are steadily upgraded but face regional disparities",
+          "Urban youths are digitalizing rapidly via widespread smart networks and Thai media exposure"
+        ],
+        "text": "Lao society places strong emphasis on harmony, humility, and community solidarity, concepts rooted in the traditional phrase 'Bo Pen Nyang' (meaning 'no problem' or 'it is what it is'). Monasteries remain highly respected spaces for spiritual guidance and basic education in remote provinces. While urban areas like Vientiane are modernizing through smartphone technology and international retail, mountain communities continue to struggle with fragmented infrastructure and geographic isolation."
+      },
+      "zh": {
+        "list": [
+          "生活步調極其安詳緩慢，國民性格隨和豁達，崇尚「博邊洋」（Bo Pen Nyang，意即沒關係）",
+          "超過半數以上人口過著日出而作、日落而息的傳統農耕生活，宗族社區互助凝聚力強",
+          "偏鄉國民基礎教育與孕產婦醫療資源相對匱乏，城鄉發展與識字率存在地理斷層",
+          "都市年輕世代受泰國電視與網絡媒體深度影響，智慧型手機與行動支付正迅速普及"
+        ],
+        "text": "寮國社會常被外界讚譽為亞洲「最後的淨土」，其根源在於佛教文化對大眾心理的深度內化。老龍族人安於現狀、不喜爭執的處世哲學，使得整座國家即便在都市化浪潮下依然維持著散漫、恬靜的節奏。清晨在龍坡邦街道上，數百名僧侶身披橘色袈裟、赤腳排隊接受信眾跪地施捨糯米飯的「清晨佈施」（Tak Bat），依然是維繫社會道德契約的神聖儀式。\n\n然而，社會發展的短板依然顯著：由於山區地形阻隔，少數民族聚集的偏遠村落缺乏全天候道路，導致兒童失學率高、貧困率高。近年隨著中老高鐵帶來的沿線就業機會，大批高地青年開始湧入萬象與萬榮等旅遊樞紐，城鄉流動正在逐步打破舊有的封閉氏族結構。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "Deeply infused by Theravada orthodoxy, visible in ubiquitous high-pitched tiered temple roofs",
+          "Sticky Rice (Khao Niew) serves as the definitive cultural and culinary staple, eaten by hand",
+          "The Khaen — a polyphonic bamboo mouth organ that forms the musical soul of Lao folk heritage",
+          "Traditional Sinw skirts remain mandatory attire for women in schools, temples, and state offices"
+        ],
+        "text": "Lao culture highlights its historical inheritance from Lan Xang through unique artistic mediums. The built landscape is defined by structures like the gold-leafed Pha That Luang stupa in Vientiane and the sweeping roofs of Wat Xieng Thong in Luang Prabang. The traditional cuisine centers around sticky rice served in woven baskets (thip khao), paired with 'Larb' (minced meat salad) and fiery papaya salad, reflecting a distinct culinary tradition distinct from neighboring culinary spheres."
+      },
+      "zh": {
+        "list": [
+          "文化核心由上座部佛教與古代瀾滄王國宮廷美學交織而成，寺廟多採低垂重簷結構",
+          "「糯米飯」（Khao Niew）為絕對的飲食靈魂，國民習慣將其盛於竹編小籮（Thip Khao）中手捏食用",
+          "「蘆笙」（Khaen）為傳統竹製排簫樂器，其獨特的複調吹奏被列入聯合國無形文化遺產",
+          "女性日常與正式場合一律穿著織有精美幾何圖案的傳統筒裙「新」（Sinh），展現優雅風範"
+        ],
+        "text": "寮國文化擁有一套純粹且高辨識度的傳統符號。寮國人自稱為「糯米飯的後代」，其飲食高度依賴黏性極強的糯米，搭配香草醃漬的剁肉沙拉（Larb）與碎香茅烤魚。在視覺上，寮國寺廟建築風格與泰國雖有相似，但其屋簷下坡幅度更大、更貼近地面，展現出謙遜的姿態。龍坡邦古城的香通寺（Wat Xieng Thong）後牆上用彩色馬賽克玻璃拼貼的「生命之樹」壁畫，則是高棉與瀾滄工藝融合的曠世傑作。\n\n此外，寮國擁有豐富的口傳文學與民歌（Lam），在節慶或婚禮上，人們會隨著蘆笙的悠揚樂音跳起溫和的手指傳統舞蹈（Lam Vong）。無論時代如何變遷，寮國女性在進入政府機關、學校或寺廟時，憲法均規定必須穿著傳統筒裙「新」（Sinh），這使寮國成為東南亞傳統服飾保存最完好的國家之一。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Managing extreme external public debt distress and stabilizing foreign currency reserves",
+          "Mitigating environmental and displacement impacts caused by intense Mekong river damming",
+          "Clearing persistent Unexploded Ordnance (UXO) left behind by massive Cold War-era air bombardments",
+          "Curbing emerging transnational crime and cyber-scam operations within under-regulated border zones"
+        ],
+        "text": "Laos faces a complex grid of development challenges. Legacies of the Secret War (1964–1973) persist, with millions of unexploded cluster submunitions (UXOs) contaminating fertile soil and injuring farmers. On its modern borders, weak local enforcement in the Golden Triangle Special Economic Zone has allowed transnational gambling and illegal networks to emerge. In response, the Vientiane government is coordinating with international partners to expand mine clearance and step up border policing."
+      },
+      "zh": {
+        "list": [
+          "高額主權外債嚴重擠壓財政空間，亟需在外債重組、匯率穩定與基礎建設間取得平衡",
+          "湄公河主流與支流無節制的水電大壩開發，面臨破壞下游漁業生態與迫使沿岸村民遷移的爭議",
+          "「秘密戰爭」歷史陰霾未散，農村土地仍埋藏數百萬顆未爆彈（UXO），長年危害農民安全",
+          "金三角特區等邊境博弈免稅區存在監管漏洞，演變為跨國網絡詐騙與走私的犯罪溫床"
+        ],
+        "text": "寮國在追趕現代化的路上背負著沉重的歷史與現實枷鎖。歷史層面上，冷戰時期美軍在寮國投下了超過 2 億顆炸彈，使其成為全球人均受炸彈轟炸最嚴重的國家；至今全境仍有約三分之一的土地殘留未爆彈（UXO），導致大片肥沃土地無法開墾，清雷工作需持續數十年。\n\n現實層面上，由於財政底子薄弱，水電站與高鐵的大規模融資導致國家信用評等承受重壓。更嚴峻的是，位於博膠省邊境、由外資租借的「金三角經濟特區」，由於享有高度自治權，近年被國際刑警組織與周邊鄰國指出已演變為電信詐騙、網路賭博與洗錢的跨國犯罪飛地。萬象政府目前正面臨中國、泰國等強鄰的巨大外交壓力，正逐步收回部分監管權並展開多國聯合執法清剿，以維護國家核心主權。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Pha That Luang — The gold-leaf covered grand stupa acting as the primary national symbol",
+          "Luang Prabang Old Town — UNESCO world heritage site combining royal temples and French architecture",
+          "Vang Vieng — A scenic eco-adventure valley framed by dramatic limestone mountains and rivers",
+          "Si Phan Don (4,000 Islands) — A massive river archipelago in the deep south where the Mekong widens"
+        ],
+        "text": "Laos offers an array of deeply historical and scenic landscapes. In Vientiane, the Patuxai Victory Monument reflects a combination of Paris's Arc de Triomphe and traditional Lao design motifs. To the south, Champasak province hosts Wat Phou, an ancient pre-Angkorian Khmer Hindu temple ruin built along the sacred slopes of Mount Phu Kao."
+      },
+      "zh": {
+        "list": [
+          "塔鑾（Pha That Luang）—— 位於永珍、全身貼滿金箔的巨型佛塔，為寮國國家徽章上的至高象徵",
+          "龍坡邦古城（Luang Prabang）—— 全城納入世界文化遺產，完美融合高棉王室寺院與法國殖民洋樓",
+          "萬榮（Vang Vieng）—— 喀斯特山水環繞的戶外運動天堂，以藍色潟湖與南松河輪胎漂流名噪國際",
+          "四千美島（Si Phan Don）—— 湄公河在最南部邊境擴展而成的巨大內陸群島，保留極原始的漁村風貌"
+        ],
+        "text": "寮國的旅遊地標兼具濃郁的歷史厚重感與純淨的自然風光。首都永珍市中心的「凱旋門」（Patuxai），外觀仿照巴黎凱旋門，但細部雕刻全是神話中的高棉神鳥與神祇，登頂可俯瞰整座寧靜的首都。\n\n位於最南端的瓦普寺（Wat Phou）是一處比柬埔寨吳哥窟還要古老的山頂高棉帝國神廟遺址，展現了早期印度教在湄公河流域的傳播軌跡。而南部的「四千美島」則展現了湄公河最狂野的一面，寬達數公里的孔恩瀑布（Khone Phapheng）萬馬奔騰，是阻斷湄公河直通南海的天然屏障。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "Constructive member state of ASEAN, routinely hosting major regional summits",
+          "Tied to China through the strategic Belt and Road Initiative and comprehensive rail logistics",
+          "Maintains traditional military and ideological relations with Vietnam",
+          "Depends heavily on Thailand's shipping networks, ports, and consumer markets"
+        ],
+        "text": "Laos uses a pragmatic 'land-linked' diplomatic approach to balance relationships with its larger neighbors. The country relies heavily on Thailand's transit infrastructure for maritime trade access, while expanding its border trade gates with Vietnam. Simultaneously, the Laos-China Railway has established a direct economic corridor to Kunming, enhancing logistics integration within the broader Greater Mekong Subregion."
+      },
+      "zh": {
+        "list": [
+          "東協（ASEAN）不可或缺的成員國，常態性輪值主辦東協峰會，發揮多邊外交協調角色",
+          "「一帶一路」戰略在中南半島的核心示範區，中老高鐵直通昆明，全面融入中國大西南經濟圈",
+          "與越南簽有《越老友好合作條約》，在軍事安全、黨務培訓與意識形態上維持傳統結盟",
+          "經貿與日常生活高度依賴泰國，絕大多數進出口物資需經由泰國廉差邦港（Laem Chabang）轉運"
+        ],
+        "text": "寮國的外交戰略是典型的「小國大平衡」。由於自身沒有出海口，泰國的廊開與曼谷港歷史上一直是寮國連接外部世界的唯一生命線，泰銖（THB）在寮國商務中亦被廣泛接受。然而，自2021年中老鐵路通車後，中國對寮國的經濟影響力急遽上升，中國已躍升為寮國第一大外資來源國與第一大債權國。\n\n為了防止過度傾斜，寮國政界在傳統安全與軍事外交上依然與越南保持著極其高頻的特殊兄弟情誼，大批高階官員均有留越背景。透過多邊參與東協事務與瀾湄合作，萬象政府正努力在三大強鄰之間維繫自身的政治獨立性。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Bilateral interactions are strictly restricted to unofficial commercial and individual travel",
+          "Taiwanese direct investments are focused on agricultural processing, timber, and light textiles",
+          "Consular and official visa affairs are managed via the Taipei Economic and Cultural Office in Vietnam",
+          "A small but highly integrated group of Taiwanese business operators resides within Vientiane"
+        ],
+        "text": "Taiwan and Laos do not maintain official diplomatic missions, with legal and visa affairs handled by Taiwan's representative office in Hanoi, Vietnam. Taiwanese corporate involvement in Laos remains niche compared to neighboring countries, with investments focused primarily on organic agriculture, premium coffee trading, and wood processing. Cultural ties are driven by non-governmental educational exchanges and independent tourism to historical sites like Luang Prabang."
+      },
+      "zh": {
+        "list": [
+          "雙邊無官方外交關係，經貿與旅遊事務完全界定於非官方民間個體範疇",
+          "台商赴寮投資規模較小，主要集中於木材加工、熱帶造林、精緻造紙與農業改良",
+          "領事與簽證業務目前由台灣「駐越南台北經濟文化辦事處（河內）」跨境兼轄",
+          "在地設有「寮國台灣商會聯合總會」，成員多深耕於萬象與南部巴色地區"
+        ],
+        "text": "寮國與台灣的實質接觸在東協各國中屬於尚待開發的邊境。由於寮國政治立場極度親共，雙方至今未設官方代表處，經貿考察亦受到較多行政審查。不過，仍有一群具備拓荒精神的台商進駐當地，利用寮國低廉的土地與電力成本進行大面積造林、造紙或開發塑料包裝業。\n\n在農業貿易上，部分台灣咖啡商與南部波羅芬高原的農場建立直接貿易鏈，將高品質的寮國高山咖啡豆引進台灣市場。文化交流層面，主要體現為台灣背包客前往龍坡邦與萬榮進行深度生態旅遊。隨著中老鐵路打通了中南半島的陸路大動脈，不少在泰國與越南的台商也開始將目光投向寮國，將其視為規避關稅與尋找新廉價勞動力的潛力備用基地。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "The historical heir to Lan Xang, balancing mountain geography with lowland river culture",
+          "Preserves Luang Prabang, a globally celebrated living architectural monument and heritage site",
+          "Sustains deep Buddhist monastic devotions that quietly guide everyday civic behavior",
+          "Transforming its landlocked topography into a dynamic regional land-linked logistics center",
+          "Possesses immense, untapped resource wealth spanning major hydropower and metal veins"
+        ],
+        "text": "Laos harmonizes ancient Buddhist serenity with ambitious infrastructure expansions, standing as an ecologically rich, geostrategically vital land bridge charting its transition within the contemporary Indo-Pacific."
+      },
+      "zh": {
+        "list": [
+          "古老瀾滄王國的當代正統繼承者，將高山高原的封閉地貌化為保存歷史的天然屏障",
+          "完美守護著聯合國教科文組織認定的龍坡邦古城，是一座活生生的露天歷史博物館",
+          "將上座部佛教視為國民靈魂的避風港，其清晨化緣與不爭名利的哲學形塑了獨特國風",
+          "依仗中老高鐵大動脈，成功打破「陸鎖」枷鎖，昂首邁入區域跨國鐵路物流新時代",
+          "坐擁冠絕東南亞的綠色水利發電潛能與巨量有色金屬礦藏，為國家轉型提供堅實底氣"
+        ],
+        "text": "寮國是一個將極致的靈性寧靜、原始的熱帶山水，以及現代社會主義發展野心極具張力地融合在一起的獨特國度。它在崇山峻嶺的夾縫中，長年維持著冷靜、不盲目追逐物質喧囂的自在節奏，卻又在瀾湄次區域一體化的進程中，毫不猶豫地將命運與跨境高鐵、跨國大壩綁定在一起。隨著東協區域供應鏈的向內延伸與地緣陸權的重新崛起，這片遺世獨立的萬象土地，正試圖在保留其純淨佛教靈魂的同時，走出一條具備寮國特色的現代化轉型道路。"
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": {
+        "en": "Lao kip (LAK / ₭)",
+        "zh": "寮國基普（LAK / 貨幣符號為 ₭）"
+      }
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "Lao (Official language spoken by the majority), Thai is universally understood due to media alignment, French/English used in diplomacy and tourism",
+        "zh": "寮語（Lao / 官方與全國通用語言，屬壯侗語系）；由於泰語與寮語高度同源且泰國電視普及，國民普遍能無障礙聽懂泰語；英語與法語則通行於政府外交、跨國商務與高階觀光業"
+      }
+    },
+    {
+      "label": "Government",
+      "value": "Single-party Marxist-Leninist socialist republic under the LPRP"
+    },
+    {
+      "label": "Time zone",
+      "value": "UTC+7 (Indochina Time - ICT)"
+    },
+    {
+      "label": "Calling code",
+      "value": "+856"
+    },
+    {
+      "label": "ISO code",
+      "value": "LA / LAO"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🛕",
+      "text": {
+        "en": "Pha That Luang — The magnificent gold-sheeted grand stupa in Vientiane, serving as the ultimate national and religious beacon",
+        "zh": "永珍塔鑾寺（Pha That Luang）—— 寮國象徵主權與佛教信仰的最高聖地，金碧輝煌的塔身內供奉有佛陀舍利"
+      }
+    },
+    {
+      "icon": "🌊",
+      "text": {
+        "en": "The Mekong Corridor — Shaping the transport, wild fisheries, and extensive agricultural life blood of all major lowland towns",
+        "zh": "湄公河天然命脈—— 橫貫全國的黃金水道與生命線，孕育了沿岸肥沃的稻田，亦是串聯老、泰、緬三國的天然邊界與航道"
+      }
+    },
+    {
+      "icon": "🚄",
+      "text": {
+        "en": "Laos-China Railway — The game-changing international high-speed network connecting Vientiane directly with Kunming",
+        "zh": "中寮鐵路大動脈—— 穿山越嶺的世紀基礎建設里程碑，將原本數天的山路崎嶇縮短至數小時，徹底打通寮國的陸路對外貿易壁壘"
+      }
+    },
+    {
+      "icon": "🧘",
+      "text": {
+        "en": "The Alms Giving Ceremony — Luang Prabang's iconic daily dawn ritual reflecting centuries of unbroken Theravada tradition",
+        "zh": "龍坡邦清晨佈施（Tak Bat）—— 數百年來未曾中斷的精神儀式，清晨全城僧侶出寺接受信眾供養，展現了極致的宗教虔誠與社會和諧"
+      }
+    },
+    {
+      "icon": "⛰️",
+      "text": {
+        "en": "Mountainous Battery — Utilizing dramatic sub-alpine relief maps to drive multinational hydro-power generation grids",
+        "zh": "山地蓄電池經濟—— 發揮全境高山峽谷密集、河流落差巨大的天然優勢，興建密集水電站向東協鄰國輸出綠色電力，打造區域供電樞紐"
+      }
+    }
+  ],
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=100.1%2C13.9%2C107.6%2C22.5&layer=mapnik",
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/2108121"
+}

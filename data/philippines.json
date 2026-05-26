@@ -1,0 +1,353 @@
+{
+  "name": {
+    "en": "Philippines",
+    "zh": "菲律賓"
+  },
+  "nativeName": "Pilipinas",
+  "capital": {
+    "en": "Manila",
+    "zh": "馬尼拉"
+  },
+  "population": "120M",
+  "area": "300,000 km²",
+  "density": "400/km²",
+  "continent": "Asia",
+  "flagEmoji": "🇵🇭",
+  "dataEstYear": 2025,
+  "description": {
+    "en": "The Philippines is an archipelagic country situated in Southeast Asia, consisting of more than 7,000 islands. It is bordered by the South China Sea to the west, the Philippine Sea to the east, and shares maritime borders with Indonesia and Malaysia to the south. Renowned for its spectacular tropical island scenery, vibrant multicultural heritage, and exceptionally young population, the Philippines is one of the key nations in Southeast Asia.",
+    "zh": "Philippines是位於東南亞的群島國家，由超過 7,000 座熱帶島嶼組成，西臨南海（South China Sea），東接菲律賓海（Philippine Sea），南方與印尼（Indonesia）及馬來西亞（Malaysia）分享海上國界。菲律賓以壯麗的熱帶海島風光、絢麗的多元文化底蘊與高度年輕化的人口結構聞名，是東南亞地區最具活力的核心國家之一。"
+  },
+  "seoText": {
+    "en": "Explore quick facts about the Philippines — population, land area, capital city, and a short overview. Learn about the Philippine archipelagic geography, Mayon Volcano, Boracay, Spanish-American cultural fusion, and its major service-driven BPO industries.",
+    "zh": "快速了解菲律賓的基本資料：人口、面積、首都與簡短概述。探索菲律賓擁有七千多座島嶼的熱帶地貌、馬榮火山、長灘島觀光、西美融合的天主教文化以及商業流程外包（BPO）與海外勞工匯款經濟。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Archipelagic nation in the Western Pacific",
+          "Comprised of more than 7,000 tropical islands",
+          "One of the most populous countries in Southeast Asia",
+          "Deeply influenced by Spanish and American cultures"
+        ],
+        "text": "The Philippines occupies a strategic maritime crossroad in Asia, long characterized by intense global trade and cultural exchanges. The country was colonized by Spain and later governed by the United States, which left a deep and unique Western imprint on its religious beliefs, languages, legal systems, and educational structures.\n\nAs a highly dynamic emerging market economy, the Philippines has experienced strong development led by service sectors, massive overseas worker remittances, and expanding digital outsourcing industries, making it one of the largest English-speaking societies in the world."
+      },
+      "zh": {
+        "list": [
+          "位於西太平洋的群島國家",
+          "超過 7,000 座島嶼組成",
+          "東南亞重要人口大國",
+          "深受西班牙與美國文化影響"
+        ],
+        "text": "菲律賓（Philippines）地理位置座落於亞洲海上交通與貿易的戰略十字路口，自古以來便擁有密集的國際貿易與文化交融。歷史上該國曾受到西班牙（Spain）殖民統治超過三百年，隨後由美國（United States）治理，這段歷史在菲律賓的天主教信仰、語言普及、法律體系與教育結構上留下了極其深遠且獨特的西方印記。\n\n作為一個充滿活力的興興市場經濟體，菲律賓近年來在現代服務業、龐大的海外勞工匯款以及高速擴張的數位商業流程外包（BPO）產業帶動下成長強勁，同時也使其成為全球規模最大的英語社會之一。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Highly fragmented archipelagic topography",
+          "Highly active volcanic and seismic geography",
+          "Abundant tropical rainforests and coastal ecosystems",
+          "Divided into three main regions: Luzon, Visayas, and Mindanao"
+        ],
+        "text": "Covering a total land area of approximately 300,000 square kilometers, the Philippines is divided into three major island groups: Luzon, Visayas, and Mindanao. The capital, Manila, is located on Luzon and serves as the political and economic heart of the nation.\n\nPositioned on the Pacific Ring of Fire, the Philippines possesses numerous active volcanoes, such as the symmetrical Mayon Volcano and Taal Volcano. While its coastlines feature exceptionally rich coral reefs, the scattered archipelagic layout presents substantial transport and infrastructure challenges."
+      },
+      "zh": {
+        "list": [
+          "群島地形明顯",
+          "火山與地震活動頻繁",
+          "熱帶雨林與海岸地貌豐富",
+          "呂宋、維薩亞斯與民答那峨為三大區域"
+        ],
+        "text": "菲律賓國土土地面積約 30 萬平方公里，地理上主要由三大島群所構成：北部的呂宋（Luzon）、中部的維薩亞斯（Visayas）與南部的民答那峨（Mindanao）。國家行政首都馬尼拉（Manila）位於呂宋島上，是全國政治與經濟運作的核心。由於地處環太平洋火山帶（Ring of Fire），菲律賓群島擁有頻繁的火山與地震活動，境內如近乎完美對稱的馬榮火山（Mayon Volcano）與獨特的塔阿爾火山（Taal Volcano）皆為著名的地質景觀。儘管其漫長的沿海地區擁有全世界最豐富的珊瑚礁與熱帶海洋生態系統，但這種破碎分散的群島布局，也為跨島嶼的交通運輸與基礎建設帶來了實質的挑戰。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Dominated by a hot and wet tropical maritime climate",
+          "High temperatures and humidity throughout the year",
+          "Distinct dry and wet seasonal shifts",
+          "High vulnerability to seasonal typhoons and cyclones"
+        ],
+        "text": "The Philippines experiences warm temperatures year-round, with daily averages ranging between 25 and 32°C. The calendar is split into a dry season and a rainy monsoon season, with precipitation increasing dramatically during the latter.\n\nDue to its position directly in the path of Western Pacific storms, the Philippines is one of the world's most typhoon-prone nations, suffering multiple severe tropical cyclones annually. However, parts of southern Mindanao lie largely outside the direct typhoon belt, providing stable agricultural conditions."
+      },
+      "zh": {
+        "list": [
+          "屬熱帶海洋性氣候",
+          "高溫潮濕全年明顯",
+          "雨季與乾季區分清楚",
+          "颱風災害頻繁"
+        ],
+        "text": "菲律賓全年氣候溫暖，屬於典型的熱帶海洋性氣候，各地的每日平均氣溫普遍落在 25°C 至 32°C 之間，全年高溫且潮濕。一年之中大致可分為乾季（十一月至次年五月）與西南季風帶來的雨季（六月至十月），雨季期間降雨量極為驚人。由於地理位置正對西太平洋颱風的生成路徑，菲律賓是全球遭受颱風侵襲最頻繁的國家之一，每年平均迎來數個強烈熱帶氣旋，對基礎設施與民生造成顯著影響。不過，南部的民答那峨（Mindanao）部分地區因緯度較低，基本位於颱風帶之外，因而享有相對穩定的農業耕作條件。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Population of approximately 120 million",
+          "One of Southeast Asia's most populous states",
+          "Highly favorable and young demographic age structure",
+          "Extensive global diaspora and overseas labor network"
+        ],
+        "text": "With a population of approximately 120 million, the Philippines possesses a highly dynamic, youthful demographic. Metro Manila represents the primary urban corridor, characterized by extremely high population densities.\n\nThe country is home to multiple indigenous ethnic groups, including Tagalog, Cebuano, and Ilocano. Filipino and English serve as official languages, with English proficiency being exceptionally prominent across all sectors. The expansive global network of Overseas Filipino Workers (OFWs) provides crucial financial support to the domestic economy."
+      },
+      "zh": {
+        "list": [
+          "人口約 1.2 億",
+          "東南亞主要人口大國",
+          "年輕人口比例高",
+          "海外移民與海外勞工眾多"
+        ],
+        "text": "菲律賓全國人口已達到約 1.2 億人，位居東南亞人口大國前列。在族群與人口結構分布上，菲律賓由多個南島語系民族組成，最大族群為他加祿人（Tagalogs），約佔總人口的 26%；其次為比薩亞人/宿霧人（Bisaya/Cebuanos），佔 14.3%；伊洛科人（Ilocanos）佔 8%；比科爾人（Bicolanos）佔 6.3%；其餘主要少數族群包括海馬儂人（Hiligaynons）佔 5.6%、瓦萊人（Warays）佔 3.4%，以及南部的穆斯林摩洛人（Moro）等。大馬尼拉都會區（Metro Manila）為全國最核心的城鎮化走廊，人口密度極高。官方語言為菲律賓語（Filipino）與英語（English），其中英語在商業、政府與教育界的普及率高居亞洲前列。龐大的海外菲律賓勞工（OFW）全球網絡，每年匯回國內的資金成為穩定國家民生經濟的巨型支柱。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "Vigorously developing emerging market economy",
+          "Service sector acts as the primary economic engine",
+          "Remittances from overseas citizens provide vital consumption support",
+          "Rapid expansion in electronics export and Business Process Outsourcing (BPO)"
+        ],
+        "text": "The Philippine economy is highly service-oriented, with Business Process Outsourcing (BPO) acting as a premier global industry, centered heavily in Manila and Cebu. \n\nFinancial remittances from Overseas Filipino Workers (OFWs) represent a massive economic pillar, fueling robust domestic consumption. While electronics manufacturing, digital sectors, and retail continue to expand rapidly, bridging income inequality and developing transportation systems remain critical policy priorities."
+      },
+      "zh": {
+        "list": [
+          "新興市場經濟體",
+          "服務業為經濟核心",
+          "海外匯款影響巨大",
+          "電子製造與商業流程外包發展快速"
+        ],
+        "text": "菲律賓經濟高度依賴服務業推動，其中商業流程外包（BPO）產業在世界上具有極強的競爭力，大都會區如馬尼拉（Manila）與宿霧（Cebu）已成為全球眾多跨國企業設立24小時客戶服務、數據分析與資訊技術支援中心的重鎮。海外菲律賓勞工（OFW）穩定的外匯流入是菲律賓經濟的另一大支柱，實質帶動了國內強勁的零售與民生消費。近年來，電子製造代工、數位電商與旅遊業亦快速擴張，然而縮小國內貧富差距、優化跨島嶼大眾交通網路，依然是馬尼拉當局經濟政策的首要考量。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Unitary presidential constitutional republic",
+          "Strict separation of powers under three main branches",
+          "Divided into provinces, cities, and local municipalities",
+          "Prominence of political dynastic families in government"
+        ],
+        "text": "The political framework of the Philippines is presidential, with the president serving as both head of state and government, supported by a bicameral Congress. \n\nThe country is divided into numerous provinces, cities, and barangays. The Bangsamoro Autonomous Region in Muslim Mindanao (BARMM) possesses a unique high-degree autonomous status. Philippine politics continues to be heavily characterized by influential political families and local coalitions."
+      },
+      "zh": {
+        "list": [
+          "總統制共和國",
+          "採三權分立制度",
+          "分為多個省與地方行政區",
+          "政治深受家族勢力影響"
+        ],
+        "text": "菲律賓政治體制採行單一制總統制共和國，憲政上嚴格實行行政、立法、司法三權分立。總統兼任國家元首與政府首長，國會則由參議院與眾議院組成。在行政區劃上，全國劃分為多個省、市與基層的「巴朗蓋」（Barangay，即村里行政區）。其中，南部的民答那峨穆斯林邦薩摩洛自治區（BARMM）享有高度的特殊政治自治地位。菲律賓的民主政治文化中，傳統地方政治家族（Political dynasties）與財閥結盟的生態長期對選舉與中央決策具有根深蒂固的實質影響力。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Profoundly shaped by Catholic customs and beliefs",
+          "Exceptionally strong and close-knit family values",
+          "Widespread English-medium educational systems",
+          "Distinct socioeconomic gaps between urban and rural areas"
+        ],
+        "text": "As one of Asia's largest Catholic nations, religion is deeply woven into daily life, guiding festivals, family morals, and community relationships. \n\nThanks to an American-influenced educational history, English is widely spoken, providing citizens with strong global employment opportunities. While major cities like Metro Manila undergo modern developments, remote islands and rural areas still strive for medical and infrastructural improvements."
+      },
+      "zh": {
+        "list": [
+          "天主教文化影響深厚",
+          "家庭與親族關係緊密",
+          "英語教育普及",
+          "都市與鄉村差距明顯"
+        ],
+        "text": "作為亞洲唯二以天主教為絕對多數的國家之一，宗教信仰深度交織在菲律賓人的日常起居中，全面主導了各地聖人節慶、家族道德與社區凝聚力。得益於受美式學制深遠影響的教育歷史，英語在校園與社會廣泛普及，賦予了菲律賓國民在跨國就業市場上的先天優勢。菲律賓社會以緊密的大家庭結構為核心，互助精神強烈；然而，大馬尼拉（Metro Manila）等現代都市圈的摩天大樓與偏遠外島、鄉村地區之間，在基礎建設、飲水、醫療資源分布上仍存在極為顯著的城鄉雙軌差距。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "Beautiful fusion of Spanish, American, and indigenous heritages",
+          "Highly active and popular music, performing, and cinema scenes",
+          "Passionate and ubiquitous love for basketball",
+          "Colorful and highly energetic festive traditions"
+        ],
+        "text": "Philippine culture is a rich tapestry weaving Spanish Catholic traditions, American pop influences, and indigenous Malay customs together. \n\nBasketball is a national passion, with courts appearing in almost every small neighborhood. Musically talented and expressive, singing and karaoke are core cultural rituals. Major local festivals, such as Cebu's Sinulog Festival, attract millions of participants annually."
+      },
+      "zh": {
+        "list": [
+          "西班牙與美國文化融合",
+          "音樂與娛樂產業活躍",
+          "籃球極受歡迎",
+          "節慶文化濃厚"
+        ],
+        "text": "菲律賓文化是一幅將西班牙天主教古風、美國流行次文化與本土馬來語族傳統巧妙編織而成的豐富圖卷。籃球（Basketball）在菲律賓是無可撼動的「國球」，從大都會體育館到最偏遠村落的街頭路口，皆可看到簡易的籃框與揮汗如雨的青年。菲律賓人普遍極具音樂天賦且樂於表現自我，歌唱與卡拉OK（Karaoke）是家庭聚會與社區社交必不可少的靈魂儀式。此外，全國各地全年舉辦色彩斑斕、規模宏大的宗教狂歡節慶，例如宿霧的聖嬰節（Sinulog Festival）與阿克蘭的阿提阿提漢節（Ati-Atihan Festival），每年皆吸引數百萬國內外遊客朝聖。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Income disparity and urban housing/congestion pressures",
+          "Pressing need for extensive highway and mass transit upgrades",
+          "High exposure to extreme weather and climate risks",
+          "Security concerns and peace initiatives in the south"
+        ],
+        "text": "The government is actively pushing major infrastructure campaigns to improve economic connectivity, yet severe metropolitan congestion remains a challenge. \n\nClimate change raises serious threats of rising sea levels and intense typhoons for low-lying coastal regions. Additionally, peace agreements in the southern islands continue to be implemented to ensure regional stability and investment."
+      },
+      "zh": {
+        "list": [
+          "貧富差距與都市擁擠",
+          "基礎建設不足",
+          "天災與氣候風險",
+          "南部安全與政治問題"
+        ],
+        "text": "菲律賓政府近年全力推動如大型軌道基礎建設計畫，期盼打通跨島與都市間的交通動脈、提升物流效率，但馬尼拉大都會嚴重的交通壅塞與非正式住區（貧民窟）問題依然棘手。全球氣候變遷引發的海平面上升與季風加劇，對於擁有漫長低窪海岸線的菲律賓島嶼構成直接生存威脅。在國安方面，中央政府正持續在南部民答那峨島落實和平協議並推動地方自治，以期徹底消弭長年的武裝衝突，保障區域穩定與國際投資信心。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Manila — Historical administrative capital and cultural hub",
+          "Quezon City — The most populous metropolitan city in Luzon",
+          "Cebu City — Vibrant trading and industrial heart of Visayas",
+          "Boracay — World-famous paradise island known for white sand beaches"
+        ],
+        "text": "Manila preserves historic remnants of Spanish colonial quarters, including the walled city of Intramuros. Cebu City serves as the primary trade gateway in the central region.\n\nThe world-renowned island of Boracay is celebrated for its powder-fine white beaches and sapphire waters, serving as the crown jewel of Philippine tourism."
+      },
+      "zh": {
+        "list": [
+          "Manila——首都與政治中心",
+          "Quezon City——人口最多城市",
+          "Cebu——中部重要商業城市",
+          "Boracay——世界知名海島景點"
+        ],
+        "text": "歷史名城兼現今首都馬尼拉（Manila）市中心完好保留了西班牙殖民時期的古老圍牆王城區——王城區（Intramuros），散發濃厚的歷史滄桑感。鄰近的奎松市（Quezon City）則是呂宋島上面積廣大且人口最多的現代核心重鎮。位於中部維薩亞斯群島的宿霧市（Cebu City），是歷史上麥哲倫登陸之處，如今扮演著中部最繁忙的跨島商貿門戶與工業重鎮。而享譽全球的度假天堂長灘島（Boracay），則以如細粉般的綿延白沙灘與蔚藍清澈的漸層海水，高居菲律賓熱帶海島觀光業的王冠明珠。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "Founding and key active member of ASEAN",
+          "Maintains deep historical security cooperation with the U.S.",
+          "Directly involved in complex maritime sovereignty discussions in the South China Sea",
+          "Steadily expanding trade partnerships across East Asia"
+        ],
+        "text": "As a co-founder of ASEAN, the Philippines plays a crucial role in regional diplomacy, and maintains a highly strategic, long-standing mutual defense treaty with the United States. \n\nMaritime security in the West Philippine Sea / South China Sea is a key foreign policy driver. Simultaneously, the country is actively deepening economic ties with regional giants like Japan and South Korea."
+      },
+      "zh": {
+        "list": [
+          "ASEAN 核心成員",
+          "與美國關係密切",
+          "南海議題重要當事國",
+          "與亞洲各國經貿往來增加"
+        ],
+        "text": "作為東南亞國家協會（東協，ASEAN）的創始國之一，菲律賓在區域多邊外交舞台上扮演關鍵角色。在國防安全層面，菲律賓與美國（United States）簽有歷史悠久且具戰略制約力的《美菲共同防禦條約》，雙方的軍事聯防與聯合演習在亞太地緣安全中具有關鍵分量。近年來，西菲律賓海/南海（South China Sea）的島礁主權爭議與海洋權益摩擦，成為該國外交政策最核心的攻防焦點。與此同時，菲律賓也積極深化與日本（Japan）、韓國（South Korea）及歐盟的雙邊自由貿易與綠能經濟合作。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Close bilateral economic and industrial exchanges",
+          "Home to a large community of Filipino workers in Taiwan",
+          "Expanding tourism and academic exchanges",
+          "Collaborations in tech assembly and manufacturing supply chains"
+        ],
+        "text": "The Philippines and Taiwan enjoy very stable, close trade and civic interactions, particularly within manufacturing and supply chain sectors.\n\nFilipino citizens represent a major source of labor in Taiwan, playing vital roles in industrial factories and homecare services. Cooperation has expanded into higher education, vocational training, and green energy investments."
+      },
+      "zh": {
+        "list": [
+          "經貿與勞務往來密切",
+          "菲律賓移工人數眾多",
+          "教育與觀光交流增加",
+          "科技產業合作持續成長"
+        ],
+        "text": "菲律賓與台灣地理位置僅一海之隔，雙方維持著緊密且穩定的實質經貿與民間往來，在半導體供應鏈、電子製造代工等高科技外圍產業上具備長年的跨國分工模式。菲律賓移工是台灣勞動力市場非常核心的外部來源，數以十萬計的菲律賓公民在台灣的高端電子廠、傳統製造業以及家庭醫療照護領域做出了巨大貢獻。近年來，雙邊合作更進一步延伸至大學高等教育結盟、技職培訓互認、農業技術改良以及新興的離岸綠能投資。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "Asia's largest Catholic-majority nation",
+          "One of the world's most widely speaking English nations",
+          "Prominent international supplier of highly skilled overseas workers",
+          "Exposed heavily to seasonal tropical cyclones and volcanic activity"
+        ]
+      },
+      "zh": {
+        "list": [
+          "亞洲最大的天主教國家",
+          "全球主要英語使用國家之一",
+          "世界重要海外勞工輸出國",
+          "每年受颱風影響頻繁"
+        ]
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": "Philippine Peso (₱)"
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "Filipino / English",
+        "zh": "菲律賓語 / 英語"
+      }
+    },
+    {
+      "label": "GDP (nom.)",
+      "value": "$440B"
+    },
+    {
+      "label": "Time zone",
+      "value": "UTC+8"
+    },
+    {
+      "label": "Calling code",
+      "value": "+63"
+    },
+    {
+      "label": "ISO code",
+      "value": "PH / PHL"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🏖️",
+      "text": {
+        "en": "Boracay White Beach — Soaring world-famous resort island blessed with exceptionally fine powdery sand beach",
+        "zh": "長灘島白沙灘（Boracay）——享譽世界的熱帶度假名島，擁有如麵粉般細緻的極品白沙與澄澈海水"
+      }
+    },
+    {
+      "icon": "🛕",
+      "text": {
+        "en": "San Agustin Church — A stunning colonial Spanish Baroque stone church standing as a historic UNESCO heritage",
+        "zh": "聖奧古斯丁教堂——馬尼拉最具代表性的西班牙殖民巴洛克式石造大教堂，為珍貴的世界文化遺產"
+      }
+    },
+    {
+      "icon": "🌋",
+      "text": {
+        "en": "Mount Mayon — The world-famous breathtaking active volcano renowned for its near-perfect symmetrical cone",
+        "zh": "馬榮火山（Mount Mayon）——以近乎完美對稱的圓錐形輪廓聞名世界的壯麗活火山，吸引全球旅客朝聖"
+      }
+    },
+    {
+      "icon": "🦎",
+      "text": {
+        "en": "Philippine Tarsier — The tiny, iconic, and highly unique insectivorous primate native to pristine Bohol island",
+        "zh": "菲律賓眼鏡猴（Tarsier）——棲息於薄荷島的超小型特有靈長類，擁有巨大雙眼，是菲律賓的國寶代表"
+      }
+    },
+    {
+      "icon": "🍲",
+      "text": {
+        "en": "Chicken Adobo — The universally loved marinated savory soy-vinegar chicken defining the soul of Filipino cuisine",
+        "zh": "菲式燉肉（Adobo）——將雞肉或豬肉以醬油、醋與大蒜慢火燉煮的招牌菜餚，是菲律賓的代表性靈魂美食"
+      }
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/443105",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=116.5%2C4.5%2C126.8%2C21.2&layer=mapnik"
+}

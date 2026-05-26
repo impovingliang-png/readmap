@@ -1,0 +1,360 @@
+{
+  "name": {
+    "en": "Bhutan",
+    "zh": "不丹"
+  },
+  "nativeName": "འབྲུག་ཡུལ",
+  "capital": {
+    "en": "Thimphu",
+    "zh": "廷布"
+  },
+  "population": "0.79M",
+  "area": "38,394 km²",
+  "density": "21/km²",
+  "continent": "Asia",
+  "flagEmoji": "🇧🇹",
+  "dataEstYear": 2026,
+  "description": {
+    "en": "Bhutan, officially the Kingdom of Bhutan, is a sovereign landlocked constitutional monarchy situated in the eastern Himalayas of South Asia. It is bordered by China (Tibet Autonomous Region) to the north and India to the south, east, and west. Known natively as Drukyul (Land of the Thunder Dragon), Bhutan is characterized by its dramatic sub-alpine mountain topography, deep devotion to Vajrayana Buddhism, and its pioneering development philosophy of Gross National Happiness (GNH). The kingdom has carefully navigated modernization, maintaining strict environmental mandates to remain one of the world's only carbon-negative countries, while balancing its economic growth through run-of-the-river hydropower exports and highly regulated eco-tourism.",
+    "zh": "Bhutan官方全稱為不丹王國，是位於南亞喜馬拉雅山脈東部的內陸主權君主立憲制國家。國土北鄰中國西藏自治區，西、南、東三面則與印度接壤。不丹在當地語言中被稱為「Drukyul」（意為雷龍之國），境內多高山峻嶺與幽深河谷，以上座 Vajrayana 密宗藏傳佛教為國教。不丹因開創了以福祉和生態為核心的「國民幸福總值（GNH）」治理哲學而享譽全球。該國在現代化進程中極其謹慎，透過嚴格的森林覆蓋法律維持全球罕見的「碳負排放」狀態，並以環境友善的水力發電外銷和高門檻的「高價值、低密度」觀光政策作為國家核心經濟命脈。"
+  },
+  "seoText": {
+    "en": "Discover comprehensive facts about Bhutan — population estimates, land area, capital city Thimphu, and in-depth analytical overviews. Explore Paro Taktsang (Tiger's Nest), Punakha Dzong, the Sustainable Development Fee (SDF) tourism system, Bhutanese Ngultrum, geopolitical relations, and economic shifts like the Gelephu Mindfulness City.",
+    "zh": "深入了解不丹的基本資料：精確人口規模、國土面積、首都廷布與詳盡概述。探索帕羅虎穴寺、普那卡宗、永續發展費（SDF）高門檻觀光制、努爾特魯姆與印度盧比固定匯率、中不邊界談判、地緣政治趨勢，以及格萊富正念之城（Gelephu Mindfulness City）特別經濟區發展。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "A sovereign Himalayan kingdom bridging the geopolitical spheres of India and China",
+          "Governed by Gross National Happiness (GNH), prioritizing wellness over raw economic output",
+          "Maintains a global benchmark for conservation as a verified carbon-negative ecosystem",
+          "Pioneered a strict quality-controlled tourism pricing model to protect indigenous identity"
+        ],
+        "text": "Bhutan spans 38,394 square kilometers of pristine Alpine environment, operating with high cultural uniformity grounded in Vajrayana Buddhist principles. Once completely isolated from global networks, the kingdom introduced television and internet only in 1999 and transitioned peacefully from an absolute monarchy to a bicameral democracy in 2008. Today, Thimphu serves as a growing urban hub where the state manages the complex realities of modern digital globalization while preserving traditional architecture, heritage laws, and ancestral customs."
+      },
+      "zh": {
+        "list": [
+          "喜馬拉雅山脈東段的主權王國，地緣上居於中國與印度兩大強權的戰略緩衝帶",
+          "以「國民幸福總值」（GNH）為國家最高施政綱領，反對盲目追求國內生產毛額",
+          "全球生態保育的絕對標竿，憲法明定森林覆蓋率門檻，屬於極少數的碳負排放國",
+          "長期奉行獨立自主且審慎的對外開放方針，以獨特的「永續發展費」調控入境旅客數"
+        ],
+        "text": "不丹國土面積約 3.8 萬平方公里，境內遍布未受破壞的原始森林與壯麗雪山。不丹過去長期實行閉關鎖國政策，直到 1999 年才全面批准電視與網際網路進入國內。在老國王的積極推動下，不丹於 2008 年和平完成了從絕對君主制向雙院制議會民主制的歷史性轉型。\n\n首都廷布目前是全王國的政治與經濟中心。在城市擴張的同時，不丹政府嚴格執行建築法規，所有新建築必須保留高棉與藏式傳統雕刻重簷外觀，力求在擁抱數位全球化的洪流中，死守其獨一無二的民族文化根基。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Characterized by radical elevation drops from 7,500-meter peaks to southern subtropical plains",
+          "North dominated by high Himalayan ridges including Gangkhar Puensum, the world's highest unclimbed peak",
+          "Central region features fertile, interconnected river valleys serving as the population core",
+          "Enforces strict constitutional mandates ensuring at least 60% forest cover for perpetuity"
+        ],
+        "text": "Bhutan's physical geography is among the most rugged and vertically steep in the world. Within a span of less than 150 kilometers from north to south, the altitude plunges drastically from perpetual arctic ice fields along the Tibetan border down to the hot, humid Duars plains adjacent to India. This terrain is carved by fast-flowing, glacier-fed rivers like the Drangme Chhu and Wang Chhu, which have cut deep gorges through the mountains and created isolated valley communities that are now linked by high-altitude mountain passes."
+      },
+      "zh": {
+        "list": [
+          "地形極端崎嶇，南北寬度僅約 150 公里，海拔卻從 7,500 公尺雪峰驟降至接近海平面的平原",
+          "北部橫亙著高聳的喜馬拉雅主脊，擁世界最高未登峰「干卡本森峰」（Gangkhar Puensum）",
+          "中部縱橫交錯的溫帶河谷（如巴羅、廷布、普那卡）是全國農業與人口的精華心臟地帶",
+          "憲法嚴格規定國土的森林覆蓋率必須常年維持在 60% 以上（目前實質超過 70%）"
+        ],
+        "text": "不丹的地理環境堪稱大自然的垂直奇蹟。北部與中國西藏交界處是一片白雪皚皚的極寒高山，這裏的山峰因不丹政府對神山的宗教崇拜而立法禁止攀登。向南延伸的中部河谷區氣候宜人、水源充足，不丹人在此依山開墾梯田，種植紅米與蔬菜。\n\n最南部則是一條狹長的亞熱帶丘陵帶（杜阿爾斯平原），與印度阿薩姆邦及西孟加拉邦接壤，發源自北部冰川的四大河流（阿莫曲、旺曲、桑科希曲、馬納斯曲）在此奔騰匯入布拉馬普特拉河。極端的垂直落差孕育了極其豐富的生物多樣性，也為水力發電提供了得天獨厚的條件。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Varies drastically across short distances based on sharp altitudinal zoning",
+          "Northern high alpine belt features a perpetual tundra climate with severe sub-zero winters",
+          "Central temperate valleys experience pleasant summers and crisp, cold dry winters",
+          "Southern foothills are characterized by a hot, humid subtropical monsoon climate"
+        ],
+        "text": "The climate of Bhutan is heavily influenced by the Indian summer monsoon, which accounts for the vast majority of annual rainfall between June and September, often bringing dense mountain fogs and mudslides to the southern mountain tracks. Winters are generally dry and characterized by clear, radiant blue skies across the central valleys, with heavy snow accumulating predominantly on the northern Himalayan heights and higher alpine mountain passes."
+      },
+      "zh": {
+        "list": [
+          "氣候隨海拔高度呈現極其劇烈的垂直分層，形成「一山有四季」的獨特現象",
+          "北部高山帶屬於終年積雪的寒帶苔原氣候，冬季酷寒且常伴隨大規模降雪",
+          "中部溫帶谷地四季分明，夏季溫和多雨，冬季乾燥清爽、夜間常有霜凍",
+          "南部邊境低地屬熱帶及亞熱帶季風氣候，全年高溫潮濕，年降雨量極為驚人"
+        ],
+        "text": "不丹的水文與氣候節奏深受印度洋夏季季風支配。每年 6 月至 9 月，季風夾帶海量濕氣北上，撞擊喜馬拉雅山南坡，在南部丘陵引發強降雨，常導致山區公路發生局部塌方。然而，這段雨季卻為中部的農業提供了核心灌溉水。\n\n10 月至次年 3 月則迎來旱季，此時季風退去，中部谷地（如廷布、巴羅）日間陽光和煦，天空呈現明徹的湛藍色，非常適合戶外考察與宗教節慶的舉行。不過，高海拔埡口（如多雄拉埡口）在此時會被厚雪封鎖，夜間氣溫常降至零下。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Total population registers a modest count of approximately 790,000 residents as of 2026",
+          "Maintains a low average population density, with human settlements restricted to river beds",
+          "Main primary ethnic groups comprise the Ngalops (30%), Sharchops (50%), and Lhotshampas (15%)",
+          "Dzongkha is the exclusive state language, though English is the universal language of instruction"
+        ],
+        "text": "Bhutan's demography reflects historical migratory waves from Tibet and the broader Himalayan region. The Ngalops of the west and Sharchops of the east share a common cultural bond through Vajrayana Buddhism, which is practiced by 75% of the total population and deeply influences the legal system and civil service. The Lhotshampas, a group of Nepali-origin Hindus residing along the southern lowlands, account for 22.6% of the citizenry. The population structure is relatively young, with a median age of 29, and is gradually urbanizing as young people move toward Thimphu in search of employment."
+      },
+      "zh": {
+        "list": [
+          "全國總人口至今維持在約 79 萬人的精簡規模，是亞洲人口最少的主權國家之一",
+          "人口密度極低（每平方公里僅 21 人），大半國土屬於無人定居的自然保育區",
+          "主要由三大族群構成：夏爾喬普族（東部）、宗卡族（西部）與洛昌族（南部）",
+          "官方語言為宗卡語（Dzongkha / 採藏文基礎），英語在教育、商務與政府公文中全面通用"
+        ],
+        "text": "不丹的人口結構分佈高度集中在少數可耕作的溫帶河谷中。其三大主體民族與宗教構成的精確數據如下：\n\n民族群體：\n1. 夏爾喬普族（Sharchop，約占50%）：是不丹人口最多的族群，主要居住在東部山區，被認為是不丹的原住民，語言屬漢藏語系。\n2. 宗卡族（Ngalop，約占30%）：主要集中在西部和中部谷地，是歷史上從西藏遷徙而來的後裔，他們的語言宗卡語被定為國語，該族群在王室、政界與宗教界居於核心主導地位。\n3. 洛昌族（Lhotshampa，約占15%至22%不等）：主要為尼泊爾裔移民，於19世紀末至20世紀中葉移居至南部亞熱帶低地，通用尼泊爾語。\n\n宗教信仰分佈：國教為藏傳佛教的竹巴噶舉派（Drukpa Kagyu）與寧瑪派（Nyingma），信徒高占總人口的 74.8%，寺院力量（中央僧伽會）在國家政治中擁有法定發言權；印度教（Hinduism）主要由南部的洛昌族人信仰，占總人口的 22.6%；其餘少數群體包括微量的基督徒（約 0.5%）與邊遠部落的苯教（Bon）萬物有靈殘留信仰。\n\n不丹國民平均壽命已提高至 71 歲。由於過去二十年基礎教育普及，國民英語水平極高。當前，約有 40% 的人口已移居都市，廷布面臨顯著的青年人口集中化趨勢。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "A small market economy anchored by bilateral hydropowers, strict carbon laws, and sovereign tourism",
+          "Clean hydropower production accounts for the largest share of national export revenue and GDP",
+          "The domestic currency, Ngultrum (BTN), is pegged at par with the Indian Rupee (INR)",
+          "Tourism operates via a Sustainable Development Fee (SDF) of $100 per foreign visitor per night"
+        ],
+        "text": "Bhutan's economy is distinct due to its integration with the Indian market, which accounts for over 80% of its import and export trade. The sale of zero-emission surplus electricity to India's northeastern power grid finances the country's free national healthcare and education systems. To diversify its economic base beyond hydropower and subsistence agriculture, the King announced the 'Gelephu Mindfulness City' (GMC) initiative, a special administrative zone in the south designed to attract global high-tech and green investments while adhering to GNH principles."
+      },
+      "zh": {
+        "list": [
+          "獨具一格的小型發展中經濟體，以資源外銷、雙邊低息貸款與綠色生態高附加價值服務為核心",
+          "清潔水力發電是不丹最具實質性的外匯收入與 GDP 來源，全數併網輸銷給電力短缺的印度",
+          "本國貨幣努爾特魯姆（BTN）與印度盧比（INR）實行 1:1 的固定匯率，金融上高度依賴新德里",
+          "旅遊業採取高門檻機制，外國旅客需繳納每晚 100 美元的「永續發展費」（SDF），防範大眾觀光破壞"
+        ],
+        "text": "不丹的經濟體制與其地緣政治緊密綁定。印度的全方位經濟援助與技術投入是不丹基礎建設的基石。不丹利用山高水急的天然優勢，與印度聯合開發了諸多「川流式」大型水電站（如楚卡、塔拉水電站），發電收入不僅填補了國家財政，更支撐了不丹對全民實行免費醫療與免費高等教育的福利承諾。\n\n在製造業方面，不丹利用廉價電力發展了少量的鐵合金與水泥加工業。為了打破單一產業結構，不丹王室目前正在南部邊境全力推動一項野心勃勃的世紀工程——「格萊富正念之城」（Gelephu Mindfulness City）特別經濟特區。該計畫旨在打造一座占地超過 1,000 平方公里的綠色低碳自由港，引入國際綠色金融、數位資產、生技研發與高端養生產業，為年輕一代創造高薪職缺。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "A functional constitutional monarchy featuring a stable, democratic two-party parliamentary structure",
+          "The King (Druk Gyalpo, currently Jigme Khesar Namgyel Wangchuck) is the revered Head of State",
+          "Executive administrative authority is held by the Prime Minister and the elected Cabinet",
+          "Sovereignty and boundary protection remain the supreme priorities of the state's security apparatus"
+        ],
+        "text": "The transition of political systems in Bhutan is unique because it was initiated directly by the throne rather than through civic unrest. The 2008 Constitution established a National Assembly and a National Council, with regular elections resulting in democratic shifts between royalist and centrist factions. The Fifth King enjoys deep popularity and moral authority, acting as a national unifying force during transitions, while overseeing the state's foreign policy alignments and strategic boundary negotiations with neighboring states."
+      },
+      "zh": {
+        "list": [
+          "穩健運作的雙院制議會君主立憲制，政黨政治採取兩階段大選，近年已歷經數次和平政黨輪替",
+          "現任第五代國王吉格梅·凱薩爾·納姆耶爾·旺楚克（Jigme Khesar）為國家元首，享有極高實質威望",
+          "政府行政權由國會下議院大選勝出的多數黨領袖擔任內閣首相（總理），負責日常內政",
+          "在外交與安全戰略上，保持高度的主權自主意識，並審慎處理與中、印兩大鄰國的國界勘定"
+        ],
+        "text": "不丹的民主化進程在世界政治史上堪稱異數，它完全是由第四代老國王辛格·旺楚克「強行賦予」國民的。2008年，不丹正式頒布第一部憲法，創立了由下議院（國民議會）和非政黨制的上議院（國民理事會）組成的國會。\n\n不丹大選設計獨特：首輪投票由全國所有合法政黨競爭，得票最高的前兩大政黨才能進入第二輪對決，以此避免議會過於碎片化。國王雖然退出了日常政務處理，但依然是不丹軍隊的最高統帥，在國家面臨重大地緣政治危機或外交轉折時擁有最終裁決權。現任旺楚克國王與其王后在國民心中擁有不可動搖的神聖地位。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Social order is anchored in the legal code of Driglam Namzha (traditional behavior and dress)",
+          "Citizens enjoy state-funded healthcare and education, reducing structural class polarizations",
+          "The domestic lifestyle remains slow-paced, emphasizing community and environmental respect",
+          "Faced with a modern trend of skilled youth outmigration toward commonwealth labor markets"
+        ],
+        "text": "Bhutanese society is characterized by strong social trust and gender equality, with many ethnic groups following traditional matrilineal inheritance systems where family property passes to daughters. Public life requires compliance with Driglam Namzha, which mandates the wearing of the 'Gho' for men and the 'Kira' for women in official and religious settings. While community cohesion remains resilient, the global internet economy has spurred rising career aspirations, leading to a wave of young, educated citizens seeking opportunities abroad, particularly in Australia."
+      },
+      "zh": {
+        "list": [
+          "社會規範受「禮儀正道」（Driglam Namzha）法典約束，公共場合強制穿著傳統民族服裝",
+          "社會階級分化小，全民享有國家全額資助的基礎醫療與中英文雙語教育，基層福利體系健全",
+          "大眾生活深受佛教業報觀念影響，注重心靈和諧、不殺生與鄰里互助，犯罪率極低",
+          "近年正面臨受良好教育的青年世代「人才外流」潮，大批年輕白領集體前往澳洲等國尋求機遇"
+        ],
+        "text": "不丹社會是一個傳統宗族纽帶極其緊密的共同體。在家庭結構上，許多中西部高棉谷地至今保留著母系繼承傳統，土地與房屋產權多由長女繼承，男子婚後入贅女方家，女性在家庭與微型商業中擁有極高的決策權。國家法律強制規定，所有國民進入政府機關、學校、寺廟或出席正式場合時，男性必須穿著寬袍連身短裙「幗」（Gho），女性則需穿著優雅的長袍「旗拉」（Kira）。\n\n然而，近年來不丹社會正面臨歷史性的結構衝擊。隨著智慧型手機全面普及，年輕一代對外部世界的財富與機遇產生了強烈渴望。由於國內除水電和公務員外缺乏高端白領崗位，自2022年起爆發了嚴重的「澳洲留學與就業移民潮」，大批經驗豐富的銀行員、護理師與教師外流。如何平衡傳統精神生活與現代物質需求，已成為GNH體系當前最棘手的社會命題。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "Artistic expression is rooted in Drukpa Vajrayana Buddhism and sacred architectural standards",
+          "The 'Dzong' (fortress-monastery) stands as the absolute administrative and spiritual core of each valley",
+          "Tshechus are annual seasonal religious festivals defined by sacred, colorful mask dances (Cham)",
+          "Archery (Datse) is the official national sport, celebrated with traditional songs and food"
+        ],
+        "text": "Culture in Bhutan is treated as a critical national security asset, vital for safeguarding independence between its massive neighbors. Traditional architecture prohibits the use of steel nails or blueprints in sacred structures, relying on master builders who follow ancient proportions. The country's landscape is dotted with prominent 'Dzongs'—massive stone fortresses that serve as combined government offices and active monasteries, acting as the historic guardians of Bhutanese art, law, and history."
+      },
+      "zh": {
+        "list": [
+          "文化藝術全面服務於大乘密宗佛教信仰，繪畫、雕塑與編織皆遵循嚴格的宗教儀軌",
+          "「宗堡」（Dzong）是結合了軍事防禦、地方行政辦公室與僧團佛寺的巨大石砌城堡建築",
+          "每年各省定期舉辦盛大的「策秋」（Tshechu）節慶，僧侶面帶神佛面具跳起神聖的「羌姆」舞",
+          "「射箭」（Datse）是不丹唯一的法定國術，比賽時伴隨對手的歌舞干擾，極具地方娛樂色彩"
+        ],
+        "text": "對於不丹而言，文化的完整性就是其國家主權的防波堤。不丹最著名的文化視覺標誌是拔地而起的「宗堡」（如廷布的札西秋宗、全不丹最美麗的普那卡宗）。這些厚重梯形石牆、白漆紅頂的龐大建築物，一側是文官辦公室，另一側则是大經堂，將世俗權力與神聖信仰完美鎔鑄於一體。\n\n不丹的傳統工藝分為十三類（佐利切三），包括精湛的木雕、唐卡畫與手織布。每逢「策秋」節，全村男女老少都會穿上壓箱底的華麗手織服飾前往宗堡，觀看僧侶透過高難度的跳躍舞蹈演繹蓮花生大士降妖伏魔的神話故事。國術射箭則是男子漢的社交核心，射中 145 公尺外的微型靶心時，同隊隊員會圍成一圈載歌載舞，展現特有的高山幽默。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Mitigating severe long-term fiscal vulnerabilities caused by massive youth labor migration",
+          "Balancing the urgent need for economic diversification against the strict mandates of GNH",
+          "Addressing the critical environmental threat of GLOFs (Glacial Lake Outburst Floods)",
+          "Resolving long-standing, delicate sovereign border delineations along northern crests"
+        ],
+        "text": "Bhutan's unique development path faces evolving challenges. Climate change poses an immediate risk as Himalayan glaciers melt rapidly, forming volatile glacial lakes that threaten to flood lower river valleys. Economically, the country must diversify its income streams beyond hydropower sales to avoid rising public debt. The state is addressing these issues through regional development projects like the Gelephu Mindfulness City, while maintaining active border talks to secure its territorial sovereignty."
+      },
+      "zh": {
+        "list": [
+          "國內高端就業職缺匱乏引發大規模勞動力流失，造成公務體系與專業技術人才斷層",
+          "經濟多元化進展緩慢，過度依賴印度單一市場，亟需引入外資以舒緩公共債務壓力",
+          "全球氣候變遷導致喜馬拉雅冰川急速融化，面臨嚴峻的「冰川湖潰決洪水」（GLOFF）安全威脅",
+          "北部與中國的未定邊界談判進入關鍵實質階段，需在高深地緣政治夾縫中確保領土主權"
+        ],
+        "text": "不丹正處於現代化轉型的十字路口。最迫切的現實危機是冰川融化：喜馬拉雅山區的多個冰川湖因氣溫上升隨時面臨潰堤風險，一旦爆發，將摧毀下游昂貴的水電站和多座歷史宗堡，不丹政府正協同國際專家展開艱難的高山人工排險。\n\n在經濟與地緣上，不丹長期與中國未建立正式外交關係，兩國針對北部邊境（如白玉地區、洞朗地區）進行了長達數十年的邊界談判。如何在不觸動傳統盟友印度敏感神經的前提下，完成中不邊界勘定並全面融入國際多邊貿易，考驗著現任新政府的外交智慧。而格萊富特區的成敗，則是不丹能否挽留年輕高階人才、避免經濟邊緣化的關鍵賭注。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Paro Taktsang (Tiger's Nest) — The sacred cliffside monastery complex defying gravity at 3,100 meters",
+          "Punakha Dzong — The historical winter palace located at the scenic confluence of two major rivers",
+          "Dochula Pass — A panoramic mountain gap adorned with 108 memorial chortens facing the snow peaks",
+          "Buddha Dordenma — A massive 52-meter gilded bronze Shakyamuni Buddha overlooking Thimphu valley"
+        ],
+        "text": "Bhutan's physical landmarks are deeply integrated into its natural mountain scenery. Paro Taktsang remains the ultimate spiritual icon, built directly onto a sheer cliff face where Padmasambhava is said to have meditated. Punakha Dzong showcases advanced timber framing at the junction of the Pho Chhu and Mo Chhu rivers, while the giant Buddha Dordenma stands as a modern monument visible across the capital valley."
+      },
+      "zh": {
+        "list": [
+          "帕羅虎穴寺（Paro Taktsang）—— 凌空嵌於 900 公尺高懸崖峭壁之上的絕壁聖地，不丹的精神圖騰",
+          "普那卡宗（Punakha Dzong）—— 坐落於「父河」與「母河」交匯處的宗堡，被公認為不丹最精美的木構宮殿",
+          "多雄拉埡口（Dochula Pass）—— 海拔 3,140 公尺的高山通道，建有 108 座紀念佛塔，可遠眺喜馬拉雅雪山主脊",
+          "廷布金剛座釋迦牟尼大佛（Buddha Dordenma）—— 高達 52 公尺的巨型鍍金青銅大佛，矗立於山頭俯瞰整座首都谷地"
+        ],
+        "text": "不丹的地標完美詮釋了宗教熱忱如何戰勝險惡地理。前往「虎穴寺」需要徒步穿過茂密的松樹林與懸崖棧道，這座始建於 1692 年的古寺曾遭遇火災又奇蹟般重建，其凌空欲飛的姿態是全球攝影界與佛教徒心中的朝聖終點。\n\n「普那卡宗」是不丹舊都與王室的發祥地，每到春天，兩側河畔的藍花楹盛開，紫藍色花瓣映襯著宗堡潔白的石牆與暗紅色的木窗，美不勝收。而廷布山頂的巨大金剛座大佛，內部其實藏有十萬尊小型佛像，是由兩岸三地及各國信徒共同捐資興建的現代地標，展現了不丹走向國際佛教中心的新姿態。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "Maintains a uniquely exclusive, deeply cooperative strategic relationship with the Republic of India",
+          "Does not host formal diplomatic embassies with any permanent members of the UN Security Council",
+          "Engaged in direct, active bilateral border delineation negotiations with the People's Republic of China",
+          "Participates as a values-driven member within SAARC and global climate change diplomatic arenas"
+        ],
+        "text": "Bhutan pursues a unique, low-profile foreign policy focused on protecting its sovereign independence. Under a revised 2007 treaty with New Delhi, Bhutan exercises independent control over its foreign affairs while continuing to coordinate with India on critical defense and trade issues. The kingdom has established formal relations with only around 54 nations, choosing to conduct its international diplomacy primarily through its UN missions in New York, Geneva, and its embassies in New Delhi, Kuwait, and Bangkok."
+      },
+      "zh": {
+        "list": [
+          "與印度建有特殊的「全方位戰略夥伴關係」，印度是不丹最大的援助國、貿易國與防務協防者",
+          "外交方針極其獨特，至今未與聯合國安理會五大常任理事國（美、中、俄、英、法）建立正式外交關係",
+          "與中國維持直接高層邊界談判管道，雙方互設貿易考察與邊境勘界工作小組，積極推動建交進程",
+          "作為南亞區域合作聯盟（SAARC）成員，在聯合國氣候變遷峰會上以「全人類生態良心」自居，發揮道德影響力"
+        ],
+        "text": "不丹的外交史是一部精妙的微型主權維護史。歷史上，不丹的外交曾受英國及後來的印度「指導」。2007年，旺楚克國王與印度重新簽署《印不友好條約》，刪除了「接受印度指導」的條款，確立了不丹完整獨立的主權地位。然而，印度至今仍在不丹駐紮有軍事軍事訓練團（IMTRAT），並全額資助不丹邊境公路的修建。\n\n不丹對國際建交極其挑剔，拒絕讓大國在其境內進行地緣博弈，因此其首都僅設有印度、孟加拉與科威特的實體大使館。近年來，不丹顯著加快了獨立外交步伐，與中方就領土爭議進行了多次實質性突破談判，力求在不破壞印不傳統信任的基礎上，儘快與北京解決邊界問題，實現地緣戰略的真正軟著陸。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Bilateral contacts are restricted to private tourism, cultural research, and Buddhist groups",
+          "Taiwanese travelers are subject to standard international Sustainable Development Fee (SDF) rules",
+          "Consular and official visa logistics are cross-managed via the Taipei Economic and Cultural Center in India",
+          "Collaborations exist through independent Himalayan medical assistance and academic exchange channels"
+        ],
+        "text": "Taiwan and Bhutan do not maintain official diplomatic ties. Unofficial contacts are driven by Taiwanese Buddhist pilgrims traveling to Bhutanese sacred sites, along with non-governmental organizations supporting remote medical clinics and education initiatives in eastern Bhutan. Visa and general consular services for Taiwanese citizens are handled through Taiwan's representative office in New Delhi."
+      },
+      "zh": {
+        "list": [
+          "雙邊無官方官方關係，交流完全侷限於民間佛教朝聖、高端生態旅遊與非政府組織人道援助",
+          "台灣遊客赴不丹同樣適用「永續發展費」（SDF）規定，多透過台不兩地民間旅行社對接安排",
+          "相關領事、公證與簽證事務，目前由台灣「駐印度台北經濟文化辦事處（新德里）」跨境兼轄",
+          "兩地在藏醫藥研究、喜馬拉雅山區生態考察及偏鄉兒童物資援助上，維持零星但溫馨的互動"
+        ],
+        "text": "不丹與台灣之間雖然地緣遙遠且無官方往來，但在民間卻因「佛教朝聖」和「尋找幸福」的熱潮而建立起一條獨特的精神紐帶。台灣許多藏傳佛教信徒長期護持不丹竹巴噶舉派的活佛與寺廟，每年皆有固定比例的朝聖團前往巴羅與廷布進行禪修。\n\n在經貿上，雙邊規模微乎其微，僅有少量的喜馬拉雅手工藝品、高山蜂蜜、有機茶葉與手織布進口至台灣。不丹對台灣護照持有者實行電子簽證制，需透過不丹政府授權的旅行社申辦並足額支付每晚 100 美元的永續發展費。台灣一些非政府醫療組織（如牙醫義診團）過去曾多次深入不丹東部偏遠山區進行義務醫療服務，為雙邊民間留下了良好的情誼與口碑。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "The pristine sovereign cradle of Drukpa Vajrayana Buddhism in the high Himalayas",
+          "Preserves Paro Taktsang, an architectural and spiritual marvel built onto a sheer mountain cliff",
+          "Operates under the singular philosophy of Gross National Happiness, placing ecology and culture first",
+          "A rare, legally certified carbon-negative nation maintaining an extensive untouched forest canopy",
+          "Embarking on the visionary Gelephu Mindfulness City project to engineer a sustainable high-tech future"
+        ],
+        "text": "Bhutan gracefully synthesizes ancient spiritual identity with forward-looking carbon economics, standing as a tranquil, geostrategically neutral sanctuary protecting its cultural heritage within the modern global landscape."
+      },
+      "zh": {
+        "list": [
+          "喜馬拉雅高山地帶大乘密宗佛教的最後主權淨土，其獨特地貌與文化與世隔絕",
+          "完美守護著神聖巍峨的帕羅虎穴寺，將古老信仰以近乎神蹟的絕壁建築形式留存於世",
+          "全球「國民幸福總值」（GNH）的唯一實踐王國，向世界證明了經濟非衡量文明的唯一指標",
+          "舉世公認的環保淨土，透過嚴格立法成為全球極少數實質達成碳負排放的主權國家",
+          "啟動史詩般的「格萊富正念之城」世紀特區，力圖在全球數位經濟浪潮中守護靈魂並完成突圍"
+        ],
+        "text": "不丹王國是一個將千年的神話信仰、嚴苛的生態執念，以及新時代生存危機感極其精妙地融合在一起的傳奇國度。它在夾縫般的地理位置上，拒絕了大眾觀光帶來的快錢，死守著高山森林與宗教傳統，卻又在民主化與數位轉型的道路上展現出驚人的決斷力。隨著「正念之城」綠色自由港的全面奠基與中不邊界談判的深入，這片被雷龍守護的雪域王國，正試圖向全人類展示一條既不拋棄古老靈魂、又能傲然立足於現代科技叢林的獨特生存之道。"
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": {
+        "en": "Bhutanese ngultrum (BTN / Nu.) & Indian rupee (INR / ₹) strictly par-pegged and mutually circulated",
+        "zh": "不丹努爾特魯姆（BTN / 貨幣符號為 Nu.）與 印度盧比（INR / ₹）實行 1:1 固定匯率，在不丹境內皆可直接流通使用"
+      }
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "Dzongkha (Official national language), English is universally used as the primary medium of instruction in schools and state institutions",
+        "zh": "宗卡語（Dzongkha / 官方與國語，屬漢藏語系）；英語是不丹教育系統的法定教學語言，公務員、導遊及都市居民皆能流利使用英文溝通"
+      }
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary constitutional monarchy with a democratic two-party legislature"
+    },
+    {
+      "label": "Time zone",
+      "value": "UTC+6 (Bhutan Time - BTT)"
+    },
+    {
+      "label": "Calling code",
+      "value": "+975"
+    },
+    {
+      "label": "ISO code",
+      "value": "BT / BTN"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🏔️",
+      "text": {
+        "en": "Eastern Himalayan Sanctuary — Dramatic vertical relief maps scaling from pristine arctic massifs to dense sub-tropical valley tracks",
+        "zh": "喜馬拉雅高山屏障—— 劇烈的垂直海拔落差，北部橫亙著終年積雪的未登神山，南部則陡降為水系密布的亞熱帶河谷平原"
+      }
+    },
+    {
+      "icon": "🧘",
+      "text": {
+        "en": "Gross National Happiness Framework — A world-renowned alternative governance metric anchoring economic policy to ecological, mental, and cultural preservation",
+        "zh": "國民幸福總值（GNH）—— 舉世聞名的治國理念，將心理健康、文化保存、環境保護與良政善治置於國內生產毛額（GDP）之上"
+      }
+    },
+    {
+      "icon": "🛕",
+      "text": {
+        "en": "Paro Taktsang Cliffside Marvel — Defying human engineering at 3,100 meters, standing as the supreme spiritual temple icon of the kingdom",
+        "zh": "帕羅虎穴寺（Taktsang）—— 凌空建於 900 公尺高垂直懸崖上的古老佛寺，相傳為蓮花生大士冥修之地，是不丹無可替代的精神象徵"
+      }
+    },
+    {
+      "icon": "🌲",
+      "text": {
+        "en": "Verified Carbon-Negative Economy — Championing global climate metrics through mandatory forest acts and highly controlled clean run-of-the-river power assets",
+        "zh": "全球唯一碳負排放國—— 透過憲法死守大面積原始森林，全境吸收的二氧化碳遠多於其排放量，配合零污染川流式水力發電，打造綠色奇蹟"
+      }
+    },
+    {
+      "icon": "🏰",
+      "text": {
+        "en": "Dzong Fortress Architecture — Monumental whitewashed stone and timber complexes that seamlessly unify administrative courts with active monastic order houses",
+        "zh": "宏偉宗堡石砌工藝—— 遍布各谷地的大型中世紀防禦城堡，外牆厚實巍峨，內部雕樑畫棟，完美融和了地方政府辦公廳與佛教僧團經堂"
+      }
+    }
+  ],
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=88.7%2C26.7%2C92.1%2C28.2&layer=mapnik",
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/184629"
+}

@@ -1,0 +1,356 @@
+{
+  "name": {
+    "en": "Croatia",
+    "zh": "克羅埃西亞（Croatia）"
+  },
+  "nativeName": "Hrvatska",
+  "capital": {
+    "en": "Zagreb",
+    "zh": "札格瑞布（Zagreb）"
+  },
+  "population": "3.9M",
+  "area": "56,594 km²",
+  "density": "69/km²",
+  "continent": "Europe",
+  "flagEmoji": "🇭🇷",
+  "dataEstYear": 2026,
+  "description": {
+    "en": "Croatia is a country in Southeastern Europe on the western side of the Balkans. It faces the Adriatic Sea to the west and borders Slovenia and Hungary to the north and Serbia to the east. With a long, island-dotted coastline and well-preserved medieval cities, Croatia has become one of Europe’s most popular travel destinations. Zagreb is the political, economic, and cultural center, while coastal cities such as Dubrovnik and Split anchor Adriatic tourism.",
+    "zh": "Croatia（克羅埃西亞，正式國名為克羅埃西亞共和國）是位於東南歐巴爾幹半島西部的現代化主權國家。其西臨湛藍無瑕的亞得里亞海（Adriatic Sea），北接斯洛維尼亞與匈牙利，東鄰塞爾維亞，東南端則與波士尼亞與赫塞哥維納及蒙特內哥羅緊密接壤。克羅埃西亞坐擁綿延曲折的千島海岸線、紅瓦白牆的中世紀絕美古城與驚艷世人的國家公園，是當今全球旅人心中最嚮往的歐陸頂級度假天堂。首都札格瑞布（Zagreb）為全國政治、經濟與文化交會的核心；整體文化深層融合了中歐宮廷、地中海陽光與巴爾幹半島的多元特色，近年更因無人能及的觀光魅力與史詩級影視文化的全球曝光，國際聲譽與能見度迎來爆發式成長。"
+  },
+  "seoText": {
+    "en": "Explore quick facts about Croatia — population, area, capital city, and a short overview. Discover Dubrovnik and Split, the Dalmatian Coast, Adriatic islands, Plitvice Lakes, and Croatia’s tourism-driven economy.",
+    "zh": "快速掌握克羅埃西亞（Croatia）最新基本資料：包含常住人口數、精緻國土面積、首都札格瑞布（Zagreb）行政中樞與深度國家概述。帶您深度探索君臨城原型杜布羅夫尼克（Dubrovnik）、羅馬遺蹟史普利特（Split）、絕美達爾馬提亞海岸（Dalmatian Coast）、亞得里亞海夢幻島嶼群島漂流，以及十六湖國家公園（Plitvice Lakes）等世界遺產級指標景點與高度蓬勃的觀光型經濟體系。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Located on the western Balkans in Southeastern Europe",
+          "Long Adriatic coastline with many islands",
+          "Famous for medieval cities and tourism",
+          "EU member and part of the euro area"
+        ],
+        "text": "Croatia blends Central European, Mediterranean, and Balkan influences shaped by Roman, Venetian, Austro-Hungarian, and Yugoslav eras. Zagreb anchors inland administration and commerce, while the Adriatic coast drives global visibility through historic ports, beaches, and island travel."
+      },
+      "zh": {
+        "list": [
+          "雄踞東南歐巴爾幹半島西側，扼守地中海與中歐核心腹地的重要戰略門戶",
+          "坐擁上千座明珠島嶼點綴的漫長亞得里亞海（Adriatic Sea）黃金海岸線，具備極佳海洋資源",
+          "以保存極其完好的中世紀石頭古城與世界級喀斯特奇岩水景觀光業名揚天下，軟實力驚人",
+          "已正式成為歐盟（EU）、申根區與歐元區（Eurozone）三位一體的西歐核心集成體系成員"
+        ],
+        "text": "克羅埃西亞（Croatia）是位於東南歐巴爾幹半島西部的國家，西臨亞得里亞海（Adriatic Sea），北接斯洛維尼亞（Slovenia）與匈牙利（Hungary），東鄰塞爾維亞（Serbia）。克羅埃西亞擁有漫長海岸線、眾多島嶼與中世紀古城，是歐洲近年最熱門的旅遊國家之一。\n\n首都札格瑞布（Zagreb）為全國政治、經濟與文化中心。歷史上這裡曾深受羅馬帝國、威尼斯共和國、奧匈帝國與南斯拉夫聯邦的多重洗禮，進而孕育出兼具中歐優雅、地中海悠閒與巴爾幹熱情的獨特文化結構。近年來，隨著頂級地中海郵輪業的興盛以及全球現象級影視作品的推波助瀾，使其在國際觀光舞台上的明星地位與文化影響力大幅飆升。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Southeastern Europe with a strategic Adriatic coastline",
+          "Extensive, indented shoreline with more than a thousand islands",
+          "Terrain spans mountains inland and coastal plains",
+          "Dalmatian coast is a major Mediterranean travel corridor"
+        ],
+        "text": "Croatia’s geography is defined by its Adriatic coast and island chains, alongside rugged inland relief influenced by the Dinaric Alps. Coastal regions host dense clusters of ports and historic tourism cities, while the interior features hills and mountains."
+      },
+      "zh": {
+        "list": [
+          "地處東南歐地緣要衝，坐擁得天獨厚、俯瞰整個亞得里亞海的狹長形飛鏢國土",
+          "海岸線極其曲折且呈高度鋸齒狀（Indented Coastline），沿線錯落著一千多座大小島嶼與天然良港",
+          "地形層次分明，由內陸險峻的喀斯特（Karst）山地逐步過渡到沿海陽光普照的狹長平原",
+          "風景如畫的達爾馬提亞海岸（Dalmatian Coast）是地中海最重要的海上頂級度假與航海廊道"
+        ],
+        "text": "克羅埃西亞（Croatia）國土面積約 5.6 萬平方公里，形狀如同一個優雅的飛鏢，將波黑內陸緊緊包裹。其最具代表性的地理特徵莫過於橫亙全境、超過 1,200 座星羅棋布的亞得里亞海島嶼（其中僅有 50 多個島嶼有人常住）以及無比曲折的岩岸線。險峻的迪納拉山脈（Dinaric Alps）如同一道天然屏障縱貫中西部，造就了內陸發達的喀斯特（石灰岩）地形與無數震撼的溶洞瀑布；而翻過山巒迎面而來的，則是分布著密集歷史古港與度假沙灘的蔚藍沿海地帶，島嶼、海灣與喀斯特峽谷共同構成了其層次豐富的地理面貌。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Mediterranean climate along the coast",
+          "Hot, dry summers on the Adriatic",
+          "Mild, wetter winters near the sea",
+          "More continental conditions inland, with colder winters"
+        ],
+        "text": "Coastal Croatia is warm and well-suited to sea travel and summer tourism, while inland areas experience stronger continental influences and lower winter temperatures, including occasional snowfall."
+      },
+      "zh": {
+        "list": [
+          "沿海地區與亞得里亞海群島受地中海暖流恩賜，呈現典型溫暖和煦的地中海型氣候",
+          "沿海夏日漫長、陽光熾熱且極其乾燥，平均氣溫在 26°C - 30°C 之間，為黃金旅遊旺季",
+          "臨海冬季受到地中海庇護氣候溫和，但降雨機率與降雨量相對較多，偶受布拉風（Bora）侵襲",
+          "內陸腹地與潘諾尼亞平原轉為大陸性氣候，冬季普遍寒冷，高山山區降雪頻繁"
+        ],
+        "text": "克羅埃西亞的氣候因地形差異而呈現雙重面貌。沿海地區與群島深受地中海氣候滋養，夏季平均氣溫溫暖偏熱、天空晴空萬里，是全歐洲享受日光浴、揚帆出海與從事海洋各項休閒活動的天堂，每年盛夏皆能吸引百萬計的歐洲遊客南下度假。相反地，越過山脈往內陸走，氣候便轉向大陸性，四季更加分明，冬季內陸城市與十六湖等高山景區往往會降下銀白積雪，氣溫常降至 0°C 以下，展現截然不同的北國冰封奇景。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Population around 3.9 million",
+          "Continued population decline",
+          "High urbanization",
+          "Notable population aging trend"
+        ],
+        "text": "Population concentrates in Zagreb and major coastal cities. Low birth rates and outbound migration have contributed to population decline. Croatian is the official language and Catholicism remains the majority religion."
+      },
+      "zh": {
+        "list": [
+          "全國總人口約 390 萬人，屬於結構精實、文化凝聚力極強的中小型中歐國家",
+          "長期受低出生率與歐盟一體化後勞動力外流交織影響，面臨人口總數縮減的結構性挑戰",
+          "現代化都市化程度高，核心常住人口與主要產業皆向首都及三大沿海門戶都會圈聚攏",
+          "高齡化社會趨勢日益顯著，社會福利、養老體系與勞動結構轉型迫在眉睫"
+        ],
+        "text": "克羅埃西亞（Croatia）的人口主要集中於首都札格瑞布（Zagreb）以及如史普利特、里耶卡等核心沿海大城。根據官方最新人口統計，境內民族組成相當單一且高度凝聚：主體民族克羅埃西亞人（Croats）佔絕大多數的 91.6%，其次為塞爾維亞族（Serbs）佔 3.2%。克羅埃西亞語（Croatian）為唯一官方語言，採用拉丁字母，其語調與巴爾幹鄰國相通卻保有鮮明的本土特徵。宗教方面，絕大多數國民皆是虔誠的天主教徒（Catholicism，約佔 79%），這項深刻的信仰歷史讓克羅埃西亞在文化認同上，始終與西歐與中歐的傳統天主教世界保持著牢不可破的深厚維繫。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "Tourism is the core economic engine",
+          "Service sector dominates the economy",
+          "Shipbuilding and food industries remain important",
+          "Euro area membership supports deeper market integration"
+        ],
+        "text": "Croatia’s economy is strongly tourism-driven, with the Adriatic coast attracting large seasonal inflows and foreign currency earnings. Beyond tourism, industries such as shipbuilding, food processing, energy, and a growing IT sector continue to develop."
+      },
+      "zh": {
+        "list": [
+          "觀光與頂級旅遊服務業為國家毫無疑問的首席經濟與外匯引擎，貢獻近 20% 的 GDP",
+          "經濟結構極度向第三產業傾斜，高端服務業產值與就業人口比重居各產業之冠",
+          "歷史悠久的造船工業、高精密機械、醫藥研發與食品加工業依舊維持其傳統工業實力",
+          "全面加入歐元區與申根區，邊境管制與匯率風險歸零，與全歐盟市場無縫深度整合"
+        ],
+        "text": "克羅埃西亞的經濟具有極為強烈的「海洋與觀光」印記。無可匹敵的亞得里亞海天然資源，使旅遊業及其周邊餐飲、飯店、遊艇租賃業成為支撐國家 GDP 的最核心支柱，每年夏天帶來的驚人觀光外匯是國家財政的黃金泉源。然而，為了避免經濟過度單一化，政府近年也極力扶持高端科技研發（如世界頂尖頂級電動超跑龍頭 Rimac Automobili 便誕生於此）、資訊技術服務與傳統高產值的造船業。尤其在正式啟用歐元（Euro）並加入申根區後，邊境管制的解除與貨幣的統一，使國際資本流入大增，與歐洲單一市場的經謀整合程度已達到歷史新高。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Parliamentary republic",
+          "Member of the European Union",
+          "Member of NATO",
+          "Established local administrative system"
+        ],
+        "text": "Croatia declared independence from Yugoslavia in 1991 and has since built democratic institutions and a market economy. It joined the EU in 2013 and continues to deepen integration within Europe’s political and economic frameworks."
+      },
+      "zh": {
+        "list": [
+          "採行議會民主共和制政體，由國會多數黨領袖出任總理總攬國家最高行政實權",
+          "自 2013 年起成為歐盟（European Union）在西巴爾幹及東南歐地區的核心成員國",
+          "北約（NATO）防務體系重要盟邦，共同肩負地中海與東南歐區域穩定與集體防禦重任",
+          "行政區劃制度嚴謹高效，全國共劃分為 20 個縣（Counties）以及首都札格瑞布直轄市"
+        ],
+        "text": "克羅埃西亞（Croatia）於 1991 年歷經艱苦的獨立戰爭後脫離南斯拉夫聯邦，隨即以鋼鐵般的決心推動全方位的民主化體制改革與自由市場經濟轉型。國家政體以議會民主制為基礎，總理領導的內閣負責掌管國家每日的行政與經濟走向，總統則為國家元首兼三軍統帥，負責涉外禮儀與部分國防戰略。自加入歐盟以來，克羅埃西亞一步步完成了申根與歐元的最後一塊拼圖，如今已是西方民主世界與大西洋安全防線體系中不可或缺的中堅政經力量。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Slower lifestyle pace compared with some Western European hubs",
+          "Tourism cities can be costly in peak season",
+          "Broad access to healthcare and education",
+          "Relatively stable public safety"
+        ],
+        "text": "Quality of life is relatively strong within the Balkans. Coastal regions are especially attractive for scenery and environment, while Zagreb and top tourist destinations have seen rising housing and living costs driven by tourism growth."
+      },
+      "zh": {
+        "list": [
+          "崇尚享受當下、重視家庭、熱愛陽光與咖啡時光的慢步調地中海式（Fjaka）現代生活哲學",
+          "熱門石頭古城與海港度假區在夏日旺季期間的物價與房價顯著飆升，呈現高度季節性特徵",
+          "擁有高覆蓋率的全民公共醫療保障體系（HZZO）與優質的免費公立基礎與高等教育",
+          "社會秩序井然，槍支管制嚴格，整體犯罪率極低，是全歐公認治安名列前茅的安心國家"
+        ],
+        "text": "克羅埃西亞的整體社會福祉與生活品質在整個巴爾幹與東歐大區皆處於最頂尖的領先梯隊。當地居民極其注重工作與生活的平衡，在沿海地區，點一杯咖啡在海濱大道（Riva）上悠閒地曬太陽聊天數個小時，是根深蒂固的日常景象。得益於嚴格的槍枝管制與良好的警政體系，無論是首都還是偏遠小島，夜間治安皆令人十分放心。不過，近年隨著大批西方富豪湧入置產與觀光爆發，杜布羅夫尼克與史普利特等熱門一線城市的房地產與消費成本急遽上揚，也對當地年輕世代的居住正義與本土人口留存帶來了一定的壓力。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "Blend of Central European and Mediterranean culture",
+          "Strong football culture and international visibility",
+          "Coastal historic towns are well preserved",
+          "Film and TV exposure boosts tourism"
+        ],
+        "text": "Croatian culture reflects long historical contact with Roman, Venetian, and Austro-Hungarian influences. Football is a defining national sport, and Dubrovnik gained additional global attention as a major filming location for Game of Thrones."
+      },
+      "zh": {
+        "list": [
+          "完美交融了威尼斯水都的浪漫、奧匈帝國的古典宮廷遺風與巴爾幹的豪邁民俗",
+          "狂熱且實力恐怖的足球文化，格紋軍團（Vatreni）在國際體壇屢創世界級傳奇奇蹟",
+          "石頭建築與威尼斯文藝復興式古城保存堪稱完美，名列多項聯合國教科文組織世界文化遺產",
+          "世紀美劇《權力遊戲》選為君臨城御用拍攝主景，成功締造全球影視觀光（Film Tourism）熱潮"
+        ],
+        "text": "克羅埃西亞（Croatia）的文化是一幅層次極其豐富的斑斕畫卷。沿海城鎮的石雕、紅瓦與義式燉飯折射出千年的地中海威尼斯印記，而內陸札格瑞布的咖啡館與音樂廳則洋溢著維也納式的古典宮廷氣息。在體育界，克羅埃西亞紅白格子球衣就是「不屈鬥志」的代名詞，這個人口不滿四百萬的國家曾數次奪得世界盃足球賽亞軍與季軍，凝聚了無比強大的舉國民族自豪感。此外，古城杜布羅夫尼克（Dubrovnik）那巍峨的海上城牆因為被神劇《權力遊戲》選為帝國首都「君臨城（King's Landing）」的真實現實取景地，更使得這份魔幻古典文化深深烙印在全世界數億影迷腦海中。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Outmigration and population aging",
+          "Overreliance on tourism and seasonality risk",
+          "Housing affordability pressures in hotspots",
+          "Uneven regional development"
+        ],
+        "text": "Croatia continues to face demographic decline as young workers move abroad, while heavy reliance on tourism can expose the economy to global shocks and seasonal volatility."
+      },
+      "zh": {
+        "list": [
+          "優秀年輕專業菁英大量移居西歐發達大國造成的「腦力流失（Brain Drain）」與少子高齡化危機",
+          "國家經濟結構過度單一地依賴觀光產業，面臨高度的季節性就業波動與經濟抗風險能力脆弱性",
+          "海外熱錢與度假買盤大量湧入，導致沿海精華地段與主要都市中心房價及租金暴漲，排擠本地青年",
+          "繁華發達的沿海海島都會區，與落後內陸農業區、歷史前戰區之間的基礎建設與人均所得差距日益擴大"
+        ],
+        "text": "儘管觀光業交出漂亮成績單，克羅埃西亞（Croatia）內部仍有不少結構性隱憂。自從加入歐盟、邊界全開後，大量高素質的工程、醫療等年輕人才受西歐高薪吸引而集體外流，加劇了國內的高齡化與勞動力缺口。此外，經濟對旅遊業的超高依賴（約佔 GDP 的兩成），意味著一旦遭遇如地緣政治大震盪或經濟衰退等國際突發黑天鵝事件，整體財政將面臨劇烈衝擊；如何將盛夏幾個月的「季節性暴利」成功轉化為全年平穩發展的多元化產業，並縮小沿海與落後內陸腹地之間的嚴重貧富鴻溝，是歷屆內閣最頭痛的施政難題。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Zagreb — capital and administrative-cultural center",
+          "Dubrovnik — UNESCO-listed walled harbor city",
+          "Split — key Dalmatian coastal city",
+          "Plitvice Lakes National Park — iconic natural attraction"
+        ],
+        "text": "Dubrovnik is famed for its well-preserved city walls, while Plitvice Lakes National Park is one of Croatia’s most recognizable natural landmarks with cascading lakes and waterfalls."
+      },
+      "zh": {
+        "list": [
+          "札格瑞布（Zagreb）—— 充滿濃厚奧匈宮廷遺風、聖馬爾谷教堂馬賽克屋頂傲立的優雅人文內陸首都",
+          "杜布羅夫尼克（Dubrovnik）—— 驚艷世界的「亞得里亞海珍珠」，雄偉防禦性千年海上石頭城牆老城",
+          "史普利特（Split）—— 達爾馬提亞心臟，直接在古羅馬戴克里先皇帝皇宮（Diocletian's Palace）遺蹟內繁衍至今的活古城",
+          "普利特維采湖群國家公園（Plitvice Lakes）—— 舉世聞名的「十六湖」，宛如精靈遺落人間的石灰華階梯翡翠瀑布群"
+        ],
+        "text": "杜布羅夫尼克（Dubrovnik）憑藉其環繞整座老城、氣勢磅礴的宏偉中世紀防禦城牆與腳下湛藍透徹的海水，穩坐克羅埃西亞最具國際代表性的歷史名片。而位於中部的普利特維采湖群國家公園（Plitvice Lakes National Park，台灣民間俗稱十六湖國家公園），則以其獨特的喀斯特石灰岩地貌、十六座因礦物質含量不同而呈現蒂芬妮綠、寶石藍與翡翠色的絕美高山湖泊，配合無數條在青苔木棧道旁奔騰盤旋的懸泉飛瀑，被公認為全歐洲最不可思議、一生必訪的頂級生態自然奇蹟。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "EU member state",
+          "NATO member",
+          "Important Balkan regional country",
+          "Actively promotes tourism diplomacy"
+        ],
+        "text": "Croatia has strengthened cooperation with major European partners in economics and security, while leveraging tourism and cultural visibility to raise its international profile. Its position between the Balkans and the Mediterranean adds strategic significance."
+      },
+      "zh": {
+        "list": [
+          "身為歐盟正式成員國，在推動西巴爾幹其他鄰國（如波黑、塞爾維亞）融入歐洲一體化進程中扮演關鍵要角",
+          "北約組織（NATO）的忠實防務盟友，積極參與地中海、黑海與東歐地區的集體安全維護與聯合軍事演習",
+          "憑藉優越的地緣政治交界位置，成為連接歐陸腹地經濟圈與地中海海洋藍調的重要戰略與物流紐帶",
+          "高度靈活開展「觀光、文創與體育外交」，以足球強國與度假勝地形象成功重塑並極大提升了國家國際名聲"
+        ],
+        "text": "克羅埃西亞（Croatia）近年在國際政治舞臺上的戰略地位與話語權隨著其完美融入歐盟主流架構而大為提升。除了與德、法等歐陸傳統大國在經濟與申根防務上保持高度一體化的步調外，其地處地中海與巴爾幹半島交界的特殊地理區位，更使其成為維護巴爾幹區域和平、反恐與控制移民潮的前線關鍵防哨。政府更是極其擅長運用世界盃足球賽的巨大熱潮與世界級電影節進行軟實力外交，成功將克羅埃西亞從早年的戰火陰霾中徹底蛻變，重新包裝為現代、安全、時尚的頂級國際化模範國家。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Limited scale of bilateral exchanges",
+          "Growing tourism and cultural awareness",
+          "Gradual expansion of education ties",
+          "A notable node within Europe’s summer travel market"
+        ],
+        "text": "Croatia and Taiwan maintain non-official exchanges. In recent years, tourism and film/TV exposure have increased recognition among Taiwanese travelers."
+      },
+      "zh": {
+        "list": [
+          "雙邊雖無正式邦交，但民間商務往來與精密儀器、電子零組件等精緻貿易交流始終維持穩定、友好的基礎",
+          "台灣旅克觀光與蜜月人數近年呈現爆發式井噴，十六湖國家公園與杜布羅夫尼克成為國人遊歐的夢幻新寵",
+          "兩國在高等教育、科技研發領域的學術姊妹校締結、互訪計畫以及交換學生名額正在逐步穩定成長擴大",
+          "在台灣歐洲高端精緻旅遊市場中佔據著不可替代的指標性比重，雙邊人民跨越地理藩籬的文化好感度極高"
+        ],
+        "text": "克羅埃西亞與台灣目前透過互設的相關非官方渠道與歐盟整體架構，維持著非常務實、健康的經濟與民間往來。在經貿層面，雙方在電子零組件、高精密儀器與食品貿易上具有穩定的互補合作潛力。更引人矚目的是民間旅遊文化的熱潮——近年來，隨著台灣各大旅行社與數位自助旅行社群的強力推薦，克羅埃西亞那如人間仙境般的十六湖國家公園與充滿歷史厚度的大理石古城，已徹底俘獲了無數台灣新婚夫妻蜜月與高階背包客的心，雙方人民透過鏡頭與足跡，正在不斷編織出更緊密的跨國情誼。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "Adriatic tourism country with a signature coastline",
+          "More than a thousand islands and islets",
+          "Internationally visible football nation",
+          "Game of Thrones filming locations draw visitors",
+          "A top summer holiday destination in Europe"
+        ],
+        "text": "Croatia stands out through its Adriatic landscapes, historic coastal towns, and a modern tourism-centric economy integrated with the EU."
+      },
+      "zh": {
+        "list": [
+          "亞得里亞海（Adriatic Sea）皇冠上最璀璨的觀光寶石，國寶級岩岸與千島風景冠絕歐陸",
+          "坐擁上千座翡翠海島，頂級遊艇島嶼漂流（Island Hopping）文化名噪全球富豪與頂層度假圈",
+          "小國崛起的完美奇蹟典範，憑藉舉世震驚的體育與足球硬實力在國際舞台上大放異彩",
+          "史詩劇作的魔幻與現實交織點，將虛擬的帝國首都化為真真實實、高產值的文化旅遊金礦",
+          "歐洲中產階級與全球名流政要每年夏天毫無懸念、一致首選的頂級陽光親水避暑聖地"
+        ],
+        "text": "從多瑙河流域的優雅巴洛克城鎮、迪納拉山脈下令人屏息的十六湖翡翠瀑布，到亞得里亞海畔那被夕陽染紅的杜布羅夫尼克石頭城牆，以及在綠茵場上不知疲倦奔跑的紅白格狂飆戰士，克羅埃西亞（Croatia）以其精緻的國土面積、波瀾壯闊的歷史轉折與極致的地中海浪漫海藍色調，向世人完美展示出辨識度極致強烈、充滿無盡生命力的中歐與地中海（Mediterranean）完全體面貌。"
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": "歐元（Euro / EUR / €，自 2023 年 1 月 1 日起正式取代舊貨幣庫納 Kuna，使克國金融體系與歐元區核心市場徹底融為一體，完全消除了跨國旅客與投資者的匯率摩擦。全境電子支付體系高度成熟，各大景點、高級餐廳與渡輪碼頭均支持國際信用卡與行動支付）"
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "Croatian",
+        "zh": "克羅埃西亞語（Croatian / Hrvatski，屬於斯拉夫語族南斯拉夫語支，使用拉丁字母拼寫，是聯合國及歐盟的官方工作語言之一。商務、旅遊區與年輕世代中英語普及率極高，基本溝通完全無礙）"
+      }
+    },
+    {
+      "label": "Time zone",
+      "value": {
+        "en": "UTC+1 / UTC+2 (DST)",
+        "zh": "UTC+1 / UTC+2（夏令時間）"
+      }
+    },
+    {
+      "label": "Calling code",
+      "value": "+385"
+    },
+    {
+      "label": "ISO code",
+      "value": "HR / HRV"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🏰",
+      "text": {
+        "en": "Dubrovnik — iconic medieval walled city on the Adriatic coast",
+        "zh": "杜布羅夫尼克（Dubrovnik）—— 驚艷世人的中世紀海上石頭古城，巍然屹立於亞得里亞海（Adriatic Sea）的懸崖峭壁之上，擁有保存完好、全歐最壯麗的古代城牆防禦體系，被譽為「亞得里亞海之珠」與世界文化遺產的巔峰傑作"
+      }
+    },
+    {
+      "icon": "🏖️",
+      "text": {
+        "en": "Adriatic Sea — clear waters, island hopping, and a world-class summer coastline",
+        "zh": "亞得里亞海藍調（Adriatic Sea）—— 擁有全歐洲透明度與純淨度數一數二的絕美玻璃海、溫暖的金色地中海陽光以及上千座明珠般的翡翠島嶼，是全球頂級遊艇度假、海島漂流（Island Hopping）與奢華夏日避暑的終極朝聖海岸"
+      }
+    },
+    {
+      "icon": "⚽",
+      "text": {
+        "en": "Football culture — a World Cup-proven football nation with high global visibility",
+        "zh": "紅白格足球狂熱（Football culture）—— 體壇傳奇的狂熱化身，這個人口不足四百萬的東南歐小國，憑藉鋼鐵般的意志與極高天賦，數次在 FIFA 世界盃足球賽中強勢斬獲亞軍與季軍，以紅白十字格紋戰袍震撼全球，展現極致的民族凝聚力"
+      }
+    },
+    {
+      "icon": "🎬",
+      "text": {
+        "en": "Game of Thrones filming — Dubrovnik is a famous filming city that boosted global tourism",
+        "zh": "《冰與火之歌》實景聖地（Game of Thrones filming）—— 影史神劇《權力遊戲》鐵粉心中無可取代的聖地。老城杜布羅夫尼克被選為劇中核心帝國首都「君臨城（King's Landing）」的本尊取景地，完美的將史詩魔幻與古老歷史交融，成功引領全球現象級影視觀光巨浪"
+      }
+    },
+    {
+      "icon": "⛵",
+      "text": {
+        "en": "Dalmatian Coast — one of Europe’s best-known resort regions for sailing and summer travel",
+        "zh": "達爾馬提亞海岸（Dalmatian Coast）—— 歷史底蘊無比深厚、風光綺麗的地中海明星度假帶。沿線交錯著羅馬皇帝行宮史普利特（Split）、漫長威尼斯風情海濱大道與無數頂級海鮮餐酒館，是歐美上流階層與好萊塢巨星每年夏季秘密揚帆出海的度假首選"
+      }
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/214885",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=13.5%2C42.3%2C19.5%2C46.6&layer=mapnik"
+}

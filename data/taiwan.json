@@ -1,0 +1,358 @@
+{
+  "name": {
+    "en": "Taiwan",
+    "zh": "台灣"
+  },
+  "nativeName": "臺灣",
+  "capital": {
+    "en": "Taipei",
+    "zh": "台北"
+  },
+  "population": "23.4M",
+  "area": "36,197 km²",
+  "density": "646/km²",
+  "continent": "Asia",
+  "flagEmoji": "🇹🇼",
+  "dataEstYear": 2026,
+  "description": {
+    "en": "Taiwan is a highly developed island democracy in the western Pacific off East Asia, positioned at the critical center of the First Island Chain and separated from mainland China by the strategic Taiwan Strait. It features a sophisticated, high-income market economy, a vibrant multi-party constitutional democracy, and an indispensable global technology ecosystem — commanding over 90% of the world's advanced semiconductor manufacturing capacity. Taipei functions as the political, financial, and cultural capital, while the vast majority of the population, state-of-the-art infrastructure, and high-tech industrial parks are concentrated along the island’s highly urbanized western coastal corridor.",
+    "zh": "台灣（Taiwan）是位於東亞西太平洋第一島鏈戰略中樞的民主憲政國家，西隔台灣海峽與中國大陸相望，北鄰東海，南接巴士海峽與南海。台灣擁有高度發達的自由市場經濟、極具包容力的多元政黨政治，以及全球尖端科技產業的戰略心臟地位，特別在 7 奈米以下先進製程半導體與晶圓代工領域具有無可替代的絕對主導權。首都為台北市（Taipei），主要人口、時速 300 公里的高鐵交通動脈與高科技科學園區，皆高度聚焦於發展極致發達的西部都市廊帶。"
+  },
+  "seoText": {
+    "en": "Explore comprehensive geographic, demographic, and macroeconomic facts about Taiwan. Discover updated population density parameters, capital city Tokyo-aligned infrastructure, Taipei 101 engineering, Yushan alpine topography, National Health Insurance data, and Taiwan's pivotal 'Silicon Shield' dominating the global AI and advanced semiconductor supply chain.",
+    "zh": "深入了解台灣（臺灣）的最新基本資料：精確人口普查趨勢、土地面積、高人口密度、首都台北。探索台北101綠建築、護國神山半導體晶圓代工生態系、東北亞最高峰玉山、南北高鐵一日生活圈、全民健保智慧體系，以及台灣在全球地緣政治與人工智慧（AI）硬體供應鏈中的核心關鍵角色。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Strategic democratic island nation anchoring the center of the western Pacific First Island Chain",
+          "The absolute global epicenter for advanced sub-7nm semiconductor and AI chip foundry services",
+          "Highly urbanized, high-income economy showcasing world-class public infrastructure and safety",
+          "One of Asia's most progressive and transparent democracies, celebrating human rights and civil liberties"
+        ],
+        "text": "Taiwan stands as a critical geopolitical and technological linchpin in East Asia, leveraging its strategic maritime location and unparalleled hardware engineering capacity to anchor international digital supply chains. While its western plains host interconnected megacities and dense science parks, the central and eastern regions feature breathtaking alpine topography, creating a fascinating synthesis between cutting-edge technology and rich ecological and indigenous cultural conservation."
+      },
+      "zh": {
+        "list": [
+          "位處西太平洋第一島鏈核心、掌控地緣戰略與海運咽喉的關鍵民主國家",
+          "全球高階半導體晶圓代工與人工智慧（AI）硬體供應鏈的絕對核心發動機",
+          "高度城市化、高國民所得、治安極佳且公共基礎設施完善的已開發經濟體",
+          "亞洲自由度名列前茅的成熟民主憲政社會，高度捍衛新聞自由與多元人權價值"
+        ],
+        "text": "台灣位於東亞西太平洋的樞紐位置，不僅是國際海運與空運的要道，更是現代全球資通訊產業、超級電腦與人工智慧革命實質上的「護國神山」。台灣內部政治實施主權在民的民主憲政制度，社會風氣開放包容，法治高度透明。\n\n全國約 90% 的人口與主要經貿活動皆高度聚焦於西部沿海平原，而中東部則由雄偉的中央山脈縱貫，使這座美麗島嶼在展現驚人科技實力的同時，也保有豐富的垂直自然生態與南島語族原民地景。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Positioned strategically south of Japan's Ryukyu Islands and north of the Philippine archipelago",
+          "Extremely rugged alpine topography with five major mountain ranges covering two-thirds of the island",
+          "The narrow Western Coastal Plain hosts over 90% of the country's total population and industrial clusters",
+          "Situated on the active collision boundary of two tectonic plates, experiencing frequent seismic events"
+        ],
+        "text": "Encompassing an area of approximately 36,197 square kilometers, Taiwan exhibits dramatic geographic relief, ascending rapidly from sea level to nearly 4,000 meters within a brief lateral distance. The Central Mountain Range forms the island's spine, serving as a natural climatic barrier that dictates precipitation and watershed patterns. This steep terrain pushes urban development and industrial facilities to optimize spatial efficiency within tight lowland boundaries."
+      },
+      "zh": {
+        "list": [
+          "北鄰日本沖繩縣，南隔巴士海峽與菲律賓相望，西距中國大陸最近處僅約 130 公里",
+          "高山與丘陵遍布全境，中央、玉山、雪山、阿里山、海岸五大山脈占總面積的三分之二",
+          "超過九成人口與核心都市圈密聚於狹窄的西部平原，土地開發率與都市化程度極高",
+          "坐落於歐亞板塊與菲律賓海板塊的活躍交界帶，屬於環太平洋火山地震帶的重要節點"
+        ],
+        "text": "台灣國土面積約 3.6 萬平方公里，呈現狹長紡錘形，地形起伏極其劇烈。主要山脈由北至南縱貫全島，擁有超過 260 座海拔 3,000 公尺以上的高山（俗稱百岳），垂直景觀跨度極大。\n\n受限於地理屏障，絕大多數的都會區、高速鐵路與半導體聚落皆沿著西部平原平展。由於地殼板塊運動活躍，頻繁的地震活動一方面催生了多樣的斷層地貌與溫泉資源，另一方面也促使台灣建立了領先全球的建築抗震標準與嚴密的國土防災應變機制。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Bisected by the Tropic of Cancer, dividing the island into subtropical and tropical climate zones",
+          "Characterized by prolonged, hot, humid summers and generally mild, brief winter seasons",
+          "The East Asian Monsoon system heavily governs seasonal wind variations and regional precipitation",
+          "Regularly impacted by powerful Pacific typhoons, which dictate seasonal water supply dynamics"
+        ],
+        "text": "Taiwan receives abundant rainfall, averaging over 2,500 mm annually, though water distribution remains highly uneven across seasons and regions. The mountainous interior gives rise to complex vertical microclimates, ranging from alpine tundra near the summits to lush tropical rainforests in the lowlands. Typhoons migrating from the Pacific act as a vital source of fresh water to fill major reservoirs while posing persistent engineering and infrastructure challenges."
+      },
+      "zh": {
+        "list": [
+          "北回歸線橫跨嘉義與花蓮，使島嶼兼具北部的亞熱帶季風氣候與南部的熱帶季風氣候",
+          "夏季漫長、潮濕且炎熱（常態超過 33°C），冬季溫和，中南部秋冬受阻山地形乾旱晴朗",
+          "深受東亞季風支配，冬季東北季風為北部帶來陰雨，夏季西南季風則常引發中南部午後雷陣雨",
+          "夏秋兩季（7 月至 10 月）常面臨太平洋颱風侵襲，為主要降雨來源但也伴隨土石流風險"
+        ],
+        "text": "台灣整體氣候高溫多濕，年平均降雨量高達 2,500 毫米以上，是全球平均值的三倍。北部與東部四季變化較為明顯，冬季常受大陸冷氣團與東北季風雙重影響而呈現低溫細雨；南部則呈現明顯的乾濕季，冬季溫暖如春。\n\n巨大的落差地形孕育出極富層次感的生態體系。雖然颱風侵襲常帶來豪雨與洪澇等考驗，但颱風帶來的降水也是台灣各大水庫賴以維持精密半導體製程高耗水需求與民生精準用水的核心源泉。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Total population stabilizes at approximately 23.4 million residents as of 2026 data updates",
+          "Maintains one of the highest national population densities globally, exceeding 646 people/km²",
+          "Multicultural mosaic composed of Han groups (Hoklo, Hakka, Mainlander) and 16 recognized Austronesian Indigenous nations",
+          "Confronting a severe structural demographic squeeze caused by an ultra-low fertility rate"
+        ],
+        "text": "The demographic profile of Taiwan is highly urbanized, with over 80% of the population residing in interconnected metropolitan areas, notably the 'Six Special Municipalities'. While traditionally shaped by historical Han migrations and deep Austronesian roots, contemporary Taiwanese society is increasingly enriched by new immigrants and foreign professionals, particularly from Southeast Asia. However, mitigating the economic strain of a rapidly aging workforce remains a top policy objective."
+      },
+      "zh": {
+        "list": [
+          "2026 年最新統計全國總人口常態維持在 2,340 萬人上下，人口總量已進入緩慢負成長階段",
+          "每平方公里超過 646 人，扣除山地後，西部平原實質人口密度高居世界大國前列",
+          "由閩南（約70%）、客家（約15%）、外省裔漢族（約10%）以及 16 個官方認定的原住民族（約2.5%）構成",
+          "總和生育率長年全球墊底，導致國家結構面臨嚴峻的少子化與即將到來的「超高齡社會」挑戰"
+        ],
+        "text": "台灣是一個典型的高密度、高度都市化社會，絕大數人口集中在台北、新北、桃園、台中、台南、高雄六大直轄市。族群結構主要由不同歷史時期移入的漢族，以及擁有悠久歷史、屬於南島語系（Austronesian）的台灣原住民族所組成。台灣原住民被國際人類學界視為南島語族擴散的起源聖地。\n\n近年來，隨著東南亞移工、技術人才與婚姻新住民（主要來自越南、印尼、菲律賓）移入，新住民人口已突破 60 萬，使台灣文化更趨多元。然而，台灣正面臨嚴峻的少子化危機，高齡化速度極快，65歲以上人口比例預計在近年突破 20%，這對勞動力市場、長期照顧（長照 3.0）制度與國家年金財政帶來了巨大的轉型壓力。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "Advanced, export-driven market economy generating consistent structural trade surpluses",
+          "The undisputed global market leader in advanced logic chips and foundry manufacturing",
+          "TSMC anchors a hyper-dense 'Silicon Shield' ecosystem of design, fabrication, and testing packaging",
+          "Driven by a dynamic business landscape pairing corporate tech titans with highly flexible SMEs"
+        ],
+        "text": "Taiwan's economic weight is vastly disproportionate to its size, serving as the primary hardware engine for the global digital economy and the artificial intelligence (AI) revolution. Anchored by the Hsinchu Science Park, Central Taiwan Science Park, and Southern Taiwan Science Park, the country hosts an unbroken supply chain. Beyond semiconductors, Taiwan maintains global leadership in ICT products, electronics components, petrochemical packaging, precision machine tools, and premium bicycle manufacturing."
+      },
+      "zh": {
+        "list": [
+          "高度發達的出口導向型自由市場經濟，外匯存底高居世界前列，長年維持鉅額貿易順差",
+          "全球半導體晶圓代工（市佔超60%）與全球最尖端製程（市佔超90%）的絕對壟斷與主導者",
+          "以台積電（TSMC）、聯發科、日月光為核心，建構出全球唯一一體化、最高效的半導體產業群聚",
+          "具備極高彈性的資通訊中小企業與上下游垂直分工，構成對抗國際經濟景氣波動的堅實韌性"
+        ],
+        "text": "台灣名列全球前三大高科技硬體生產國，是現代全球資訊、雲端運算與人工智慧（AI）革命的實質硬體發動機。以新竹科學園區（HSP）為龍頭，延伸至中部與南部科學園區，台灣建立了一條從小晶片IC設計、晶圓製造到後段封裝測試（ASE）一體化的完整「矽島」生態系，台積電更被譽為台灣的「護國神山」。\n\n除了半導體外，台灣在資通訊產品（如伺服器、伺服器代工佔全球九成以上）、電子零組件、精密機械、功能性紡織、石化重工業及自行車製造（如捷安特）等領域亦享有國際領先地位。其經濟表現與國際科技轉型、半導體景氣循環及地緣政治供應鏈重組高度連動。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Sovereign democratic republic operating under a constitutional semi-presidential political framework",
+          "Head of State is the directly elected President; Head of Government is the appointed Premier",
+          "Multi-party political landscape shaped by fierce, highly transparent and regular popular elections",
+          "Central government structured into five constitutional branches based on traditional separation of powers"
+        ],
+        "text": "Taiwan's modern democracy was forged through a remarkably peaceful transition away from authoritarian martial law in the late 20th century. Today, it ranks as a leading beacon of democratic governance in Asia, characterized by robust constitutional protections for free speech, press freedom, religious tolerance, and gender equality, supported by an independent judiciary and highly competitive local self-government."
+      },
+      "zh": {
+        "list": [
+          "主權在民的自由民主憲政國家，中央政體採行兼具總統制與內閣制特徵的半總統制",
+          "國家元首為每四年公民直接選舉的總統；行政首長為總統直接任命、對立法院負責的行政院長",
+          "朝野政黨（主要為民進黨、國民黨、民眾黨）競爭激烈，定期舉行高透明度、全民動員的中央與地方大選",
+          "中央政府架構依據中華民國憲法增修條文，區分為行政、立法、司法、考試、監察等五院體制"
+        ],
+        "text": "台灣在20世紀末經歷了被國際讚譽為「寧靜革命」的和平民主化轉型，從早期的戒嚴體制演進為如今亞洲最成熟、最自由的民主政體之一。國家最高領導人（總統）及最高立法機關（立法委員）皆由全體公民直接選舉產生，並已常態性經歷了多次和平的政黨輪替。\n\n台灣政治與社會法治高度重視基本人權、言論自由與公民參與。在各項國際民主與新聞自由評比中，台灣長年穩居亞洲第一或前列。此外，台灣亦是亞洲第一個通過同性婚姻合法化的國家，展現了極高的社會進步價值與包容度。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "World-renowned National Health Insurance (NHI) offering high-efficiency, single-payer coverage",
+          "Exceptionally safe urban spaces with near-zero violent crime and high solo-travel safety metrics",
+          "Hyper-dense convenience store networks fully integrated into modern logistical and digital banking setups",
+          "Iconic night market food landscapes function as essential civic spaces and social centers"
+        ],
+        "text": "Social life in Taiwan seamlessly blends deep-rooted traditional values with an accelerated digital lifestyle. Public transport systems, including the ultra-clean Taipei and Kaohsiung MRT lines and the island-spanning High-Speed Rail, ensure massive social mobility. A shared cultural appreciation for street gastronomy, traditional temple festivities, and civic volunteerism fosters a warm, polite, and uniquely welcoming civic culture."
+      },
+      "zh": {
+        "list": [
+          "實施享譽全球的「全民健康保險」（NHI），以單一費率實現低成本、高覆蓋、高滿意度的醫療奇蹟",
+          "社會治安極其優異，夜間獨自出行安全度極高，常年被國際知名數據網站評為全球最安全國家前三名",
+          "全球密度最高的便利商店文化（7-11、全家等），兼具全島物流、費用代收、購票與數位支付等萬能機能",
+          "充滿活力的夜市美食文化與傳統宮廟信仰圈，深度融入大眾民俗、休閒社交與在地社區生活"
+        ],
+        "text": "台灣社會兼具傳統東方儒家家族價值與西方的現代公民社會意識。最引以為傲的「全民健保」以極高的覆蓋率與高度數位化的IC卡系統，成為世界各國爭相研究的醫療典範，確保了國民不因病而貧。\n\n西部發達的大眾運輸系統（如大台北捷運、台中捷運、高雄捷運與台灣高鐵）極為整潔、準點且禁止飲食，建構了西部一小時半的「一日生活圈」。不論是都市內街頭巷尾隨處可見的24小時便利超商，還是遍布各地的溫馨夜市，都交織出一個極具人情味、高科技便利且安全的社會生活樣貌。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "A rich, layered cultural tapestry synthesis of Austronesian, Han, Japanese, and Western modernism",
+          "Major cultural exporter of Mandopop, pioneering cinematic classics, and contemporary digital media",
+          "Highly tolerant religious ecosystem where Taoism, Buddhism, Christianity, and folk cults co-exist harmoniously",
+          "Globally celebrated food culture extending from legendary night market snacks to Michelin-starred dining"
+        ],
+        "text": "Taiwanese cultural identity places a premium on both classical preservation and vibrant hybridity. Traditional Chinese characters remain the official standard writing system, preserving classical literacy, while contemporary indigenous art revivals, monumental localized folk festivals (such as the sprawling Mazu pilgrimages), and world-class performing arts centers thrive dynamically side-by-side."
+      },
+      "zh": {
+        "list": [
+          "融合南島語族原民文化、華夏閩客傳統、半世紀日治遺風及美歐全球化思潮的多元主體文化",
+          "華語流行音樂（Mandopop）、獨立樂團、金馬獎電影與新世代數位內容創作的亞洲繁衍重鎮",
+          "宗教信仰高度自由，民間信仰（如大規模的媽祖遶境、王爺信仰）、佛道教與天主教、基督教和諧共存",
+          "精緻博大的飲食傳統與地方庶民小吃兼備，茶藝功夫茶文化與精緻手沖咖啡產業發展極其蓬勃"
+        ],
+        "text": "台灣文化呈現出獨特的「歷史層積」與「海島包容」特徵。台灣是全球少數完整保留正體中文（繁體字）書寫與印刷傳統的國家，深植了中華古典文學底蘊，同時又深耕了長達數百年的在地大和、閩南語與客家認同。\n\n從享譽國際的雲門舞集、朱宗慶打擊樂團，到遍布全台的宮廟廟會節慶（如平溪天燈、鹽水蜂炮），都顯現出台灣文化既前衛又草根的驚人生命力。這種多元文化的交融，使台灣培育出如珍珠奶茶、小籠包等成功征服全球味蕾的文化標誌。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Severe structural crisis induced by an aging society, declining school enrollments, and worker shortages",
+          "Elevated urban real estate price-to-income ratios paired with stagnant entry-level wages for youth",
+          "Intense social debates over the domestic energy mix, phase-out of nuclear power, and grid resilience",
+          "Persistent geopolitical gray-zone military pressure and international status isolation within the Taiwan Strait"
+        ],
+        "text": "Taiwan continuously balances sustaining its energy-intensive high-tech industries with mitigating localized supply and national security risks. Addressing urban housing inflation, solving the immediate workforce contraction, and navigating constant diplomatic blockade attempts by neighboring superpower actors present ongoing systemic regulatory and societal challenges."
+      },
+      "zh": {
+        "list": [
+          "少子化引發的學齡人口驟減（大專院校退場潮）、基層勞動力斷層以及國防兵源結構性挑戰",
+          "核心都會區房價所得比居高不下、年輕世代薪資調幅追趕房價吃力，造成青年階層生活壓力",
+          "「非核家園」政策下，再生能源進度、碳中和路徑與高耗能半導體擴產之間的供電穩定度爭議",
+          "台海地緣政治長期處於國際衝突焦點，面臨不對稱國防安全防務需求與常態化灰色地帶施壓"
+        ],
+        "text": "台灣在享受半導體科技紅利的同時，內部正迎面撞上嚴峻的結構性巨浪。主要都會區居高不下的房價與生活成本令許多年輕一代延遲婚育，進一步加劇了少子化與高齡化。隨著台積電 2 奈米、A16 等更先進製程在竹科、科、南科持續擴產，國家如何在減碳目標下，確保高耗電科技業與民生用電無虞、提升電網韌性，是當前經濟政策的火線焦點。\n\n在國際地緣政治上，台海的和平穩定被視為全球安全紅線與航運命脈，台灣必須在複雜的國際現實、不對稱防衛戰略（堡壘台灣）與維持台海現狀中尋求極其精準的動態平衡。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Taipei City — The bustling political, financial, and trend-setting national metropolis",
+          "Kaohsiung City — Major southwestern deepwater maritime cargo port and cultural harbor front hub",
+          "Taichung City — The central manufacturing engine, precision machinery nucleus, and logistics hub",
+          "Taipei 101 — The world-famous engineering marvel and architectural icon of green urban design"
+        ],
+        "text": "While Taipei 101 dominates the northern urban skyline, Taiwan's geographic and cultural landmarks offer astonishing contrast. They span historic cultural treasures like the National Palace Museum, spectacular geologic formations like Taroko Gorge, the serenity of Sun Moon Lake, and modern tech monoliths like the Southern Taiwan Science Park in Tainan."
+      },
+      "zh": {
+        "list": [
+          "台北市（Taipei）—— 全國政治、金融、外交、文教與國際時尚的核心，以信義商圈與西門町聞名",
+          "高雄市（Kaohsiung）—— 全球重要貨櫃深水港口，南部重工業基地轉型為駁二、亞灣的海洋文創中心",
+          "台中市（Taichung）—— 台灣中部精密機械與光學產業重鎮，市容現代化且具備強大的南北交通樞紐功能",
+          "台北101（Taipei 101）—— 曾為世界第一高樓、結合抗震阻尼器與傳統巨竹美學的現代化綠建築地標"
+        ],
+        "text": "台灣的城鄉與自然地標極具強烈對比美。首都台北市擁有匯集無數華夏文物的國立故宮博物院；台南市作為台灣歷史起點，以赤崁樓、安平古堡等四百年古蹟與極致庶民美食享譽全台；高雄市近年則成功由鋼鐵重工業城市轉型為充滿文創風情與高流音樂海灣的現代港都。\n\n在自然景觀方面，除了東北亞第一高峰玉山（海拔 3,952 公尺），名震國際的太魯閣大理石峽谷、日月潭湖光山色、阿里山森林鐵路與祝山日出，以及墾丁的熱帶風情，都是這座「美麗島（Formosa）」的代表性視覺象徵。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "Indispensable pillar of world high-tech economic infrastructure and global maritime navigation safety",
+          "Maintains deep, institutionalized, non-official strategic diplomatic alliances with Western democracies",
+          "Critical operational gatekeeper for maintaining a Free and Open Indo-Pacific maritime security zone",
+          "Sustains unique official diplomatic exclusion while demonstrating exceptionally high practical global connectivity"
+        ],
+        "text": "Taiwan's complex diplomatic status contrasts sharply with its profound global importance. As the primary source of advanced microchips and the controller of the Taiwan Strait shipping lanes, Taipei partners closely with democratic powers like the United States (anchored by the Taiwan Relations Act), Japan, and European Union members on technology supply security, anti-disinformation frameworks, and collective democratic defense."
+      },
+      "zh": {
+        "list": [
+          "全球高科技硬體與半導體供應鏈安全密不可分的戰略節點，實質牽動世界經貿命脈",
+          "與美國、日本、歐洲等主要民主陣營國家維持著極為緊密、高層級的實質非官方戰略夥伴關係",
+          "地處第一島鏈最前沿，是防範威權擴張、維持「自由開放印太地區（FOIP）」安全秩序的關鍵基石",
+          "外交處境獨特，雖在聯合國（UN）等官方組織受限，但實質經貿、半導體外交與民間外交實力極為雄厚"
+        ],
+        "text": "台灣的國際地位在世界上具有絕無僅有的獨特性。儘管在國際上面臨長期的政治打壓與官方組織參與限制，台灣卻憑藉著無可替代的晶圓代工實力與掌控台海航道（全球近半貨櫃輪行經海域）的地理優勢，成為地緣政治中不容忽視的實質強權。\n\n台灣與美國（依據《台灣關係法》與六項保證）、日本及歐洲多國建立了深厚的全方位安全與經貿連結。在確保科技供應鏈去風險（De-risking）、反制網路假訊息攻擊、守護民主價值防線以及印太區域安全維持上，均扮演著核心且不可或缺的戰略盟友角色。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "The domestic framework combines ultimate technical prowess with profound social equity",
+          "Forms an unbroken global industrial linkage transferring precision silicon design to active production",
+          "Boasts exceptional public safety metrics and an incredibly polite, welcoming civic culture",
+          "Exhibits deep structural pride in its democratic evolution, social welfare safeguards, and cultural syncretism"
+        ],
+        "text": "Taiwan represents an extraordinary modern synthesis, proving that a compact island nation can leverage technological brilliance and democratic transparency to carve out an irreplaceable position on the world stage."
+      },
+      "zh": {
+        "list": [
+          "掌控全球超過九成最頂尖人工智慧（AI）晶片與高效能運算（HPC）晶片的先進製造產能",
+          "長年獲評為亞洲人權指標最高、婚姻平權與政治自由度最健全的進步民主典範國家之一",
+          "名列世界頂級美食與友善島嶼，珍珠奶茶、小籠包、鳳梨酥等飲食文化成功輸出全球",
+          "擁有傲人的國土垂直地貌，能在兩小時車程內由超現代科技園區切換至三千公尺高山森林",
+          "透過領先全球的高效健保IC卡智慧系統，實現全民平價且高科技的醫療平權"
+        ],
+        "text": "台灣是一座將最尖端的矽晶圓科技與最溫暖的庶民生活完美融合的島嶼。它在小巧的國土範圍內展現了驚人的經濟爆發力、文化包容力與政治韌性，在當代世界政治與科技版圖中占據不可動搖的關鍵席位。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "Global epicenter of high-tech manufacturing running the planet's premium AI clusters",
+          "Consistently ranked as Asia's top liberal democracy for human rights and press freedoms",
+          "Famed world-wide for localized culinary innovations like bubble tea and night market snacks",
+          "Offers a breathtaking transition from dense chip science parks to alpine peaks in under two hours",
+          "Maintains universal public health equity through a modern, hyper-efficient digital single-payer medical framework"
+        ],
+        "text": "Taiwan successfully merges the supreme efficiency of a global tech superpower with a warm, resilient, and pluralistic civil society, ensuring this island nation punches far above its weight globally."
+      },
+      "zh": {
+        "list": [
+          "全球半導體製程的超級心臟，以「矽盾」之姿維繫著全球現代科技與人工智慧產業的運轉",
+          "歷經威權統治的和平轉型，如今成為亞洲最具活力的民主堡壘與進步價值的重要風向球",
+          "融合了深厚的東方華夏根基、悠久的原民靈魂與長期的海洋文化，形塑出高度包容的台灣主體認同",
+          "擁有世界級的「全民健保」與極致發達的西部高鐵一日生活圈，建構出高效且安居樂業的社會基礎",
+          "在地緣政治的风暴中心展現出驚人的戰略韌性，以科技實力與民主價值贏得全球民主陣營的尊重"
+        ],
+        "text": "台灣是一座將冷冰冰的微奈米矽晶圓技術與熱騰騰的庶民人情味完美交織的傳奇島嶼。它在極度受限的國際地緣政治夾縫中，憑藉著「職人硬體製造」的極致工藝與對自由民主的血淚堅持，硬是為自己拼搏出世界科技版圖與民主陣營中不可或缺的棋手地位。面對少子化與強權 gray-zone 施壓的雙重慢性挑戰，這座島嶼上的國民依然以一種特有的樂觀、靈活與自律，運轉著精準至秒的高鐵與晶圓廠。台灣不僅僅是一個地理名詞或科技重鎮，更是一個證明了「自由與繁榮可以並存」的亞洲奇蹟，持續在全球地緣經貿的惊濤駭浪中，閃耀著獨一無二的矽島光芒。"
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": "New Taiwan Dollar (TWD / NT$)"
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "Mandarin Chinese (Official standard), Taiwanese Hokkien, Hakka, and Indigenous languages fully legislated as National Languages",
+        "zh": "國語/現代標準漢語（官方通行書寫正體字），台灣台語、台灣客語、原住民族語及馬祖話等依法列為國家語言"
+      }
+    },
+    {
+      "label": "GDP (nom.)",
+      "value": "$800B+"
+    },
+    {
+      "label": "Time zone",
+      "value": "UTC+8 (National Standard Time / No daylight saving time)"
+    },
+    {
+      "label": "Calling code",
+      "value": "+886"
+    },
+    {
+      "label": "ISO code",
+      "value": "TW / TWN"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🧋",
+      "text": {
+        "en": "Bubble milk tea — Taiwan's legendary local culinary invention that ignited a multi-billion dollar worldwide beverage sensation",
+        "zh": "珍珠奶茶（Bubble Tea）—— 發源於台灣台中與台南、成功輸出並風靡全球的當代傳奇茶飲文化代名詞"
+      }
+    },
+    {
+      "icon": "💻",
+      "text": {
+        "en": "The Silicon Shield — Producing over 60% of world semiconductors and 90% of advanced logic chips, serving as the geopolitical anchor for digital security",
+        "zh": "護國神山半導體 —— 掌控全球過半晶圓代工與九成以上最頂尖製程，構築起攸關全球經濟與科技命脈的「矽盾」聚落"
+      }
+    },
+    {
+      "icon": "🏔️",
+      "text": {
+        "en": "Yushan (Mt. Jade) — The breathtaking 3,952-meter alpine peak forming the highest majestic summit in all of Northeast Asia",
+        "zh": "玉山主峰（Yushan）—— 海拔 3,952 公尺的東北亞第一高峰，不僅是島嶼的地理頂點，更象徵著台灣人堅韌不拔的精神圖騰"
+      }
+    },
+    {
+      "icon": "外",
+      "text": {
+        "en": "Taipei 101 — The structural engineering marvel and eco-skyscraper embodying Taiwan's rapid modernization, technical ascent, and typhoon resilience",
+        "zh": "台北101（Taipei 101）—— 曾為世界最高樓、兼具抗震巨型阻尼器與傳統竹節節節高升美學的國際化綠建築地標"
+      }
+    },
+    {
+      "icon": "🚄",
+      "text": {
+        "en": "Taiwan High-Speed Rail — The precision transit artery that bullet-connects Taipei to Kaohsiung in 90 minutes, forging a seamless western corridor lifestyle",
+        "zh": "台灣高鐵（THSR）—— 最高時速達 300 公里的高速軌道動脈，將南北縱貫線壓縮至 90 分鐘內，徹底實現西部「一日生活圈」"
+      }
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/449220",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=119.3%2C21.8%2C122.1%2C25.4&layer=mapnik"
+}

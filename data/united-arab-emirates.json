@@ -1,0 +1,353 @@
+{
+  "name": {
+    "en": "United Arab Emirates",
+    "zh": "阿拉伯聯合大公國"
+  },
+  "nativeName": "دولة الإمارات العربية المتحدة",
+  "capital": {
+    "en": "Abu Dhabi",
+    "zh": "阿布達比"
+  },
+  "population": "9.5M",
+  "area": "83,600 km²",
+  "density": "114/km²",
+  "continent": "Asia",
+  "flagEmoji": "🇦🇪",
+  "dataEstYear": 2025,
+  "description": {
+    "en": "The United Arab Emirates (UAE) is a sovereign federation located in the southeast of the Arabian Peninsula in the Middle East, bordering the Persian Gulf to the north, and bordering Saudi Arabia and Oman. Renowned for its immense petroleum wealth, ultra-modern urban planning, and status as a dominant global financial and maritime logistics hub, the UAE is one of the most internationalized and economically diversified countries in the Middle East.",
+    "zh": "United Arab Emirates（阿拉伯聯合大公國，簡稱阿聯酋/UAE）是位於中東阿拉伯半島東南部的聯邦制主權國家，北臨波斯灣，與沙烏地阿拉伯（Saudi Arabia）及阿曼（Oman）接壤。該國以驚人的石油財富、超現代的都市規劃建設，以及作為全球頂尖金融與航運物流樞紐的地位聞名於世，是中東地區最具國際化、經濟多元化發展最成功的典範國家之一。"
+  },
+  "seoText": {
+    "en": "Explore quick facts about the UAE — population, land area, capital city, and a short overview. Learn about Burj Khalifa towers, Sheikh Zayed Mosque, Palm Jumeirah engineering, Bedouin desert hospitality, and Dubai finance hubs.",
+    "zh": "快速了解阿拉伯聯合大公國（阿聯酋）的基本資料：人口、面積、首都與簡短概述。探索哈里發塔奇蹟、謝赫扎耶德大清真寺、棕櫚島人工島工程、貝都因人沙漠好客文化以及杜拜國際金融中心。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Sovereign federation situated in the southeastern corner of the Arabian Peninsula",
+          "Stretches along the critical maritime coastline of the Persian Gulf",
+          "Pioneered a highly successful transition from oil to a highly diversified economy",
+          "Boasts world-famous futuristic megacities and iconic skyscraper landmarks"
+        ],
+        "text": "Comprising seven autonomous emirates, the UAE has achieved a breathtaking pace of development. Abu Dhabi holds the vast majority of the federation's oil reserves, while Dubai has successfully positioned itself as a global logistics hub, aviation node, and architectural playground.\n\nFrom historic desert trading routes to launching Mars space probes, the UAE is a key player in international energy markets, global logistics, and forward-looking economic zones."
+      },
+      "zh": {
+        "list": [
+          "位於阿拉伯半島東南部的聯邦制國家",
+          "北臨波斯灣的重要海灣國家",
+          "以石油經濟起家並成功轉型多元產業",
+          "擁有全球知名超現代城市與地標建築"
+        ],
+        "text": "阿聯酋由七個擁有高度自治權的酋長國聯合組成，包含杜拜（Dubai）、阿布達比（Abu Dhabi）、沙迦（Sharjah）等。其中，阿布達比為聯邦首都與全權政治中心，手握全國絕大多數的石油儲備；而杜拜則憑藉卓越的遠見，成功轉型為全球頂尖的商業、航空樞紐與觀光奇蹟之城。從歷史上的荒漠貿易商道，到如今成功發射火星探測器，阿聯酋已在國際能源市場、全球現代物流供應鏈及前瞻性經濟特區發展中，扮演著舉足輕重的關鍵角色。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Vast coastal plains merging into deep interior sands",
+          "Dry desert topography covering the vast majority of the territory",
+          "Extended shorelines along the Persian Gulf and Gulf of Oman",
+          "Extremely urbanized nodes relying heavily on ocean desalination"
+        ],
+        "text": "Spanning approximately 83,600 square kilometers, the UAE's landscape is overwhelmingly defined by the flat, arid sands of the Arabian Desert. Highly modernized coastal centers like Abu Dhabi and Dubai concentrate the bulk of the population.\n\nThe eastern border rises into the rugged Hajar Mountains, while the west transitions into massive sand dunes and salt flats (sabkhas). Due to extremely limited natural freshwater resources, the country operates some of the world's most advanced desalination systems to sustain its growing cities."
+      },
+      "zh": {
+        "list": [
+          "沙漠與沿海平原並存",
+          "國土以沙漠地形為主",
+          "擁有波斯灣與阿曼灣海岸線",
+          "綠洲與人工城市高度集中"
+        ],
+        "text": "阿拉伯聯合大公國國土面積約 83,600 平方公里，全境絕大部分被平坦、乾燥的阿拉伯大沙漠（Arabian Desert）所覆蓋。高度現代化的沿海都會中心如阿布達比與杜拜，集聚了全國絕大多數的人口。其東部邊界崛起為險峻的哈賈爾山脈（Hajar Mountains），西部則向無垠的巨型沙丘與鹽沼地（Sabkhas）延伸。由於境內天然淡水資源極度匱乏，該國斥巨資建造並營運著多座世界上最先進的海水淡化系統，以源源不絕地滋養其蓬勃發展的未來感城市。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Classic hot desert climate with extremely intense sunshine",
+          "Summers are exceptionally hot, dry, and highly humid along coasts",
+          "Winters offer remarkably pleasant, mild, and comfortable weather",
+          "Highly scarce and irregular rainfall patterns throughout the year"
+        ],
+        "text": "The UAE features a classic hot desert climate. Summer temperatures regularly exceed 45°C, accompanied by intense humidity in coastal cities. \n\nConversely, the winter months (November to March) are exceptionally pleasant and mild, marking the peak tourist season. Rainfall is scarce, occurring in short winter bursts, which profoundly influences city cooling designs and energy consumption."
+      },
+      "zh": {
+        "list": [
+          "典型熱帶沙漠氣候",
+          "夏季極度炎熱乾燥",
+          "冬季溫和舒適",
+          "降雨稀少且不穩定"
+        ],
+        "text": "阿聯酋屬於典型的熱帶沙漠氣候（Desert Climate），全年皆有極為強烈的陽光普照。夏季（5月至9月）氣溫極度炎熱，經常輕鬆突破 45°C，且沿海城市會伴隨極高的空氣濕度，體感較為悶熱；相反地，冬季月份（約11月至隔年3月）則顯得格外溫和舒適、涼爽宜人，是舉世聞名的旅遊觀光與戶外活動旺季。全國年降雨量極為稀少且分布不均，通常僅在冬季以短暫暴雨形式出現，這項氣候特徵也深深影響了該國城市的建築隔熱設計、空調冷卻工程與能源消耗規劃。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Vibrant population of roughly 10 million residents",
+          "Expatriates and international workers make up the vast majority",
+          "Extremely high urbanization rates in major metropolitan areas",
+          "Highly concentrated demographic hubs along the Persian Gulf coast"
+        ],
+        "text": "The UAE has a highly unique demographic profile of roughly 10 million residents, where native Emirati citizens represent a small minority of the population. Expatriates and global professionals from India, Pakistan, the Philippines, Egypt, and Western nations compose nearly 90% of the workforce.\n\nThis diverse population is highly concentrated in the coastal cities of Dubai and Abu Dhabi. Arabic is the official language, but English is the undisputed lingua franca in commerce, education, and daily life."
+      },
+      "zh": {
+        "list": [
+          "人口約 1000 萬左右（外籍人口占多數）",
+          "高度依賴移民勞動力",
+          "城市化程度極高",
+          "人口集中於沿海城市"
+        ],
+        "text": "阿聯酋擁有約 1,000 萬常住居民，其人口結構在全球獨一無二。**土生土長的阿聯酋本國公民（Emirati）僅佔總人口的約 11.5%**，屬於絕對少數；而高達 **88.5% 的常住人口與勞動力皆由來自世界各地的外籍移工與跨國專業人才組成**。在族群比例上，南亞裔（South Asian）為最大主體，佔總人口的 59.4%（其中印度裔佔 38.2%、巴基斯坦裔佔 9.4%、孟加拉裔佔 9.5%）；其次為菲律賓與伊朗等其他亞洲裔（約占 12.1%）；來自埃及、約旦等地的其他阿拉伯裔（Egyptian/Arab）約佔 10.2%；歐美西方裔（Westerners）及其他地區移民則約佔 6.8%。這些多元人口高度集中在沿海的杜拜（Dubai）與阿布達比（Abu Dhabi）。官方語言為阿拉伯語，但英語已成為商業、金融、高等教育與日常生活中毫無爭議的通用語（Lingua franca）。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "Major global exporter of petroleum and natural gas reserves",
+          "Highly aggressive diversification into international finance and tourism",
+          "Dubai serves as a premier global commerce and logistics crossroads",
+          "Fastest transition towards a highly advanced knowledge-based economy"
+        ],
+        "text": "Historically powered by Abu Dhabi's immense offshore oil reserves, the UAE has executed a remarkably successful 'post-oil' economic diversification strategy. \n\nDubai stands as the leading commercial gateway, boasting world-class aviation nodes (Emirates Airline), free trade zones, and thriving tourism infrastructure. The UAE is also heavily investing in artificial intelligence, biotechnology, aerospace, and solar energy complexes."
+      },
+      "zh": {
+        "list": [
+          "全球重要石油與天然氣出口國",
+          "積極發展金融與觀光產業",
+          "杜拜為全球商業與物流中心",
+          "經濟多元化轉型快速"
+        ],
+        "text": "歷史上，阿聯酋的經濟命脈由阿布達比豐厚雄厚的近海石油與天然氣儲備所驅動，至今仍是全球能源市場的核心決策者。然而，該國極具前瞻性地執行了「後石油經濟」轉型戰略。杜拜（Dubai）如今已躍升為全球頂尖的商業與航運物流交匯門戶，坐擁世界級的航空體系（阿聯酋航空，Emirates Airline）、高度開放的自由貿易區以及發達的奢侈觀光產業。此外，阿聯酋正傾全國之力大舉投資人工智慧、生物技術、航太科學（含火星探測）與巨型太陽能發電廠，加速邁向高附加價值的知識型經濟體。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Federal elective monarchy system composing seven sovereign emirates",
+          "Individual emirates retain significant autonomous administrative authority",
+          "Capital Abu Dhabi serves as the ultimate federal political center",
+          "President is traditionally elected from the ruling Abu Dhabi dynasty"
+        ],
+        "text": "The UAE is a constitutional federation of seven hereditary monarchies (emirates), governed by the Federal Supreme Council. The ruler of Abu Dhabi serves as the President of the federation, while the ruler of Dubai traditionally serves as the Vice President and Prime Minister.\n\nWhile the federal government handles national defense, foreign policy, and federal courts, each emirate retains considerable autonomy over local resource allocation and commercial laws."
+      },
+      "zh": {
+        "list": [
+          "聯邦制酋長國",
+          "由七個酋長國組成",
+          "阿布達比為首都與政治核心",
+          "總統由阿布達比酋長擔任"
+        ],
+        "text": "阿聯酋是由七個世襲酋長國組成的君主立憲制聯邦，國家的最高權力機構為「聯邦最高委員會」。依照傳統慣例，政治實力最強的阿布達比（Abu Dhabi）統治者世襲擔任聯邦總統，而杜拜（Dubai）統治者則世襲擔任聯邦副總統兼總理。雖然聯邦政府統一掌管外交、國防與聯邦司法權，但各個酋長國在地方財政、土地資源分配、地方稅收以及商業法規（如設立自由貿易區）上，仍各自保留了極大程度的法律與行政自治權。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Exceptional standard of living supported by world-class infrastructure",
+          "Large expatriate demographic creates a highly cosmopolitan lifestyle",
+          "Futuristic cities offer ultra-modern amenities and shopping",
+          "Social values remain deeply rooted in traditional Islamic laws"
+        ],
+        "text": "UAE cities like Dubai and Abu Dhabi provide a spectacular, high-income lifestyle characterized by pristine public safety, world-class housing, mega malls, and efficient transport. \n\nHowever, the societal fabric is deeply guided by Islamic customs. Public modesty and legal frameworks remain conservative, creating a unique synthesis of ancient Bedouin hospitality and ultra-modern global luxury."
+      },
+      "zh": {
+        "list": [
+          "生活水準極高",
+          "外籍人口比例高",
+          "城市基礎建設現代化",
+          "文化多元但保守性仍存在"
+        ],
+        "text": "阿聯酋的旗艦城市杜拜與阿布達比為居民提供了極其優渥且富裕的高收入生活水準，其特徵包括近乎零犯罪率的頂級公共安全、奢華的現代住宅、鋪天蓋地的頂級購物中心以及高度發達的智慧交通基礎設施。由於外籍專業人口龐大，這裡呈現極為國際化、多元包容的國際大都市生活氛圍。然而，社會的核心法治骨架與核心價值觀依然深深植根於伊斯蘭律法與傳統中，公共場合的行為舉止與部分法律條文仍保持相對保守，形成了古老貝都因人好客款待與超現代全球奢華風尚完美並存的特殊社會經緯。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "Traditional Arab Islamic customs serve as the national foundation",
+          "Unique convergence of historic Bedouin heritage and global pop culture",
+          "Deep reverence for falconry, camel racing, and oral poetry",
+          "World-class exhibitions and museums foster a new cultural nexus"
+        ],
+        "text": "The UAE's core culture is anchored in Islamic traditions and Arab heritage, beautifully visible in grand mosques and hospitality. Historical practices like falconry, camel racing, and dhow sailing are highly celebrated.\n\nAt the same time, massive projects like Louvre Abu Dhabi and global shopping festivals have transformed the country into a dynamic, highly international capital of high arts and global fashion."
+      },
+      "zh": {
+        "list": [
+          "阿拉伯伊斯蘭文化為核心",
+          "傳統與現代高度融合",
+          "全球化城市文化明顯",
+          "重視家族與社會關係"
+        ],
+        "text": "阿聯酋的文化根基緊緊依隨阿拉伯的伊斯蘭傳統，這完美體現在宏偉華麗的清真寺建築與日常生活慷慨遞上的阿拉伯咖啡好客文化中。歷史悠久的遊牧與海權印記——如精準的獵鷹馴育、熱血的駱駝競速以及傳統木桅船（Dhow）的航海技藝，至今仍受到舉國上下的崇高致敬。與此同時，透過羅浮宮阿布達比（Louvre Abu Dhabi）等世界級博物館旗艦計畫，以及各大規模創紀錄的國際購物節，阿聯酋已成功將自己形塑成一個融合全球頂尖當藝術、高級時尚與中東古典文明的跨界文化交流中樞。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Balancing carbon oil reliance with major green energy targets",
+          "Improving protections and labor welfare for the migrant workforce",
+          "Managing ecological pressures under extreme rapid urbanization",
+          "Navigating complex and volatile Middle Eastern geopolitical dynamics"
+        ],
+        "text": "As a major oil producer, the UAE faces significant pressure to meet global net-zero climate goals, leading to major investments in nuclear and solar energy. Domestic agencies continue to implement reforms to improve migrant labor welfare.\n\nAdditionally, rapid urban sprawl places enormous strain on water and marine ecology, while volatile regional conflicts require highly active diplomatic navigation."
+      },
+      "zh": {
+        "list": [
+          "能源轉型與減碳壓力",
+          "外籍勞工權益問題",
+          "快速城市化帶來環境挑戰",
+          "區域地緣政治風險"
+        ],
+        "text": "作為傳統的石油巨頭，阿聯酋正面臨承諾全球淨零碳排氣候目標的巨大轉型考驗，這促使其斥重資提早布局核能發電與世界級的大型太陽能陣列。在社會層面，政府相關機構正持續推動勞工體制改革，以進一步提升龐大底層外籍移工的薪資權益、生活環境與福利保障。此外，極速的都市擴張對極度匱乏的地下水源與波斯灣脆弱的海洋生態造成了沉重的生態壓力，而中東地區錯綜複雜且波譎雲詭的地緣政治局勢，也考驗著阿聯酋高層高超且務實的外交穿梭與調停手腕。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Abu Dhabi — Regal capital famous for Louvre and Sheikh Zayed Mosque",
+          "Dubai — Global commercial hub home to Burj Khalifa and Palm Islands",
+          "Sharjah — Acclaimed national center for history, culture, and arts",
+          "Burj Khalifa — Towering architectural icon standing as the tallest building"
+        ],
+        "text": "Dubai features spectacular wonders like the 828-meter Burj Khalifa, the Palm Jumeirah archipelago, and futuristic museums. \n\nAbu Dhabi presents cultural monuments including the grand Sheikh Zayed Mosque and the spectacular Louvre Abu Dhabi. Sharjah is celebrated as the cultural and academic heartland, preserving rich traditional souks and historical museums."
+      },
+      "zh": {
+        "list": [
+          "Abu Dhabi——首都與政治中心",
+          "Dubai——全球商業與觀光樞紐",
+          "Sharjah——文化與教育中心",
+          "Burj Khalifa——世界最高建築"
+        ],
+        "text": "杜拜（Dubai）以高達 828 公尺、直插雲霄的全球最高建築哈里發塔（Burj Khalifa）、史詩級的填海造陸朱美拉棕櫚島（Palm Jumeirah）人工群島以及眾多前衛的未來博物館名揚世界，象徵著人類現代化建築工程的極致。首都阿布達比（Abu Dhabi）則展現了更為沉穩尊榮的皇家風範，坐擁由純白大理石砌築、雄偉祥和的謝赫扎耶德大清真寺（Sheikh Zayed Mosque）以及劃時代的羅浮宮阿布達比（Louvre Abu Dhabi）跨國文化地標。而第三大城沙迦（Sharjah）則被聯合國公認為中東的文化與學術心臟，完好留存了充滿伊斯蘭古典韻味的傳統蘇克（Souks）市集與深厚的歷史遺產博物館群。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "Leading power inside the influential Gulf Cooperation Council",
+          "Maintains deep strategic, economic, and military bonds with the West",
+          "Prominent international diplomatic mediator in Middle East conflicts",
+          "Crucial decision-maker inside global OPEC oil production markets"
+        ],
+        "text": "The UAE exercises substantial diplomatic influence across the Middle East. It is a leading member of the Gulf Cooperation Council (GCC) and maintains deep security and economic partnerships with the US and Europe.\n\nAdopting a highly pragmatic foreign policy, the UAE has normalized relations with Israel (Abraham Accords) and acts as an active mediator in global trade and maritime corridor security."
+      },
+      "zh": {
+        "list": [
+          "海灣合作委員會成員",
+          "與美國及歐洲關係密切",
+          "中東地區重要外交調停者",
+          "全球能源市場關鍵參與者"
+        ],
+        "text": "阿聯酋在中東及國際地緣政治舞台上發揮著舉足輕重的外交與財政影響力。它是海灣合作委員會（GCC）的核心領導成員，並與美國（United States）及歐洲大國保持著極為深厚的國防安全戰略夥伴關係與緊密的經貿結盟。阿聯酋奉行極其靈活且務實的外交路線，不僅透過簽署《亞伯拉罕協議》（Abraham Accords）正式與以色列實現關係正常化，更積極在區域衝突、全球自由貿易對話與關鍵海運咽喉航道（如荷姆茲海峽）的安全維護中，扮演著深獲各方信任的中立調停者與經濟中介角色。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Robust trade in high-tech electronics, chemicals, and machinery",
+          "Dubai serves as Taiwan's primary shipping gateway to the Middle East",
+          "Expanding tourism travel and academic collaboration programs",
+          "Highly stable non-official commercial and representative communication"
+        ],
+        "text": "Taiwan and the UAE enjoy active and growing commercial links. Dubai acts as a primary shipping gateway and transshipment hub for Taiwanese tech corporations operating in the Middle East and Africa.\n\nBilateral trade is robust, focusing on advanced electronics, precision components, and petrochemicals. The Taiwanese representative office in Dubai actively facilitates economic, cultural, and tourism exchanges."
+      },
+      "zh": {
+        "list": [
+          "經貿與轉運合作密切",
+          "杜拜為重要物流中轉點",
+          "台灣科技產品出口市場之一",
+          "民間與商業交流穩定"
+        ],
+        "text": "阿拉伯聯合大公國與台灣之間長年維繫著非官方但高度穩定且快速擴展的實質經貿與物流轉運夥伴關係。由於杜拜（Dubai）無可匹敵的全球物流與航空中心地位，它已成為台灣電子科技巨頭、半導體與高精密資通訊產品打入中東、非洲及南亞市場最核心的貨運門戶與轉口樞紐。雙方雙邊貿易往來頻繁，台灣常年向阿聯酋採購大量原油與石化衍生原料，並出口先進電子零組件、智慧工具機與自動化設備；我國在杜拜設立的駐杜拜台北商務辦事處，亦積極高效地推動兩國間的商務考察、高端觀光旅遊互訪以及高等教育學術交流。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "Among the wealthiest nations globally with exceptional GDP per capita",
+          "Home to the world's most impressive cluster of futuristic skyscrapers",
+          "Acclaimed worldwide for record-breaking artificial island engineering",
+          "A premier global nexus for international aviation and logistics lines"
+        ]
+      },
+      "zh": {
+        "list": [
+          "全球最富裕國家之一（人均高）",
+          "擁有世界級超高建築群",
+          "沙漠城市與人工島工程聞名",
+          "國際航空與物流樞紐地位突出"
+        ]
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": "UAE Dirham (AED)"
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "Arabic",
+        "zh": "阿拉伯語"
+      }
+    },
+    {
+      "label": "GDP (nom.)",
+      "value": "$500B"
+    },
+    {
+      "label": "Time zone",
+      "value": "UTC+4"
+    },
+    {
+      "label": "Calling code",
+      "value": "+971"
+    },
+    {
+      "label": "ISO code",
+      "value": "AE / ARE"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🇦🇪",
+      "text": {
+        "en": "Pan-Arab Flag — The vibrant red, green, white, and black flag symbolizing Arab unity, national sovereignty, and progressive strength",
+        "zh": "泛阿拉伯聯邦國旗——由紅、綠、白、黑四色構成的泛阿拉伯色彩旗幟，象徵阿拉伯聯邦的團結統一、主權尊嚴與蓬勃發展的強盛國力"
+      }
+    },
+    {
+      "icon": "🏙️",
+      "text": {
+        "en": "Burj Khalifa Tower — Standing at a spectacular 828 meters in Dubai, representing the world's ultimate skyscraper engineering marvel",
+        "zh": "世界之巔哈里發塔——聳立於杜拜市中心、高達828公尺的「哈里發塔」（Burj Khalifa），是當今全球第一摩天大樓與現代工程學奇蹟"
+      }
+    },
+    {
+      "icon": "🕌",
+      "text": {
+        "en": "Sheikh Zayed Mosque — A breathtaking pure white marble masterpiece in Abu Dhabi reflecting grand Islamic architectural beauty",
+        "zh": "謝赫扎耶德大清真寺——位於阿布達比、由純白漢白玉大理石砌築而成的宏偉清真寺，融合了莫臥兒與摩爾藝術，美輪美奐、洗滌心靈"
+      }
+    },
+    {
+      "icon": "🏝️",
+      "text": {
+        "en": "Palm Jumeirah — World-famous artificial archipelago project stretching into the Persian Gulf, celebrated as an engineering wonder",
+        "zh": "棕櫚島人工島奇蹟——延伸進波斯灣、呈棕櫚葉外觀的「朱美拉棕櫚島」人工島工程，被譽為「世界第八大奇蹟」之填海造陸史詩"
+      }
+    },
+    {
+      "icon": "🐪",
+      "text": {
+        "en": "Bedouin Desert Culture — Rich ancestral heritage celebrating golden sands, falconry, camel racing, and warm Arab hospitality",
+        "zh": "貝都因沙漠遺產——根植於浩瀚黃沙的貝都因傳統，包含獵鷹馴育、駱駝競速與古老詩歌吟唱，展現極致熱情好客的阿拉伯古風"
+      }
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/307763",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=51.0%2C22.0%2C57.0%2C26.5&layer=mapnik"
+}

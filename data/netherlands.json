@@ -1,0 +1,353 @@
+{
+  "name": {
+    "en": "Netherlands",
+    "zh": "荷蘭"
+  },
+  "nativeName": "Nederland",
+  "capital": {
+    "en": "Amsterdam",
+    "zh": "阿姆斯特丹"
+  },
+  "population": "18M",
+  "area": "41,850 km²",
+  "density": "430/km²",
+  "continent": "Europe",
+  "flagEmoji": "🇳🇱",
+  "dataEstYear": 2025,
+  "description": {
+    "en": "The Netherlands is a constitutional monarchy located in Western Europe, bordered by the North Sea to the west, and sharing land borders with Germany and Belgium. Renowned for its low-lying geography, beautiful canal cities, highly progressive and open social culture, and exceptionally advanced economy, the Netherlands stands as one of the most vital trade and logistics hubs in Europe.",
+    "zh": "Netherlands是位於西歐的君主立憲國家，西臨北海（North Sea），與德國（Germany）及比利時（Belgium）接壤。荷蘭以低地地形、美麗的運河城市、高度自由開放的社會文化與極發達的經濟體系聞名，是歐洲（Europe）最重要的貿易與物流樞紐之一。"
+  },
+  "seoText": {
+    "en": "Explore quick facts about the Netherlands — population, land area, capital city, and a short overview. Learn about Dutch Golden Age painters, ASML chip lithography, Rotterdam Port logistics, canal cycles, and Kinderdijk windmills.",
+    "zh": "快速了解荷蘭的基本資料：人口、面積、首都與簡短概述。探索梵谷與林布蘭藝術黃金時代、ASML半導體設備核心、鹿特丹港物流、阿姆斯特丹運河自行車文化以及風車水利工程體系。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Strategically situated in the low-lying coastal plains of Western Europe",
+          "World-renowned for its sophisticated canals, dikes, and hydraulic engineering",
+          "A premier global gateway serving as a vital European trade and logistics hub",
+          "Outstanding global leader in high-tech exports, semiconductor tools, and agriculture"
+        ],
+        "text": "The Netherlands has a brilliant history as a maritime trade giant. During the 17th-century 'Dutch Golden Age', it built a vast global commercial network that profoundly shaped international banking, stock exchanges, maritime transport, and European art history.\n\nToday, the Netherlands stands as a highly prosperous, progressive country. It holds a pivotal global footprint in advanced clean technology, hydraulic flood defenses, greenhouse agriculture, semiconductor manufacturing equipment, and international legal systems."
+      },
+      "zh": {
+        "list": [
+          "位於西歐低地地區",
+          "世界著名運河與水利國家",
+          "全球重要貿易與物流中心",
+          "農業與科技實力突出"
+        ],
+        "text": "荷蘭在歷史上曾是雄霸一方的海上貿易強權。在 17 世紀的「荷蘭黃金時代」（Dutch Golden Age）期間，它建立了龐大的全球商業與殖民網絡，對現代國際銀行體系、證券交易所、海運物流以及歐洲藝術史的發展皆帶來了極深遠的影響。\n\n今日的荷蘭是一個高度繁榮且思想進步的已開發國家，在先進綠色清潔科技、現代水利防洪工程、高科技溫室農業、半導體製造設備（微影技術）以及國際司法體系中，皆佔有舉足輕重的全球核心地位。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Remarkably low-lying and flat coastal flat topography",
+          "Significant portions of the territory lay below mean sea level",
+          "Highly advanced and historic hydraulic flood barrier engineering",
+          "Extremely dense networks of major shipping rivers and canals"
+        ],
+        "text": "Spanning approximately 41,500 square kilometers, the Netherlands is exceptionally flat and low-lying, with about one-third of its land area sitting below sea level. To protect its communities from maritime flooding, the Dutch have constructed a world-class network of sea walls, polders, and movable storm surge barriers (the Delta Works).\n\nMajor European rivers including the Rhine, Meuse, and Scheldt empty into the sea through Dutch estuaries, making the country a vital crossroads for inland shipping."
+      },
+      "zh": {
+        "list": [
+          "地勢低平明顯",
+          "大量土地低於海平面",
+          "水利工程高度發達",
+          "河川與運河密集"
+        ],
+        "text": "荷蘭國土面積約 4 萬多平方公里，地形地貌以極其平坦的平原與沿海低地為主，全國有將近三分之一的土地實際上低於平均海平面。為了防止海水侵襲並保護國土，荷蘭人長年建設海堤、圍墾抽水系統以及舉世聞名的可移動式大型防風暴閘門（如三角洲工程 Delta Works），形成了世界頂尖的水利管理體系。歐洲主要河流包含萊茵河（Rhine）、馬士河（Meuse）與斯海爾德河（Scheldt）皆經由荷蘭出海，使其成為歐洲最重要的內河航運與物流十字路口。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Classified as a mild, temperate maritime ocean climate",
+          "Moderate temperatures throughout the entire year",
+          "Relatively even precipitation across all four seasons",
+          "Winters are mild with rare extremes of freezing temperatures"
+        ],
+        "text": "Influenced by the warm North Sea current, the Netherlands enjoys a highly moderate marine climate. Summers are cool and comfortable, while winters are relatively mild with infrequent deep freezes.\n\nRainfall is distributed evenly throughout the year, and overcast, breezy weather is highly common. This climate is exceptionally suited for greenhouse farming and floral cultivation, earning Dutch tulips global acclaim."
+      },
+      "zh": {
+        "list": [
+          "屬溫帶海洋性氣候",
+          "全年氣候溫和",
+          "降雨分布平均",
+          "冬季較少極端寒冷"
+        ],
+        "text": "受到北大西洋暖流與北海（North Sea）的調節，荷蘭全年享溫和的溫帶海洋性氣候。夏季涼爽舒適，冬季則相對溫和，極端嚴寒與結冰的天氣並不常見。降雨量在四季分布相當平均，多雲、陰天與多風是十分常見的天氣特徵。這種氣候條件極其適合精緻溫室農業與花卉栽培，也讓荷蘭的鬱金香風靡全球，贏得「世界花園」的美譽。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Vibrant population of approximately 18 million residents",
+          "One of the most densely populated nations in all of Europe",
+          "Highly urbanized concentration inside metropolitan corridors",
+          "Distinctively progressive, open, and multicultural society"
+        ],
+        "text": "With roughly 18 million residents compressed into a small land area, the Netherlands ranks as one of Europe's most densely populated countries. The bulk of the population is concentrated in the Randstad metropolitan ring, which connects Amsterdam, Rotterdam, Utrecht, and The Hague.\n\nDutch is the official national language, though English proficiency is exceptionally high. Thanks to centuries of global trade, Dutch society remains deeply multicultural and welcoming."
+      },
+      "zh": {
+        "list": [
+          "人口約 1,800 萬",
+          "人口密度極高",
+          "高度城市化",
+          "多元移民社會"
+        ],
+        "text": "荷蘭在有限的國土範圍內容納了約 1,800 萬人口，是整個歐洲（Europe）人口密度最高的國家之一。全國大部分人口高度集中在由阿姆斯特丹、鹿特丹、海牙與烏特勒支四大城市串聯而成的「蘭斯台德」（Randstad）環狀都會區。在人口組成上，荷蘭本土裔（Dutch background）約佔 74.3%，而具有移民背景的群體則佔 25.7%（其中主要包含土耳其、摩洛哥、蘇利南、印尼裔等歐洲以外移民，以及其他歐洲國家的遷入人口）。荷蘭語（Dutch）為官方語言，但國民的英語普及率與流利度堪稱世界頂尖。得益於長期的國際貿易傳統，荷蘭社會呈現高度包容、多元且思想前衛的特徵。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "Highly advanced and transparent market-driven economy",
+          "Tremendous volume of international trade and re-exports",
+          "World-leading exporter of agricultural goods and flowers",
+          "Dominant player in advanced high-tech and financial services"
+        ],
+        "text": "The Netherlands is a European trade giant, hosting the Port of Rotterdam—the largest and busiest seaport in Europe. Despite its size, it is the world's second-largest agricultural exporter by value, pioneering advanced greenhouse techniques and dairy exports.\n\nIt is also a key anchor of the global high-tech supply chain, home to ASML, the world's sole producer of extreme ultraviolet (EUV) photolithography machines critical for advanced semiconductors."
+      },
+      "zh": {
+        "list": [
+          "高度發達市場經濟",
+          "國際貿易能力強",
+          "農業出口全球領先",
+          "科技與金融產業成熟"
+        ],
+        "text": "荷蘭是名副其實的歐洲貿易與轉口巨頭，境內坐擁鹿特丹港（Port of Rotterdam）——這是整個歐洲規模最大且最繁忙的超級海港。令人驚嘆的是，儘管國土面積狹小，荷蘭憑藉頂尖的科技溫室技術與乳製品工藝，依產值計竟是全球第二大農產品出口國。此外，它更是全球高科技半導體供應鏈的核心不二錨點，總部位於當地的艾司摩爾（ASML），是全球唯一能製造先進晶片所需之極紫外光（EUV）微影設備（曝光機）的頂尖科技霸主。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Stable constitutional monarchy with a parliamentary democracy",
+          "Vibrant multi-party legislative system in a bicameral parliament",
+          "Executive administration is led by the Prime Minister",
+          "Political culture relies on negotiation and coalition-building"
+        ],
+        "text": "The Netherlands is a constitutional monarchy where the King serves as a symbolic head of state, and executive power is held by the Prime Minister. The bicameral parliament, the States General, is represented by numerous political factions.\n\nThis multi-party dynamic makes coalition governments a necessity. The political landscape is defined by the consensus-driven 'Polder Model', which emphasizes collaborative negotiation between unions, employers, and state offices."
+      },
+      "zh": {
+        "list": [
+          "君主立憲國家",
+          "採議會民主制度",
+          "多黨政治明顯",
+          "重視地方自治與協商文化"
+        ],
+        "text": "荷蘭政治實行穩固的君主立憲制與議會民主制，國王為象徵性的國家元首，實質行政權由首相/總理（Prime Minister）及內閣掌握。國會（States General）採兩院制，國內政壇存在眾多政黨，呈現多元且碎片化的多黨制特徵，因此聯合政府在當地成為常態。荷蘭的政治景觀深深打上了強調「協商與共識」的「圩田模型」（Polder Model）烙印，高度重視工會、雇主團體與政府三方之間的包容性對話與和諧談判。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Highly advanced social welfare and public safety systems",
+          "Strong commitment to personal liberties, human rights, and equality",
+          "Legendary and ubiquitous bicycle transport cultures",
+          "Outstanding national emphasis on working-hour balances"
+        ],
+        "text": "Dutch society provides excellent public education, universal healthcare, and robust social safety nets. Personal freedom is highly valued, and the nation was the first globally to legalize same-sex marriage, reflecting its progressive values.\n\nCities are beautifully configured for bicycle travel, boasting thousands of kilometers of dedicated cycling paths. There is also a strong cultural emphasis on work-life balance and family time."
+      },
+      "zh": {
+        "list": [
+          "社會福利制度完善",
+          "重視個人自由與平等",
+          "自行車文化盛行",
+          "工作與生活平衡受重視"
+        ],
+        "text": "荷蘭社會提供極其完善的公共教育、全民醫療保險制度與強韌的社會安全網，居民生活品質高且安全無虞。個人自由與人權在荷蘭受到崇高尊崇，該國於 2001 年成為全球首個將同性婚姻合法化的國家，充分彰顯其前衛與包容的價值觀。此外，荷蘭各城市皆擁有極致完美的自行車友善配套，設有數萬公里長度的獨立自行車專用道，這種舉世聞名的自行車通勤文化與對「工作與生活平衡」（Work-Life Balance）的追求，形塑了荷蘭人健康的日常型態。在多元性別權益（LGBTQ+ rights）方面也相對進步。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "Towering artistic legacy from the Dutch Golden Age",
+          "Iconic scenic canal cities and dynamic urban spaces",
+          "Deeply influential modern design and landscape planning",
+          "Global leader in professional football and electronic music"
+        ],
+        "text": "The Netherlands is the birthplace of world-class artists like Rembrandt van Rijn, Johannes Vermeer, and Vincent van Gogh, whose works are celebrated in Amsterdam's museums. Amsterdam's 17th-century canal ring is a beloved UNESCO World Heritage Site.\n\nIn the modern era, the Dutch excel in graphic and architectural design, are pioneers of global Electronic Dance Music (EDM), and possess a legendary, passionate football legacy."
+      },
+      "zh": {
+        "list": [
+          "荷蘭黃金時代藝術聞名",
+          "運河城市景觀具代表性",
+          "花卉與設計文化發達",
+          "足球與電子音樂影響力高"
+        ],
+        "text": "荷蘭在人類藝術史上留下了不可磨滅的巨幅篇章，是林布蘭（Rembrandt）、維梅爾（Johannes Vermeer）以及文森·梵谷（Vincent van Gogh）等劃時代藝術巨匠的故鄉，他們的無價真跡至今仍珍藏於阿姆斯特丹各大國家級博物館中。阿姆斯特丹開鑿於 17 世紀的環狀運河區已被聯合國教科文組織列為《世界文化遺產》（UNESCO World Heritage Site），是該國最具古典代表性的都市景觀。在現代，荷蘭人亦在平面與建築設計領域引領全球風潮，更是全球電子舞曲（EDM）的先驅搖籃，並擁有無數死忠擁躉、激情澎湃的傳奇職業足球文化。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Navigating metropolitan housing shortages and rising rents",
+          "Promoting immigrant social integration and language programs",
+          "Managing agricultural nitrogen emission policies and protests",
+          "Mitigating sea-level rise and adapting flood systems to climate change"
+        ],
+        "text": "The Netherlands faces a major housing shortage in core cities, causing escalating rents. High nitrogen emissions from intensive livestock farming have sparked political debates and large-scale farmer protests over environmental regulations.\n\nLong-term, mitigating rising sea levels and intense rainstorms due to climate change remains the country's ultimate existential engineering challenge."
+      },
+      "zh": {
+        "list": [
+          "住房短缺與房價上升",
+          "移民與社會整合問題",
+          "農業排放與環保爭議",
+          "氣候變遷與海平面風險"
+        ],
+        "text": "荷蘭近年面臨住房長期供應不足與租金大幅飆升的嚴峻民生挑戰，在阿姆斯特丹（Amsterdam）等大城市尤為明顯。與此同時，因高密集畜牧業引發的「氮排放過量危機」，近年點燃了政府環境法規與基層農民之間的政治激烈博弈，引發大規模的農民上街抗議。從長遠地緣發展來看，全球氣候變遷帶來的海平面上升與極端暴雨，是這座低地國家未來最無法迴避、攸關生死存亡的水利工程挑戰。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Amsterdam — Stunning, vibrant capital renowned for historic canal loops",
+          "Rotterdam — Architectural powerhouse hosting Europe's largest seaport",
+          "The Hague — Seat of government and international courts of justice",
+          "Kinderdijk — Iconic landscape featuring beautifully preserved windmills"
+        ],
+        "text": "Amsterdam draws millions with its historic canals, museums, and liberal nightlife. Rotterdam stands out with its futuristic skyscrapers, experimental architecture, and colossal deep-water harbor docks.\n\nThe Hague acts as the administrative capital, hosting the Dutch Royal Family, parliament, and crucial bodies like the UN International Court of Justice. Kinderdijk is a scenic UNESCO site featuring 19 historic windmills built to pump water out of the lowlands."
+      },
+      "zh": {
+        "list": [
+          "Amsterdam——首都與文化中心",
+          "Rotterdam——Europe重要港口",
+          "The Hague——政府與國際法中心",
+          "Kinderdijk——代表性風車景觀"
+        ],
+        "text": "憲定首都阿姆斯特丹（Amsterdam）憑藉其如詩如畫的歷史運河網、頂級藝術博物館以及自由開放的夜生活，每年吸引全球數百萬旅客朝聖。鹿特丹（Rotterdam）則以強烈的前衛摩天大樓、實驗性當代建築以及吞吐量極其巨大的歐洲最大深水港區聞名。海牙（The Hague）是中央政府、國會與荷蘭王室的實際所在地，同時也坐落著聯合國國際法院（International Court of Justice）等世界級司法調解機構。小孩堤防（Kinderdijk）則是名列聯合國教科文組織的歷史風景區，境內完好保存了 19 座建造於 18 世紀的古老風車，完美展現了將圩田積水排至運河的精湛古法水利智慧。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "Founding member of the European Union and Eurozone",
+          "Integral and active member state within NATO",
+          "Crucial global hub for international justice and diplomacy",
+          "Vast global trade networks spanning all continents"
+        ],
+        "text": "As a founding member of the EU and NATO, the Netherlands is a staunch supporter of multilateral diplomacy, international cooperation, and free trade. \n\nThe Hague is widely recognized as the 'Legal Capital of the World', hosting the International Court of Justice (ICJ) and the International Criminal Court (ICC). Its highly globalized economy is heavily integrated into the EU single market and global transport networks."
+      },
+      "zh": {
+        "list": [
+          "European Union創始成員之一",
+          "NATO成員國",
+          "國際法與外交角色重要",
+          "全球貿易網絡發達"
+        ],
+        "text": "作為歐洲聯盟（EU）與北大西洋公約組織（NATO）的創始成員國之一，荷蘭是全球多邊外交、自由貿易與國際法治的堅定捍衛者。海牙（The Hague）因匯聚了聯合國國際法院（ICJ）與國際刑事法院（ICC），而被國際社會公認為「世界法律首都」。荷蘭高度全球化的經濟體系與歐盟單一市場、全球海空運輸網絡深度綁定，發揮著關鍵的地緣經貿輻射力。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Crucial technology partnerships in advanced semiconductors",
+          "Tight bilateral connections in high-tech tools and logistics",
+          "Extremely active corporate investments and engineering exchanges",
+          "Increasing ties in university programs and renewable energy"
+        ],
+        "text": "The Netherlands and Taiwan share a highly critical partnership in the global tech supply chain. Dutch company ASML works closely with Taiwanese chip fabrication plants (like TSMC), making their relationship a cornerstone of the global electronics industry.\n\nBilateral trade is robust, with the Netherlands frequently ranking as Taiwan's largest source of foreign direct investment (FDI) in Europe. The two sides also actively cooperate on wind energy projects and scientific research."
+      },
+      "zh": {
+        "list": [
+          "半導體合作極為重要",
+          "經貿往來密切",
+          "科技產業交流活躍",
+          "教育與文化合作增加"
+        ],
+        "text": "荷蘭與台灣在全球高科技與高階半導體供應鏈中，共享著極其關鍵且不可替代的戰略合作關係。荷蘭半導體設備巨擘艾司摩爾（ASML）與台灣晶圓代工龍頭台積電（TSMC）等半導體生態系緊密合作，使雙方關係成為全球電子工業的重中之重。雙方雙邊貿易往來強勁，荷蘭長年高居台灣在歐洲最大的外國直接投資（FDI）來源國。近年，兩國在海上風力發電等再生能源轉型工程、前沿科學研究及大學學術交換項目上的合作亦日益制度化與活躍。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "World-renowned as a pioneering low-land nation",
+          "Host of the Port of Rotterdam, the largest seaport in Europe",
+          "Home to ASML, the absolute key player in semiconductor lithography",
+          "Inspirational bicycle culture integrated into urban spaces"
+        ]
+      },
+      "zh": {
+        "list": [
+          "世界知名低地國家",
+          "Rotterdam為Europe最大港口之一",
+          "ASML為全球半導體關鍵企業",
+          "自行車文化極具代表性"
+        ]
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": "Euro (€)"
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "Dutch",
+        "zh": "荷蘭語"
+      }
+    },
+    {
+      "label": "GDP (nom.)",
+      "value": "$1.12T"
+    },
+    {
+      "label": "Time zone",
+      "value": "UTC+1 / UTC+2（夏令時間）"
+    },
+    {
+      "label": "Calling code",
+      "value": "+31"
+    },
+    {
+      "label": "ISO code",
+      "value": "NL / NLD"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🌷",
+      "text": {
+        "en": "Tulip Fields — Sprawling and intensely colorful flower cultivation belts representing Dutch floral exports and spring tourism",
+        "zh": "鬱金香花田——綿延無際、色彩斑斕的繽紛花卉栽培區，是荷蘭最著名的花卉出口象徵與春季觀光熱點"
+      }
+    },
+    {
+      "icon": "🚲",
+      "text": {
+        "en": "Bicycle Culture — Highly advanced, ubiquitous cycle lanes and green transport lifestyle defining flat cities",
+        "zh": "自行車出行文化——極致完善且無處不在的自行車道網絡，是荷蘭平坦都市日常通勤與低碳生活的經典象徵"
+      }
+    },
+    {
+      "icon": "🌀",
+      "text": {
+        "en": "Kinderdijk Windmills — Spectacular historic drainage windmills standing along scenic canals pumping polder waters",
+        "zh": "小孩堤防風車群（Kinderdijk）——聳立於優美運河兩側的19座歷史排水風車群，是荷蘭防洪與圍海造陸的經典世界遺產"
+      }
+    },
+    {
+      "icon": "🖼",
+      "text": {
+        "en": "Golden Age Art — The legendary homeland of legendary master painters Rembrandt, Vermeer, and Vincent van Gogh",
+        "zh": "黃金時代藝術——梵谷、林布蘭與維梅爾等劃時代藝術大師的故鄉，為全球藝術史留下無可比擬的不朽傑作"
+      }
+    },
+    {
+      "icon": "💻",
+      "text": {
+        "en": "ASML Semiconductor Tools — The absolute key manufacturer of advanced lithography machines driving global chip fabrication",
+        "zh": "ASML半導體設備——全球極紫外光（EUV）微影設備的絕對霸主，是引領全球晶片代工與科技產業的最關鍵核心企業"
+      }
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/47796",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=3.0%2C50.5%2C7.3%2C53.7&layer=mapnik"
+}

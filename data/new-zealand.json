@@ -1,0 +1,353 @@
+{
+  "name": {
+    "en": "New Zealand",
+    "zh": "紐西蘭"
+  },
+  "nativeName": "New Zealand / Aotearoa",
+  "capital": {
+    "en": "Wellington",
+    "zh": "威靈頓"
+  },
+  "population": "5.2M",
+  "area": "268,021 km²",
+  "density": "19/km²",
+  "continent": "Oceania",
+  "flagEmoji": "🇳🇿",
+  "dataEstYear": 2025,
+  "description": {
+    "en": "New Zealand is an island country located in the southwestern Pacific Ocean, situated southeast of Australia, comprising two major landmasses—the North Island and the South Island—and numerous smaller islands. Famous for its spectacular, pristine natural landscapes, high living standards, and advanced social security systems, New Zealand consistently ranks among the most liveable and peaceful nations on Earth.",
+    "zh": "New Zealand是位於南太平洋西南部的島國，地處澳洲東南方，由北島與南島兩大主島及眾多小島組成。毛利語稱其為「奧特亞羅瓦」（Aotearoa，意為長白雲之鄉）。該國以壯麗純淨的自然景觀、極高的生活品質與完善的社會福利制度聞名，在全求最宜居與最和平國家榜單中常年名列前茅。"
+  },
+  "seoText": {
+    "en": "Explore quick facts about New Zealand — population, land area, capital city, and a short overview. Learn about Auckland harbors, Milford Sound fjords, All Blacks rugby haka, Māori culture heritage, and Lord of the Rings movie settings.",
+    "zh": "快速了解紐西蘭的基本資料：人口、面積、首都與簡短概述。探索奧克蘭帆船之都、米佛峽灣冰河景致、全黑隊橄欖球與哈卡舞舞姿、毛利原住民文化以及魔戒哈比村拍攝地。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Sovereign island country nestled in the southwestern Pacific Ocean",
+          "Composed of two major landmasses: the North and South Islands",
+          "World-famous for untouched natural ecosystems and low population density",
+          "Highly advanced, stable, and prosperous developed economy"
+        ],
+        "text": "Deeply rooted in native Māori traditions and British heritage, New Zealand (Aotearoa) is a modern paradise of stunning ecological preservation.\n\nFrom the active thermal geysers of Rotorua in the North to the majestic, glacier-carved Southern Alps of the South, the country offers a pristine sanctuary. As a highly stable parliamentary democracy, New Zealand champions environmental sustainability, organic agriculture, and social welfare."
+      },
+      "zh": {
+        "list": [
+          "位於南太平洋的島國",
+          "由北島與南島兩大主島組成",
+          "自然環境保存良好、人口密度低",
+          "高度發達且穩定的已開發國家"
+        ],
+        "text": "紐西蘭（New Zealand）的國家認同深切植根於原住民毛利（Māori）傳統與大英帝國的殖民歷史遺產，是一座將現代文明與極致生態保育完美融合的南太平洋淨土。\n\n從北島羅托魯瓦（Rotorua）極其活躍的地熱噴泉與泥漿池，到南島由冰河雕琢而成、氣勢磅礴的南阿爾卑斯山脈（Southern Alps），紐西蘭保留了地球上最原始純淨的自然庇護所。作為一個高度穩定的議會民主國家，紐西蘭在環境永續發展、有機農牧業以及全民社會福利政策上皆引領全球進程。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Island topography characterized by mountains and volcanic ridges",
+          "South Island features spectacular snow-capped peaks and massive glaciers",
+          "North Island displays highly active thermal geysers and volcanoes",
+          "Extremely extensive and ruggedly beautiful coastlines"
+        ],
+        "text": "Covering approximately 268,000 square kilometers, New Zealand sits on the partially submerged continent of Zealandia. The Southern Alps run down the length of the South Island, peaking at Aoraki/Mount Cook.\n\nThe North Island features active volcanic plateaus, hot springs, and bubbling mud pools in Rotorua. Long, winding coastlines support wealthy fisheries, deep fjords, and a thriving eco-tourism industry."
+      },
+      "zh": {
+        "list": [
+          "島國地形多山且多火山",
+          "南島以山脈與冰河地形為主",
+          "北島火山與地熱活動活躍",
+          "海岸線極長且曲折"
+        ],
+        "text": "紐西蘭國土面積約 26.8 萬平方公里，實際上坐落於大部分沉沒於海面下的「西蘭大陸」（Zealandia）板塊上。境內地形多山，著名的南阿爾卑斯山脈（Southern Alps）縱貫整個南島，其中最高峰為庫克山（Aoraki / Mount Cook）。北島則以豐富的火山活動聞名，擁有羅托魯瓦一帶的活躍火山高原、溫泉與間歇地熱噴泉。島國綿長且曲折的海岸線造就了富饒的漁業資源、深邃的峽灣地貌以及蓬勃發展的生態觀光產業。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Pleasant temperate maritime climate moderating seasonal temperatures",
+          "Consistently mild weather throughout the calendar year",
+          "Noticeable geographical variations between the North and South islands",
+          "Highly reliable and evenly distributed rainfall patterns"
+        ],
+        "text": "New Zealand's climate is heavily moderated by the surrounding oceans, resulting in mild temperatures, abundant sunshine, and high rainfall.\n\nThe North Island has a warm temperate climate, while the South Island is cooler, experiencing winter snow in the mountains. This stable climate is perfect for lush pasture grazing and world-class wine valleys."
+      },
+      "zh": {
+        "list": [
+          "溫帶海洋性氣候",
+          "全年氣候溫和",
+          "南北島氣候略有差異",
+          "降雨分布均勻"
+        ],
+        "text": "紐西蘭的氣候深受周圍廣袤海洋的調節，呈現極為溫和的溫帶海洋性氣候，四季分明、日照充足且雨量豐沛。南北島因緯度差異而略有不同：北島屬於溫暖的暖溫帶氣候，而高緯度的南島則較為涼爽，冬季時山區會迎來厚實降雪。這種長年穩定、無極端酷暑嚴寒的氣候，為紐西蘭茂盛的天然牧場草飼蓄牧業以及享譽國際的頂級葡萄酒莊谷地提供了天賜的絕佳條件。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Comfortable population of approximately 5.2 million residents",
+          "Exceptionally low population density offering vast open spaces",
+          "Highly concentrated metropolitan centers located on the North Island",
+          "Multi-ethnic society with steady growth in new migrant cohorts"
+        ],
+        "text": "New Zealand has a population of 5.2 million, making it one of the least densely populated countries on Earth. The majority lives on the North Island, especially in Auckland.\n\nDemographics are multi-ethnic: European descendants represent the largest group, alongside native Māori, Pacific Islanders, and a rapidly growing Asian diaspora. English is the dominant language, while te reo Māori is a proud official tongue."
+      },
+      "zh": {
+        "list": [
+          "人口約 520萬左右",
+          "人口密度低",
+          "城市集中於北島",
+          "移民比例逐年上升"
+        ],
+        "text": "紐西蘭全國總人口約為 520 萬人，是地球上人口密度最低、人均享有最開闊自然空間的國家之一。全國將近四分之三的人口集中在氣候較溫暖的北島，尤以最大城市奧克蘭（Auckland）為最。在族群人口結構上，紐西蘭是一個成熟的多元族群社會：其中歐洲裔（European / Pākehā）約佔 67.8%；原住民毛利人（Māori）約佔 17.8%；亞洲裔（Asian）近年成長迅速，比例已達 17.3%；而太平洋島民裔（Pacific peoples）則約佔 8.9%（註：因普查允許複選族裔，故加總超過100%）。官方語言包含英語與毛利語（te reo Māori），後者在國家文化復興政策下受到高度尊崇與保護。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "Highly advanced and resilient free-market economy",
+          "Driven by premium agricultural grazing and organic exports",
+          "Dairy products, wine, and wool lead global exports",
+          "High-end eco-tourism and education serve as major pillars"
+        ],
+        "text": "New Zealand operates a highly developed, export-oriented economy. Excellent pastures make it the world's top exporter of dairy products (led by Fonterra) and sheep meat.\n\nTourism and film production serve as vital pillars. The service sector, centered in Auckland, drives modern tech, finance, and higher education, supported by transparent trade policies."
+      },
+      "zh": {
+        "list": [
+          "高度發達的市場經濟",
+          "以農牧業與服務業為主",
+          "乳製品與羊毛出口重要",
+          "觀光業占重要地位"
+        ],
+        "text": "紐西蘭實行高度發達、高度依賴國際貿易的自由市場經濟。得天獨厚的優質天然牧場使其成為全球最大的乳製品出口國（以恆天然集團 Fonterra 為代表）以及國際主要的牛羊肉與羊毛供應國。除了傳統農牧業，高附加價值的生態觀光業與國際電影製作（影視產業）是國家另一大經濟支柱。以奧克蘭（Auckland）為核心的服務業，則主導了國內的現代科技、金融服務與高等教育。該國長年以透明、開放且低關稅的貿易政策在全球經商便利度排名中名列前茅。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Constitutional monarchy with a highly stable parliament",
+          "Proud member state of the global Commonwealth of Nations",
+          "Governor-General represents the British monarch in ceremonial roles",
+          "Strong national commitment to transparent governance and social welfare"
+        ],
+        "text": "New Zealand is a parliamentary democracy under a constitutional monarchy. King Charles III is the sovereign, represented locally by the Governor-General.\n\nLegislative power lies in the unicameral House of Representatives, elected via a Mixed Member Proportional (MMP) system. Government culture is highly transparent, ranking at the top of global anti-corruption indexes."
+      },
+      "zh": {
+        "list": [
+          "議會制民主國家",
+          "大英國協成員",
+          "君主立憲制度",
+          "地方自治完善"
+        ],
+        "text": "紐西蘭（New Zealand）政治體制為穩固的議會民主制與君主立憲制，同時是大英國協（Commonwealth of Nations）的核心成員。國家元首為英國君主查爾斯三世，其實質禮儀性職責由君主指派的紐西蘭總督（Governor-General）在當地代表執行。最高立法權歸屬於單一院制的眾議院（House of Representatives），議員透過「單一選區兩票制」（MMP，混合名額比例代表制）選舉產生。紐西蘭的政府體制以高度廉潔與公開透明著稱，在清廉指數等全球反貪腐評比中長年高居世界第一或第二名。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Consistently ranks globally as a premier nation for high life quality",
+          "Highly comprehensive, accessible education and medical systems",
+          "Strong public trust in state institutions and public safety",
+          "Deep social commitment to wilderness conservation and clean energy"
+        ],
+        "text": "New Zealanders ('Kiwis') enjoy a balanced lifestyle characterized by safety, community care, and outdoor sports. Public trust is exceptionally high, backed by stellar public services.\n\nEgalitarian ideals define the culture. Native Māori integration is actively supported, and high environmental standards protect the land for future generations."
+      },
+      "zh": {
+        "list": [
+          "高生活品質國家",
+          "公共服務完善",
+          "社會信任度高",
+          "重視環境保護"
+        ],
+        "text": "紐西蘭國民（俗稱「Kiwis」）普遍享受著融洽安全、熱愛戶外運動與大自然、重視社區互助的慢節奏平衡生活。社會制度深度貫徹平均主義與社會包容，國家提供極高水準且普及的公共醫療、教育體系與健保社會安全網，使民眾對政府機構與公共治安擁有極高的信任度。在社會轉型中，政府與民間積極落實《懷唐伊條約》，對毛利原住民歷史權益與文化融合給予實質法律支持，並以近乎嚴苛的環保法規與再生能源政策保護這片土地的自然純淨。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "Beautiful convergence of native Māori heritage and European customs",
+          "Deep cultural affinity for outdoor hiking and marine sports",
+          "National rugby team, the All Blacks, enjoys legendary status",
+          "Bespoke movie industry recognized globally via Middle-earth films"
+        ],
+        "text": "Māori traditions deeply shape the nation's identity, from the powerful Haka dance to intricate bone carvings. English colonial customs remain influential in food and design.\n\nRugby is a national obsession, with the legendary All Blacks team uniting the country. Director Sir Peter Jackson's *The Lord of the Rings* films made the country's spectacular landscapes synonymous with Middle-earth."
+      },
+      "zh": {
+        "list": [
+          "毛利文化與西方文化融合",
+          "重視自然與戶外生活",
+          "橄欖球為國民運動",
+          "電影產業具國際影響力"
+        ],
+        "text": "紐西蘭文化是美洲/太平洋原住民毛利（Māori）傳統與英國移民習俗交織而成的瑰麗結晶。從震撼人心的「哈卡戰舞」（Haka）、傳統紋面（Tā moko）到精細的綠玉與骨雕藝術，毛利文化已深深刻入國家認同中。在運動方面，聯合式橄欖球（Rugby）是風靡全台的「國民信仰」，國家隊「全黑隊」（All Blacks）在國際賽場上取得的傳奇戰績更是凝聚全國向心力的紐帶。而在當代，傳奇導演彼得·傑克森（Peter Jackson）爵士執導的《魔戒》（The Lord of the Rings）與《哈比人》系列電影，更將紐西蘭的魔幻地貌與「中土世界」劃上等號，奠定了其享譽全球的頂尖電影工業與電影觀光地位。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Managing metropolitan real estate inflation and rising living costs",
+          "Balancing economic dairy farming with river and soil conservation",
+          "Addressing historical Māori land claims and equity gaps",
+          "Formulating carbon neutrality targets under climate change"
+        ],
+        "text": "New Zealand faces challenges with urban housing costs, particularly in Auckland. Balancing large-scale dairy farming with clean river preservation is an ongoing challenge.\n\nThe government continues to address historic treaty claims to support Māori economic equity, while implementing carbon-zero targets to protect alpine glaciers."
+      },
+      "zh": {
+        "list": [
+          "住房價格上升",
+          "環境保護與氣候變遷",
+          "原住民權益議題",
+          "移民政策調整"
+        ],
+        "text": "紐西蘭近年面臨都會區住房價格過高與整體生活成本飆升的民生壓力，在第一大城奧克蘭（Auckland）尤為嚴重。與此同時，大規模集約式乳牛蓄牧業所帶來的硝酸鹽排放，與保護清澈河流、防範土壤退化之間產生了環境保護與經濟利益的激烈拉鋸。政治與社會層面上，如何持續透過歷史條約索賠談判來消弭毛利族群在經濟、健康指標上的階層不平等，以及在氣候變遷威脅下落實零碳排目標以延緩南島高山冰河融化，皆是紐西蘭當前面臨的內部治理難題。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Auckland — Harbors capital famous for the Sky Tower and sailing bays",
+          "Wellington — Creative administrative capital known for Te Papa museum",
+          "Christchurch — South Island hub boasting English gardens and tramways",
+          "Milford Sound — Legendary fjord valley showing dramatic waterfalls"
+        ],
+        "text": "Auckland offers a beautiful harbor dotted with yachts and volcanic peaks. Wellington is famous for its cable car and the national Te Papa Tongarewa Museum.\n\nChristchurch displays beautiful English gardens along the Avon River. Milford Sound, located in Fiordland National Park, is a spectacular fjord featuring vertical cliffs and towering waterfalls."
+      },
+      "zh": {
+        "list": [
+          "Auckland——最大城市與經濟中心",
+          "Wellington——首都與政治中心",
+          "Christchurch——南島最大城市",
+          "Milford Sound——世界級自然景觀"
+        ],
+        "text": "第一大城奧克蘭（Auckland）坐擁千帆點綴的美麗海港與數十座古老火山錐，以高聳的地標天空塔（Sky Tower）俯瞰全城。行政首都威靈頓（Wellington）則以充滿文藝氣息的紅皮登山纜車，以及收藏大量歷史與毛利至寶的蒂帕帕（Te Papa）國家博物館聞名。南島門戶基督城（Christchurch）在歷經大地震後展現了前衛的現代重建規劃，並沿著雅芳河（Avon River）保留了典雅的英式花園景觀。而位於峽灣國家公園深處的米佛峽灣（Milford Sound）則是全球最壯麗的冰河峽灣奇景之一，兩側有數百公尺高的垂直花崗岩懸崖，無數條千米飛瀑傾瀉而下，震撼無數旅人。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "Maintains a pragmatic, independent, and green foreign policy",
+          "Extremely close geopolitical and economic alliance with Australia",
+          "Strong advocate for nuclear-free treaties and ocean governance",
+          "Active partner inside the Five Eyes intelligence security group"
+        ],
+        "text": "New Zealand is a key player in Pacific diplomacy, maintaining close economic ties with Australia (CER agreement) and Five Eyes intelligence partners.\n\nIt champions nuclear-free zones, global climate action, and fair-trade agreements, acting as a respected, independent voice in international forums."
+      },
+      "zh": {
+        "list": [
+          "外交立場溫和務實",
+          "英聯邦與西方盟友關係密切",
+          "重視多邊主義",
+          "積極參與國際和平與環保議題"
+        ],
+        "text": "紐西蘭在國際外交上奉行務實、綠色且高度獨立自主的外交方針。它與鄰國澳洲（Australia）保持著極為緊密的經濟與地緣政治盟友關係（透過 CER 緊密經濟關係協定實現市場一體化），同時也是「五眼聯盟」（Five Eyes）情報安全網絡的核心成員。紐西蘭在國際舞台上是堅定的「無核家園」倡導者，積極推動南太平洋無核區條約、全球氣候行動與海洋主權治理，在多邊主義框架下被公認為國際事務中理性且受尊重的獨立聲音。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Stable trade under the ANZTEC economic cooperation agreement",
+          "Massive exports of premium kiwi fruits, dairy, and beef to Taiwan",
+          "Popular destination for Taiwanese tourists, students, and working holidays",
+          "Cooperative indigenous links between Māori and Taiwanese tribes"
+        ],
+        "text": "Taiwan and New Zealand share a strong partnership anchored by the landmark ANZTEC free-trade agreement. New Zealand is a major exporter of premium kiwifruit, dairy, apples, and beef to Taiwan.\n\nBilateral tourism and educational exchange are highly active. Researchers also cooperate to study historical genetic connections between the Māori and Taiwan's indigenous tribes."
+      },
+      "zh": {
+        "list": [
+          "經貿與教育交流穩定",
+          "留學與觀光往來密切",
+          "農產品與技術合作存在",
+          "民間互動良好"
+        ],
+        "text": "紐西蘭與台灣之間維持著深厚且穩健的友好合作關係，雙方於 2013 年簽署了具里程碑意義的《臺紐經濟合作協定》（ANZTEC）。紐西蘭是台灣高品質農牧產品的核心進口來源國，源源不絕向台灣市場供應奇異果、乳製品、高品質蘋果與草飼牛羊肉。此外，雙方的打工度假項目、高等教育留學與生態觀光往來十分活躍。特別的是，兩國在南島語族文化尋根上擁有深厚連結，多國學者與官方積極開展台灣原住民族與毛利人（Māori）之間的血緣、語言學與歷史文化跨國合作交流。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "Voted consistently among the most peaceful and safest states globally",
+          "The spectacular physical filming location for Middle-earth movies",
+          "Home to rare flightless birds and rich native evergreen forests",
+          "A tiny population stewardship over incredibly diverse alpine terrains"
+        ]
+      },
+      "zh": {
+        "list": [
+          "世界上最和平與安全國家之一",
+          "電影《魔戒》主要拍攝地",
+          "擁有獨特原生動植物生態",
+          "人口少但國土環境極具多樣性"
+        ]
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": "New Zealand Dollar (NZD)"
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "English & Māori",
+        "zh": "英語、毛利語"
+      }
+    },
+    {
+      "label": "GDP (nom.)",
+      "value": "$250B"
+    },
+    {
+      "label": "Time zone",
+      "value": "UTC+12 / UTC+13（夏令時間）"
+    },
+    {
+      "label": "Calling code",
+      "value": "+64"
+    },
+    {
+      "label": "ISO code",
+      "value": "NZ / NZL"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🇳🇿",
+      "text": {
+        "en": "Southern Cross Flag — The British blue ensign flag featuring four red stars representing the Southern Cross constellation in Pacific skies",
+        "zh": "南十字星國旗——藍底大不列顛船旗，右側鑲嵌四顆鑲白邊的紅色五角星，組成南十字星座，代表南太平洋耀眼明亮的晴空與航標"
+      }
+    },
+    {
+      "icon": "🥝",
+      "text": {
+        "en": "Kiwi Bird & Agriculture — The rare endemic flightless Kiwi bird and premier organic kiwi fruit farming exported to international markets",
+        "zh": "奇異鳥與奇異果——紐西蘭獨有的珍稀無翼「奇異鳥」，以及熱銷全球、多汁甜美的有機「奇異果」，是紐西蘭農牧與生態的經典名片"
+      }
+    },
+    {
+      "icon": "🏔️",
+      "text": {
+        "en": "Southern Alps & Fjords — Vertical granite peaks of Milford Sound, snow-capped Mount Cook, and natural Middle-earth movie locations",
+        "zh": "南阿爾卑斯山與峽灣——高聳入雲的庫克山、直插雲霄的米佛峽灣（Milford Sound）陡峭懸崖與冰川瀑布，共同構成了魔戒魔幻史詩場景"
+      }
+    },
+    {
+      "icon": "🏉",
+      "text": {
+        "en": "All Blacks & Haka — The legendary national Rugby Union team performing the powerful indigenous Māori Haka war dance before matches",
+        "zh": "全黑隊與哈卡舞（Haka）——享譽全球的紐西蘭國家橄欖球隊「全黑隊」（All Blacks），賽前以極具威懾力與激情的毛利人哈卡戰舞宣告力量"
+      }
+    },
+    {
+      "icon": "🌿",
+      "text": {
+        "en": "Māori Jade & Silver Fern — Sacred traditional Pounamu greenstone carvings and the iconic silver fern leaf representing national hope",
+        "zh": "毛利玉石與銀蕨葉——毛利人視為神聖寶物的「Pounamu」綠玉手工雕刻，以及象徵著紐西蘭開拓生命力與希望的「銀蕨葉」（Silver Fern）"
+      }
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/556706",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=165.0%2C-47.5%2C179.0%2C-34.0&layer=mapnik"
+}
