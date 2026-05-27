@@ -1,0 +1,358 @@
+{
+  "name": {
+    "en": "Brazil",
+    "zh": "巴西（Brazil）"
+  },
+  "nativeName": "Brasil",
+  "capital": {
+    "en": "Brasília",
+    "zh": "巴西利亞（Brasília）"
+  },
+  "population": "215M",
+  "area": "8.51M km²",
+  "density": "25/km²",
+  "continent": "Americas",
+  "flagEmoji": "🇧🇷",
+  "dataEstYear": 2025,
+  "description": {
+    "en": "Brazil, officially the Federative Republic of Brazil, is a federal republic located in eastern South America. It is the largest country in South America by both land area and population. Renowned for its vast Amazon Rainforest, rich natural resources, and diverse cultural synthesis, Brazil is one of the world's primary emerging economies.",
+    "zh": "Brazil（巴西正式國名為巴西聯邦共和國（Federative Republic of Brazil））是高居南美洲東部核心、具備絕對領土與人口戰略優勢的巨型聯邦共和國。其疆域幅員遼闊，國土總面積與常住總人口均傲視全南美洲。巴西東臨浩瀚的大西洋，境內孕育著全球規模最大、象徵「地球之肺」的亞馬遜熱帶雨林，並坐擁舉世無雙的自然資源與礦產財富。歷經數百年的跨大洋族群交融，巴西建構起高度多元且生機勃勃的文化綜合體，長年穩居全球最核心、最具發展潛力的巨型新興經濟體之一。"
+  },
+  "seoText": {
+    "en": "Explore quick facts about Brazil — population, land area, capital city, and a short overview. Discover its Amazon basin geography, agricultural exports, vibrant carnival and soccer heritage, and landmarks like Christ the Redeemer.",
+    "zh": "一鍵快速解鎖南美巨人巴西（Brazil）的核心基本資料：深度涵蓋最新人口總量、遼闊國土面積、現代主義首都巴西利亞（Brasília）精闢解析與宏觀國家全貌。探索其壯麗的亞馬遜河流域地理生態、制霸全球的農業與礦業出口貿易、充滿無限熱情的里約狂歡節與五星足球王國不朽傳統，以及舉世聞名的救世基督像（Christ the Redeemer）等世界級標誌性地標。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Federal republic located in eastern South America",
+          "The largest country in South America by area and population",
+          "Home to the Amazon Rainforest and abundant natural resources",
+          "Globally famous for its football culture and Carnival celebrations"
+        ],
+        "text": "Originally a colony of Portugal, Brazil achieved independence in 1822 and steadily developed into one of the most influential nations in South America. Through a history of colonization, global migration, and historic trade, Brazil has formed a highly pluralistic and culturally blended society.\n\nAs a primary emerging global market, Brazil holds a significant position in agriculture, energy, mining, and manufacturing, while standing as the largest economy in Latin America."
+      },
+      "zh": {
+        "list": [
+          "雄踞南美洲東部大西洋沿岸、具備絕對地緣戰略與經濟規模的巨型聯邦共和國",
+          "國土面積與人口規模雙雙高居南美洲第一位，是拉丁美洲無可爭辯的政經龍頭",
+          "坐擁全球最大碳匯亞馬遜雨林，大宗商品、潔淨能源與戰略礦產資源極其充沛",
+          "憑藉無與倫比的足球王國榮譽、熱情奔放的森巴舞蹈與里約嘉年華文化名揚全球"
+        ],
+        "text": "巴西歷史上曾為葡萄牙（Portugal）帝國最核心的海外殖民地，於 1822 年宣告獨立並建立帝制，後於 1889 年轉型為聯邦共和國，逐步淬煉為當今整個南美大陸最具地緣與政經主導權的超級大國。得益於數百年的殖民歷史、全球性的大規模移民潮以及歷史上特殊的跨大洋人口流動，巴西打破了傳統的族群邊界，成功形塑出一個高度 pluralistic（多元化）且將各方特色完美交融的彩虹社會。\n\n作為全球南方（Global South）與新興市場的首席領頭羊之一，巴西在國際農業貿易、深海石油開採、綠色水力發電、戰略鐵礦開採以及尖端航空製造等領域均構築了舉足輕重的全球產業供應鏈地位，長年雄踞拉丁美洲最大經濟體龍頭寶座。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Situated in eastern South America",
+          "Ranks as the fifth-largest nation in the world by area",
+          "Houses the vast Amazon Rainforest",
+          "Shares borders with almost all South American nations"
+        ],
+        "text": "Covering approximately 8.51 million square kilometers, Brazil spans nearly half of the South American continent and shares borders with almost every South American country. The northern territory is dominated by the Amazon Rainforest, while the central region features vast plateaus and savannahs, with the southeastern coast housing the majority of the population and urban hubs. The Amazon River basin hosts the largest and most biodiverse tropical rainforest ecosystem on Earth."
+      },
+      "zh": {
+        "list": [
+          "縱貫南美洲東部，東臨綿延 7,491 公里的熱帶大西洋黃金海岸線",
+          "國土總面積高達 851 萬平方公里，高居全球第五大國，土地資源極其遼闊",
+          "國土北部由世界第一大河亞馬遜河流域所貫穿，孕育著全球最大的熱帶雨林生態圈",
+          "地緣鄰國密布，除智利與厄瓜多外，與其餘所有南美洲國家皆有漫長邊界線接壤"
+        ],
+        "text": "巴西的國土總面積約為 851 萬平方公里，幾乎以一己之力包攬了整個南美大陸近半數的土地。其境內地形結構主要由兩大核心地理單元構成：北部是寬廣無垠、地勢低平的亞馬遜盆地（Amazon Basin），這裡流淌著全球流量最大、流域最廣的亞馬遜河，並覆蓋著地表生物多樣性最密集的熱帶雨林；中南部則是由古老岩層構成的巴西高原（Brazilian Highlands），地形起伏溫和，包含了廣袤的熱帶稀樹草原（Cerrado），是現代大規模農業開發的精華帶。巴西的常住人口與現代化工业體系高度集中於東南沿海地帶，這裏擁有大西洋沿岸最天然的深水良港。這種北林中原、南高東海的宏偉地理格局，不僅賦予了巴西得天獨厚的自然美景，更為其工業與農業雙輪驅動發展奠定了無可複制的地理底蘊。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Predominantly tropical climate across the region",
+          "Hot and humid conditions in the northern Amazon basin",
+          "Relatively mild and gentle temperate climate in the south",
+          "Distinct seasonal variations between dry and rainy periods"
+        ],
+        "text": "Most of Brazil lies within the tropical zone, resulting in high temperatures throughout the year. The Amazon region is consistently hot and rainy, whereas the southern states experience a more moderate subtropical climate. Abundant rainfall in key agricultural belts provides highly favorable conditions for farming and lush forest ecosystems."
+      },
+      "zh": {
+        "list": [
+          "國土絕大部分高比例位於赤道與南回歸線之間，長年以溫暖的熱帶氣候（Tropical Climate）為主軸",
+          "亞馬遜盆地呈現典型的高溫多雨熱帶雨林氣候，全年幾乎無明顯季節更替之分",
+          "南回歸線以南的南部各州逐漸過渡為四季分明、氣候怡人的溫帶與亞熱帶氣候",
+          "中部高原與稀樹草原地帶，雨季（夏季）與乾季（冬季）的降水交替特徵極其顯著"
+        ],
+        "text": "由於地理位置得天獨厚，巴西絕大部分國土長年沐浴在溫暖的陽光下。北部的亞馬遜流域全年平均氣溫長年維持在 25°C 至 28°C 之間，日照強烈且午後對流雨極其頻繁，年降水量動輒突破 2,000 毫米，為雨林動植物的繁衍提供了無盡的溫床。而當目光轉向中部的巴西高原與塞拉多地區，氣候則展現出極具規律的雙季特徵：每年 10 月至次年 4 月的雨季，大西洋濕潤氣流帶來充沛的雨水，滋潤著數百萬公頃的大豆與玉米田；而 5 月至 9 月的乾季則晴空萬里。最南部的聖卡塔琳娜州和南大河州則呈現出接近歐洲的亞熱帶季風性濕潤氣候，冬季受南極冷氣團北上影響，高海拔山區甚至偶爾會迎來銀裝素裹的降雪。這種溫和多雨、凍害極其罕見的優越氣候組合，正是巴西能夠連續一個多世紀蟬聯全球大宗農產品巨擘的天然密碼。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Population exceeding 200 million people",
+          "The most populous nation in South America",
+          "Highly diverse and multi-ethnic demographic profile",
+          "High level of overall urbanization"
+        ],
+        "text": "Brazil's population is heavily concentrated along the southeastern coastal strip, where major metropolises like São Paulo and Rio de Janeiro form massive urban agglomerations. Its population reflects a rich demographic tapestry blending European, African, Indigenous, and Asian ancestry, creating a vibrant, multifaceted social fabric. Portuguese is the official language, making Brazil the largest Portuguese-speaking nation in the Americas."
+      },
+      "zh": {
+        "list": [
+          "常住總人口超過 2.15 億人，是西半球人口總量最龐大、最年輕的勞動力市場之一",
+          "南美洲人口規模當之無愧的第一大國，都市化率高達 87% 以上，都市帶高度密集",
+          "族群結構呈現全球典範級的「大熔爐」特徵，融合了歐、非、印第安原住民與亞洲血統",
+          "官方與通用語言為葡萄牙語（Portuguese），是整個美洲大陸面積與人口最大的葡語主權國家"
+        ],
+        "text": "巴西的人口結構是一幅波瀾壯闊的全球民族融合圖卷。根據巴西地理與統計局（IBGE）最新的人口普查與族群數據，巴西在官方人口統計中將種族精準劃分為五大核心類別：其中，擁有歐洲血統的「白人（Brancos）」約占總人口的 43.5%，主要分布在氣候較涼爽、歷史上歐洲移民集中的南部各州；緊隨其後的是最具巴西文化代表性的「混血人種（Pardos，主要由歐洲、非洲與原住民血統交融而成）」，占總人口的 45.3%，廣泛分布於中部與東北部；擁有純正非洲血統的「黑人（Pretos）」約占 10.2%，其歷史法統根植於傳統的非裔巴西文化；此外，主要由歷史上龐大日本移民後裔構成的「黃種人/東亞裔（Amarelos）」占約 0.4%，而主要分布在亞馬遜深處的「印第安原住民（Indígenas）」則占約 0.6%。在地理分布上，超過 80% 的龐大人口密集簇擁在東南沿海狹長的都會帶中，聖保羅（São Paulo）與里約熱內盧（Rio de Janeiro）兩大超級都市圈聚集了全國的核心精英。這種跨越膚色界線、既相互獨立又深度融合的龐大人口基石，不僅打破了單一民族國家的刻板印象，更為巴西注入了無與倫比的社會創造力與熱情奔放的國民性格。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "The largest economy in the Latin American region",
+          "Formidable exporter of agricultural commodities and minerals",
+          "Abundant petroleum and hydroelectric energy resources",
+          "Massive scale in manufacturing and service-oriented sectors"
+        ],
+        "text": "Brazil stands as a global agricultural powerhouse, holding world-leading export volumes in soybeans, coffee, beef, and sugar. Beyond farming, the country is rich in iron ore, offshore petroleum, and hydroelectric power. São Paulo serves as the primary financial and industrial engine of South America, hosting major corporations, banks, and capital markets."
+      },
+      "zh": {
+        "list": [
+          "拉丁美洲當之無愧的第一大經濟體，名列全球綜合經濟體系的最前列梯隊",
+          "全球大宗商品供應鏈的絕對中樞，大豆、咖啡、糖、牛肉以及鐵礦砂出口量冠絕全球",
+          "綠色能源結構極其優異，深海鹽下石油原油儲量驚人，且超高比例依賴水力與生物質發電",
+          "工業體系健全，聖保羅作為南美洲第一大金融與製造業心臟，掌控跨國金融資本動向"
+        ],
+        "text": "巴西在國際經濟版圖上是一個實力雄厚的「超級資源與製造巨人」。作為全球著名的「世界糧倉」，巴西的現代農業技術極其發達，其大豆產量與出口量長年壓倒全球其他農業大國，咖啡與蔗糖產量更是連續一個多世紀壟斷全球首位。然而，巴西絕非單純的農業國，在重工業維度，它坐擁全球品質最高的鐵礦砂巨擘淡水河谷（Vale），並憑藉巴西石油公司（Petrobras）尖端的深海鑽探技術，在坎波斯與桑托斯盆地開發出極具戰略價值的鹽下石油（Pre-salt petroleum），成功躋身全球核心原油出口國之列。更令人驚嘆的是，巴西在高端製造業同樣占有一席之地，巴西航空工業公司（Embraer）是僅次於波音與空中巴士的全球第三大民用商用飛機製造商。金融之都聖保羅則聚集了南美洲最密集的摩天大樓、跨國銀行總部與規模龐大的證券交易所，以強大的資本虹吸效應，全面引領著整個南美大陸的實體經濟與服務業繁榮。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Federal presidential constitutional republic",
+          "Democracy characterized by a presidential system",
+          "Composed of states and a federal district",
+          "Multi-party and diverse political environment"
+        ],
+        "text": "Brazil's political architecture is structured across federal, state, and municipal levels, with the President serving as both the head of state and head of government. The capital, Brasília, is a meticulously planned modernist administrative city constructed in the mid-20th century to encourage interior development."
+      },
+      "zh": {
+        "list": [
+          "實行高度去中心化、依法良性運作的聯邦議會制總統制憲政共和國（Federal Presidential Republic）",
+          "政治權力嚴格採取三權分立原則，總統依法兼任國家元首與中央聯邦政府首腦",
+          "行政區劃由 26 個擁有高度內政自治權的州（States）以及一個聯邦巴西利亞特區共同組成",
+          "採用多黨合作與多維政黨聯盟體制，政治光譜多元，具備高度的民主博弈與協商特徵"
+        ],
+        "text": "巴西的政治架構自 1988 年《聯邦憲法》頒布以來，確立了成熟且極具活力的現代民主政體。聯邦中央政府由民選總統總攬行政大權，每屆任期 4 年，可連任一次。國家立法權則歸屬於由聯邦參議院與眾議院共同組成的巴西國民議會（National Congress）。由於巴西實行多元的多黨制，國會內派系林立，各主要政黨必須經常組成跨越左右翼光譜的「執政聯盟」以確保法案通過，這使得巴西政治天生具備高超的動態協商與利益平衡特徵。中央聯邦政府的所在地首都巴西利亞（Brasília），是人類城市規劃史上的不朽奇蹟——這座於 1960 年落成的現代主義新城由建築大師奧斯卡·尼邁耶一手打造，其從空中俯瞰宛如一架展翅高飛的巨型飛機，不僅成功將巴西的政經重心從沿海引向富饒的內陸腹地，更成為國家行政現代化與高效治理的宏偉視覺圖騰。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Pronounced wealth gaps across social strata",
+          "Rapidly advancing urban and regional development",
+          "Deep-seated passion for music and festival culture",
+          "Ongoing social focus on public safety and urban challenges"
+        ],
+        "text": "Brazilian society is characterized by a warm, spirited culture, with music, dance, and football deeply woven into daily life. However, metropolitan areas continue to face deep socioeconomic disparities, crime rates, and uneven infrastructure distribution. Public education and healthcare access remain highly variable between affluent coastal cities and developing interior regions."
+      },
+      "zh": {
+        "list": [
+          "貧富分化與階層跨度相對明顯，呈現出沿海與內陸、富裕社區與貧民窟並存的複雜社會圖景",
+          "都市化進程驚人，在催生高科技智慧城市的同時，也伴隨著超大型城市空間的擴張壓力",
+          "國民性格天生樂觀豁達、熱情如火，對音樂、舞蹈、沙灘排球與體育競技擁有骨子裡的熾熱激情",
+          "公共安全治理、貧民窟現代化改造以及全面提升中低階層福祉，長年是社會政策的絕對核心"
+        ],
+        "text": "巴西社會是一個人類文明中極具張力與生命力的共同體。巴西人天生擁有一種被稱為「Alegria（快樂）」的生存哲學，無論身處何種階層，日常生活中都充滿了歡聲笑語、熱情擁抱與對家庭紐帶的極致重視。然而，這個社會也長期面臨著發展中國家特有的結構性挑戰——在聖保羅與里約熱內盧，高聳入雲的奢華空中別墅、直升機停機坪與依山而建、錯綜複雜的「貧民窟（Favelas）」往往僅有一牆之隔，交織出強烈的視覺震撼。這種財富分配的不均引發了 metropolitan（大都市）區域犯罪率偏高與公共安全治理的難題。為此，巴西歷屆聯邦政府持續推動「家庭補助金（Bolsa Família）」等全球著名的社會福利轉移支付計劃，積極擴大公立免費醫療體系（SUS）的覆蓋面。這種在挑戰中逆流而上、始終保持微笑與凝聚力的社會特質，正是巴西社會展現出無盡生命力的根基所在。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "World-renowned football heritage and national prestige",
+          "The Carnival of Rio is an iconic global festival",
+          "Rich musical contributions including Samba and Bossa Nova",
+          "Deep historical Portuguese cultural influence"
+        ],
+        "text": "Football is more than a sport in Brazil; it is a defining aspect of national identity, and the national team stands as one of the most decorated in world history. Legendary Pelé remains a supreme global icon of the sport. The Rio Carnival is celebrated as one of the world's most spectacular festivals, while musical styles like Samba and Bossa Nova have captured global audiences."
+      },
+      "zh": {
+        "list": [
+          "全球無可匹敵的「足球王國（Football Kingdom）」法統，足球早已超越體育範疇，昇華為國家凝聚力的核心靈魂",
+          "里約熱內盧嘉年華（Rio Carnival）高居全球規模最宏大、視覺震撼度最高的狂歡慶典，是世界級文化名片",
+          "音樂文化底蘊極其深厚，融合非裔節奏與歐式和弦，開創了森巴（Samba）與巴薩諾瓦（Bossa Nova）等風靡全球的流派",
+          "深受葡萄牙天主教古典傳統、非洲泛靈信仰與本土印第安美學的多元洗禮，交織出斑斕絢麗的軟實力輸出"
+        ],
+        "text": "巴西文化是一場永不落幕、色彩極度飽和的視聽與精神風暴。在這裡，足球是一門神聖的宗教——它是唯一一個從未缺席過歷屆世界盃決賽週、且史無前例勇奪五屆大力神盃的至高神話，從傳奇球王比利（Pelé）、加林查，到羅納度、小羅納度以及當代巨星，巴西足球以其行雲流水般的「藝術桑巴風格」形塑了全球足球運動的美學標準。每當一年一度的里約嘉年華盛大開幕，整個國家都會陷入狂歡的海洋，數百家頂級森巴學校身著耗時一年打造的羽毛華服，在薩普卡伊侯爵森巴場進行震撼心靈的巡遊。在聽覺維度，巴西為世界音樂貢獻了靈魂旋律：既有充滿東北部泥土芬芳的福羅（Forró）舞曲，更有在里約伊帕內瑪海灘誕生、將爵士樂與森巴完美融為一體、優雅慵懶的巴薩諾瓦（Bossa Nova）和弦。這種將歐陸古典高雅、非洲狂野律動與熱帶海洋風情融會貫通的卓越文化，建構了巴西風靡全球、無可抗拒的強大軟實力資本。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Debates surrounding Amazon Rainforest conservation and development",
+          "Deep-seated societal and socioeconomic inequality",
+          "Metropolitan safety and public security challenges",
+          "Susceptibility to political and economic cycles"
+        ],
+        "text": "Brazil faces intense international scrutiny regarding the balance between economic development and the conservation of the critical Amazon Rainforest ecosystem. Domestically, inflation, public safety, and political polarization remain highly debated issues. Major cities also deal with heavy transport congestion and infrastructure bottlenecks."
+      },
+      "zh": {
+        "list": [
+          "亞馬遜熱帶雨林的全球生態環境保護與本土工農業經濟擴展開發之間的國際與國內戰略平衡利弊爭議",
+          "結構性財富分配差距、地區發展不平衡以及中低收入群體教育與基礎建設赤字的長期跨世代消除工作",
+          "超大型都會區貧民窟的系統性治理、打擊跨國販毒集團與全面升級大都市公共安全治安防禦體系",
+          "宏觀經濟容易受到國際大宗商品價格週期波動波動的波及，且面臨政治光譜兩極化的動態社會治理考量"
+        ],
+        "text": "站在現代化發展的十字路口，巴西正全力應對一系列極具代表性的深層發展課題。首當其衝的便是「亞馬遜雨林雙重悖論」——作為全球對抗氣候變遷的決定性碳匯，巴西如何在頂住國際社會環境保護外交壓力的同時，合法、可持續地開發北部與中部的現代化邊疆，保障當地原住民與農場主的生存發展權益，是歷屆政府施政的風向標。在國內社會維度，如何通過稅制改革、加強基礎基礎設施投資，來逐步消弭東南富裕沿海與東北部相對落後地區之間的地理鴻溝，是擺在決策者面前的硬任務。同時，面對大型城市因人口爆炸帶來的交通癱瘓、污水處理赤字以及幫派犯罪等公眾安全挑戰，巴西正大力引進 5G 智慧城市大數據治理、加強警民合作，並透過擴大就業與職業培訓來斬斷犯罪鏈條。這種在高度民主化框架下推動的體制自我修正，雖歷經波折，卻正引導著這頭南美巨象穩步邁向高質量發展軌道。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Brasília — Modernist capital and administrative center",
+          "São Paulo — South America's premier financial and industrial heart",
+          "Rio de Janeiro — Scenic capital of tourism, beaches, and Carnival",
+          "Christ the Redeemer — Internationally iconic symbol of Brazil"
+        ],
+        "text": "Brasília is globally renowned for its futuristic, master-planned modernist architecture, while São Paulo acts as South America's absolute economic powerhouse. Rio de Janeiro is celebrated for its breathtaking harbor, sandy beaches, and lively street life. Looking over the city, the monumental Christ the Redeemer statue stands as the defining symbol of the country."
+      },
+      "zh": {
+        "list": [
+          "巴西利亞（Brasília）—— 登峰造極的現代主義規劃首都，全人類唯一一座整體被列入世界文化遺產的 20 世紀新興城市",
+          "聖保羅（São Paulo）—— 鋼鐵與資本鑄就的南美洲第一超級大都會，坐擁聞名遐邇的保利斯塔金融大道與現代美術館",
+          "里約熱內盧（Rio de Janeiro）—— 山海交融的全球觀光明珠，科帕卡瓦納與伊帕內瑪黃金沙灘環繞著激情燃燒的都市靈魂",
+          "救世基督像（Christ the Redeemer）—— 巍峨聳立於里約基督山頂、張開雙臂俯瞰大西洋的巨型裝飾藝術雕像，世界新七大奇蹟的永恆化身"
+        ],
+        "text": "巴西的景觀與地標是自然鬼斧神工與人類現代主義建築狂想的極致交響。來到里約熱內盧，當你站在高達 710 公尺的科科瓦多山頂，仰望那座高達 38 公尺、在雲霧中若隱若現的巨型裝飾藝術傑作「救世基督像」時，它正以慈悲的姿態向整個世界張開雙臂，背景是湛藍的瓜納巴拉灣與鬼魅般的糖麵包山。而在南美金融心臟聖保羅，保利斯塔大道（Avenida Paulista）兩側密布的玻璃幕牆摩天大樓、直升機的轟鳴與聖保羅藝術博物館（MASP）大膽的懸空紅色支架，則強烈宣告著這座財富之城的工業動能。若深入內陸，首都巴西利亞的聯邦最高法院、三權廣場與碗狀的國會大廈雙子塔，以其極致流暢的白色混凝土曲線，將烏托邦式的未來主義永恆凍結在高原綠野之上。再加之橫跨巴伊亞與阿根廷邊界、震耳欲聾的全球最寬瀑布群伊瓜蘇大瀑布（Iguaçu Falls），巴西以其多維度的地標景觀，編織出讓人嘆為觀止的視覺震撼。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "A founding and highly active member of BRICS",
+          "The dominant and influential political leader of Latin America",
+          "Global diplomatic powerhouse in agriculture, climate, and trade",
+          "A leading voice representing the Global South"
+        ],
+        "text": "Brazil holds major diplomatic weight in Latin America and stands as a leading voice for the Global South, playing a prominent role in international negotiations on climate change, agriculture, and trade reform. It maintains deep economic and strategic ties with China, the United States, and the European Union."
+      },
+      "zh": {
+        "list": [
+          "金磚國家（BRICS）當之無愧的創始核心骨幹國，在全球多邊地緣政經改革中發揮著中流砥柱作用",
+          "南方共同市場（Mercosur）的绝对發動機與南美洲政治、外交與一體化進程的天然大國領袖",
+          "在聯合國、二十國集團（G20）以及世界貿易組織（WTO）中，長年作為農業補貼談判與全球氣候框架的首席談判巨擘",
+          "新興經濟體與全球南方（Global South）利益的卓越代言人，全面踐行不結盟與全方位務實外交路線"
+        ],
+        "text": "巴西在國際外交舞台上長年扮演著舉足輕重的「溫和建制派與多邊主義大師」角色。得益於其歷史上極少與他國發生直接軍事衝突的和平法統，巴西外交部（Itamaraty）以其高度專業、理性且務實的傳統享譽全球。它是二十國集團（G20）的核心成員，更是金磚國家（BRICS）合作機制的堅實支柱，不遺餘力地推動全球治理體系朝著更加公正合理的國際多邊秩序轉型。在拉丁美洲內部，巴西是南方共同市場（Mercosur）的絕對政經定海神針，積極推動區域本幣結算與基礎設施互聯互通。作為全球南方的天然核心發言人，巴西與全球主要大國皆維持著極佳的戰略平衡關係：它是美國在南美最重要的主要非北約盟友，同時與其第一大貿易夥伴中國簽署了全方位戰略夥伴關係協議，並與歐盟積極推進自由貿易協定。這種不選邊站、廣結善緣且專注於實質經貿合作的外交智慧，使得巴西在國際變局中長年立於不敗之地。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Stable trade and economic bilateral exchanges",
+          "Consistent trade in agricultural products, minerals, and manufactured goods",
+          "Presence of an active Taiwanese diaspora community",
+          "Gradually increasing scientific and academic partnerships"
+        ],
+        "text": "Brazil and Taiwan maintain friendly unofficial relations, backed by stable trade in agricultural goods, mineral resources, and industrial components. Brazil is also home to an active Taiwanese diaspora community, with cultural and academic exchanges expanding in recent years."
+      },
+      "zh": {
+        "list": [
+          "雙邊經貿往來基礎深厚且高度互補，在農產品進口、戰略工業原料採購與高科技零組件領域維持長期穩定對接",
+          "大宗商品貿易關係密切，台灣長年從巴西進口高品質的鐵礦砂、原木、大豆、棉花與頂級高山咖啡豆",
+          "南美洲規模最大、最具商業活力的台灣僑民與台商社群扎根於聖保羅等地，為雙邊民間外交構築堅實紐帶",
+          "科技、農業技術交流與高教人才互訪互補性強，雙方在半導體供應鏈、智慧物流與新能源汽車領域蘊含廣闊合作空間"
+        ],
+        "text": "巴西與台灣之間維持著長期歷史悠久、務實且高度互補的非官方經貿與民間友好互動關係。在實體經貿維度，巴西是台灣在拉丁美洲不容忽視的第一大貿易夥伴以及關鍵大宗戰略物資的供應來源國。台灣領先的電子製造、資訊通信與精密機械企業在聖保羅州、馬瑙斯自由貿易區等地進行了長期的深耕投資，為當地創造了大量高質量的製造業就業機會；與此同時，巴西優質的大豆、玉米、牛肉以及來自淡水河谷的高純度鐵礦砂則源源不斷地運抵台灣各大港口，為台灣的糧食安全與工業製造提供了堅實物資護航。此外，聖保羅等地繁衍發展出南美大陸最具規模、愛國凝聚力極強的台灣僑民社群，建立了完備的中文學校與台商會。近年來，雙邊圍繞著綠色減碳轉型、智慧農業種植技術升級、半導體封測人才聯合培養等新興領域，透過在聖保羅與台北互設的實質代表處，持續推動著兩國高科技產業鏈的深度對接與雙贏合作。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "The largest country in the South American continent",
+          "Houses the largest tropical rainforest ecosystem globally",
+          "Maintains deep-seated global prestige in football culture",
+          "Ranks as the world's leading producer and exporter of coffee",
+          "The annual Carnival of Rio stands as an iconic global celebration"
+        ]
+      },
+      "zh": {
+        "list": [
+          "獨佔南美大陆近半疆土的超級地緣巨人，拉丁美洲不可或缺的政經核心發動機",
+          "全球生物多樣性與水資源最密集的熱帶雨林生態中樞，無可替代的地球之肺",
+          "世界足球運動當之無愧的藝術殿堂與至高圖騰，唯一榮膺「五星榮耀」的傳奇國度",
+          "連續一個多世紀蟬聯全球最大咖啡生產與出口霸主，深刻形塑人類咖啡文化歷史",
+          "里約熱內盧狂歡節（Carnival）以無與倫比的視覺奢華與森巴動能，高居地表最強盛典首位"
+        ]
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": "巴西雷亞爾（Brazilian Real / R$ / BRL，拉丁美洲綜合清算規模最大、流動性極強的核心骨幹新興市場貨幣）"
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "Portuguese",
+        "zh": "葡萄牙語（Portuguese，巴西葡萄牙語在發音與詞彙上極具熱帶熱情韻律，是西半球使用人數最多的語言之一）"
+      }
+    },
+    {
+      "label": "GDP (nom.)",
+      "value": "$2.2T"
+    },
+    {
+      "label": "Time zones",
+      "value": {
+        "en": "UTC-5 to UTC-2 (official: UTC-3)",
+        "zh": "UTC-5 至 UTC-2（全國共橫跨四個時區，官方與金融市場標準時間嚴格以首都所在的巴西利亞時間 UTC-3 為準）"
+      }
+    },
+    {
+      "label": "Calling code",
+      "value": "+55"
+    },
+    {
+      "label": "ISO code",
+      "value": "BR / BRA"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🌳",
+      "text": {
+        "en": "Amazon Rainforest — The world's largest tropical rainforest, a vital carbon sink holding unparalleled biodiversity",
+        "zh": "亞馬遜熱帶雨林——全球規模最宏大、地表最無可替代的熱帶雨林生態系統與決定性全球碳匯，孕育著全人類最密集的生物多樣性自然奇蹟"
+      }
+    },
+    {
+      "icon": "🗿",
+      "text": {
+        "en": "Christ the Redeemer — The monumental Art Deco statue of Jesus Christ overlooking Rio de Janeiro, a modern World Wonder",
+        "zh": "救世基督像——神聖聳立於里約熱內盧基督山巔、高聳入雲的巨型裝飾藝術風格耶穌雕像，名列世界新七大奇蹟，是巴西不朽的全球視覺化身"
+      }
+    },
+    {
+      "icon": "🎭",
+      "text": {
+        "en": "Rio Carnival — The world's most spectacular street festival, featuring giant samba school parades and vibrant energy",
+        "zh": "里約熱內盧嘉年華——地表上規模最宏大、色彩飽和度最高的跨年齡街頭狂歡盛典，以震撼靈魂的頂級森巴學校花車大巡遊與無盡活力著稱於世"
+      }
+    },
+    {
+      "icon": "⚽",
+      "text": {
+        "en": "Football Kingdom — The only nation to win five FIFA World Cups, home to legendary legends like Pelé",
+        "zh": "至高無上的足球王國——全人類歷史上唯一一個從未缺席歷屆世界盃決賽週、且史無前例五度封王的神話國度，球王比利等無數巨星的搖籃"
+      }
+    },
+    {
+      "icon": "☕",
+      "text": {
+        "en": "Coffee Giant — The world's leading producer of coffee beans for over 150 years, shaping global coffee cultures",
+        "zh": "傲視全球的咖啡巨擘——連續 150 多年雷打不動穩居全球最大咖啡豆生產與出口國首位，以高品質的高山阿拉比卡豆全面形塑世界咖啡美學"
+      }
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/59470",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=-74.0%2C-34.0%2C-34.0%2C6.0&layer=mapnik"
+}

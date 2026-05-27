@@ -1,0 +1,355 @@
+{
+  "name": {
+    "en": "Malaysia",
+    "zh": "馬來西亞"
+  },
+  "nativeName": "Malaysia",
+  "capital": {
+    "en": "Kuala Lumpur",
+    "zh": "吉隆坡"
+  },
+  "population": "34M",
+  "area": "330,803 km²",
+  "density": "103/km²",
+  "continent": "Asia",
+  "flagEmoji": "🇲🇾",
+  "dataEstYear": 2025,
+  "description": {
+    "en": "Malaysia is a federal constitutional monarchy located in Southeast Asia, divided into two main regions: Peninsular Malaysia and Malaysian Borneo. Renowned for its diverse multi-ethnic society, lush tropical natural environment, and highly open export-driven economy, Malaysia serves as one of the key manufacturing and financial hubs in Southeast Asia.",
+    "zh": "Malaysia是位於東南亞的聯邦君主立憲國家，國土分為馬來半島（西馬）與婆羅洲北部（東馬）兩大部分。馬來西亞以多元族群社會、熱帶自然環境與高度開放的出口經濟聞名，是東南亞重要的製造與金融中心之一。"
+  },
+  "seoText": {
+    "en": "Explore quick facts about Malaysia — population, land area, capital city, and a short overview. Learn about Malaysia's dual-regional geography (West and East Malaysia), Petronas Towers, George Town heritage, and its crucial role in the global semiconductor supply chain.",
+    "zh": "快速了解馬來西亞的基本資料：人口、面積、首都與簡短概述。探索雙子星大樓、西馬與東馬的特殊地理、多元族群華人社群、檳城美食以及半導體電子的供應鏈樞紐。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Federal constitutional monarchy located in Southeast Asia",
+          "Territory divided into Peninsular (West) and East Malaysia",
+          "Richly diverse multi-ethnic and multi-religious society",
+          "A major export-driven and manufacturing economy in ASEAN"
+        ],
+        "text": "Malaysia's development has been profoundly shaped by historic Malay sultanates, Islamic civilization, and British colonial rule, leaving behind a unique multi-cultural foundation. Since securing independence in 1957, the country has successfully transitioned into a modern industrial and service-based nation.\n\nToday, Malaysia plays a pivotal role in global electronics manufacturing, petroleum, natural gas, banking, and international tourism, while serving as a core member of ASEAN."
+      },
+      "zh": {
+        "list": [
+          "位於東南亞的聯邦國家",
+          "國土分為西馬與東馬",
+          "多元族群與宗教社會",
+          "東南亞重要出口經濟體"
+        ],
+        "text": "馬來西亞歷史受到歷史悠久的馬來蘇丹王朝、伊斯蘭文明與大英帝國（British Empire）殖民統治的深刻影響，留下了獨特的多元文化根基。自1957年取得獨立以來，該國已成功轉型為現代化工業與服務業國家。\n\n現代馬來西亞在全球電子製造、石油、天然氣、銀行金融與國際觀光產業中具有重要地位，同時也是東南亞國家協會（ASEAN）的核心成員國之一。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Strategically situated in the heart of Southeast Asia",
+          "Divided into Peninsular Malaysia and Malaysian Borneo",
+          "Draped in sprawling and ancient tropical rainforests",
+          "Flanked by extensive coastlines and pristine resort islands"
+        ],
+        "text": "Spanning approximately 330,000 square kilometers, Malaysia is uniquely split by the South China Sea. West Malaysia sits on the Malay Peninsula, while East Malaysia occupies the northern portion of Borneo island.\n\nThe country is blessed with highly diverse tropical rainforests, rich biodiversity, and countless scenic islands, making it a prominent global destination for ecological and maritime tourism."
+      },
+      "zh": {
+        "list": [
+          "位於東南亞",
+          "分為西馬與東馬兩部分",
+          "熱帶雨林廣布",
+          "海岸線與島嶼眾多"
+        ],
+        "text": "馬來西亞國土面積約 33 萬平方公里，獨特地被南海分隔為兩大區域。西馬坐落於馬來半島，東馬則位於婆羅洲島北部。全國境內擁有大片古老的熱帶雨林與極其豐富的生物多樣性，漫長的海岸線更孕育出無數景致宜人的度假海島，使該國成為全球生態旅遊與海洋觀光的熱門勝地。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Characterized by a classic tropical rainforest climate",
+          "Warm and humid atmospheric conditions year-round",
+          "Rainfall patterns heavily influenced by seasonal monsoons",
+          "Abundant and consistent annual precipitation"
+        ],
+        "text": "Malaysia experiences a hot and highly humid climate throughout the year, with minimal seasonal temperature changes. \n\nMonsoon winds bring abundant rainfall, which varies in seasonality between the east and west coasts. This rich tropical environment fosters the development of extensive agricultural estates and lush ancient rainforests."
+      },
+      "zh": {
+        "list": [
+          "熱帶雨林氣候",
+          "全年高溫潮濕",
+          "季風影響降雨",
+          "雨量充沛"
+        ],
+        "text": "馬來西亞全年氣候炎熱且高度潮濕，季節間的溫差極小。降雨模式深受季風影響，且西海岸與東海岸的雨季月份略有不同。這種充沛的熱帶雨水與環境，極大地支持了當地大規模農業種植（如棕櫚樹與橡膠）以及古老雨林生態系統的蓬勃發展。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Population of approximately 34 million",
+          "A highly vibrant and diverse multi-ethnic society",
+          "High overall rate of urbanization",
+          "Significant demographic proportion of ethnic Chinese"
+        ],
+        "text": "Malaysia's population stands at approximately 34 million, concentrated mainly in Kuala Lumpur and the western coastal plains of Peninsular Malaysia. \n\nThe demographic is comprised of Bumiputera (Malays and indigenous groups), ethnic Chinese, and ethnic Indians, representing one of the most prominent multicultural societies in Asia. Malay is the official language, while English, Mandarin, and Tamil are widely used."
+      },
+      "zh": {
+        "list": [
+          "人口約 3,400 萬",
+          "多元民族社會",
+          "城市化程度高",
+          "華人比例較高"
+        ],
+        "text": "馬來西亞總人口約為 3,400 萬人，主要高密度集中在吉隆坡（Kuala Lumpur）都會區以及馬來半島的西海岸平原。在族群結構中，馬來西亞公民主要由三大群體組成：土著（Bumiputera，包含馬來人及各原住民族）佔比最高，約為 70.1%；華人（Chinese）為最大的少數族群，約佔 22.6%；印度人（Indian）則約佔 6.6%。這使馬來西亞成為亞洲最具代表性的多元文化社會之一。馬來語為官方語言，但英語、中文（含各式漢語方言）與淡米爾語亦在民間與商業領域廣泛使用。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "Highly advanced export-oriented trading economy",
+          "Global leader in semiconductor packaging and testing",
+          "Rich exporter of petroleum and liquefied natural gas",
+          "A leading international hub for Islamic finance"
+        ],
+        "text": "Malaysia is a vital pillar in the global semiconductor supply chain, serving as a prominent international packaging and testing hub. \n\nNatural resources, including palm oil, petroleum, and liquefied natural gas (LNG), remain major drivers of export revenue. Great efforts have also positioned Kuala Lumpur as a leading global hub for conventional and Islamic banking."
+      },
+      "zh": {
+        "list": [
+          "出口導向型經濟",
+          "電子製造業發達",
+          "石油與天然氣資源重要",
+          "金融與伊斯蘭金融具影響力"
+        ],
+        "text": "馬來西亞是全球半導體供應鏈中的關鍵支柱，尤其在國際封裝與測試領域扮演舉足輕重的角色（檳城一帶即為核心廊道）。此外，豐富的天然資源如棕櫚油、石油與液化天然氣（LNG），持續為國家帶來龐大的出口外匯收入。政府多年的現代化發展亦成功將吉隆坡（Kuala Lumpur）打造為全球領先的傳統銀行與伊斯蘭金融服務中心。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Federal constitutional elective monarchy",
+          "Governed under a Westminster-style parliamentary system",
+          "Composed of 13 states and three federal territories",
+          "Unique rotational system for the monarch"
+        ],
+        "text": "Malaysia operates under a highly unique political framework where the monarchs of nine Malay states take turns serving as the King (Yang di-Pertuan Agong) for five-year terms. \n\nThe administrative system is federal, granting individual states certain legislative autonomy. Kuala Lumpur serves as the official capital, while Putrajaya serves as the administrative seat of the government."
+      },
+      "zh": {
+        "list": [
+          "聯邦君主立憲制",
+          "採議會民主制度",
+          "由13州組成",
+          "國王採輪值制度"
+        ],
+        "text": "馬來西亞實行全球極為罕見的特殊政治體制：聯邦君主立憲制中的「選舉君主制」，由國內九個馬來州屬的世襲蘇丹輪流出任國家元首（最高元首，Yang di-Pertuan Agong），任期五年。中央政府運作採用西敏寺議會民主制。馬來西亞由 13 個州和 3 個聯邦直轄區組成，各州依法享有不同程度的立法自治權。吉隆坡（Kuala Lumpur）為憲定首都與金融中心，布城（Putrajaya）則為中央政府的行政首府。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Harmonious coexistence of multiple distinct cultures",
+          "Noticeable religious influence on social structures",
+          "Relatively moderate and highly competitive cost of living",
+          "Modernized infrastructure in metropolitan corridors"
+        ],
+        "text": "Malaysian society beautifully integrates Islamic, Chinese, and Indian customs, giving rise to an exceptionally diverse calendar of national holidays, festivals, and culinary heritages.\n\nMajor cities feature advanced infrastructure and modern facilities, maintaining a high standard of living while preserving deep local cultural identities and communities."
+      },
+      "zh": {
+        "list": [
+          "多元文化共存",
+          "宗教影響社會明顯",
+          "生活成本相對較低",
+          "都市現代化程度高"
+        ],
+        "text": "馬來西亞社會完美交融了伊斯蘭文化、華人傳統與印度習俗，孕育出全世界最豐富多樣的國定假日曆法、民俗慶典與美食資產。各大都會區擁有相當現代化的基礎建設與公共運輸，在提供高品質且具國際競爭力的生活成本之餘，仍妥善保留了各族群深厚的地方文化特色與社區凝聚力。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "Fascinating blend of Malay, Chinese, and Indian traditions",
+          "Profound Islamic customs integrated with local heritages",
+          "Globally famous, richly diverse culinary traditions",
+          "Abundant and vibrant calendar of multicultural festivals"
+        ],
+        "text": "Malaysia's culture is a splendid synthesis of diverse ethnic traditions. Nasi Lemak is celebrated as the national dish, alongside widely popular foods like Bak Kut Teh, Char Kway Teow, and Satay.\n\nFrom Hari Raya Aidilfitri and Chinese New Year to Deepavali, various cultural festivals are celebrated with equal national pride, illustrating the nation's multicultural harmony."
+      },
+      "zh": {
+        "list": [
+          "馬來、華人與印度文化融合",
+          "伊斯蘭文化影響深厚",
+          "美食文化國際知名",
+          "節慶多元豐富"
+        ],
+        "text": "馬來西亞文化展現出高度的包容性與多元特色。椰漿飯（Nasi Lemak）被公認為代表性的國民美食，而肉骨茶、炒粿條、沙嗲與拉茶等各族群料理亦享譽國際。不論是伊斯蘭的開齋節（Hari Raya Aidilfitri）、華人的農曆新年，還是印度教的屠妖節（Deepavali），皆被列為全國性公共假期並舉國同慶，充分彰顯了多元族群的和諧共存。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Managing political and economic balance among ethnic communities",
+          "Addressing the challenge of skilled talent brain drain",
+          "Rising property prices and metropolitan cost of living",
+          "Balancing agricultural development with rainforest preservation"
+        ],
+        "text": "Ensuring political and socio-economic equity and harmony among diverse ethnic communities remains a core long-term national policy focus.\n\nAdditionally, rapid urbanization has brought about rising living costs, and environmental protection regarding tropical rainforests and biodiversity remains a major policy discussion."
+      },
+      "zh": {
+        "list": [
+          "族群與宗教平衡",
+          "人才外流問題",
+          "房價與生活成本上升",
+          "雨林與環境保護"
+        ],
+        "text": "如何妥善平衡各族群之間的政治代表權與社會經濟利益（如長年實行的土著固打制政策），始終是馬來西亞長期最核心的國家政策與政治焦點。此外，近年來高素質技術人才的外流、城市化導致的都會區房價與生活成本攀升，以及在擴展棕櫚油等農業經濟與保護古老熱帶雨林生態之間如何取得平衡，也是社會高度關注的重大政策議題。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Kuala Lumpur — Sprawling metropolitan and financial core",
+          "George Town — Historic Penang colony city famous for heritage",
+          "Johor Bahru — Leading industrial gateway adjacent to Singapore",
+          "Petronas Twin Towers — Iconic architectural symbol of modern Malaysia"
+        ],
+        "text": "Kuala Lumpur stands as a towering center of commerce, while Penang's George Town is a UNESCO World Heritage site celebrated for its colonial architecture and street foods.\n\nThe Petronas Twin Towers, soaring 452 meters above the capital, represent a magnificent symbol of Malaysia's modern industrial achievements."
+      },
+      "zh": {
+        "list": [
+          "Kuala Lumpur —— 首都與金融中心",
+          "George Town —— 歷史文化城市",
+          "Johor Bahru —— 新加坡鄰近工業城市",
+          "Petronas Towers —— 馬來西亞代表性地標"
+        ],
+        "text": "首都吉隆坡（Kuala Lumpur）是繁華的商業與國際金融中樞。檳城的喬治市（George Town）則是榮獲聯合國教科文組織認定的世界文化遺產，以極具風味的英殖民時期建築、街頭壁畫與傳奇小吃聞名遐邇。南端的新山（Johor Bahru）是緊鄰新加坡、經貿互動極其頻繁的工業門戶。而聳立於首都天際線、高達 452 公尺的國油雙峰塔（Petronas Twin Towers），則是馬來西亞邁入現代化與工業成就的標誌性世界地標。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "Cornerstone co-founder and proactive member of ASEAN",
+          "Prominent and influential state within the Islamic world",
+          "Close bilateral and economic ties with Singapore and China",
+          "Highly integrated in global trading networks"
+        ],
+        "text": "Malaysia is a vital, proactive member of ASEAN, championing regional trade, political cooperation, and maritime safety in the South China Sea. \n\nIt enjoys close economic relationships with neighboring Singapore and major trading partners like China and Japan, while playing an active role in Islamic cooperative organizations."
+      },
+      "zh": {
+        "list": [
+          "ASEAN 核心成員",
+          "伊斯蘭世界重要國家之一",
+          "與中國與新加坡關係密切",
+          "全球貿易依存度高"
+        ],
+        "text": "馬來西亞是東南亞國家協會（ASEAN）的創始國兼核心成員，積極推動區域內自由貿易、政治協調以及南海的航行安全。該國在全球貿易網絡中依存度極高，與鄰近的新加坡維持著龐大的跨境通勤與經貿往來，與中國及日本亦保持緊密的雙邊貿易與投資關係，同時在伊斯蘭合作組織中發揮著顯著的國際影響力。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Robust trade and educational exchanges",
+          "Strong cultural resonance due to active Chinese community",
+          "Key bilateral cooperation in semiconductor supply chains",
+          "Stable tourism and passenger flows"
+        ],
+        "text": "Malaysia and Taiwan maintain highly active trade and investment ties, especially within the global semiconductor and electronic component supply chains.\n\nDue to Malaysia's large ethnic Chinese community, cultural, academic, and educational exchange is exceptionally deep, with Malaysia serving as a major source of international students for Taiwanese universities."
+      },
+      "zh": {
+        "list": [
+          "經貿與教育交流密切",
+          "華人文化交流頻繁",
+          "電子產業合作重要",
+          "旅遊互動穩定"
+        ],
+        "text": "馬來西亞與台灣之間維持著極其熱絡的經貿與投資往來，特別是在全球半導體、資通訊與電子零組件的供應鏈分工上合作緊密。受益於馬來西亞龐大且保留完整中華傳統的華人社群，雙方在文化、出版與影視產業的共鳴度極高；在高等教育方面交流尤為深厚，馬來西亞長年是台灣各大專院校國際留學生（獨立中學留台獨中生）最主要的來源國之一。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "A leading Southeast Asian hub of multiculturalism",
+          "Crucial supply chain player in global semiconductor packaging",
+          "One of the world's premier centers for Islamic finance",
+          "Abundant tropical rainforests and marine resort islands",
+          "Petronas Twin Towers represent a world-famous modern landmark"
+        ]
+      },
+      "zh": {
+        "list": [
+          "東南亞多元文化代表國家",
+          "全球重要半導體供應鏈國家",
+          "伊斯蘭金融中心之一",
+          "熱帶雨林與海島資源豐富",
+          "Petronas Towers世界知名地標"
+        ]
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": "Malaysian Ringgit (RM)"
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "Malay",
+        "zh": "馬來語"
+      }
+    },
+    {
+      "label": "GDP (nom.)",
+      "value": "$445B"
+    },
+    {
+      "label": "Time zone",
+      "value": "UTC+8"
+    },
+    {
+      "label": "Calling code",
+      "value": "+60"
+    },
+    {
+      "label": "ISO code",
+      "value": "MY / MYS"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🗼",
+      "text": {
+        "en": "Petronas Twin Towers — The iconic twin skyscrapers in Kuala Lumpur symbolizing Malaysia's modern growth",
+        "zh": "國油雙峰塔——吉隆坡最具代表性的摩天雙子大樓，象徵著馬來西亞的現代化與繁榮"
+      }
+    },
+    {
+      "icon": "🍲",
+      "text": {
+        "en": "Nasi Lemak — The beloved signature national dish featuring fragrant coconut rice, sambal, and various toppings",
+        "zh": "椰漿飯（Nasi Lemak）——馬來西亞最具代表性的國民美食，以椰香米飯、參巴辣醬與豐富配菜組成"
+      }
+    },
+    {
+      "icon": "🌳",
+      "text": {
+        "en": "Kinabalu National Park — UNESCO World Heritage site home to Mount Kinabalu and pristine ancient Bornean rainforests",
+        "zh": "神山國家公園——世界自然遺產，擁有東南亞著名高峰京那巴魯山與生物多樣性極高的婆羅洲雨林"
+      }
+    },
+    {
+      "icon": "🏖️",
+      "text": {
+        "en": "Langkawi — An archipelago of tropical islands globally celebrated for its sandy beaches and duty-free shopping",
+        "zh": "蘭卡威島——美麗的熱帶群島，以細白沙灘、地質景觀與免稅購物天堂聞名世界"
+      }
+    },
+    {
+      "icon": "🏮",
+      "text": {
+        "en": "George Town Heritage — The vibrant colonial historic capital of Penang famous for its unique murals and street food",
+        "zh": "喬治市古蹟區——檳城首府，以色彩繽紛的殖民歷史建築、街頭壁畫藝術與傳奇街頭美食享譽全球"
+      }
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/2108121",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=99.5%2C0.8%2C119.5%2C7.5&layer=mapnik"
+}

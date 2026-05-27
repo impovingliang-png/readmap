@@ -1,0 +1,355 @@
+{
+  "name": {
+    "en": "Uganda",
+    "zh": "烏干達"
+  },
+  "nativeName": "Uganda",
+  "capital": {
+    "en": "Kampala",
+    "zh": "坎帕拉"
+  },
+  "population": "50.5M",
+  "area": "241,038 km²",
+  "density": "209/km²",
+  "continent": "Africa",
+  "flagEmoji": "🇺🇬",
+  "dataEstYear": 2026,
+  "description": {
+    "en": "Uganda, officially the Republic of Uganda, is a sovereign landlocked country in East-Central Africa, bordered by South Sudan, Kenya, the Democratic Republic of the Congo, Rwanda, and Tanzania. Famously dubbed the 'Pearl of Africa', its geography is defined by a well-watered equatorial plateau, majestic snow-capped border peaks, and the expansive waters of Lake Victoria. Politically structured as a presidential republic under long-term centralized rule, Uganda maintains a vital position as a regional military anchor in East Africa, a major exporter of Robusta coffee, and a critical evolutionary sanctuary for the world's remaining endangered mountain gorillas.",
+    "zh": "Uganda（烏干達，全稱為烏干達共和國）是位於東中非交界處的內陸主權國家，北接南蘇丹，東鄰肯亞，西與剛果民主共和國接壤，南與盧安達及坦尚尼亞毗鄰。因境內豐沛的赤道高寒水源、終年積雪的魯文佐里山脈與浩瀚的維多利亞湖相映襯，而被譽為「非洲明珠」。在政治與地緣格局中，烏干達採行高度集權的總統制共和國架構，是非洲聯盟在東非最重要的軍事維和力量投放國，同時也是全球羅布斯塔咖啡的核心產地與瀕危山地大猩猩的關鍵基因庇護所。"
+  },
+  "seoText": {
+    "en": "Explore updated 2026 Uganda profiles — national population metrics, Kampala urbanization data, economic GDP breakdowns, and ethnolinguistic compositions. Discover Bwindi Impenetrable gorilla safaris, the Albertine Rift oil developments, the Nile River headwaters at Jinja, and regional UPDF security policies.",
+    "zh": "掌握烏干達（Uganda）最新國家基礎資料：各民族精確人口普查比例、首都坎帕拉基建進程、國家總體經濟 GDP 指標。深入分析布溫迪森林大猩猩生態足跡、艾伯特湖盆地中海油（CNOOC）石油管道開發、維多利亞湖白尼羅河源頭地緣水權，以及穆塞維尼強人體制下的區域安全戰略。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Dynamic East-Central African nation possessing one of the world's fastest-growing demographics",
+          "Strategic custodian of the Nile River's headwaters and key regional water resource systems",
+          "Global conservation epicenter harboring over half of the planet's surviving mountain gorillas",
+          "Maintains highly centralized political management under President Yoweri Museveni's long tenure"
+        ],
+        "text": "The Republic of Uganda functions as a key geopolitical hinge between East Africa and the Congo Basin. Navigating its post-colonial evolution since gaining independence from Britain in 1962, the nation transformed from an era of severe internal volatility into a stable, state-directed regional anchor. Today, the government seeks to leverage its massive youth bulge and newly discovered western crude reserves to transition from an agrarian economy into a modern industrial and logistics corridor."
+      },
+      "zh": {
+        "list": [
+          "東中非核心內陸國家，擁有全球最為年輕且擴張極其迅速的人口矩陣",
+          "白尼羅河源頭的實質掌控者，在地緣水權與東非流域政治中具備關鍵籌碼",
+          "全球生態保育重鎮，境內庇護著全世界超過半數的珍稀野生山地大猩猩集群",
+          "自 1986 年起由約韋里·穆塞維尼長期執政，政治結構呈現高度穩定的威權半民主特色"
+        ],
+        "text": "烏干達在歷史上曾是英國的「保護國」，1962 年獨立後經歷了阿敏（Idi Amin）及奧博特（Milton Obote）時期的軍事獨裁與血腥內戰。1986 年全國抵抗運動（NRM）掌權後，烏干達實現了歷史性的國內和平與經濟重建。\n\n當前，坎帕拉當局正積極與東非共同體（EAC）國家深化整合，試圖將龐大的人口紅利轉化為製造業動能，並透過引進國際資本開採西部邊境油田，以期打破內陸地理瓶頸，全面邁向中等收入國家行列。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Occupies an elevated equatorial basin averaging 1,100 meters above sea level",
+          "Surrounded by major African Great Lakes, with Lake Victoria commanding the southern flank",
+          "Bounded on the west by the glaciated, non-volcanic peaks of the Rwenzori Mountains",
+          "Acts as the core hydrographic engine fueling the downstream volume of the White Nile"
+        ],
+        "text": "Covering 241,038 square kilometers, Uganda sits on a fertile interior plateau of the African continent. Water forms the foundational core of its geography, with open lakes, marshlands, and rivers occupying nearly one-fifth of the total sovereign area. The Albertine Rift Valley cuts through the western landscape, forming deep, resource-rich fault depressions like Lake Albert, which sit in striking contrast to the alpine profiles of the snow-capped Rwenzori range."
+      },
+      "zh": {
+        "list": [
+          "坐落於東非大裂谷西支的高原盆地，平均海拔維持在 1,100 公尺上下",
+          "東非大湖區的核心水網中心，南部掌控著非洲第一大淡水湖維多利亞湖的北岸半壁",
+          "西部邊境聳立著非洲最高的非火山山脈——魯文佐里山脈，擁有獨特的赤道冰河奇觀",
+          "境內水系網絡發達，金賈（Jinja）段的白尼羅河溢流是埃及與蘇丹下游水源的生命線"
+        ],
+        "text": "烏干達的國土結構兼具高原盆地與裂谷地貌的雙重特徵。全國五分之一的面積被水域與濕地覆蓋，除了浩瀚的維多利亞湖外，基奧加湖、愛德華湖與艾伯特湖等巨型水體星羅棋布。這種獨特的地質構造使烏干達免受周邊非洲內陸的乾旱之苦。\n\n大裂谷西支的下陷不僅造就了壯麗的峽谷與穆奇森瀑布，更在艾伯特湖盆地底層沉積出了數十億桶的高品質低硫原油，使這片土地從傳統的生態旅遊天堂，一躍成為東非最具戰略價值的能源探勘前線。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Modulated equatorial profile mitigated year-round by elevated interior typography",
+          "Maintains stable, mild seasonal temperature marks averaging between 20°C and 27°C",
+          "Regulated by bimodal annual rainfall intervals driven by the Intertropical Convergence Zone",
+          "Vulnerable to ecological shifts in traditional precipitation regimes affecting rain-fed agriculture"
+        ],
+        "text": "Although straddling the equator, Uganda escapes extreme tropical heat due to its elevated baseline altitude. The climate is generally mild and pleasant throughout the year. Precipitation is dictated by a distinct bimodal monsoon pattern, resulting in two heavy wet seasons (March to May and September to November), which sustain the country's dense rainforest patches and rich agricultural output."
+      },
+      "zh": {
+        "list": [
+          "雖橫跨赤道，但因整體海拔抬升，形成了極為獨特且舒適的熱帶高原氣候",
+          "全年氣溫波動極小，均溫長年維持在舒適的 20°C 至 27°C 之間，絕無極端酷暑",
+          "受赤道低壓帶移動控制，全年呈現雙峰狀雨季分布，降雨量由南向北遞減",
+          "高度依賴季風降雨的雨養農業結構，近年正面臨氣候變遷引發的乾旱與洪澇交替考驗"
+        ],
+        "text": "烏干達的氣候得天獨厚，常年如春。來自維多利亞湖的巨量水氣蒸發與高原地形相結合，為南部沿岸與西部山區帶來了極為豐沛的对流雨。每年 3 月至 5 月、9 月至 11 月為兩大主要雨季，這段期間的降雨確保了烏干達土地的肥沃度，使其成為非洲少數糧食能完全自給自足的國家之一。\n\n然而，中北部薩凡納稀樹草原地帶則相對乾燥，乾濕季節分明。近年來，聖嬰現象引發的降雨週期紊亂，導致局部地區爆發泥石流與突發性旱災，對小農經濟造成了結構性的威脅。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Sustains an expanding demographic grid of over 50.5 million citizens with a 3.2% annual growth index",
+          "Exhibits a globally exceptional youth profile, with a median age hovering at just 15.7 years",
+          "Features an ethnolinguistic matrix consisting of over 56 distinct recognized indigenous groups",
+          "Bantu-speaking communities dominate the southern territory, while Nilotic peoples occupy the north"
+        ],
+        "text": "Uganda's demographic structure is defined by its remarkable youth and ethnic diversity, tracked closely by the Uganda Bureau of Statistics (UBOS). Bantu-speaking peoples form the demographic majority, led by the Baganda at 16.5% of the population. Other prominent Bantu groups include the Banyankole (9.6%), Basoga (8.8%), Bakiga (7.1%), Iteso (7.0%, Nilotic), Langi (6.3%, Nilotic), Bagisu (4.9%), Acholi (4.4%, Nilotic), and Lugbara (3.3%, Central Sudanic). Non-African minorities, including small but economically influential South Asian and European diaspora populations, constitute less than 0.5% of the citizenry. English remains the primary administrative language, alongside Swahili and Luganda."
+      },
+      "zh": {
+        "list": [
+          "總人口突破 5,050 萬人，人口年成長率高達 3.2%，處於極端劇烈的人口爆炸擴張期",
+          "年齡中位數僅為 15.7 歲，全國有近半數人口未滿 16 歲，是地球上最年輕的國家群體之一",
+          "由官方認定並保護的法定土著部族高達 56 個，語言與社會結構呈現明顯的南北分化特徵",
+          "南部及西南部由班圖語系民族佔據絕對優勢，中北部與東部則由尼羅語系民族主導"
+        ],
+        "text": "根據烏干達國家統計局（UBOS）發布的最新人口普查與戶籍動態指標，烏干達擁有極其多元且高度碎片化的民族結構。全國各主要部族的具體人口比例分布如下：\n\n布干達族（Baganda）約占總人口的 16.5%，是歷史最悠久、文化政治影響力最大的班圖語系民族，主要聚居於首都坎帕拉周邊的中央區。\n巴尼安科萊族（Banyankole）約占 9.6%，主要分佈於西南部高原，現任總統及多數軍政高層均出身於此部族。\n巴索加族（Basoga）約占 8.8%，世代居住於維多利亞湖以北的尼羅河源頭區域。\n巴基加族（Bakiga）約占 7.1%，密集分佈於西南部與盧安達交界的高山地帶。\n伊特索族（Iteso）約占 7.0%，屬於東部主要的尼羅語系部族，以農牧業見長。\n蘭吉族（Langi）約占 6.3%，分佈於中部偏北地區，歷史上曾是軍隊骨幹力量的重要來源。\n巴吉蘇族（Bagisu）約占 4.9%，聚居於東部埃爾貢山脈肥沃的咖啡種植帶。\n阿喬利族（Acholi）約占 4.4%，北部最具軍事傳統的尼羅語系民族，曾深受聖靈抵抗軍（LRA）戰亂折磨。\n盧格巴拉族（Lugbara）約占 3.3%，居住於西北部與剛果、南蘇丹交界處，屬於蘇丹中央語系。\n其他數十個少數非裔部族合計約占 32.1%。\n非裔以外的少數族裔（包含歷史留存與近年新進的印度裔商人群體、歐美及亞裔跨國技術專家）合計比例低於 0.5%，但掌控著城市零售、製造與大宗貿易的核心資本。\n\n在語言層面，英語作為官方行政與高等教育語言，斯瓦希里語（Swahili）作為第二官方語言及軍警通用語，而布干達語（Luganda）則是南方商貿與民間流行文化的事實上通語。這種超年輕的人口矩陣一方面為烏干達提供了無限的勞動力儲備，另一方面也對國家的基礎教育、婦幼醫療與青年就業市場造成了毀滅性的財政擠壓。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "Agrarian-dominated economic baseline employing over 70% of the total national workforce",
+          "Ranks as Africa's largest exporter of Robusta coffee beans, anchoring agrarian foreign cash flows",
+          "Undergoing massive capital shifts ahead of commercial oil extraction in the Albertine Graben",
+          "Relies on external sovereign financing, particularly from Chinese banking institutions, for heavy infrastructure"
+        ],
+        "text": "Uganda's microeconomic architecture is steadily transitioning from subsistence farming toward an energy-exporting framework. The country's fertility allows it to be a key agricultural vendor to the East African Community. Concurrently, the flagship East African Crude Oil Pipeline (EACOP) project—developed alongside TotalEnergies and CNOOC—aims to transport crude oil from western fields to the Tanzanian coast, promising to significantly alter Uganda's fiscal balances upon completion."
+      },
+      "zh": {
+        "list": [
+          "典型的農業主導型發展中經濟體，全國超過 70% 的就業人口被束縛在土地與初級農產品加工中",
+          "非洲最大的羅布斯塔（Robusta）咖啡出口國，咖啡貢獻了國家近三成 的外匯收入總額",
+          "正處於能源轉型的爆發前夜，艾伯特湖區油田的全面投產將使該國跨入原油出口國行列",
+          "對外資依賴度極高，主要透過引進中國進出口銀行等外債，興建高速公路、大型水電站與機場擴建"
+        ],
+        "text": "烏干達經濟體量約為 520 億美元，長期實行新自由主義市場經濟，對外資完全開放。儘管服務業與電信金融在坎帕拉發展迅速，但小農經濟仍是國家的基本盤。除了咖啡之外，茶葉、黃金、魚產品以及新興的花卉園藝也是重要出口項目。\n\n當前經濟最核心的戰略增長點，在於由法國道達爾（TotalEnergies）與中國海油（CNOOC）主導、總投資高達數十億美元的「東非原油管道項目（EACOP）」。這條長達 1,443 公里的加溫管道將跨越坦尚尼亞，將西部的原油直接輸往印度洋港口。儘管該項目在國際上面臨西方環保組織的強烈輿論狙擊與融資限制，但烏干達政府仍將其視為擺脫貧窮陷阱、實現國家基建工業化的唯一救命稻草。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "De facto dominant-party presidential republic governed by the National Resistance Movement",
+          "President Yoweri Museveni has retained supreme executive control since January 1986",
+          "The domestic political arena features a highly constrained operating environment for opposition movements",
+          "The military acts as a pivotal pillar of state sovereignty and an instrument of regional foreign policy"
+        ],
+        "text": "Governance in Uganda centers heavily on the executive authority of the presidency. While periodic multi-party legislative and presidential elections are executed, the ruling NRM apparatus leverages deep institutional dominance to maintain power. The Uganda People's Defence Forces (UPDF) function as a critical instrument of state capacity, positioning Kampala as an indispensable counter-terrorism ally for Western security frameworks in the Horn of Africa."
+      },
+      "zh": {
+        "list": [
+          "名義上實行多黨制總統共和國，實質上由執政黨「全國抵抗運動（NRM）」實施一黨獨大治理",
+          "約韋里·穆塞維尼總統自 1986 年透過革命掌權以來連續出任元首，其執政時長位居非洲前列",
+          "反對派（如以紅歌手波比·懷恩為首的國家團結平台）面臨嚴格的集會限制與強力的行政司法壓制",
+          "軍隊（烏干達人民國防軍 UPDF）在國家政治中擁有超然地位，十名軍方代表依法直接在議會中保留席次"
+        ],
+        "text": "烏干達的政治體制是典型的強人威權政體。穆塞維尼總統依靠強大的軍隊控制力和早年平定內戰的歷史合法性，透過數次修改憲法取消總統年齡與任期限制，牢牢掌控著最高權力中樞。雖然國會內部存在激烈的辯論，且每五年舉行一次大選，但國家機器與財政資源對反對派的系統性打壓，使得政權輪替在現行框架下極其困難。\n\n近年來，隨著第一家庭成員（如總統長子穆胡茲將軍）在軍中快速擢升並接掌陸軍帥印，有關政治接班人的權力過渡安排已成為坎帕拉政壇最具爭議的底層暗流。與此同時，烏干達軍隊在打擊索馬利亞青年黨（Al-Shabaab）與清剿剛果東部反政府武裝中充當核心先鋒，這使得西方國家出於反恐戰略考量，長期對其國內的政治威權化傾向採取默許態度。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Social infrastructure heavily grounded in conservative Christian values and deep clan hierarchies",
+          "The vast majority of the population remains structurally anchored within decentralized rural settlements",
+          "The state implements broad Universal Primary Education (UPE) frameworks but battles systemic drop-out rates",
+          "Exhibits a distinct generational friction between conservative agrarian traditionalists and hyper-connected urban youth"
+        ],
+        "text": "Ugandan society combines deep spiritual convictions with localized family systems. Over 84% of the population adheres to various Christian denominations (predominantly Roman Catholic and Anglican), while a stable 14% Muslim minority coexists peacefully. Social organization in the south remains heavily influenced by ancient traditional kingdoms, which, though stripped of direct political execution power, command profound cultural and moral authority over their subjects."
+      },
+      "zh": {
+        "list": [
+          "社會觀念深受極端保守的基督教信仰與傳統部落氏族長老制度的雙重制約",
+          "高達七成以上的人口常年居住在缺乏現代公用設施的農村部族領地內，維持著傳統生活型態",
+          "政府推行普及小學免費教育（UPE），但面臨師資極端匱乏、基礎設施破敗與高輟學率的瓶頸",
+          "城鄉、世代鸿沟劇烈，首都圈經由智慧型手機催生的新潮青年文化正與農村宗族權威發生激烈碰撞"
+        ],
+        "text": "烏干達社會的精神世界極其重視宗教與宗族。全國約 40% 信仰羅馬天主教，32% 信仰英國國教（聖公會），另有約 14% 的穆斯林社群。各宗教團體在國家醫療、教育資源的提供上扮演了甚至超越政府的實質角色。在南方，布干達等五大傳統歷史王國至今保留著國王（Kabaka）與宮廷架構，在土地分配與民間糾紛調解中擁有巨大的道德號召力。\n  \n然而，隨著城鎮化率以每年 5% 的速度激增，坎帕拉等都市貧民窟聚集了無數失業青年。這群伴隨行動網際網路長大的新世代，正逐步對老一輩的部族效忠與政治權威產生動搖，帶來了犯罪率上升、性別觀念轉變以及對社會公正的強烈訴求。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "Polycentric cultural ecosystem where expressive dance and complex percussion cross tribal lines",
+          "The centuries-old visual and courtly legacy of the Buganda Kingdom maintains high societal prestige",
+          "A fusion of British administrative custom with deeply entrenched traditional customary codes",
+          "Dominates East African long-distance athletics alongside a hyper-prolific vernacular music industry"
+        ],
+        "text": "The culture of Uganda is characterized by its dynamic pluralism. Each ethnic enclave maintains unique ceremonial dances and specialized drum languages, such as the royal Bakisimba dance of the Baganda. In contemporary urban hubs, Uganda has pioneered distinct creative expressions, notably through 'Kidandali' pop music and the globally viral, ultra-low-budget action film phenomenon known as 'Wakaliwood' in the slums of Kampala."
+      },
+      "zh": {
+        "list": [
+          "多中心文化拼圖，各民族皆擁有獨特的複式節奏鼓樂與充滿爆發力的傳統祭典舞蹈",
+          "布干達王國的宮廷禮儀、傳統草葺卡蘇比王陵（世界文化遺產）沉澱了深厚的歷史美學",
+          "日常生活與公共儀式中，英國殖民時期留下的西式紳士遺風與非洲本土部落風俗深度雜糅",
+          "在世界田徑中長跑版圖中高居霸主地位，同時催生出風靡東非的 Kidandali 數位流行音樂"
+        ],
+        "text": "烏干達的文化是非洲本土生命力與現代流行浪潮的完美混合體。傳統上，不論是歡慶豐收還是婚喪嫁娶，充滿繁複切分音的木琴與手鼓（如布干達皇家鼓樂）始終是靈魂所在。不同民族的舞蹈風格迥異，南方的巴基斯巴舞溫婉柔韌，北方的阿喬利戰舞則剛勁狂野。\n\n在現代維度上，首都坎帕拉被譽為「東非不夜城」。這裡誕生了極具本土特色的 Kidandali 流行樂，並孕育出了震驚世界的「瓦卡里塢（Wakaliwood）」電影奇蹟——當地的電影愛好者在資金極端匱乏的貧民窟中，用廢鐵和木頭製作道具，拍攝出節奏瘋狂、充滿草根幽默的土法動作片，並透過 YouTube 成功輸出全球，展現出烏干達文化強大的野蠻生長能力。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Combating pervasive systemic corruption and administrative financial leaking within the bureaucracy",
+          "Critical deficiencies in generating formalized employment pipelines for the exploding youth bulge",
+          "International isolation and aid friction triggered by the enactment of hyper-conservative anti-homosexuality laws",
+          "Severe structural strain from hosting over 1.6 million refugees from regional flashpoints"
+        ],
+        "text": "Uganda's long-term sustainability is tested by severe domestic bottlenecks and international diplomatic rifts. The domestic economy struggling to absorb millions of school-leavers has fueled latent political unrest. Externally, the passing of the draconian Anti-Homosexuality Act led to severe pushback from Western bilateral donors and the World Bank, who frozen critical loans. Simultaneously, Uganda continues to execute an exemplary open-border humanitarian framework, hosting Africa's largest refugee collective fleeing ongoing conflicts in South Sudan and the eastern DRC."
+      },
+      "zh": {
+        "list": [
+          "官僚體制內部根深蒂固的系統性腐敗與財政資金挪用，嚴重腐蝕了公共基建的變現效率",
+          "經濟結構無法提供足夠的正規製造業職缺，導致每年有數十萬高校畢業生陷入永久性失業或隱性失業",
+          "因出台全球最嚴厲的《反同性戀法》，遭到世界銀行暫停新貸款及美歐制裁，面臨嚴重的外部財政斷鏈",
+          "作為非洲最大難民接收國，常年安置超過 160 萬鄰國難民，對地方土地、森林與基礎設施造成毀滅性負荷"
+        ],
+        "text": "邁入 2026 年，烏干達正面臨獨立以來最嚴峻的財政與外交雙重擠壓。國內層面，龐大的年輕人口找不到工作，演變成嚴重的社會治安隱患與政治反彈溫床；同時，高層官員的貪腐醜聞頻發，引發大眾極度不滿。\n\n在外交人權對壘上，由於坎帕拉當局順應國內保守宗教勢力，簽署了針對 LGBTQ+ 族群課以重刑甚至死刑的法案，直接引發西方社會集體斷交與撤資潮。美國撤銷了烏干達的 AGOA 貿易免稅資格，世界銀行也凍結了後續所有發展貸款，這對高度依賴外部援助的烏干達財政不啻於致命一擊。與此同時，中北部龐大的畢迪畢迪（Bidi Bidi）等難民營內，數百萬南蘇丹與剛果難民的口糧因聯合國資金短缺而不斷遭到削減，區域人道主義危機正處於一觸即發的邊緣。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Kampala Urban Axis — The booming, polycentric metropolis sprawling across seven historic hills",
+          "Bwindi Impenetrable Sanctuary — Ancient cloud-forest mountain system hosting rare gorilla communities",
+          "The River Nile Source (Jinja) — The geographical rift junction where Lake Victoria yields the newborn White Nile",
+          "Murchison Falls National Park — A violent hydrological canyon where the Nile forcefully compresses through a 7-meter fissure"
+        ],
+        "text": "Uganda's landmark map charts a spectacular transit from vibrant post-colonial urban environments to pristine rift ecosystems. Kampala features key landmarks like the Gaddafi National Mosque and the historic Kasubi Tombs. In the wild interior, natural features dominate, headlined by Murchison Falls, where the river explodes through an incredibly narrow rocky cleft before transforming into a tranquil stream populated by massive concentrations of Nile crocodiles and hippopotamuses."
+      },
+      "zh": {
+        "list": [
+          "坎帕拉都市核心 —— 興盛的東非政治與商貿心臟，依山而建的大清真寺與巴哈伊靈曦堂交織成多元天際線",
+          "布溫迪難以穿透的國家公園 —— 覆蓋著茂密雲霧的古老原始雨林，追蹤地球最後一條野生山地大猩猩血脈的終極聖地",
+          "金賈尼羅河源頭 —— 浩瀚的維多利亞湖在此收窄，化作奔騰不息的白尼羅河，兩岸遍布世界級的激流漂流水道",
+          "穆奇森瀑布國家公園 —— 尼羅河在此遭遇地質斷層，整條大河被強行塞入僅 7 公尺寬的岩石裂縫，形成雷霆萬鈞的爆炸性跌落"
+        ],
+        "text": "烏干達的地標景觀是大自然鬼斧神工與豐富人文歷史的交響樂章。首都坎帕拉是一座歷史悠久的「七丘之城」，山頂矗立著由利比亞前領導人卡達菲捐建、可容納數萬人的國家清真寺，山谷下則是喧囂混亂的馬他圖（Matatu）小巴客運站，展現出純正的東非都市活力。\n\n深入內陸，大自然的野性美則完全主導了視覺。被聯合國教科文組織列入名錄的布溫迪原始森林，山高谷深、植被極其致密，這裡的大猩猩追蹤之旅是全球生態旅遊的最高殿堂。而在北方的穆奇森瀑布，原本寬闊的尼羅河水以每秒數萬加侖的流量，瘋狂擠進一條窄如門縫的懸崖缺口，撞擊出漫天水霧與彩虹，其視覺衝擊力堪稱東非大裂谷中最具壓迫感的自然奇觀。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "Functions as the dominant military contributor to the African Union transition mission in Somalia (ATMIS)",
+          "Deepens structural infrastructure, mining, and strategic logistics synchronization with China",
+          "Maintains foundational ties within the East African Community, pushing for regional monetary federation",
+          "Acts as a critical, long-term operational partner for United States counter-terrorism logistics in East Africa"
+        ],
+        "text": "Uganda projects diplomatic and military influence far beyond its landlocked borders. Its foreign policy alternates between securing Western counter-terrorism funding and aligning with alternative capital systems. Under the Belt and Road initiative, Beijing has comprehensively rebuilt Uganda's primary infrastructure, including the Entebbe-Kampala Expressway and major hydro-generation plants, ensuring China remains Kampala's primary structural credit partner."
+      },
+      "zh": {
+        "list": [
+          "非洲聯盟駐索馬利亞特派團（ATMIS）的核心出兵國與骨幹力量，扮演東非「區域警察」角色",
+          "與中國建構了全方位的戰略基建夥伴關係，是中資在非實施「一帶一路」架構的示範性核心節點",
+          "東非共同體（EAC）的創始與核心推動者，極力主張打破關稅壁壘並推行統一的東非單一貨幣",
+          "長期充當美國在非洲打擊伊斯蘭極端主義、監控蘇丹與剛果衝突的不可或缺之反恐情報與後勤跳板"
+        ],
+        "text": "烏干達的外交政策充滿了地緣實用主義。儘管它在人權議題上經常與美歐發生激烈衝突，但其強大的軍事力量使其成為西方在動盪的非洲之角不可替代的安全代理人。烏干達軍隊長期頂在索馬利亞反恐一線，頂住極大傷亡重創青年黨，這為其贏得了巨大的國際政治免疫力。\n\n在經濟外交領域，坎帕拉全面向北京傾斜。中資企業不僅承建了全國首條高速公路（坎帕拉－恩德培高速）、全面翻修了唯一的國際機場，更承擔了卡魯瑪（Karuma）等巨型水電站的建設，實質上掌控了烏干達電力與交通的底層命脈。這種在西方安全援助與中國基建資本之間的精準雙軌平衡，是穆塞維尼政權歷經數十年風暴而不倒的國際政治密碼。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Absence of official bilateral ties, with diplomatic engagements routed via neighboring regional missions",
+          "Bilateral economic transactions remain limited to small-scale niche commodity and agricultural trading",
+          "Maintains grass-roots interactions channeled through prominent Taiwanese faith-based humanitarian NGOs",
+          "Ugandan specialty Robusta and Arabica variants are gaining stable traction within Taiwan's micro-roastery market"
+        ],
+        "text": "Uganda and Taiwan do not maintain formal diplomatic relations, with consular matters administered via the Taipei Representative Office in the Republic of South Africa. Bilateral exchanges are predominantly localized and driven by civil society. Taiwanese humanitarian organizations have historically established clean water infrastructures, mobile health clinics, and vocational training initiatives within rural Ugandan districts, while boutique coffee roasters in Taiwan are steadily expanding direct-trade sourcing from Mt. Elgon estates."
+      },
+      "zh": {
+        "list": [
+          "雙方無正式官方外交關係，相關領務與官方商務對接長期由台灣駐南非代表處兼轄",
+          "雙邊經貿規模極其有限，主要圍繞在初級茶葉、咖啡豆進口以及少量二手機車零組件的民間貿易",
+          "民間交流以台灣人道主義 NGO 為核心，在烏干達鄉村開展長期的淨水、醫療與兒童助學計畫",
+          "烏干達頂級單品咖啡豆（如埃爾貢山水洗阿拉比卡）近年成功打入台灣精品咖啡與自烘店市場"
+        ],
+        "text": "烏干達與台灣之間的官方互動極其稀少，坎帕拉當局在國際外交舞台上嚴格奉行其非洲傳統的親北京路線。然而，在非官方的民間維度上，兩地藉由跨國人道援助建構起了溫暖的橋樑。台灣世界展望會、阿彌陀佛關懷中心（ACC）等非政府組織長期在烏干達貧困農村深耕，募資興建一口口深水井以解決婦女步行數公里取水的困境，並提供孤兒教育機會。\n\n在商業文化層面，隨著台灣精品咖啡文化的普及，過去常被用作即溶咖啡原料的烏干達羅布斯塔豆，以及其高海拔優質阿拉比卡豆，正憑藉其獨特的巧克力與堅果風味，越來越多地出現在台灣的獨立咖啡館中，成為台灣大眾認識這顆「非洲明珠」的新穎文化媒介。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "Verdant equatorial highland oasis canonically celebrated as the Pearl of Africa",
+          "Hydrographic cradle encompassing the headwaters of the world-historic White Nile",
+          "The definitive global tracking frontier for endangered mountain gorilla populations",
+          "Sustains a hyper-energetic, youthful demographic driving new regional creative media waves",
+          "Navigates crucial structural transformations involving crude oil deployment, youth employment, and regional security"
+        ]
+      },
+      "zh": {
+        "list": [
+          "矗立於東非高原、由雪山與巨湖交織而成的「非洲明珠」生態奇蹟",
+          "孕育了萬里尼羅河的初生水源，掌控著東非裂谷帶最核心的地緣水權命脈",
+          "地球上最神聖的山地大猩猩自然棲息地，以絕對的原始生態美學傲視全球旅遊業",
+          "全球人口結構最年輕的溫床，正以驚人的青春能量重塑東非的音樂、電影與體育版圖",
+          "在世紀洪流中全力推進原油管道建設、破局青年失業內卷，並在動盪的東非地緣中扮演鐵腕安全錨"
+        ]
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": "Ugandan Shilling (UGX / Sh)"
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "English (Primary official administrative language) & Swahili (Secondary official and military language). Luganda serves as the undisputed vehicular language of trade across the southern region",
+        "zh": "英語（第一官方暨行政教育語言） & 斯瓦希里語（第二官方暨軍警通用語）；布干達語（Luganda）則是南方商貿、城鎮街頭與流行文化的事實上共通語"
+      }
+    },
+    {
+      "label": "GDP (nom.)",
+      "value": "$52B+"
+    },
+    {
+      "label": "Time zone",
+      "value": "UTC+3 (East Africa Time - EAT / Maintaining a seamless and unadjusted year-round diurnal rhythm on the equator)"
+    },
+    {
+      "label": "Calling code",
+      "value": "+256"
+    },
+    {
+      "label": "ISO code",
+      "value": "UG / UGA"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🦍",
+      "text": {
+        "en": "Bwindi Mountain Gorilla Tracking — Embarking into prehistoric, high-altitude cloud forests to encounter the last wild multi-generational families of endangered mountain gorillas",
+        "zh": "布溫迪古老雨林的山地大猩猩 —— 深入迷霧繚繞的史前高山密林，與地球上最後一隻野生瀕危山地大猩猩家族實施近距離的靈魂對視"
+      }
+    },
+    {
+      "icon": "🌊",
+      "text": {
+        "en": "Source of the White Nile — Standing at the historic geographic breach in Jinja where Lake Victoria forcefully spawns the eternal northward march of the Nile River",
+        "zh": "金賈白尼羅河地理源頭 —— 見證浩瀚的維多利亞湖水在此化作奔湧北上的滾滾洪流，開啟橫穿撒哈拉、孕育古埃及文明的地球最長河川序曲"
+      }
+    },
+    {
+      "icon": "🌿",
+      "text": {
+        "en": "The Pearl of Africa Landscape — An ecological marvel juxtaposing permanent glaciers, lush rain-shadow savannahs, and sweeping lakes under a perpetual spring climate",
+        "zh": "「非洲明珠」高原生態 —— 終年積雪的月亮山脈與無數大湖交織，氣候溫潤如春，擁有東非大地上最為富饒、翠綠且生機勃勃的天然地理畫卷"
+      }
+    },
+    {
+      "icon": "👥",
+      "text": {
+        "en": "Hyper-Youthful Demographic Engine — Harnessing the explosive creative and economic potential of a population where the vast majority are below the age of eighteen",
+        "zh": "全球最年輕的人口矩陣 —— 全國半數人口未滿 16 歲的青春奇蹟，源源不斷地為東非的數位轉型、瓦卡里塢影視與嘻哈舞曲注入狂野的野蠻生長力"
+      }
+    },
+    {
+      "icon": "⚖️",
+      "text": {
+        "en": "NRM Strongman Administration — Decades of uninterrupted presidential governance providing a critical, highly stable counter-terrorism anchor for the broader Horn of Africa",
+        "zh": "穆塞維尼鐵腕強人治理 —— 自 1986 年起綿延至今的穩定威權體制，在平定內戰、對抗極端主義中打造出東非大湖區不可或缺的政軍核心穩定島"
+      }
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/192796",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=29.5%2C-1.5%2C35.0%2C4.5&layer=mapnik"
+}

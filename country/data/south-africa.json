@@ -1,0 +1,353 @@
+{
+  "name": {
+    "en": "South Africa",
+    "zh": "南非"
+  },
+  "nativeName": "Republic of South Africa",
+  "capital": {
+    "en": "Pretoria / Cape Town / Bloemfontein",
+    "zh": "普利托里亞 / 開普敦 / 布隆泉"
+  },
+  "population": "62M",
+  "area": "1,221,037 km²",
+  "density": "51/km²",
+  "continent": "Africa",
+  "flagEmoji": "🇿🇦",
+  "dataEstYear": 2025,
+  "description": {
+    "en": "South Africa, officially the Republic of South Africa (RSA), is a highly strategic transcontinental sovereign nation occupying the southernmost tip of the African continent. Surrounded by the Indian Ocean to the east and the Atlantic Ocean to the west, it shares land borders with Namibia, Botswana, and Zimbabwe to the north, while entirely enclosing the kingdom of Lesotho. As one of Africa's most prominent industrial, technological, and financial hubs, South Africa is globally celebrated for its immense mineral wealth, breathtaking natural biodiversity, and a complex socio-political history that birthed the modern 'Rainbow Nation'.",
+    "zh": "South Africa（南非，全稱為南非共和國）是位於非洲大陸最南端的戰略性主權國家。其東臨印度洋，西接大西洋，北鄰納米比亞（Namibia）、波札那（Botswana）與辛巴威（Zimbabwe），並在國境內完全包圍了賴索托王國（Lesotho）。作為非洲最耀眼的工業化、科技與金融重鎮之一，南非以其極其富饒的礦產資源、令人屏息的自然生物多樣性，以及誕生了現代「彩虹國度」的複雜歷史政治背景而聞名於世。"
+  },
+  "seoText": {
+    "en": "Explore quick facts about South Africa — population, land area, capital city, and a short overview. Learn about Pretoria administrative hub, Cape Town Table Mountain, Kruger wildlife safari, gold and diamond mines, and Nelson Mandela's legacy.",
+    "zh": "快速了解南非的基本資料：人口、面積、三大首都與簡短概述。探索普利托里亞行政中心、開普敦桌山、克魯格野生動物園、黃金與鑽石礦產出口，以及曼德拉建立的「彩虹國度」民主傳奇。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Sovereign republic occupying the southernmost tip of the African continent",
+          "Foremost industrial power and financial powerhouse of sub-Saharan Africa",
+          "Abundant global reserves of gold, diamonds, platinum, and rare metals",
+          "Highly diverse, multi-ethnic, and multi-linguistic 'Rainbow Nation' society"
+        ],
+        "text": "Framed by the dramatic vistas of Table Mountain and stretching to the massive savanna reserves of Kruger National Park, South Africa represents one of the most culturally vibrant and naturally diverse nations on Earth. Celebrated as the 'Rainbow Nation' by Archbishop Desmond Tutu, the country officially recognizes eleven languages, reflecting a rich tapestry of indigenous African, European, and Asian heritages.\n\nSince its historic transition to democracy in 1994 led by Nelson Mandela, the country has served as the key geopolitical voice of the African continent."
+      },
+      "zh": {
+        "list": [
+          "位於非洲最南端的重要國家",
+          "非洲工業與金融中心之一",
+          "擁有豐富礦產與自然資源",
+          "多民族、多語言社會結構"
+        ],
+        "text": "從壯麗宏偉的桌山（Table Mountain）天際線，到克魯格國家公園（Kruger National Park）無垠的莽原野生動物保護區，南非堪稱地球上文化最具活力、自然景觀最多元的國家之一。這座被戴斯蒙·屠圖大主教譽為「彩虹國度」的國家，官方承認多達 11 種法定語言，深刻反映出由非洲本土原住民、歐洲移民與亞洲後裔共同編織而成的豐富文化歷史。自 1994 年在奈爾森·曼德拉（Nelson Mandela）領導下歷史性地轉型為民主憲政以來，南非便成為非洲大陸面向全球最重要的地緣政治發言者。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Vast geography spanning coastlines, high plains, and desert plateaus",
+          "Features a massive inland plateau surrounded by rugged mountain escarpments",
+          "Extremely long, winding coastline bordered by two major oceans",
+          "Home to numerous world-famous wildlife reserves and national parks"
+        ],
+        "text": "Covering approximately 1.22 million square kilometers, South Africa features a highly diverse landscape. The country is dominated by a flat, high interior plateau (the Highveld), which is separated from the long coastal plains by the spectacular Great Escarpment, including the Drakensberg mountains.\n\nIts rich biodiversity is preserved in world-famous sanctuaries like Kruger National Park, which is home to an abundance of African wildlife."
+      },
+      "zh": {
+        "list": [
+          "地形多樣且幅員廣大",
+          "擁有高原、草原與海岸地形",
+          "南部海岸線綿長",
+          "野生動物與自然保護區眾多"
+        ],
+        "text": "南非國土面積約 122 萬平方公里，地形地貌極具多樣性。國土主體由遼闊平坦的內陸高地高原（Highveld）所主導，並透過壯麗的大陡崖（Great Escarpment）——包含險峻的德拉肯斯堡山脈（Drakensberg mountains）——與綿長的沿海平原隔開。南非極其豐富的自然生態與非凡的生物多樣性，完好地保育在諸如克魯格國家公園（Kruger National Park）等享譽世界的國家級自然保護區內，成為無數非洲野生珍禽異獸的天然天堂。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Exceptionally diverse weather profiles influenced by dual oceans",
+          "Southwestern coastal region enjoys a Mediterranean climate style",
+          "Semi-arid inland plateaus experience dry, sunny winter months",
+          "Eastern coastal plains feature warm, humid subtropical climates"
+        ],
+        "text": "South Africa experiences a temperate climate influenced by both the cold Atlantic and warm Indian Oceans. Cape Town and the southwestern tip enjoy a Mediterranean climate with wet winters and warm summers.\n\nThe eastern coast is warm and humid, while the vast interior remains dry and sunny, making the country exceptionally suitable for agriculture and year-round tourism."
+      },
+      "zh": {
+        "list": [
+          "氣候類型多樣",
+          "西南部屬地中海型氣候",
+          "內陸較乾燥",
+          "東部沿海較溫暖濕潤"
+        ],
+        "text": "南非整體氣候溫和舒適，深受西側冰冷的的大西洋與東側溫暖的印度洋共同調節。西南部沿海的開普敦（Cape Town）周邊屬於典型的地中海型氣候，冬季濕潤多雨、夏季溫暖乾燥。東部沿海平原則呈現溫暖潮濕的副熱帶氣候；而廣袤的內陸高原盆地則屬於半乾旱氣候，冬季陽光普照且乾燥。多樣化且溫和的氣候條件，使南非成為非常適合現代化農業發展與全年皆宜的國際觀光勝地。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Dynamic population of approximately 62 million diverse residents",
+          "Exceptionally rich mosaic of ethnicities, languages, and cultures",
+          "Highly urbanized population focused in major metropolitan hubs",
+          "Working to resolve historic income and wealth distribution gaps"
+        ],
+        "text": "South Africa has a population of 62 million, featuring a highly diverse demographic profile. The country recognizes 11 official languages, including Zulu, Xhosa, Afrikaans, and English, reflecting its multi-ethnic heritage.\n\nWhile major cities like Johannesburg, Cape Town, and Durban are booming urban centers, South Africa continues to work on narrowing its historical socio-economic wealth gaps."
+      },
+      "zh": {
+        "list": [
+          "人口約 6200萬左右",
+          "多民族與多語言社會",
+          "城市化程度高",
+          "社會貧富差距明顯"
+        ],
+        "text": "南非總人口約為 6,200 萬人，其多元的族群結構是「彩虹國度」的代名詞。依據最新官方人口統計，南非主要由四大法定族群構成：**黑人（Black African）約 5,100 萬人，佔絕對多數的 81.4%**（包含祖魯族與科薩族等）；**有色人（Coloured，多族群混血後代）約 515 萬人，佔 8.2%**；**白人（White，荷蘭裔阿非利卡人與英國裔）約 450 萬人，佔 7.3%**；**印度裔及亞洲裔（Indian/Asian）則約 170 萬人，佔 2.7%**。憲法保障並承認 11 種官方語言（如祖魯語、科薩語、阿非利卡語及英語）。人口高度都市化，集中於約翰尼斯堡（Johannesburg）、開普敦（Cape Town）與德班（Durban）等繁榮的大都會圈，而縮小歷史遺留下來的種族貧富差距與健全財富重新分配，仍是當前社會發展的長期核心課題。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "Foremost industrial, manufacturing, and trade engine of Africa",
+          "World-class mining sectors exporting gold, platinum, and chromium",
+          "Johannesburg stands as the key financial powerhouse of the continent",
+          "Addressing high youth unemployment and infrastructure constraints"
+        ],
+        "text": "South Africa has one of the largest and most industrialized economies in Africa. It is a major global exporter of precious minerals, including gold, platinum, diamonds, and coal, alongside high-value agricultural goods.\n\nJohannesburg serves as the continent's primary financial capital. However, structural challenges, such as youth unemployment and energy infrastructure, remain key focuses for economic reforms."
+      },
+      "zh": {
+        "list": [
+          "非洲最重要經濟體之一",
+          "礦業與金融業發達",
+          "黃金與鑽石資源豐富",
+          "失業率問題嚴重"
+        ],
+        "text": "南非是非洲大陸規模最大、工業化與現代化程度最高的火車頭經濟體之一。它是全球舉足輕重的稀有礦產出口巨擘，手握黃金、鉑金、鑽石、鉻與優質煤炭的龐大產能，同時也大量出口高價值的農產品（如葡萄酒與柑橘）。約翰尼斯堡（Johannesburg）是非洲當之無愧的頭號金融與證券交易中心。然而，該國經濟目前正面臨嚴重的結構性挑戰，包括高昂的青年失業率以及國家電力電力設施老化導致的經濟制約，這已成為近年經濟改革的重中之重。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Multiparty democratic republic governed by a strong constitution",
+          "Ended decades of apartheid to establish a unified democracy in 1994",
+          "Strong parliamentary structure with an executive President",
+          "Highly independent judiciary and active regional municipal governance"
+        ],
+        "text": "South Africa is a stable constitutional democracy. Following the end of apartheid in 1994, the country adopted a progressive constitution that protects human rights and democratic freedoms.\n\nThe executive President is elected by parliament (National Assembly). The country's multi-party system features robust debates and active municipal governance."
+      },
+      "zh": {
+        "list": [
+          "共和制民主國家",
+          "結束種族隔離後民主化",
+          "國會制度運作",
+          "地方自治體系存在"
+        ],
+        "text": "南非是一個擁有完善憲政體制的多黨制民主共和國。自 1994 年徹底終結了數十年的種族隔離政策（Apartheid）以來，南非通過並實施了一部保障人權、司法獨立與民主自由的進步憲法。國家元首兼行政首長為總統，由國民議會（National Assembly）間接選舉產生。南非的多黨制體系運作活躍，擁有針鋒相對的國會辯論與高度自治的地方市政府管理體系。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Exceptionally rich blend of African, European, and Asian lifestyles",
+          "Working to heal legacy wealth gaps from the apartheid era",
+          "Urban and rural regions showcase distinct socio-economic realities",
+          "Strengthening citizen security and public services in cities"
+        ],
+        "text": "South African society is a vibrant fusion of cultures, art, and music. Despite its diversity, the legacy of historical apartheid continues to affect wealth distribution, particularly between urban centers and rural villages.\n\nStrengthening public safety, expanding clean energy access, and improving public schools are key priorities for national development."
+      },
+      "zh": {
+        "list": [
+          "文化多元性極高",
+          "社會不平等問題明顯",
+          "都市與鄉村差距大",
+          "治安問題受關注"
+        ],
+        "text": "南非社會是非洲土著習俗、歐洲殖民風尚與亞洲移民文化的迷人共同體，反映在獨特的當代藝術、服飾與街頭音樂中。儘管多元包容，但過去種族隔離時代遺留下來的體制烙印，仍深刻影響著當前的社會結構，導致都市核心區與鄉村聚落之間存在著截然不同的社會經濟現實。政府目前將提升都會區公共治安、擴建穩定綠能網路以及改善基礎公共教育，列為提升國家整體福祉的戰略優先目標。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "Known as the 'Rainbow Nation' celebrating cultural convergence",
+          "Rich musical heritage from traditional choral to modern Amapiano",
+          "Sports serve as a powerful unifying force across all communities",
+          "Indigenous Zulu, Xhosa, Boer, and British customs exist side-by-side"
+        ],
+        "text": "South African culture is a beautiful tapestry of traditions, famously celebrated as the 'Rainbow Nation'. Its music is internationally famous, ranging from Ladysmith Black Mambazo to modern electronic Amapiano dance beats.\n\nSports, particularly Rugby, Soccer, and Cricket, serve as a major unifying force, highlighted by the historic 1995 Rugby World Cup victory."
+      },
+      "zh": {
+        "list": [
+          "被稱為「彩虹國度」",
+          "音樂與舞蹈文化豐富",
+          "體育在社會影響力大",
+          "族群文化多元並存"
+        ],
+        "text": "南非文化是一幅斑斕交織的傳統畫卷，以「彩虹國度（Rainbow Nation）」之名享譽國際。其音樂底蘊在世界上極具影響力，從享譽全球的雷村黑斧合唱團（Ladysmith Black Mambazo）傳統和聲，到席捲當代全球夜店的電子舞曲音樂 Amapiano 節奏。此外，體育在南非社會扮演著無可替代的凝聚力，尤其是橄欖球（Rugby）、足球（Soccer）與板球（Cricket）。1995 年南非國家橄欖球隊（羚羊隊）歷史性地奪得世界盃冠軍，成為消弭種族隔閡、舉國團結的至高象徵。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Reducing high rates of unemployment and wealth inequality",
+          "Improving civic safety and policing across major municipalities",
+          "Addressing municipal electricity shortages and load-shedding cycles",
+          "Accelerating fair land reforms and historic economic equity"
+        ],
+        "text": "South Africa's primary economic challenges include high youth unemployment and power supply issues (load-shedding). The government is actively upgrading its electricity grid to support economic growth.\n\nIn addition, addressing historical land distribution inequality and improving public services remain central political debates."
+      },
+      "zh": {
+        "list": [
+          "高失業率與貧富差距",
+          "治安與犯罪問題",
+          "能源與電力短缺",
+          "土地改革與歷史公平議題"
+        ],
+        "text": "南非當前最嚴峻的國內挑戰為高居不下的青年失業率，以及因國家電力公司基礎設施欠佳而導致的週期性全國「輪流停電/限電（Load-shedding）」危機。政府目前正積極推動電網現代化與開放私有綠能並網以支撐經濟。此外，加速推動公平合理的土地所有權改革，以及如何實質改善黑人聚集區的公共服務與安全，依然是朝野政治辯論的焦點。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Johannesburg — Economic heartland built on historic gold mining fields",
+          "Cape Town — Legendary coastal capital framed by Table Mountain",
+          "Durban — Golden coast beaches and major Indian Ocean trading port",
+          "Table Mountain — Flat-topped natural wonder overlooking Cape Town harbor"
+        ],
+        "text": "Johannesburg is the commercial engine of the nation, boasting modern business parks and historic gold rush sites. Cape Town offers stunning coastal views and the famous Table Mountain.\n\nDurban features warm Indian Ocean beaches and a rich cultural mix, making it a major holiday destination."
+      },
+      "zh": {
+        "list": [
+          "約翰尼斯堡（Johannesburg）——金融與商業中心",
+          "開普敦（Cape Town）——觀光與立法首都",
+          "德班（Durban）——印度洋港口城市",
+          "桌山（Table Mountain）——世界知名自然地標"
+        ],
+        "text": "金融巨擘約翰尼斯堡（Johannesburg）是南非的商業引擎，林立著無數頂級跨國企業總部、現代化商業園區，同時也妥善保存了當年的淘金熱歷史遺跡；立法首都開普敦（Cape Town）則以令人屏息的壯麗海岸線與世界新七大自然奇觀——「桌山（Table Mountain）」交織而成的絕美風光，成為非洲最具代表性的國際觀光名城；東部大城德班（Durban）則坐擁溫暖的印度洋金色海灘與非洲首屈一指的繁忙貿易大港，融合了濃厚的印度裔風情與祖魯文化，是熱門的海濱度假與商貿重鎮。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "Major diplomatic leader and voice for the African continent",
+          "Active member of the prominent BRICS emerging nations block",
+          "Key founding member of the influential African Union (AU) body",
+          "Prominent champion for international law and global South policies"
+        ],
+        "text": "South Africa is a major geopolitical leader on the African continent and a key member of BRICS. It plays a leading role in the African Union, focusing on conflict resolution and economic integration.\n\nIt is also a highly vocal advocate for the Global South, using its diplomatic platforms to support international law and sustainable development."
+      },
+      "zh": {
+        "list": [
+          "非洲區域強國之一",
+          "BRICS 成員國",
+          "在非洲外交影響力大",
+          "積極參與國際合作"
+        ],
+        "text": "南非是非洲大陸最具全球話語權的地緣政治領袖，也是金磚國家（BRICS）不可或缺的核心成員。作為非洲聯盟（AU）的重要創始國，南非在調停非洲內部衝突、推動全非洲經濟一體化（如非洲大陸自由貿易區）方面發揮著領頭羊作用。在國際舞台上，它亦是「全球南方（Global South）」極具分量的正義發聲者，頻繁利用聯合國等外交平台，堅定捍衛國際法理與實施永續發展目標。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Long history of diplomatic ties, continuing via strong economic offices",
+          "Major trade partnerships in coal, minerals, and automobile parts",
+          "Highly active Taiwanese merchant and immigrant communities in SA",
+          "Productive educational exchanges and university partnerships"
+        ],
+        "text": "Taiwan and South Africa maintain a long-standing economic relationship. High-value South African minerals, coal, and agricultural products are imported to Taiwan, which in turn exports machinery and electronics.\n\nBilateral trade and culture are supported by representative offices in Pretoria and Taipei, alongside active Taiwanese business associations in major South African cities."
+      },
+      "zh": {
+        "list": [
+          "曾有正式外交關係",
+          "目前維持非官方交流",
+          "經貿與礦產合作存在",
+          "民間與教育交流持續"
+        ],
+        "text": "南非與台灣歷史渊源深厚，過去曾保有長期正式邦交，現今則透過互設於普利托里亞（Pretoria）與台北（Taipei）的實質代表處，維持著高度穩固且互補的非官方經貿與民間夥伴關係。南非是台灣在中東與非洲地區最重要的貿易夥伴之一，台灣長年從南非進口優質煤炭、貴重金屬（如鉑、鉻）、鐵礦砂及優質農產品（如南非國寶茶、鮮果）；而台灣則向南非出口先進精密機械、自動化零組件與半導體電子產品。在南非的約翰尼斯堡、開普敦等大城市，長年活躍著實力雄厚的台商僑社與經貿協會，兩國大專院校在學術研究與語言教育交換上的合作也持續推進。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "Features three official capitals: Pretoria, Cape Town, and Bloemfontein",
+          "Major global exporter of high-quality gold and precious diamonds",
+          "Known as the 'Rainbow Nation' celebrating diverse cultures",
+          "Most globally influential and industrialized nation in Africa"
+        ]
+      },
+      "zh": {
+        "list": [
+          "擁有三個首都",
+          "世界重要黃金與鑽石產地",
+          "「彩虹國度」象徵多元文化",
+          "非洲最具全球影響力國家之一"
+        ]
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": "South African Rand (ZAR)"
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "English, Zulu, Xhosa +9 others",
+        "zh": "英語、祖魯語、科薩語等11種官方語言"
+      }
+    },
+    {
+      "label": "GDP (nom.)",
+      "value": "$380B"
+    },
+    {
+      "label": "Time zone",
+      "value": "UTC+2"
+    },
+    {
+      "label": "Calling code",
+      "value": "+27"
+    },
+    {
+      "label": "ISO code",
+      "value": "ZA / ZAF"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🇿🇦",
+      "text": {
+        "en": "The Rainbow Flag — The beautiful multi-colored national flag, representing converge, unity, and a new democratic dawn",
+        "zh": "彩虹之旗——象徵種族大融合與多元平等的六色國旗，Y字型圖案代表南非歷史上不同文化群落的匯聚、交融，並向共同的民主未來邁進"
+      }
+    },
+    {
+      "icon": "🏔️",
+      "text": {
+        "en": "Table Mountain Escarpment — Overlooking Cape Town harbor, a flat-topped natural wonder and global tourist sanctuary",
+        "zh": "上帝的餐桌——矗立於開普敦海灣、平坦如鏡的自然奇觀桌山（Table Mountain），是世界新七大自然奇觀之一，雲霧籠罩時如鋪上白桌巾般夢幻"
+      }
+    },
+    {
+      "icon": "🦁",
+      "text": {
+        "en": "Kruger Wildlife Safari — The world-famous savanna wildlife sanctuary, home to spectacular populations of the African Big Five",
+        "zh": "克魯格野生動物樂園——占地廣闊的非洲頂級野生動物保護區，是獅、象、豹、水牛和犀牛「非洲五霸」與無數野生草食動物的天堂"
+      }
+    },
+    {
+      "icon": "🌈",
+      "text": {
+        "en": "The Rainbow Nation — Celebrating Nelson Mandela's legacy of democracy, reconciliation, and eleven official languages",
+        "zh": "彩虹國度的民主傳奇——由曼德拉總統與主教圖圖共同宣揚的多元文化象徵，克服種族隔離的歷史傷痛，憲法保護11種官方語言平等並立"
+      }
+    },
+    {
+      "icon": "💎",
+      "text": {
+        "en": "Gold and Diamond Mines — A historical resource giant, boasting some of the world's deepest mines and rich precious mineral veins",
+        "zh": "黃金與鑽石之都——南非開採出如庫里南等世界最大鑽石，亦曾是全球最大黃金產區，發達的深井採礦技術奠定了其非洲工業巨擘的地位"
+      }
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/87565",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=16.2%2C-35.0%2C33.2%2C-22.0&layer=mapnik"
+}
