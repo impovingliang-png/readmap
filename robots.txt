@@ -1,4 +1,6 @@
 User-agent: *
+Disallow: /index.html
+Disallow: /country/index.html
 Allow: /
 
 Sitemap: https://readmap.idv.tw/sitemap.xml
