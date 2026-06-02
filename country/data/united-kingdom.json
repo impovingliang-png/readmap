@@ -1,0 +1,358 @@
+{
+  "name": {
+    "en": "United Kingdom",
+    "zh": "英國"
+  },
+  "nativeName": "United Kingdom of Great Britain and Northern Ireland",
+  "capital": {
+    "en": "London",
+    "zh": "倫敦"
+  },
+  "population": "68.9M",
+  "area": "243,610 km²",
+  "density": "283/km²",
+  "continent": "Europe",
+  "flagEmoji": "🇬🇧",
+  "dataEstYear": 2026,
+  "description": {
+    "en": "The United Kingdom of Great Britain and Northern Ireland is a highly developed sovereign island nation positioned off the northwestern coast of mainland Europe. It is a constitutional monarchy comprising four constituent countries: England, Scotland, Wales, and Northern Ireland. Historically the cradle of the Industrial Revolution and the architect of a globe-spanning empire, the UK remains an influential global power with prominent structural leverage in international finance, jurisprudence, advanced technology, Anglo-centric cultural exports, and global diplomatic networks.",
+    "zh": "大不列顛與北愛爾蘭聯合王國（United Kingdom of Great Britain and Northern Ireland，簡稱英國（United Kingdom））是位於歐洲西北部外海的高度發達主權島國。該國為君主立憲制（Constitutional Monarchy）聯邦，由英格蘭（England）、蘇格蘭（Scotland）、威爾斯（Wales）與北愛爾蘭（Northern Ireland）四個歷史構成國共同組成。作為工業革命（Industrial Revolution）的搖籃、現代議會民主制（Parliamentary Democracy）的發源地以及曾經的全球帝國主導者，英國至今在國際金融結算、全球法律體系、前沿科學研發、英美流行文化輸出及多邊外交網絡中，依然保有強大的核心主導權。其獨特的地理位置使其歷史上免受多次歐陸戰爭的直接踐踏，而溫莎城堡（Windsor Castle）的皇家衛兵交接與白金漢宮（Buckingham Palace）的王室榮譽，更將這份千年不變的古老法統化為全球最具商業價值的超級 IP，向世界展示著不列顛文化軟實力（Soft Power）的絕對高度。"
+  },
+  "seoText": {
+    "en": "Access the latest statistics for the United Kingdom — precise ONS demographic breakdowns, nominal GDP data, capital city metrics, and constituent country analysis. Discover London's financial technology ecosystems, the Russell Group research clusters, post-Brexit macroeconomic adjustments, and defense frameworks within NATO.",
+    "zh": "深入掌握英國（United Kingdom）最新基本資料：包含不列顛群島（British Isles）最新人口數據、精確族裔分布比例、最新名目國內生產總值（Nominal GDP）與首都倫敦（London）。全面探索倫敦金融城（City of London）跨國資產託管、劍橋與牛津構成的金三角名校科研矩陣、脫歐（Brexit）後全球英國（Global Britain）全方位宏觀經濟轉型戰略、英格蘭超級聯賽（English Premier League）體育商業娛樂巨獸運作，以及台美英多邊高科技半導體供應鏈友岸外包與離岸風電再生能源（Renewable Energy）的長遠合作框架。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Sovereign island nation commanding Western Europe's maritime crossroads",
+          "One of the world's premier nominal GDP pools and secondary Western financial center",
+          "Institutional anchor of the Westminster system and global common law traditions",
+          "Major geopolitical actor leveraging permanent UN Security Council veto authority"
+        ],
+        "text": "The United Kingdom pairs a deeply rooted constitutional matrix with a highly specialized, services-driven knowledge economy. Bound together by historic acts of union, its constituent countries retain unique legal and administrative frameworks. The country acts as a global epicenter for software engineering, financial derivatives, elite higher education, and media networks, deploying its systemic soft power through the widespread international adoption of the English language."
+      },
+      "zh": {
+        "list": [
+          "扼守西歐大西洋沿岸戰略要道、由四個歷史性構成國組成的聯合王國（United Kingdom）",
+          "全球名目國內生產總值（Nominal GDP）位居前列的發達經濟體與外匯資產清算中心",
+          "威斯敏斯特議會制（Westminster System）與全球英美法系（Common Law）的法統源頭",
+          "聯合國安理會常任理事國，具備強大的全球軍事投射與多邊外交斡旋實力"
+        ],
+        "text": "英國（United Kingdom）將深厚的憲政傳統與高度發達的知識、服務導向型經濟結構緊密結合。不列顛群島的這套運作體系並不依賴單一的成文憲法，而是由《大憲章（Magna Carta）》、《權利法案（Bill of Rights）》以及數百年來的司法判例與議會慣例共同維繫。雖然歷經權力下放（Devolution），各歷史構成國在行政、教育與部分法律體制上保留了獨特的自主權（例如蘇格蘭擁有獨立的司法與教育系統），但對外仍維持著統一的主權實體。\n\n當代英國不僅是全球軟體工程、生物醫藥、跨國資產管理與高等教育的樞紐，更藉由大英國協（Commonwealth of Nations）與廣泛的國際安全合作，持續在全球地緣經濟與政治賽局中扮演著關鍵的戰略制衡者角色。在全球高科技供應鏈中，英國藉由英語（English）的天然通用優勢與對國際法仲裁核心的壟斷，將其制度與文化觸角無縫滲透至全球各個地緣角落。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Occupies the British Isles, divided from continental Europe by the English Channel",
+          "Total sovereign surface area covers approximately 243,610 square kilometers",
+          "Physiography ranges from lowland undulating plains to glaciated upland massifs",
+          "Features an extraordinarily indented coastline providing deep-water blue-water naval exits"
+        ],
+        "text": "The geography of the UK dictates its historical maritime focus. England is largely composed of fertile rolling lowlands and agricultural basins. Moving north and west, the terrain transforms into the rugged, glaciated topography of the Scottish Highlands, the Cambrian Mountains of Wales, and the volcanic plateaus of Northern Ireland. This intricate geography is complemented by a dense network of rivers like the Thames and Severn, which anchored early industrial transport."
+      },
+      "zh": {
+        "list": [
+          "坐落於歐洲大陸西北側的不列顛群島（British Isles），南隔英吉利海峽（English Channel）與法國相望",
+          "總國土面積約 24.36 萬平方公里，擁有極長且破碎的天然不凍港海岸線",
+          "地形由英格蘭（England）南部的低緩平原與沉積盆地，向北向西過渡為古老的高原與山地",
+          "包含蘇格蘭高地（Scottish Highlands）的冰河峽谷地貌，以及北愛爾蘭（Northern Ireland）與大不列顛島之間的愛爾蘭海（Irish Sea）"
+        ],
+        "text": "英國（United Kingdom）的島國地理特徵是其海權歷史與藍水海軍（Blue-water Navy）的起點。英格蘭（England）地區地勢平坦、土地肥沃，主要由平緩的丘陵與沉積盆地組成，承載了全國絕大部分的人口與核心經濟產值。然而，越過奔寧山脈（Pennines）往北，蘇格蘭（Scotland）則展現出壯麗的格蘭扁山脈（Grampian Mountains）與深邃的冰河湖地貌（如充滿傳奇色彩的洛赫內斯湖（Loch Ness））。\n\n西部威爾斯（Wales）則由崎嶇的坎布里安山脈（Cambrian Mountains）橫貫，氣候極其潮濕。北愛爾蘭（Northern Ireland）則以玄武岩火山高原與愛爾蘭海（Irish Sea）的隔離，構成了另一番孤絕景致。綿長且深入內陸的河口灣（如泰晤士河（River Thames）與塞文河（River Severn））提供了無數天然良港，不僅在蒸汽機時代為工業革命提供了完美的原材料海運通道，亦使英國天然具備面向大西洋與北海的戰略部署優勢，成為控制西歐海上交通線的天然巨型航空母艦。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Classified under a persistent maritime temperate atmospheric model",
+          "Heavily insulated by the thermal energy of the Gulf Stream / North Atlantic Drift",
+          "Characterized by high relative humidity, frequent cloud cover, and distributed rainfall",
+          "Exhibits narrow annual temperature margins, avoiding extreme thermal spikes"
+        ],
+        "text": "The UK’s climate is defined by maritime instability. The prevailing southwesterly winds blowing across the North Atlantic ensure that winters remain remarkably mild for its high latitude, while summers stay generally cool. Rainfall is a constant geographic variable, with western upland areas receiving heavy orographic precipitation, while the eastern lowlands, including Greater London, experience significantly drier, sunnier rain-shadow conditions."
+      },
+      "zh": {
+        "list": [
+          "全年受西風帶（Westerlies）控制，展現出極具代表性的溫帶海洋性氣候（Temperate Maritime Climate）特徵",
+          "深受北大西洋暖流（North Atlantic Drift）的熱能調節，冬季氣溫遠高於同緯度亞洲與北美內陸",
+          "氣壓系統多變，以高濕度、頻繁的鋒面氣流活動與全年均勻分布的降水著稱",
+          "年溫差較小，極少出現極端酷暑或長期的極地嚴寒，氣候極利於畜牧與溫帶作物"
+        ],
+        "text": "英國（United Kingdom）的天氣以多變、濃霧和陰雨綿綿聞名於世。受大西洋氣團（Atlantic Air Masses）的持續吹拂，英國冬無嚴寒、夏無酷暑，倫敦（London）一月的平均氣溫通常維持在攝氏 5 度以上，遠比同緯度的中國東北或加拿大暖和。然而，地形對降雨分布有著決定性的影響。\n\n來自大西洋的潮濕氣流在西部蘇格蘭高地（Scottish Highlands）與威爾斯（Wales）山區受阻，降下大量的地形雨（Orographic Precipitation），使得西部地區常年翠綠、牧草豐美且水力資源充沛；相比之下，位於東部背風面平原的大倫敦都會區（Greater London）和英格蘭（England）東部則相對乾燥，部分年份的降雨量甚至低於地中海沿岸城市。這種多雲、多霧、瞬息萬變的天氣節奏，不僅深刻影響了傳統農業布局，更已深植於英國的浪漫主義文學意象與國民那內斂、含蓄的幽默性格之中。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Total population stands at 68.9 million, bolstered by net global migration corridors",
+          "Racial composition is rigorously tracked by the Office for National Statistics (ONS)",
+          "White ethnic groupings constitute 81.7%, representing the core foundational demographic",
+          "Asian or Asian British citizens form the primary minority segment at 9.3% of the state"
+        ],
+        "text": "The contemporary demographic grid of the United Kingdom reflects post-colonial ties and open European labor historic channels. Based on official ONS census datasets, the population is partitioned as follows: White communities comprise 81.7% (inclusive of English, Scottish, Welsh, Irish, and European counter-parts). Asian or Asian British demographics stand at 9.3%, led by British Indians (3.1%), British Pakistanis (2.7%), and British Bangladeshis (1.1%). Black, Caribbean, and African British populations represent 4.0%. Mixed or multiple-ethnic individuals account for 2.9%, while other independent ethnic cohorts (including Chinese, Hong Kong BN(O) arrivals, and Arab families) fill the remaining 2.1%. Urban density remains heavily tilted toward the English southeast."
+      },
+      "zh": {
+        "list": [
+          "2026 年最新統計全國人口約為 6,890 萬人，高技術與人道移民的持續移入維持了人口結構彈性",
+          "族裔結構由英國國家統計局（Office for National Statistics，簡稱 ONS）進行極為嚴密且科學化的普查分類與長期追蹤",
+          "白人（White）群體占總人口的 81.7%，為不列顛法統與社會結構的歷史基石",
+          "亞裔（9.3%）與黑人（4.0%）構成兩大核心少數族裔，在城鎮化進程中發揮巨大經濟與政經影響力"
+        ],
+        "text": "根據英國國家統計局（Office for National Statistics，簡稱 ONS）最新發布的權威人口普查結構指標，不列顛群島已演進為一個高度多元且緊密交織的現代多民族社會。全不列顛王國人口的主要族群比例具體分布如下：\n\n一、 白人（White）群體：共計占總人口的 81.7%（約 5,629 萬人）。這當中包含了傳統的不列顛本土裔（英格蘭、蘇格蘭、威爾斯人）、愛爾蘭裔以及近年移入的東歐（如波蘭裔移民）與西歐白人。\n\n二、 亞洲裔或亞裔英國人（Asian or Asian British）：是全英規模最大的少數族群，占比達 9.3%（約 641 萬人）。這其中以南亞背景為絕對主力，包含印度裔（Indian）占 3.1%、巴基斯坦裔（Pakistani）占 2.7% 與孟加拉裔（Bangladeshi）占 1.1%；另有約 2.4% 屬於包含華裔（Chinese）、東南亞裔及近年透過英國國民海外護照（British National (Overseas)，簡稱 BN(O)）管道大舉移入的香港群體。\n\n三、 黑人、黑裔英國人、加勒比海或非洲裔（Black, Black British, Caribbean or African）：約占總人口的 4.0%（約 276 萬人），主要聚居於主要一線都市，深層參與了現代英國都市音樂、時尚與體育文化的建構。\n\n四、 混血或多元族群（Mixed or Multiple ethnic groups）：占 2.9%（約 200 萬人）。\n\n五、 其他族群（Other ethnic groups）：如阿拉伯裔（Arab）、中東與北非難民裔等則占 2.1%（約 144 萬人）。\n\n全國高達 84% 的人口高度集中在英格蘭（England）地區。特別是大倫敦都會區（Greater London），其少數族裔人口比例在部分核心行政區已超越傳統白人，這種向心型的人口分布和極高的城鎮化率（84.4%），使倫敦成為全球最著名的國際化人口大熔爐，也為英國帶來了源源不絕的多元勞動力儲備與文化創新活力。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "Highly developed post-industrial market economy with global legal capital centralization",
+          "London competes directly with New York as a premier locus for global financial services",
+          "Commands world-leading intellectual equity in fintech, pharmaceuticals, and green energy bonds",
+          "Maintains advanced niche manufacturing powerhouses in motorsport (Formula 1) and defense avionics"
+        ],
+        "text": "The economic framework of the United Kingdom is intensely decoupled from heavy manufacturing, with services generating roughly 80% of GDP. The City of London acts as a primary clearinghouse for global foreign exchange, maritime underwriting, and international debt issuance. Backed by elite university commercialization pipelines, the UK also thrives in high-margin advanced engineering, multinational energy governance (via BP and Shell), and global educational service consultancy."
+      },
+      "zh": {
+        "list": [
+          "高度發達的後工業化市場經濟體，全球跨國企業法律諮詢與資產託管的歐陸核心",
+          "倫敦金融城（City of London）在國際外匯交易、衍生性金融商品與財富管理領域與紐約（New York）並駕齊驅",
+          "在高等教育產業化、高階製藥（如阿斯特捷利康（AstraZeneca））、金融科技（FinTech）領域職掌全球核心專利",
+          "保留了極具競爭力的高端利基製造業，如全球多數一級方程式（Formula 1，簡稱 F1）車隊總部與航太發動機巨頭勞斯萊斯（Rolls-Royce）"
+        ],
+        "text": "英國（United Kingdom）經濟是一具由高附加價值服務業驅動的精密機器，服務業產值佔其國內生產總值（GDP）的 80% 以上。倫敦金融城（City of London）不僅是跨國銀行與保險巨頭的集中地，更是全球大宗商品（如倫敦金屬交易所（London Metal Exchange，簡稱 LME））與黃金交易的定價中心。在後脫歐（Post-Brexit）時代，英國正全力將自身重塑為「全球科技與科學超級大國（Science and Technology Superpower）」。\n\n在由倫敦（London）、牛津（Oxford）、劍橋（Cambridge）構成的「金三角名校區（Golden Triangle）」內，雲集了歐洲最密集的生成式人工智慧（Generative AI）新創企業與生物技術實驗室，諸如阿斯特捷利康（AstraZeneca）等高階製藥巨頭在此進行全球最前沿的疫苗與標靶藥物研發。雖然傳統重工業在經濟佔比中有所下降，但英國在國防工業、航空航天系統、跨國石油能源治理（如英國石油（BP）與殼牌（Shell））以及創意產業（包括電子遊戲開發、英倫時尚與音樂版權輸出）上，依舊憑藉成熟的普通法系保障，在全球價值鏈的最頂端賺取高額利潤。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Unitary state operating under a historic, uncodified constitutional monarchy",
+          "Supreme legislative legitimacy rests within the bicameral Parliament of Westminster",
+          "The Cabinet, led by the Prime Minister, wields executive power via parliamentary majority",
+          "Devolved governing assemblies grant tailored legislative autonomy to Scotland, Wales, and Northern Ireland"
+        ],
+        "text": "The British political architecture relies heavily on constitutional conventions, judicial precedent, and statutory acts rather than a singular written document. The Sovereign acts as a non-partisan Head of State, while the House of Commons holds primary fiscal and legislative power. The political party landscape is anchored by the historic rivalry between the center-left Labour Party and the center-right Conservative Party."
+      },
+      "zh": {
+        "list": [
+          "實行歷史悠久的單一制（Unitary State）君主立憲政體，其憲法由憲政慣例與歷史法案構成，無單一成文憲法",
+          "國家最高立法權直屬西敏宮國會（Westminster Parliament），採行由平民選舉產生的下議院（House of Commons）主導的兩院體制",
+          "內閣制政府由下議院多數黨領袖（首相（Prime Minister））組建，行政權直接對國會負責，體現「國會至上（Parliamentary Sovereignty）」原則",
+          "實施權力下放（Devolution），蘇格蘭（Scotland）、威爾斯（Wales）與北愛爾蘭（Northern Ireland）議會擁有本土地區的財政與民政立法權"
+        ],
+        "text": "英國（United Kingdom）是現代西方議會民主制（Parliamentary Democracy）與「內閣制」的發源地，其政治體系被廣泛稱為威斯敏斯特體制（Westminster System）。這套系統的運作不依賴單一的成文憲法文本，而是靠著《大憲章（Magna Carta）》、《權利法案（Bill of Rights）》以及數百年來的司法判例與議會慣例共同維繫。國王查爾斯三世（King Charles III）作為非黨派的國家元首（Head of State），僅履行純粹象徵性的憲政職能（如簽署法令與主持國會開幕）。\n\n實質政治權力高度集中於通過普遍選舉產生的下議院（House of Commons）。英國實行典型的兩黨政治（Two-party System），主要由中間偏左的工黨（Labour Party）與中間偏右的保守黨（Conservative Party）輪流執政。為了應對地方民族主義的崛起，倫敦中央自 1990 年代末期開始推行權力下放（Devolution），賦予蘇格蘭愛丁堡（Edinburgh）議會、威爾斯卡地夫（Cardiff）議會獨立調整稅率、教育、環境與醫療政策的權力，這種特殊的「不對稱聯邦化」設計，是當前在維繫單一制聯合王國統一與尊重地方文化獨特性之間，最核心的政治制度博弈。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Welfare state anchored by the state-funded National Health Service (NHS)",
+          "Home to the ancient universities of Oxford and Cambridge, defining global academic elitism",
+          "Displays an intricate, historically persistent class awareness evolving into digital meritocracy",
+          "Navigates post-industrial wealth divergence between the Southeast and Northern England"
+        ],
+        "text": "Social life in the UK blends deep historical institutionalism with an open, multicultural civic space. The National Health Service (NHS) remains a core pillar of national identity, providing healthcare free at the point of delivery. However, contemporary British society faces systemic challenges, including the stress of managing a rapidly aging population, urban housing shortages, and the economic levelling-up of former industrial towns."
+      },
+      "zh": {
+        "list": [
+          "典型的歐洲福利國家，以稅收支撐的國民保健署（National Health Service，簡稱 NHS）為全民提供免費醫療照護",
+          "坐擁牛津（Oxford）、劍橋（Cambridge）等數百年歷史的學術巨擘，其公立學校與私立公學體系構成了精英孵化矩陣",
+          "歷史留存的階級意識（貴族、中產、工人階級）依然含蓄存在，但正快速向數位功績主義（Digital Meritocracy）轉型",
+          "長年面對結構性的城鄉與區域發展失衡，英格蘭（England）南部與舊工業北方的經濟鴻溝仍是社會焦點"
+        ],
+        "text": "英國（United Kingdom）社會是一個將傳統貴族禮儀、紳士文化與前衛街頭叛逆（如龐克文化（Punk Culture））完美相容的矛盾體。由國家財政全額資助的國民保健署（NHS）被英國人視為不容侵犯的「國寶」與國家認同（National Identity）的基石，無論階級貧富皆享有在就醫點免付費的醫療保障。然而，近年來因人口嚴重老化、財政撥款不堪重負以及醫護人員短缺，導致公立醫院排隊就醫時間過長，成為全英最關注的社會痛點。\n\n在教育領域，英國的高等教育體系享譽全球，其特殊的「公學（Public School，實為收費高昂的頂尖私立學校，如伊頓公學（Eton College）與哈羅公學（Harrow School））」長年為政商界、法律界輸送核心人才，形成了極具不列顛特色的精英網。近年來，隨著高通膨與生活成本危機（Cost of Living Crisis）的蔓延，年輕世代面臨著高昂的都會區房價壓力，如何透過「升級轉型（Levelling Up）」計畫縮小大倫敦地區（Greater London）與英格蘭北部舊鋼鐵、紡織城鎮之間的經濟差距，是維繫不列顛社會凝聚力的長期系統性考驗。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "Global superpower of cultural distribution and Anglo-literary heritage",
+          "The theatrical standards established by Shakespeare continue to underpin Western drama",
+          "Dominates international music via the lineage of the British Invasion, classic rock, and modern pop",
+          "The English Premier League acts as the most lucrative commercial football system globally"
+        ],
+        "text": "British culture serves as a premier engine of international soft power. From the global literary phenomena of Charles Dickens and J.K. Rowling to iconic broadcasting institutions like the BBC, the UK's cultural footprint is omnipresent. Its deep-seated sporting heritage introduced association football, cricket, and rugby to the global lexicon, while British design and fashion continue to capture premium global luxury markets."
+      },
+      "zh": {
+        "list": [
+          "全球當之無愧的文化軟實力超級大國，藉由語言優勢將不列顛美學無縫滲透至全球地緣角落",
+          "莎士比亞（Shakespeare）、狄更斯（Charles Dickens）到當代的 J.K. 羅琳（J.K. Rowling），不列顛文學傳統構成了西方敘事藝術的半壁江山",
+          "音樂史上的「英國入侵（British Invasion）」從披頭四（The Beatles）、皇后樂隊（Queen）一路延續至當代的愛黛兒（Adele）與酷玩樂隊（Coldplay）",
+          "將足球運動成功包裝為全球產值最高的體育商業娛樂巨獸 —— 英格蘭超級聯賽（English Premier League）"
+        ],
+        "text": "英國（United Kingdom）文化的強大影響力在於其驚人的「經典再創造（Reinvention of Tradition）」能力。英國王室（Royal Family）的一舉一動——從西敏寺（Westminster Abbey）的加冕大典、溫莎城堡（Windsor Castle）的皇家婚禮到白金漢宮（Buckingham Palace）的禁衛軍換崗儀式——透過現代傳媒與全球影視的渲染，被成功包裝成風靡全球的超級文化 IP。英國廣播公司（BBC）與其製作的高水準自然歷史紀錄片和時代劇，長年牢牢掌握著國際新聞、科學傳播與影視話語權。\n\n在體育與休閒領域，不列顛是現代足球（Association Football）、網球、高爾夫球和板球（Cricket）規則的制定者。每年夏天舉辦的溫布頓網球錦標賽（Wimbledon Championships）與每週末開打、轉播權益金高達數十億英鎊的英超聯賽（Premier League），吸引著全球數十億觀眾的瘋狂追隨。這種將數百年的古老傳統與現代頂級商業資本、大眾傳媒完美嫁接的手法，正是英國文化能跨越政治、疆界與種族界限，在全世界範圍內維持龐大感召力與經濟變現力的核心所在。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Managing long-term trade frictions and regulatory realignment following Brexit",
+          "Persistent productivity bottlenecks paired with structural energy and public sector financing deficits",
+          "Complex border governance debates regarding illegal Channel crossings and migration controls",
+          "Latent constitutional friction over Scottish independence movements and the Northern Ireland Protocol"
+        ],
+        "text": "The United Kingdom navigates a complicated path of geopolitical and domestic realignment. Since exiting the European Union, the country has sought to construct a 'Global Britain' framework through independent trade agreements, but continues to grapple with reduced direct supply-chain integration with its nearest neighbors. Internally, handling regional nationalist sentiments and upgrading creaking transportation networks remain high priorities."
+      },
+      "zh": {
+        "list": [
+          "脫歐（Brexit）後的長期經濟適應期，包括歐陸進出口關稅摩擦與跨國勞動力供應鏈的重組",
+          "公共財政赤字壓力沉重，NHS 醫療系統的資金缺口與鐵路等公共基礎設施的老化亟待解決",
+          "英吉利海峽（English Channel）小船非法偷渡問題引發執法爭議，邊境主權與人道主義分歧成為選戰風暴眼",
+          "地緣政治版圖隱憂未消，蘇格蘭民族黨（SNP）的獨立訴求與北愛爾蘭（Northern Ireland）的特殊關稅地位持續考驗倫敦"
+        ],
+        "text": "進入 2026 年，英國（United Kingdom）正深處其現代歷史上最重要的地緣戰略適應與內政轉折期。脫歐（Brexit）帶來的結構性餘震仍在顯現，英國雖然擺脫了布魯塞爾（Brussels）的歐盟法律束縛，得以自由與印太地區和美洲簽署雙邊自由貿易協定（FTA），但失去了歐洲單一市場（European Single Market）的零關稅便利性，也確實導致了部分跨國金融機構與企業將歐陸總部遷出倫敦，面臨供應鏈成本拉高與勞動力短缺的陣痛。\n\n在國內政局上，蘇格蘭（Scotland）內部尋求脫離聯合王國、重新加入歐盟的聲浪雖因其地方執政黨內部動盪而暫時沉寂，但底層的民意分裂依然深刻；北愛爾蘭（Northern Ireland）則因特殊的《溫莎框架（Windsor Framework）》協議，實質上留在部分歐盟關稅法規內，這使北愛與不列顛本土之間存在著微妙的「海中邊界」，持續引發統獨派系的政治拉鋸。如何在確保國家法統統一、嚴格管控英吉利海峽（English Channel）非法移民偷渡的前提下，平息通膨帶來的底層生活成本危機、升級老化嚴重的鐵路與能源網絡，是倫敦中央政府面臨的嚴峻治理大考。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "London Matrix — The global nucleus blending Westminster, the Tower of London, and the Shard",
+          "Edinburgh Castle — The formidable volcanic fortress defining the historic Scottish skyline",
+          "Manchester Cityscape — The industrial heartland turned into a digital media and sporting capital",
+          "Stonehenge — The prehistoric megalithic stone circle holding neolithic archaeological mysteries"
+        ],
+        "text": "The landmark profile of the United Kingdom presents a tangible historical chronology. London contains dense nodes of authority, from the political engine of Downing Street to the historic architectural footprint of Westminster Abbey. Across the nations, sites like Scotland's Royal Mile, Wales' Conwy Castle, and the dramatic geological formations of Northern Ireland's Giant's Causeway provide global focal points for tourism and historical research."
+      },
+      "zh": {
+        "list": [
+          "大笨鐘（Big Ben）與西敏宮（Palace of Westminster） —— 坐落於泰晤士河（River Thames）畔、象徵聯合王國憲政民主制度的哥德復興式建築地標",
+          "白金漢宮（Buckingham Palace）與倫敦塔（Tower of London） —— 英國君主的官方駐地與見證不列顛千年宮廷風雲的古老石造要塞",
+          "愛丁堡城堡（Edinburgh Castle）與皇家哩路（Royal Mile） —— 聳立於死火山岩頂的蘇格蘭古老王權象徵，與下方中世紀古城相得益彰",
+          "巨石陣（Stonehenge）與巨人堤道（Giant's Causeway） —— 威爾特郡具有數千年歷史的史前巨石遺跡，以及北愛爾蘭壯麗的玄武岩幾何海岸"
+        ],
+        "text": "英國（United Kingdom）的地標建築是其千年法統、帝國霸權與文明演進的實體註腳。倫敦（London）市中心的大笨鐘（Big Ben）、西敏寺（Westminster Abbey）與白金漢宮（Buckingham Palace），構成了一座活生生的君主議會制博物館，每年吸引數千萬國際遊客前來朝聖，體會泰晤士河（River Thames）畔的莊嚴。而橫跨河面的倫敦塔橋（Tower Bridge），則以其宏偉的雙塔結構展現了維多利亞時代（Victorian Era）大英帝國工業全盛時期的鋼鐵美學。唐寧街 10 號（10 Downing Street）的黑門，更是近代無數國際重大外交與地緣決策的誕生地。\n\n走出倫敦，歷史的厚重感遍布各構成國。蘇格蘭愛丁堡城堡（Edinburgh Castle）俯瞰整個新舊城區，沿著皇家哩路（Royal Mile）走下，展現著不屈的蘇格蘭民族魂；威爾斯（Wales）北部的康威城堡（Conwy Castle）則是中世紀軍事防禦工程的巔峰。在自然與史前文明領域，威爾特郡（Wiltshire）平原上的史前巨石陣（Stonehenge）至今仍是人類新石器時代（Neolithic Era）天文與祭祀未解的謎題，而北愛爾蘭（Northern Ireland）大西洋沿岸的巨人堤道（Giant's Causeway），則以四萬多根天然形成的六角形玄武岩柱，將凱爾特人（Celts）的古老神話傳說與大自然的鬼斧神工完美融合，構成了無可取代的觀光矩陣。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "Permanent UN Security Council member maintaining global military intervention readiness",
+          "Nuclear-armed state providing critical nuclear deterrence frameworks to the NATO alliance",
+          "Leading voice within the G7, OECD, and IMF economic architecture steering global capital codes",
+          "Sovereign head of the 56-nation Commonwealth, maintaining diplomatic networks across six continents"
+        ],
+        "text": "United Kingdom foreign policy operates on a forward-leaning, multi-lateral defense posture under the 'Global Britain' doctrine. It maintains one of the world's premier overseas military basing networks, works as an ideological and logistical cornerstone within NATO, and co-coordinates highly advanced security frameworks like AUKUS to project naval and technological power into the Indo-Pacific theater."
+      },
+      "zh": {
+        "list": [
+          "聯合國安理會常任理事國（UN Security Council Permanent Member），擁有對國際集體安全決議與軍事制裁的絕對否決權（Veto Power）",
+          "全球少數合法擁有獨立戰略核打擊能力（前衛級核潛艇（Vanguard-class）與三叉戟飛彈（Trident Missile））的西方核大國",
+          "七大工業國集團（G7）、經濟合作暨發展組織（OECD）與五眼聯盟（Five Eyes）核心成員，主導西方世界防務情報與地緣戰略的制定",
+          "56 個主權國家組成的大英國協（Commonwealth of Nations）的象徵元首，在全球南方（Global South）擁有極為深厚的外交遺產"
+        ],
+        "text": "英國（United Kingdom）在國際外交舞台上被公認是一隻「超越其自身體量打擊（Punching above its weight）」的政治與軍事巨手。脫離歐盟（EU）後，倫敦全面推行「全球英國（Global Britain）」戰略，將外交、情報與防務重心大幅向印太地區（Indo-Pacific）傾斜。不列顛王國依然是歐洲對外援助與海外軍事干預能力最強的國家之一，在賽普勒斯、直布羅陀及印度洋迪亞哥加西亞等地維持著關鍵的海外軍事基地網絡。作為北大西洋公約組織（NATO）的意識形態與後勤基石，英國為盟友提供了不可或缺的核阻嚇（Nuclear Deterrence）框架。\n\n同時，為了實質參與圍堵戰略並確保印太航行自由，英國與美國、澳洲組成了澳美英三邊安全夥伴關係（AUKUS），強力推動高階核動力潛艇與高科技網路戰、量子技術的軍事對接。英國的外交風格以老練、務實與深厚的地緣情報網絡（如秘密情報局（SIS / MI6））著稱。憑藉著與美國（United States）牢不可破的「特殊關係（Special Relationship）」，倫敦中央常年扮演著連接北美與歐亞大陸的戰略橋樑，並透過倡導全球氣候變遷（Climate Change）綠色金融法規，持續在全球多邊地緣治理中維持著第一梯隊的話語權。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Advanced tech partner cooperating in offshore wind arrays and net-zero infrastructure",
+          "Major secondary destination for Taiwanese scholars via the British Council and Chevening fellowships",
+          "Growing bilateral focus on secure compound semiconductor foundry networks and cybersecurity",
+          "Increasing naval diplomatic emphasis on maintaining freedom of navigation in the Taiwan Strait"
+        ],
+        "text": "The United Kingdom and Taiwan maintain a robust, rapidly escalating unofficial partnership anchored in shared democratic values and advanced technology requirements. Managed via the British Office Taipei, bilateral initiatives have expanded into the fields of financial technology governance, renewable energy engineering, and English-language educational integration. The UK has increasingly aligned with international allies to underline the critical importance of cross-strait peace for global macroeconomic stability."
+      },
+      "zh": {
+        "list": [
+          "台英經貿對話機制運作成熟，英國為台灣（Taiwan）在歐洲布局離岸風電（Offshore Wind）與綠能轉型的最大技術夥伴",
+          "歐洲最核心的台灣（Taiwan）留學生與科研人員集聚地，透過英國文化協會（British Council）維持極高密度的產學交流",
+          "雙方在全球半導體「友岸外包（Friend-shoring）」趨勢下，於化合物晶片設計、晶圓製造與網路安全領域展開實質協作",
+          "近年在外交與國防政策白皮書中，多次與歐美盟友共同重申台灣海峽（Taiwan Strait）和平穩定對全球宏觀經濟與貿易的安全必要性"
+        ],
+        "text": "英國與台灣之間存在著高度互補、共享民主價值且在低調中穩步升級的強韌實質夥伴關係。設於台北的英國辦事處（British Office Taipei）實質代表了英國政府在台的所有核心利益與外交領事職能。在經濟與產業鏈層面，台灣（Taiwan）無可替代的半導體（Semiconductor）先進製程與晶圓製造能力，是英國推動智慧城市、數位轉型與汽車航太工業不可或缺的戰略基石；而英國則憑藉其在全球金融市場、碳權交易與再生能源工程（特別是北海風電技術）的領先經驗，成為台灣（Taiwan）推動 2050 淨零碳排與離岸風場建設的最主要外資來源國與技術導師。\n\n近年來，隨著台海地緣政治風險上升，英國政府的國防與外交戰略也愈發關注台海安全。英國皇家海軍（Royal Navy）航空母艦編隊與軍艦曾多次駛經台海及周邊水域以彰顯航行自由（Freedom of Navigation），倫敦高層亦頻繁在七大工業國集團（G7）等跨國多邊场合發言，強調台灣海峽（Taiwan Strait）局勢攸關全球高科技供應鏈的安危。此外，在台灣（Taiwan）積極推動雙語政策的背景下，英國作為英語（English）宗主國，雙方透過英國文化協會（British Council）在英語教學、 Chevening 志奮領獎學金、基礎教育對接以及高等教育學分互認上的民間經貿與產學合作，也進入了前所未有的活躍期。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "The sovereign birthplace and cultural legal vector of the modern English language",
+          "Served as the structural laboratory for the Industrial Revolution and steam-powered locomotion",
+          "The City of London commands undisputed supremacy over global foreign exchange and debt issuance",
+          "Maintains deep systemic soft power via the worldwide reach of the English Premier League and the BBC",
+          "Possesses resilient institutional framework capable of managing complex post-imperial constitutional adaptations"
+        ]
+      },
+      "zh": {
+        "list": [
+          "現代全球通用語 —— 英語（English）的法統發源地與核心文學根源",
+          "瓦特蒸汽機與斯蒂芬森火車頭的誕生地，親自點燃了人類近代工業文明與資本主義的星火",
+          "擁有全球最古老、最成熟且運作未曾中斷的議會民主（Parliamentary Democracy）與君主立憲政治標本",
+          "倫敦（London）金融城掌握著全球大宗商品定價權、海上保險法規與跨國國際法仲裁核心",
+          "在流行音樂（Pop Music）、服裝設計、現代體育商業化運作領域，持續扮演著全球時尚與娛樂風向球的角色"
+        ]
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": "£ Pound Sterling (GBP / One of the world's premier hard reserve currencies and foreign exchange staples)"
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "English (De facto national language). Welsh holds co-official legal status in Wales; Scottish Gaelic and Irish Gaelic are recognized regional heritage tongues",
+        "zh": "英語（English）（事實上的全國通用官方語言）；威爾斯語（Welsh）在威爾斯（Wales）具備共同法定地位；蘇格蘭蓋爾語與愛爾蘭語在特定區域享有法定保護與推廣"
+      }
+    },
+    {
+      "label": "GDP (nom.)",
+      "value": "$3.5T+"
+    },
+    {
+      "label": "Time zone",
+      "value": {
+        "en": "UTC+0 / UTC+1 (DST)",
+        "zh": "UTC+0 / UTC+1（夏令時間）"
+      }
+    },
+    {
+      "label": "Calling code",
+      "value": "+44"
+    },
+    {
+      "label": "ISO code",
+      "value": "GB / GBR"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "⏰",
+      "text": {
+        "en": "Big Ben & Palace of Westminster — The architectural heart of the UK's parliamentary democracy standing on the River Thames",
+        "zh": "大笨鐘（Big Ben）與西敏宮（Palace of Westminster） —— 聳立於泰晤士河（River Thames）畔的哥德復興式（Gothic Revival）建築巨作，不列顛君主立憲法統與威斯敏斯特議會政治的全球標誌性視覺符號"
+      }
+    },
+    {
+      "icon": "🏰",
+      "text": {
+        "en": "Buckingham Palace — The iconic London logistical residence and sovereign administrative base of the British Monarch",
+        "zh": "白金漢宮（Buckingham Palace） —— 位於倫敦市中心的皇家核心駐地，英國君主（British Monarch）履行國家元首儀式、接見各國使節與召見首相內閣的最高行政與歷史權力殿堂"
+      }
+    },
+    {
+      "icon": "🎡",
+      "text": {
+        "en": "London Eye & South Bank — The massive cantilevered observation wheel capturing the panoramic skyline of the contemporary capital",
+        "zh": "倫敦眼摩天輪（London Eye） —— 泰晤士河（River Thames）南岸的巨型懸臂景觀工程，古典歷史古蹟與現代倫敦金融城（City of London）玻璃天際線完美交織的當代不列顛地標"
+      }
+    },
+    {
+      "icon": "🪨",
+      "text": {
+        "en": "Stonehenge Megaliths — The world's premier prehistoric standing stone monument, preserved within the Wiltshire historic reserve",
+        "zh": "威爾特郡巨石陣（Stonehenge） —— 人類新石器時代（Neolithic Era）流傳至今的史前巨石巨陣奇蹟，環繞著巨型砂岩石圈，蘊藏著不列顛群島最古老的天文曆法與考古學未解之謎"
+      }
+    },
+    {
+      "icon": "⚽",
+      "text": {
+        "en": "English Premier League — The absolute peak of international commercial football club entertainment, broadcasted to billions worldwide",
+        "zh": "英格蘭超級聯賽（English Premier League） —— 全球商業運作最成功、全球轉播產值最高且球星雲集的頂級職業足球聯賽，不列顛跨越文化與種族障礙、風靡數十億球迷的體育軟實力（Soft Power）巔峰"
+      }
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/62149",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=-8.5%2C49.9%2C2.0%2C60.9&layer=mapnik"
+}

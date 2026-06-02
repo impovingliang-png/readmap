@@ -1,0 +1,358 @@
+{
+  "name": {
+    "en": "Japan",
+    "zh": "日本"
+  },
+  "nativeName": "日本国 (Nippon-koku / Nihon-koku)",
+  "capital": {
+    "en": "Tokyo",
+    "zh": "東京"
+  },
+  "population": "123.5M",
+  "area": "377,975 km²",
+  "density": "338/km²",
+  "continent": "Asia",
+  "flagEmoji": "🇯🇵",
+  "dataEstYear": 2026,
+  "description": {
+    "en": "Japan is a highly developed sovereign island nation stretching across a volcanic archipelago in East Asia's Pacific littoral. Governed under a constitutional monarchy with a parliamentary framework, it comprises five main islands—Honshu, Hokkaido, Kyushu, Shikoku, and Okinawa—alongside over 14,000 smaller islets. Historically executing the rapid structural transformation of the Meiji Restoration to become Asia's first industrialized state, contemporary Japan remains a formidable global force. It is characterized by absolute technological mastery, global manufacturing supply chain dominance, deep-layered cultural exports, and pivotal systemic influence within the G7 and Indo-Pacific security architecture.",
+    "zh": "Japan（日本國，簡稱日本）是位於東亞太平洋沿岸、由火山弧形群島構成的高度發達主權島國。該國採行君主立憲及議會民主制，領土核心由本州、北海道、九州、四國、沖繩等五大主島及逾 14,000 個周邊島嶼共同構築。歷史上，日本藉由明治維新的激進體制變革，迅速蛻變為亞洲首個近代工業化國家；時至今日，日本在全球經濟與地緣賽局中依舊保有舉足輕重的核心主導權，不僅在精密機械研發、全球汽車與半導體上游供應鏈中緊握核心專利，更憑藉深厚獨特的不列顛式東方美學文化輸出、龐大的海外淨資產 pools 以及在七大工業國集團（G7）中的關鍵地緣外交斡旋力，持續扮演著印太地區最穩固的戰略錨點。"
+  },
+  "seoText": {
+    "en": "Access the latest statistics for Japan — precise MIC demographic datasets, super-aged society trends, nominal GDP indexes, and Keidanren industrial profiles. Explore Tokyo's silicon-valley ecosystems, Kyoto's cultural heritage protection frameworks, post-deflationary monetary policies of the Bank of Japan (BOJ), and maritime security collaborations within the Quad framework.",
+    "zh": "深入掌握日本（Japan）最新基本資料：精確總務省族裔與人口變動比例、最新名目經濟增長指標、國土總面積與首都東京都會區。探索東京大手町金融聚落、筑波與關西科研矩陣、走出通縮（Deflation）後的日本銀行（BOJ）全新貨幣戰略、動漫與遊戲產業的全球商業運作，以及台美日印太高科技半導體供應鏈安全防務協調。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Sovereign dynamic archipelago commanding East Asia's critical Pacific maritime approaches",
+          "Ranked among the world's topmost nominal GDP pools and absolute core of global creditor capital",
+          "Institutional legacy anchored by the post-war pacifist Constitution and Westminster-style Diet",
+          "Major democratic power exercising pivotal strategic alignment via the Quad and G7 frameworks"
+        ],
+        "text": "Japan seamlessly pairs deeply revered traditional shogunal and imperial historical matrices with a hyper-advanced, automation-driven knowledge economy. Governed under a highly stable constitutional structure, its 47 prefectures are deeply integrated through world-leading high-speed transport networks. The state serves as a global epicentre for robotics, advanced material sciences, premium automotive design, and globally dominant gaming and animation networks, projecting immense civilizational soft power across every continent."
+      },
+      "zh": {
+        "list": [
+          "扼守東亞大西洋邊緣西太平洋戰略要道、由 47 個都道府縣構成的群島主權國家",
+          "全球規模名列前茅的名目國內生產總值（GDP）發達經濟體與全球最大海外資產淨債權國",
+          "基於戰後和平憲法（Article 9）與最高權力機關「國會」雙軌運作的現代法治標本",
+          "七大工業國集團（G7）與四方安全對話（Quad）核心成員，具備亞洲首屈一指的地緣經濟制衡力"
+        ],
+        "text": "日本將悠久綿延的神道與佛教傳統人文底蘊，與全球頂尖的精密自動化、高附加價值服務導向型知識經濟完美融合。其 47 個都道府縣在中央法統下維持高度協調，並透過舉世聞名的新幹線（Shinkansen）軌道網路將本州、九州等核心腹地緊密串聯。\n\n當代日本不僅是全球工業機器人、碳纖維複合材料、新世代固態電池與跨國車輛工程的技術源頭，更藉由對海外龐大工業體系的資本控制，持續在全球地緣經濟賽局中扮演著無可替代的戰略穩定器。其獨樹一幟的流行文化、動漫IP與高階美學經濟，更賦予了日本冠絕全球的文化軟實力話語權。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Occupies the violent volcanic fringe of the Ring of Fire along the Western Pacific Rim",
+          "Total sovereign surface area encompasses approximately 377,975 square kilometers",
+          "Physiography dominated by rugged, heavily forested tectonic mountain massifs covering 70% of land",
+          "Features an extraordinarily fragmented ria coastline yielding crucial deep-water naval harbors"
+        ],
+        "text": "The geography of Japan has historically constrained its domestic expansion and dictated an absolute reliance on maritime lifelines. The national terrain is intensely mountainous, with the iconic volcanic peak of Mount Fuji serving as both a cultural symbol and a reminder of active tectonic forces. Fertile lowland plains are scarce and heavily concentrated, with the Kanto Plain anchoring the massive urban agglomeration of Greater Tokyo. Moving south, the climate shifts from the heavy winter subarctic snowfalls of Hokkaido's ski fields to the subtropical, coral-fringed maritime ecologies of the Ryukyu Islands (Okinawa), creating a diverse but highly volatile natural habitat."
+      },
+      "zh": {
+        "list": [
+          "坐落於西太平洋板塊交界帶的環太平洋火山帶（Ring of Fire）之上，地理位置極具孤立與防禦特徵",
+          "總國土面積約 37.8 萬平方公里，由本州、北海道、九州、四國等大島與萬餘座離群小島共同交織而成",
+          "山地與丘陵地形極度發達，覆蓋了全國將近 70% 的國土面積，森林覆蓋率在發達國家中名列前茅",
+          "擁有破碎且極具深度優勢的沉降式里亞斯型海岸線，為現代海權部署提供了無數天然深水不凍良港"
+        ],
+        "text": "日本的島國地理是理解其民族憂患意識與資源外向型經濟的起點。全國國土呈現狭長的分散形態，由於地處歐亞板塊、太平洋板塊與菲律賓海板塊的瘋狂擠壓邊緣，全國火山密布，地震活動極其頻繁。這導致日本缺乏廣袤的大型農業盆地，僅有的沖積平原皆已被高密度開發。\n\n其中規模最大的關東平原（Kanto Plain），承載了東京都會區龐大的基礎設施與人口產值。往北延伸，北海道展現出寬廣的丘陵農牧場與世界級的冬季極地雪景；向南眺望，沖繩群島則綿延著碧海藍天的亞熱帶珊瑚礁風光。由於山地坡度陡峭，河流（如利根川、信濃川）大多短小流急，雖提供了豐富的水力發電潛能，卻也限制了內河航運，進而促使日本全力發展面向太平洋與日本海的藍水海事運輸體系。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Classified under a highly dynamic monsoon-influenced maritime climate spectrum",
+          "Heavily moderated by the warm Kuroshio Current and the frigid Oyashio Current systems",
+          "Characterized by distinct seasonal transitions, winter sea-of-Japan snows, and autumn typhoons",
+          "Exhibits dramatic latitudinal thermal variance from subarctic north to subtropical south"
+        ],
+        "text": "Japan's climate is a masterclass in seasonal contrast driven by seasonal wind reversals. In winter, freezing continental winds from Siberia blow across the warm Sea of Japan, dumping some of the world's heaviest, highest-quality powder snow along the western coastlines of Honshu and Hokkaido. Conversely, summers are dominated by warm, humid Pacific air masses, bringing high humidity and intensive precipitation. Autumn and spring introduce predictable natural cycles—the iconic spring cherry blossom (Sakura) front migrating northward, balanced by severe late-summer typhoon fronts that testing the state's advanced civil engineering resilience."
+      },
+      "zh": {
+        "list": [
+          "深受季風與洋流雙重夾擊，兼具顯著的大陸性季風與溫帶海洋性氣候混合特徵",
+          "西側由溫暖的黑潮（Kuroshio）提供充足熱能，東側與北側則受寒冷的親潮（Oyashio）調節調節",
+          "四季分明至極，以春櫻、夏雨、秋楓、冬雪構築了極富層次感與儀式感的自然氣候節奏",
+          "南北緯度跨度極大，由北海道的亞寒帶針葉林氣候，一路向南垂直過渡至沖繩的熱帶海洋氣候"
+        ],
+        "text": "日本的氣候本質上是一場由季風、洋流與山脈共同導演的季節變奏曲。每年冬季，來自西伯利亞的極地乾燥冷氣團在越過日本海時，瘋狂吸收海面溫暖的水氣，並在撞擊本州中央山脈（日本阿爾卑斯山）時被迫抬升，在「裏日本」（如新潟、東北地方）降下全球數一數二的驚人豪雪，形成壯麗的雪國景觀。與此同時，面向太平洋的「表日本」（如東京、大阪）則呈現乾燥晴朗的天氣。\n\n夏季來臨時，太平洋高壓接管戰局，為全國帶來炎熱潮濕的氣候，並伴隨著 6 月至 7 月間漫長的梅雨季節。夏秋之交，源自西太平洋的颱風常年常規性地侵襲東南沿海，迫使日本開發出全球最嚴苛的防災水利工程標準。這種既得天獨厚又暗藏殺機的氣候律動，塑造了日本人對自然榮枯極其敏感的「物哀」美學與強烈的防災危機意識。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Total population hovers at 123.5 million, experiencing acute structural natural decline",
+          "Racial and citizenship frameworks managed with intense precision by the Ministry of Internal Affairs (MIC)",
+          "Yamato Japanese ethnoreligious grouping constitutes 97.4%, maintaining high cultural homogeneity",
+          "Foreign residents form a rapidly expanding secondary segment at 2.6% of the national registry"
+        ],
+        "text": "The contemporary demographic ledger of Japan is defined by a historic transition into a super-aged societal model. According to detailed Ministry of Internal Affairs and Communications (MIC) datasets, the ethnic composition is strictly cataloged: the foundational Yamato ethnic identity accounts for 97.4% of citizens, alongside indigenous minority cohorts such as the Ainu of Hokkaido and the Ryukyuan populations of the south. Registered foreign residents comprise approximately 2.6% (around 3.2 million individuals), led by Chinese nationals (26.1%), Vietnamese technical trainees and professionals (16.5%), South Korean communities (12.8%), and Filipino citizens (9.8%). Population concentration is overwhelmingly skewed toward the Taiheiyo Belt, with Greater Tokyo constituting the world's most populous single urban metropolitan area."
+      },
+      "zh": {
+        "list": [
+          "2026 年最新統計全國人口約為 1 億 2,350 萬人，正面臨人類歷史上最嚴峻的少子高齡化（Super-aged Society）結構挑戰",
+          "人口與國籍變動數據由總務省統計局（MIC）進行極為精準且多維度的實時普查追蹤",
+          "大和民族（Yamato）佔總人口的 97.4%，在語言、習俗與價值觀上維持著極高的社會同質性",
+          "外國籍常住人口比例已攀升至 2.6% 的歷史新高，成為勞動力短缺背景下保障基礎產業運作的核心增量"
+        ],
+        "text": "根據日本總務省統計局與國立人口問題研究所發布的權威結構指標，日本已進入深度「超高齡社會」的深水區。全日本常住人口的具體民族與國籍分布具體明細如下：\n\n大和民族（Yamato）群體共計占總人口的 97.4%，是日本政治法統、傳統神道教與社會秩序的絕對歷史基石。在這當中，亦包含約 2.5 萬名受法定保護的北海道原住民族阿伊努人（Ainu），以及沖繩當地的琉球族群。\n\n外國籍常常住人口（Registered Foreign Residents）占比達 2.6%（總數已突破 322 萬人）。這其中以來自亞洲鄰國的移民與技術人才為絕對主力：中國籍人口（含台灣與香港移居者）規模最大，佔外籍人口的 26.1%；近年由於「特定技能簽證」大舉開放，越南籍高技術勞工與實習生迅速崛起，佔比高達 16.5%；傳統在日韓國籍與朝鮮籍常住群體佔 12.8%；菲律賓籍佔 9.8%；其餘則由巴西、尼泊爾及歐美高階研發專才組成。\n\n人口分布呈現極端的「東京一極集中」現象。全國超過 29% 的人口瘋狂湧入以東京、神奈川、埼玉、千葉構成的「東京圈」（達 3,800 萬人），這使得大東京都會區（Greater Tokyo）至今仍是全球規模最大、GDP 產值最高的連綿城市巨獸，而大片農村與地方小鎮則因人口外流與老齡化，陷入嚴重的「限界集落」（即村落消亡危機）與空屋（Akiya）結構困境。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "Highly developed post-industrial techno-market economy acting as global capital safe-haven",
+          "Tokyo dominates global clearinghouses for cross-border yen liquidity and mega-corporate equity",
+          "Commands world-leading IP patents in industrial automation, materials manufacturing, and solid-state tech",
+          "Maintains absolute quality dominance in premium automotive lines (Toyota) and semiconductor lithography chemistry"
+        ],
+        "text": "The economic framework of Japan is characterized by elite technological optimization and an extensive, hyper-coordinated global corporate structure known as the Keiretsu matrix. Services and high-tech intellectual property generate the vast bulk of domestic output, while the country stands as the world's largest net holder of foreign assets, investing trillions across global debt and equity markets. Backed by elite university-industry R&D pipelines, Japan exercises structural monopolies over critical global supply chain bottlenecks, including advanced image sensors (Sony), high-purity chemical photoresists, and ultra-precise industrial robotics."
+      },
+      "zh": {
+        "list": [
+          "高度發達的知識與精密技術導向型後工業化市場經濟體，日圓（JPY）長期扮演全球避險資產（Safe-Haven Asset）核心",
+          "東京大手町與兜町金融圈在國際主權債券託管、衍生性商品結算與海外直接投資領域與倫敦、紐約三足鼎立",
+          "在工業機器人、碳纖維、光阻劑等數百項半導體與車用核心上游材料中，握有全球壟斷性的專利話語權",
+          "保留了全球最頂級的製造業品牌矩陣（如豐田 Toyota、索尼 Sony），並積極轉型為智慧工廠與自動化方案輸出國"
+        ],
+        "text": "日本經濟是一具由極致工匠精神（Monozukuri）與跨國財閥資本（Keiretsu）共同驅動的超精密機器。儘管在經歷了泡沫經濟破裂後長達三十年的通縮陰霾，當前的日本經濟已在日圓結構性調整與供應鏈全球友岸外包（Friend-shoring）的浪潮下，迎來強勁的資產價值重估與再工業化復興。\n\n在走出負利率時代後，日本銀行（BOJ）正引領全新貨幣戰略。在東京、京都、筑波構成的「科研金三角」內，雲集了全球最密集的半導體設備（如東京威力科創 Tokyo Electron）與新世代全固態電池研發基地。儘管資通訊終端消費電子市場在國際份額中有所重組，但日本巧妙地退守至全球產業價值鏈的最上游——無論是高階智慧型手機、電動車還是先進晶片製造，其底層皆必須使用日本的超高純度化學材料（如信越化學、JSR）與超精密加工工具機。這種「扼殺供應鏈咽喉」的隱形冠軍策略，讓日本常年在外匯儲備與海外資產淨值上賺取高額的全球紅利。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Unitary legislative state operating under a non-partisan constitutional monarchy",
+          "Supreme sovereign legitimacy rests within the bicameral National Diet of Japan",
+          "The Prime Minister directs executive administrative power backed by a legislative majority",
+          "The Liberal Democratic Party (LDP) maintains a historically dominant hold on governance structures"
+        ],
+        "text": "The political architecture of Japan fuses Western parliamentary democracy with deeply traditional factional dynamics. Under the 1947 Constitution, the Emperor of Japan acts strictly as the 'symbol of the State and of the unity of the People,' wielding no governing executive authority. Real administrative power is concentrated within the Cabinet, headed by the Prime Minister, who must maintain the confidence of the House of Representatives. The domestic political landscape has been historically anchored by the continuous institutional hegemony of the Liberal Democratic Party (LDP)."
+      },
+      "zh": {
+        "list": [
+          "實行單一制君主立憲政體，憲政基石為 1947 年頒布、未曾修改過一字的《日本國憲法》",
+          "國家最高權力機關與唯一立法機關為「國會」，採行由眾議院為主導的兩院制（眾議院與參議院）",
+          "內閣總理大臣（首相）由國會議員推選產生，行政權向國會負責，體現內閣制下的「國會至上」法統",
+          "政黨格局呈現獨特的「一黨獨大、多黨並存」特徵，中右翼的自由民主黨（LDP）歷史上長期執政"
+        ],
+        "text": "日本是亞洲現代議會民主制度運作最穩固的典範之一。其憲政體系的最高特色在於放棄發動戰爭權利的「和平憲法」第九條（Article 9）。天皇（Emperor Naruhito）作為國家與國民整體的象徵，僅履行簽署內閣法令、接見國賓等純粹儀式性職能，無權干涉國政。\n  \n實質的國家行政權力牢牢掌握在首相及其內閣手中。日本政治的實際運作深受自民黨（LDP）內部根深蒂固的「派閥政治（Factional Politics）」與官僚體制影響。儘管政黨輪替在歷史上曾偶爾發生，但自民黨憑藉與地方農業協會、大型財團（經團連）以及保守選民結構的深度利益綑綁，建構了穩固的「五五年體制」延續至今。為了因應日益險惡的台海與印太地緣政治變局，當前日本政壇的核心角力，正圍繞在如何調整防衛預算（提升至 GDP 的 2%）以及推動「具備反擊能力（Counterstrike Capabilities）」的憲法實質解釋修正，這是維持日本國家主權自主與深化美日同盟的關鍵政經框架。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Universal welfare state anchored by a comprehensive national health and pension grid",
+          "Home to elite Imperial Universities, defining a highly competitive educational meritocracy",
+          "Displays an intricate social code blending Confucian corporate loyalty with strict civic order",
+          "Navigates intense demographic polarization between hyper-dense metropolises and emptying rural spaces"
+        ],
+        "text": "Social life in Japan expertly balances an uncompromising standard of public safety and institutional efficiency with deep structural anxieties. The universal public health insurance network provides world-leading lifespan statistics, yet contemporary Japanese society is structurally stressed. It actively grapples with the labor deficits of a super-aged workforce, severe mental health isolation phenomena (Hikikomori), and the systemic economic necessity of breaking historical gender glass-ceilings to mobilize female corporate participation."
+      },
+      "zh": {
+        "list": [
+          "實施覆蓋全體國民的「國民健康保險」與年金制度，國民預期壽命長年高居全球第一",
+          "以東京大學、京都大學等前「帝國大學」為核心的學術矩陣，構築了嚴格的學歷功績主義社會",
+          "社會行為受深層集體主義（Groupism）、禮貌文化與「不給他人添麻煩（Meiwaku）」的道德規範制約",
+          "承受著「極端少子化」所引發的勞動力空前缺口，被迫在引進海外移工與維持社會同質性間艱難平衡"
+        ],
+        "text": "日本社會是一個將高度精密的現代公民秩序、儒家長幼尊卑倫理與深刻的個體孤獨感交織並存的矛盾巨體。這裡擁有全球數一數二的低犯罪率與極致乾淨的公共空間，但社會運作的高壓節奏與無所不在的「同調壓力（Peer Pressure）」，也讓個體心理承載了巨大的無形束縛。國民健康保險與長壽福利堪稱世界典範，但近年來隨著高齡化人口（65 歲以上人口占比已逼近 30%）迅速擴張，醫療財政與青年世代的撫養比（Dependency Ratio）正承受著災難性的考驗。\n\n在教育與職場層面，傳統的「終身雇用制」與「年功序列制」正在全球競爭壓力下加速瓦解，越來越多的日本年輕世代開始打破常規，湧入外資企業或選擇彈性就業（Freeter）。為了應對高強度少子化帶來的社會停滯危機，政府正極力推動「女性經濟學（Womenomics）」，試圖打破傳統職場對女性的玻璃天花板，並透過大幅修改出入境管理法，建立前所未有的外籍勞工長期居留與融合體制，這場無聲的社會結構大改造，正從根本上重塑不列顛式東方島國的基層DNA。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "Global soft-power titan wielding uncontested supremacy in visual media and design aesthetics",
+          "Traditional concepts like Wabi-Sabi, Zen, and the tea ceremony profoundly anchor artistic philosophies",
+          "Dominates worldwide entertainment via legendary video gaming icons, anime studios, and literature",
+          "Culinary mastery demonstrated by Washoku, making Japanese cuisine a global gold standard for luxury dining"
+        ],
+        "text": "Japanese culture operates as an omnipotent vehicle of global soft power under the state-backed 'Cool Japan' structural framework. From the timeless minimalist architecture of Shinto shrines to the contemporary global literary dominance of Haruki Murakami and the multi-billion-dollar visual franchises of Pokémon and Studio Ghibli, Japan's cultural currency is absolute. Its meticulous gastronomy, centered on seasonality and pristine execution, commands elite global status, while Japanese artisan craftsmanship continues to define global premium lifestyle subcultures."
+      },
+      "zh": {
+        "list": [
+          "全球公認的文化軟實力超級巨擘，透過「酷日本（Cool Japan）」戰略將不列顛式東方美學滲透全球",
+          "「侘寂（Wabi-Sabi）」、「禪宗（Zen）」與茶道思想，奠定了全球極簡主義建築與設計美學的底層邏輯",
+          "憑藉任天堂（Nintendo）、索尼（PlayStation）以及無數殿堂級動漫 IP，牢牢掌握全球數位娛樂話語權",
+          "傳統和食（Washoku）被列入聯合國教科文組織世界非物質文化遺產，成為全球高端精緻餐飲的黃金標竿"
+        ],
+        "text": "日本文化的非凡影響力，在於其擁有一種能將任何外來文化徹底吸納、本土化並將其精緻化到極致的「超群轉化能力」。從保留了千年宮廷雅樂的京都祇園祭、伊勢神宮的定期遷宮儀式，到原宿街頭的賽博朋克潮流，日本展現了傳統與前衛毫無違和感的並存奇蹟。由寶可夢（Pokémon）、吉卜力工作室（Studio Ghibli）與集英社動漫構築的二次元娛樂帝國，在全球產生的經濟效益與文化感召力早已超越了傳統意識形態的界限。\n\n在體育與休閒領域，日本將武士道精神包裝入柔道、劍道與空手道中輸出全球，同時在現代棒球（如大谷翔平引發的全球狂潮）上也達到了商業與競技的巔峰。不論是極致講究食材原味與刀工的壽司、懷石料理，還是強調職人一生懸命執著的手工藝品，日本文化總是能將古老傳統與現代最頂級的商業品牌行銷完美嫁接，在世界範圍內建立起無可撼動的高端文化信仰。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Managing structural demographic collapse and desperate labor deficits within social infrastructure",
+          "Navigating post-deflationary fiscal stabilization and historic national debt-to-GDP load over 250%",
+          "Mitigating constant vulnerabilities to major catastrophic earthquakes and Pacific megathrust tsunamis",
+          "Securing localized critical supply chains while deterring aggressive geostrategic posturing in the East China Sea"
+        ],
+        "text": "Japan navigates a critical juncture of fundamental macroeconomic and geopolitical recalculation. Domestically, the state faces the daunting task of sustaining fiscal viability while carrying a staggering public debt burden, balanced by the necessity of structurally upgrading economic productivity via AI and automation. Regionally, Tokyo must continually secure its high-tech mineral inputs and energy supply corridors while actively countering shifting regional balances of power through heavy maritime defense spending."
+      },
+      "zh": {
+        "list": [
+          "「國難級」少子高齡化引發的結構性經濟萎縮，包括地方醫療養老財政的崩塌與底層勞动力斷層",
+          "極端龐大的政府財政赤字與超過 GDP 250% 的全球發達國家最高公債負擔，限制了宏觀經濟政策空間",
+          "隨時面臨南海槽（Nankai Trough）首都直下型特大地震與海嘯侵襲的毀滅性自然災害潛在威脅",
+          "在地緣政治變局下，如何保障東海（East China Sea）關鍵航道安全、減少對特定大國供應鏈依賴並提升防衛實力"
+        ],
+        "text": "進入 2026 年，日本正深處其戰後現代歷史上最波瀾壯闊的地緣與宏觀經濟轉折期。長達三十年的通縮毒瘤雖然基本被拔除，工資與物價開始進入健康的上升螺旋，但伴隨而來的日圓匯率劇烈波動與高通膨，也深刻考驗著普通民眾的生活成本耐受力。在財政層面，日本政府的債務佔 GDP 比例已遠高於其他西方國家，這意味著財政部在調配國防預算與社會福利資金時，宛如在薄冰上跳舞。\n\n在地緣防務上，隨著周邊地緣政治惡化，日本不再僅僅是個躲在美軍保護傘下的「和平島國」。從釣魚臺列嶼（尖閣諸島）的周邊對峙，到北韓（North Korea）常態性的彈道飛彈試射，逼得東京中央政府將國家戰略徹底轉向。如何建立自主且堅固的半導體在地化產能（如台積電台日合作的熊本 JASM 晶圓廠、日本本土的 Rapidus 2奈米計畫），並在確保台海「和平穩定」的前提下，平息地方上因擴大軍備部署而產生的反戰疑慮，是永田町決策核心面臨的最嚴峻治理大考。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Tokyo Megalopolis — The kinetic heartland integrating Shibuya Crossing, Tokyo Tower, and Shinjuku District",
+          "Mount Fuji — The peerless, snow-capped stratovolcano defining Japan's sacred geographical identity",
+          "Kyoto Historic Matrix — The imperial historic core preserving Kinkaku-ji, Fushimi Inari, and ancient bamboo groves",
+          "Itsukushima Shrine — The breathtaking Shinto torii gate floating majestically on the waters of the Seto Inland Sea"
+        ],
+        "text": "The landmark profile of Japan functions as a living timeline of imperial grandeur and futuristic architectural optimization. Tokyo contains hyper-dense vectors of technological and cultural authority, from the neon-drenched pedestrian canyons of Shibuya to the serene, forested precincts of Meiji Shrine. Across the islands, historical monuments like Himeji Castle, the atomic peace park of Hiroshima, and the sprawling temples of Nara provide timeless global focal points for millions of international pilgrims, researchers, and tourists."
+      },
+      "zh": {
+        "list": [
+          "東京晴空塔與澀谷十字路口 —— 象徵全球最大連綿都會區極致繁華、霓虹交織與科技魔幻的當代不夜城標誌",
+          "富士山 —— 孤高聳立、終年積雪的聖山，不僅是日本民族精神的最高自然圖騰，亦是世界文化遺產的視覺核心",
+          "金閣寺與伏見稻荷大社 —— 位於京都古都、展現室町幕府極致奢華藝術的舍利殿與綿延山頭的千本鳥居矩陣",
+          "嚴島神社與姬路城 —— 廣島瀨戶內海中隨潮汐起落的「海上大鳥居」，以及兵庫縣保存完好、白牆如鷺的戰國第一古堡"
+        ],
+        "text": "日本的地標建築是其「神佛習合」歷史、戰國武家風雲與昭和戰後奇蹟的實體註腳。東京圈內的澀谷、新宿天際線展現了近乎科幻的後現代都市美學，而鬧中取靜的皇居（Imperial Palace）與淺草寺，則在鋼筋水泥的包圍下保留了江戶時代的歷史幽情。橫跨東京都心的東京鐵塔與晴空塔，交織出新舊時代對於科技高度的崇拜。\n\n走出東京，歷史的厚重與自然之美交相輝映。京都的十七處世界文化遺產構成了一座活生生的木造建築博物館，西陣織的沙沙聲與清水寺的清水舞台，每年吸引數千萬國際遊客前來尋訪精神故鄉。而在兵庫縣，宛如白鷺展翅的姬路城（Himeji Castle）展現了日本防禦性木造城堡築城工藝的最高峰。當夜幕低落，廣島和平紀念公園（Atomic Bomb Dome）殘存的鋼筋穹頂在燈光下無聲佇立，與奈良公園內與人類和平共處的千百神鹿、瀨戶內海嚴島神社那座在潮汐中若隱若現的朱紅大鳥居共同交織，將神話、歷史、戰爭的殘酷與大自然的鬼斧神工完美融合，給予全球旅人無可言喻的心靈震撼。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "Pivotal G7 member directing western economic policy and high-tech trade realignments in Asia",
+          "Core strategic cornerstone of the U.S.-Japan Security Treaty hosting key forward-deployed military assets",
+          "Leading visionary architect of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)",
+          "Major international donor wielding vast structural soft-power weight through JICA development networks"
+        ],
+        "text": "Japan's foreign policy operates on a proactive, hyper-strategic多邊 alignment strategy under the historic 'Free and Open Indo-Pacific' (FOIP) doctrine. It acts as the absolute logistical and technological bedrock for democratic security frameworks in the Western Pacific, co-anchoring the Quad alliance alongside the United States, Australia, and India, while systematically upgrading military interoperability with NATO partners to secure vital maritime choke points."
+      },
+      "zh": {
+        "list": [
+          "亞洲唯一的七大工業國集團（G7）創始成員，在亞太經合組織（APEC）中掌握著極高的經貿規則制訂權",
+          "美日安保條約（U.S.-Japan Security Treaty）的核心基石，駐日美軍（USFJ）橫須賀與沖繩基地扼守西太平洋第一島鏈",
+          "跨太平洋夥伴全面進步協定（CPTPP）的實質總設計師與主導力量，引領亞太地區高標準自由貿易規則的推行",
+          "聯合國經費核心貢獻國，透過日本國際協力機構（JICA）在全球南方國家中深耕數十年，擁有巨大的基礎設施外援資產"
+        ],
+        "text": "日本在國際外交與地緣政治賽局中，被公認為是成功將「經濟財富轉化為全球戰略制度設計力」的頂級大師。自已故首相安倍晉三首次提出「自由開放的印太地區（FOIP）」這一偉大戰略構想後，日本的外交路線徹底擺脫了過去的被動姿態，一躍成為形塑當代地緣政治防務格局的總工程師。美日同盟（Japan-U.S. Alliance）至今仍是日本外交的最高軸心，第七艦隊以橫須賀為母港，與日本海上自衛隊（JMSDF）共同組成了全球最強大的海上作戰壁壘。\n\n然而日本的雄心遠不止於此。透過主導 CPTPP，日本在美國退出的歷史空窗期內成功維繫了亞太自由貿易的火種，並透過與澳洲、印度、美國共組的「四方安全對話（Quad）」，實質建立了圍堵威權主義擴張的民主菱形戰略盾牌。日本的外交風格兼具東方特有的隱忍細緻與G7第一梯隊的老練果斷，透過日澳防衛《互惠准入協定》（RAA）的簽署、對東協（ASEAN）國家源源不絕的政府開發援助（ODA），以及在氣候變遷與減災法規上的全球倡導，持續在聯合國與全球多邊治理中高居第一核心梯隊的話語權。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Indispensable high-tech semiconductor alliance partner anchoring the global TSMC-JASM TSMC manufacturing node",
+          "Primary premium tourism destination and dense cultural exchange conduit across all demographic cohorts",
+          "Deepening security convergence backed by the strategic doctrine that a 'Taiwan contingency is a Japan contingency'",
+          "Growing bilateral cooperation in supply chain resilience, advanced silicon packaging, and regional emergency disaster response"
+        ],
+        "text": "Japan and Taiwan maintain an extraordinarily close, deeply symbiotic unofficial partnership anchored in profound historical ties, shared democratic values, and mission-critical economic dependencies. Managed via the Japan-Taiwan Exchange Association, bilateral synergies have exploded within the high-technology sector. Japan has increasingly utilized global summits to firmly declare that peace and stability across the Taiwan Strait remain absolute requisites for international economic security and global supply chain integrity."
+      },
+      "zh": {
+        "list": [
+          "台日半導體「黃金戰略同盟」運作大爆發，熊本（TSMC-JASM）與筑波科研基地成為全球供應鏈最安全的晶圓核心",
+          "台灣民眾最核心且最具情感依戀的海外旅遊、文化消費首選國，雙方互訪密度與民間好感度長年高居全球之冠",
+          "地緣防務安全命運緊密捆綁，日本政防界廣泛落實「台灣有事即日本有事」的戰略制衡與實質防衛協調底線",
+          "雙方在全球半導體先進封裝、智慧物聯網（AIoT）、防災共同演練以及應對印太極端氣候領域展開實質機制化協作"
+        ],
+        "text": "台灣與日本之間存在著全球絕無僅有、超越一般非官方關係的「命運與情感共同體」實質夥伴關係。設於台北與高雄的「日本台灣交流協會（Japan-Taiwan Exchange Association）」實質履行著大使館的所有核心外交職能。在經濟與科技結構上，兩國已完成歷史性的深度捆綁——台積電（TSMC）在九州熊本的巨額投資與建廠奇蹟，不僅拯救了日本沉寂已久的半導體製造業，更讓台灣的晶圓製造實力與日本在全球領先的半導體材料、設備（如東京威力科創、迪斯科 DISCO）完美結盟，築起地緣政治風暴中不可摧毀的「矽盾2.0」。\n\n近年來，隨著第一島鏈地緣政治風險劇烈飆升，日本政府對台海安全的關注已從「關切」升格為「攸關國家存亡」的具體國防部署。日本政府在歷次 G7 峰會、美日元首會晤以及與歐美盟友的聯合聲明中，無一例外地將「台海和平穩定之重要性」列為不可逾越的國際紅線。在民間層面，無論是歷次大地震（如台灣花蓮地震與日本能登半島地震）中雙方社會展現出的「絆（Kizuna）」互助巨額捐款，還是日本對台灣加入 CPTPP 的堅定公開支持，台日關係皆已進入政治、經貿、科技與民間情感全方位融合的歷史最高峰黃金期。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "The historical birthland of Zen-infused aesthetic systems and world-ruling digital gaming platforms",
+          "Served as the revolutionary laboratory for Meiji technological modernization and East Asia's initial industrial blast",
+          "The Bank of Japan commands unparalleled leverage over global bond liquidity through its massive multi-trillion foreign net investments",
+          "Maintains absolute soft-power saturation via the worldwide omnipresence of Japanese cuisine, Manga culture, and J-Style visual art",
+          "Possesses highly resilient social structures capable of enduring cataclysmic seismic disruptions and acute demographic contractions"
+        ]
+      },
+      "zh": {
+        "list": [
+          "不列顛式東方島國文化與「職人精神（Shokunin）」的法統發源地，親自定義了當代全球極簡與精緻美學的最高標準",
+          "明治維新與黑船事件的試驗場，亞洲首個打破西方霸權壟斷、憑藉自身體制改造點燃近代科技文明火光的奇蹟之國",
+          "坐擁全球最成熟、運作最細緻且未曾中斷的象徵天皇制與高度法治化的政黨議會民主政治標本",
+          "日本銀行（BOJ）海外龐大的資本債權Pool與日圓外匯結算系統，緊緊掌握著全球金融資產與主權債券市場的流動性命脈",
+          "在二次元IP產業、動漫影視、精緻和食商業化運作以及高階材料研發領域，持續扮演著全球時尚與科技風向球的主導角色"
+        ]
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": "¥ Japanese Yen (JPY / One of the world's absolute primary safe-haven reserve currencies and global foreign exchange liquidity anchors)"
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "Japanese (De facto national official language). High institutional preservation of honorific grammar forms (Keigo); regional Ryukyuan and Ainu tongues hold highly protected cultural status",
+        "zh": "日本語（事實上的全國通用官方語言，採行極其複雜的敬語體系與漢字、假名混合書寫）；琉球語與阿伊努語在特定邊疆區域享有國家級非物質文化遺產法定保護與推廣"
+      }
+    },
+    {
+      "label": "GDP (nom.)",
+      "value": "$4.2T+"
+    },
+    {
+      "label": "Time zones",
+      "value": {
+        "en": "UTC+9 (Japan Standard Time - JST) / Does not observe daylight saving adjustments, maintaining a uniform temporal rhythm year-round",
+        "zh": "UTC+9（日本標準時間 - JST）；全年維持統一時規，不實施夏令時間調整，確保高精密工業與金融市場的高效對接"
+      }
+    },
+    {
+      "label": "Calling code",
+      "value": "+81"
+    },
+    {
+      "label": "ISO code",
+      "value": "JP / JPN"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🗻",
+      "text": {
+        "en": "Mount Fuji & Chureito Pagoda — The sublime, sacred stratovolcano standing symmetrically as the eternal visual signature of Japan's island soul",
+        "zh": "富士山與忠靈塔 —— 聳立於本州中部的孤高火山聖峰，與前方朱紅五重塔構成全人類集體記憶中不列顛式東方島國最經典的視覺符號"
+      }
+    },
+    {
+      "icon": "🏯",
+      "text": {
+        "en": "Himeji Castle (White Heron) — The world-leading pinnacle of historic wooden castle defense architecture, surviving centuries of tectonic and wartime turmoil",
+        "zh": "兵庫縣姬路城 —— 興建於戰國全盛期、因白漆牆面宛如白鷺展翅而被譽為「白鷺城」的日本第一國寶名城，世界木造防禦建築的最高藝術結晶"
+      }
+    },
+    {
+      "icon": "⛩️",
+      "text": {
+        "en": "Fushimi Inari Thousand Torii — The mesmerizing, endless paths of vermilion Shinto gates snaking up the sacred mountain of Kyoto's agricultural deity",
+        "zh": "京都伏見稻荷大社 —— 沿著稻荷山神域綿延數公里、由千百座信徒奉獻的朱紅鳥居構成的「千本鳥居」矩陣，日本神道教自然崇拜與視覺美學的極致展現"
+      }
+    },
+    {
+      "icon": "🚄",
+      "text": {
+        "en": "Shinkansen Network — The absolute vanguard of global high-speed rail transportation, dispatching millions with sub-second temporal precision across tectonic topography",
+        "zh": "新幹線高鐵網路 —— 全球高鐵軌道運輸的開山鼻祖與安全神話，在地震帶密布的崎嶇Terrain上實現了近半世紀零死亡事故與秒級精準調度的科技奇蹟"
+      }
+    },
+    {
+      "icon": "🎮",
+      "text": {
+        "en": "Media Mix & Akihabara Matrix — The undisputed epicenter of global interactive entertainment, anime, and legendary gaming intellectual property dominating youth culture worldwide",
+        "zh": "秋葉原與二次元 IP 帝國 —— 聚集於東京核心的全球數位娛樂與動漫次文化麥加聖地，任天堂與索尼等跨國娛樂巨擘輸出全球軟實力、產值高達數萬億日圓的商業巔峰"
+      }
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/382313",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=122.9%2C24.0%2C146.2%2C45.6&layer=mapnik"
+}

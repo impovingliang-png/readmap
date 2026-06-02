@@ -1,0 +1,353 @@
+{
+  "name": {
+    "en": "Iraq",
+    "zh": "伊拉克"
+  },
+  "nativeName": "العراق",
+  "capital": {
+    "en": "Baghdad",
+    "zh": "巴格達"
+  },
+  "population": "45.0M",
+  "area": "438,317 km²",
+  "density": "103/km²",
+  "continent": "Asia",
+  "flagEmoji": "🇮🇶",
+  "dataEstYear": 2025,
+  "description": {
+    "en": "Iraq is a country in Western Asia at the heart of the Middle East. It borders Turkey to the north, Iran to the east, and Saudi Arabia and Kuwait to the south. Iraq includes much of the historic Mesopotamian heartland between the Tigris and Euphrates rivers — one of humanity’s earliest cradles of civilization. Baghdad, once a leading center of learning in the Islamic Golden Age, remains the political and cultural capital today.",
+    "zh": "Iraq是雄踞西亞與中東地緣輻射圈的戰略大國，北接土耳其（Turkey），東鄰伊朗（Iran），南接沙烏地阿拉伯（Saudi Arabia）與科威特（Kuwait）。伊拉克傲然坐擁人類最古老的「文明搖籃」——底格里斯河與幼發拉底河所孕育出的美索不達米亞（Mesopotamia）核心腹地。首都巴格達（Baghdad）在歷史上的伊斯蘭黃金時代曾是名冠全球的智慧學術與財富之都，現代則因極具分量的國際油氣主導地位、錯綜複雜的教派政治格局，以及長達數十年的戰後浴火重建進程，長期成為牽動全球政治與安全神經的焦點國家。"
+  },
+  "seoText": {
+    "en": "Explore quick facts about Iraq — population, area, capital city, and a short overview. Discover Mesopotamian heritage, the Tigris–Euphrates river plains, Baghdad’s history, major oil resources, and Iraq’s strategic role in the Middle East.",
+    "zh": "快速解鎖中東核心巨擘伊拉克（Iraq）最新基本資料：包含總人口數、國土面積、千年歷史首都巴格達（Baghdad）與全方位深度國家概述。帶您深入探索蘇美與巴比倫美索不達米亞古文明遺址、底格里斯河與幼發拉底河黃金雙河流域、全球頂級原油儲量與歐佩克（OPEC）核心博弈定位，以及北部庫德自治區與伊斯蘭什葉、遜尼派交織的多元政治格局。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Located in the Tigris–Euphrates river basin",
+          "One of the world’s earliest civilization heartlands",
+          "Extremely rich in oil resources",
+          "A strategic state in Middle Eastern geopolitics"
+        ],
+        "text": "Iraq’s modern story is inseparable from its ancient heritage and its geographic position between major regional powers. While oil remains the central economic driver, reconstruction and governance challenges continue to shape the country’s development trajectory."
+      },
+      "zh": {
+        "list": [
+          "雄踞底格里斯河與幼發拉底河大盆地，天然掌控中東最肥沃的生命綠洲",
+          "人類文明不折不扣的共同起點，蘇美、巴比倫與亞述帝國的永恆發源地",
+          "富甲天下的戰略資源大國，探明原油儲量穩居世界前列，為全球能源心臟",
+          "夾於土、伊、沙三大強權交界的咽喉地帶，中東地緣博弈最核心的十字路口"
+        ],
+        "text": "伊拉克（Iraq）是位於西亞中東地區的國家，北接Turkey，東鄰Iran，南接Saudi Arabia與Kuwait。這片土地是人類最早發明文字、編纂法律與建立城市文明的聖地，美索不達米亞的輝煌歷史為其注入了無可替代的民族自豪感。\n\n首都巴格達（Baghdad）作為阿拔斯王朝的「和平之城」，至今仍是國家的政經靈魂。現代伊拉克在歷經多次重大戰爭與政權更迭後，正全面依託其無比龐大的石油財富，在區域外交平衡、戰後城經濟重建與多元民族和解的道路上，重新樹立其作為中東核心大國的戰略威嚴。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Core territory in the Middle East",
+          "Fertile plains formed by the Tigris and Euphrates",
+          "Western areas include extensive desert landscapes",
+          "Northern regions are more mountainous"
+        ],
+        "text": "Iraq’s geography is dominated by river plains and arid zones. The Tigris and Euphrates cross the country and historically supported dense settlement, while the north includes uplands and border mountain zones where Kurdish communities are concentrated."
+      },
+      "zh": {
+        "list": [
+          "地理位置優越，牢牢扼守波斯灣西北頂端與陸路進出黎凡特地區的戰略咽喉",
+          "底格里斯河與幼發拉底河縱貫全境，沖積出舉世聞名的兩河流域美索不達米亞大平原",
+          "國土西部與約旦、沙烏地接壤地帶，被廣袤無垠、環境嚴酷的敘利亞沙漠所覆蓋",
+          "東北部邊境山巒疊嶂，托羅斯與札格羅斯山脈支脈交會，構成天然的防務屏障"
+        ],
+        "text": "伊拉克國土面積約 43.8 萬平方公里。其地形主體呈現出「雙河孕育、荒漠環繞、高山屏障」的奇特格局。底格里斯河（Tigris River）與幼發拉底河（Euphrates River）自西北向東南浩蕩流淌，最終在南部匯聚為阿拉伯河（Shatt al-Arab）注入波斯灣，這條黃金水系兩岸形成的沖積平原，自古便是農業高度發達、城鎮最為密集的精華區。\n\n與此形成鮮明對比的是，西部高原被漫天黃沙的沙漠所盤踞；而北部靠近土耳其與伊朗的邊境則陡然拉高，轉為平均海拔超過兩千公尺、林木茂密的險峻山地，這片高山地帶也是庫德族（Kurds）世代繁衍的天然家園。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Arid desert climate dominates much of the country",
+          "Extremely hot summers",
+          "Low annual rainfall overall",
+          "Colder winters in northern mountain regions"
+        ],
+        "text": "Summer heat can be intense, especially in central and southern cities, while rainfall is limited and seasonally concentrated. Water management has become increasingly important due to climate pressure and river-flow variability."
+      },
+      "zh": {
+        "list": [
+          "國土絕大部分區域屬典型的副熱帶乾燥沙漠氣候，長年陽光暴曬且蒸發量巨大",
+          "夏季高溫極其酷烈，中南部平原與大都會區午後氣溫經常突破驚人的 45°C 甚至 50°C",
+          "全國年平均降雨量極度稀少且分配不均，水資源管理與抗旱向來是國家一級重任",
+          "北部與東北部高山地帶受地形調節，冬季氣候寒冷，山頭常迎來皚皚白雪"
+        ],
+        "text": "伊拉克的氣候以「酷熱、乾燥」聞名於世。中南部平原的夏季漫長而嚴苛，伴隨著從西北沙漠吹來的乾燥強風（Shamal），沙塵暴頻發。相較之下，冬季氣候則顯得溫和宜人，是舉國上下主要的雨季與社會活動黃金期。\n\n近年來，受到全球氣候變遷與上游鄰國大舉興建水壩的雙重夾擊，兩河流域的水位出現了歷史性的波動。這使得土壤鹽鹼化、荒漠化擴張以及南部沼澤地的生態保護，一躍成為伊拉克當前最迫切需要跨國協調解決的長遠環境與生存挑戰。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Population around 45 million",
+          "Relatively young age structure",
+          "Arabs are the largest ethnic group",
+          "Religiously and ethnically diverse society"
+        ],
+        "text": "Population concentrates around Baghdad and major cities across the river plains. Arabs form the majority, while Kurdish communities are concentrated in northern regions. Islam is the dominant religion, including both Shia and Sunni communities."
+      },
+      "zh": {
+        "list": [
+          "全國總人口已攀升至約 4,500 萬人，展現出強勁的自然增長勢頭",
+          "年齡中位數極低，呈現出活力充沛、人口紅利無比巨大的極年輕化倒金字塔結構",
+          "阿拉伯人（Arabs）佔總人口的 75% 至 80%，是主導國家政治與文化的主體民族",
+          "民族與教派版圖錯綜複雜，庫德族、土庫曼族與伊斯蘭什葉、遜尼派交織並存"
+        ],
+        "text": "伊拉克人口高度集中於首都巴格達圈以及沿著兩河流域延展的現代都市帶。在民族構成上，除佔絕對多數的阿拉伯人外，北部山區聚居著不容忽視的庫德族（約佔 15% 至 20%），他們擁有獨立的語言與高度自治權，其餘則包含土庫曼人、亞述人及亞茲迪人等古老少數族群。在宗教信仰層面，伊斯蘭教為絕對國教，穆斯林人口佔 95% 以上。然而內部結構呈現出獨特的「雙核心」特徵：什葉派（Shia）大約佔總人口的 60% 至 65%，主要分佈於中南部，坐擁納賈夫與卡爾巴拉等全球什葉派最高聖城；遜尼派（Sunni）則佔約 32% 至 37%，主要分佈於中西部與北部。這種多民族、多教派的精細人口結構，自 2003 年以來便深度形塑了伊拉克特殊的聯邦權力制衡體制。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "Oil industry is the core of the economy",
+          "High dependence on energy exports",
+          "Large reconstruction and infrastructure needs",
+          "Youth unemployment remains a major challenge"
+        ],
+        "text": "Iraq holds some of the world’s largest proven oil reserves, and oil revenues dominate government finance and exports. Years of conflict and political instability have left major reconstruction demands across transport, utilities, and public services."
+      },
+      "zh": {
+        "list": [
+          "絕對的「石油王國」，原油開採與石化工業是支撐整個國家運作的唯一頂天支柱",
+          "經濟結構高度單一，國家財政收入高達 90% 以上、外匯收入 99% 依賴原油出口",
+          "戰後百廢待興，電力、自來水、現代鐵路與港口物流等基礎建設存在極其龐大的重建商機",
+          "非油氣產業發展相對滯後，導致高學歷青年世代面臨結構性失業與創業瓶頸"
+        ],
+        "text": "伊拉克擁有超過 1,450 億桶、位居全球前列的探明原油儲量，更是石油輸出國組織（OPEC）內僅次於沙烏地阿拉伯的第二大產油國。巨額的石油美元（Petrodollars）源源不斷地注入，為戰後國家的全面復甦提供了無與倫比的資金底氣。南部大港巴斯拉（Basra）是整個國家將原油輸往全球市場的經濟咽喉。\n\n為了擺脫對「單一黑金」的過度依賴，伊拉克現任政府正強力推動「發展之路（Route of Development）」等劃時代跨國基建計畫，旨在打造一條連接波斯灣大港與土耳其鐵路網絡的歐亞陸海物流大通道，藉此拉動本土水泥、鋼鐵、現代農業與數字金融等多元非油氣產業的全面抬頭。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Federal republic with a parliamentary system",
+          "Political stability remains fragile",
+          "Kurdistan Region has special autonomous status",
+          "Religious and factional politics strongly influence governance"
+        ],
+        "text": "After 2003, Iraq rebuilt its political institutions and operates a parliamentary republic framework. Relations among parties, communities, and regional authorities remain central to political stability, including the governance of the Kurdistan Region."
+      },
+      "zh": {
+        "list": [
+          "採行聯邦議會共和制，實權由總理掌握，總統多由庫德族出任以示民族和解",
+          "政治體制依循不成文的教派配額制（Muhasasa），各方利益集團博弈激烈",
+          "北部庫德自治區（Kurdistan Region）擁有自己獨立的軍隊與立法權，地位超然",
+          "宗教宗教政黨、部族勢力與地方武裝在國家權力架構中依舊擁有深厚的輻射影響力"
+        ],
+        "text": "伊拉克在 2003 年伊拉克戰爭及薩達姆政權倒台後，逐步摸索並建立起一套全新的現代政治秩序。在聯邦憲法架構下，國家權力核心進行了精密的教派與民族平權分配：總理（實權首腦）固定由什葉派阿拉伯人擔任，國會議長由遜尼派阿拉伯人出任，而國家元首（總統）則保留給庫德族。這種設計有效防止了單一派系再度走向專制。\n\n位於北部的「庫德斯坦自治區」首府設在艾比爾（Erbil），是聯邦國內一個實力雄厚的「國中之國」，擁有高度自治的預算審批與防務部隊（Peshmerga）。如何妥善處理巴格達中央政府與庫德自治區在石油收益分配、爭議領土劃分上的動態平衡，始終是考驗歷屆內閣政治智慧的核心政治課題。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Reconstruction continues in many cities",
+          "Uneven public service capacity",
+          "Large youth population",
+          "Security conditions have improved but remain uneven"
+        ],
+        "text": "Urban life has gradually resumed in many areas, yet infrastructure and public services require long-term investment. Security has improved compared with peak conflict periods, though conditions can vary by region."
+      },
+      "zh": {
+        "list": [
+          "各大核心城市正歷經前所未有的城市現代化大更新，星級酒店與商場大舉進駐",
+          "公共服務設施（如夏季電力供應、現代醫療）在不同省份與城鄉之間仍顯現落差",
+          "戰後出生、極其渴望與國際接軌的年輕人口比例極高，正重新定義社會消費主流",
+          "全國整體治安與社會穩定度已取得歷史性的大幅改善，國際商務與宗教旅遊全面解凍"
+        ],
+        "text": "現代伊拉克的社會風貌早已告別了過去烽火連天的舊印象。隨著對極端組織「伊斯蘭國（ISIS）」的決定性勝利，全國安全形勢步入長期的穩定紅利期。巴格達（Baghdad）的街頭拆除了大量的防爆水泥牆，取而代之的是徹夜通明的網紅咖啡館、現代化大型購物中心以及喧囂的國際體育賽事，都市夜生活再度焕發活力。\n\n規模無比龐大的年輕一代正成為推動社會風尚變革的核心力量。他們高度依賴智慧型手機與社交媒體，對反腐敗、提高政府行政效能、增加公共就業機會有著極其強烈的訴求，這股朝氣蓬勃的社會思潮正加速推動著伊拉克向開放、務實的世俗商務社會轉型。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "Deep roots in ancient Mesopotamian civilizations",
+          "A historic center of Islamic scholarship",
+          "Long Arabic literary and academic traditions",
+          "Multiple religious cities and pilgrimage sites"
+        ],
+        "text": "Iraq includes key sites of Sumerian, Babylonian, and Assyrian heritage, shaping the global history of writing, law, and urban civilization. During the Islamic Golden Age, Baghdad emerged as one of the world’s leading centers of learning."
+      },
+      "zh": {
+        "list": [
+          "人類古文明的終極博物館，地底埋藏著無數尚未挖掘的蘇美與巴比倫城邦遺址",
+          "伊斯蘭文化的正統學術重鎮，阿拔斯王朝「智慧宮」的學術精神傳承至今",
+          "在阿拉伯文學界享有「開羅寫作、貝魯特出版、巴格達閱讀」之至高無上的文學美譽",
+          "什葉派兩大終極聖地納賈夫與卡爾巴拉坐落境內，每年吸引數千萬全球信徒朝聖"
+        ],
+        "text": "伊拉克的文化底蘊在整個中東大區堪稱笑傲群雄。這裡是人類最早的楔形文字、世界上第一部成文法典《漢摩拉比法典》以及傳奇故事《一千零一夜》的誕生聖地。在伊斯蘭黃金時代，巴格達的「智慧宮」匯聚了全球的科學家與哲學家，翻譯並保存了大量古希臘與古印度的學術精粹。\n\n在當代阿拉伯世界，伊拉克的詩歌、現代雕塑與先鋒建築設計（如著名建築師札哈·哈蒂 Zaha Hadid 便是伊拉克裔）依舊享有崇高的殿堂級地位。此外，中南部聖城卡爾巴拉（Karbala）每年的阿巴因節（Arba'een）朝盛大巡遊，更是全球規模最龐大的什葉派宗教人文奇觀，展現了無與倫比的文化凝聚力。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Political stability and governance reform",
+          "Overreliance on oil revenues",
+          "Water scarcity and climate stress",
+          "Regional security and armed group dynamics"
+        ],
+        "text": "Iraq continues to pursue political and economic reforms, but corruption, unemployment, and public service gaps remain major challenges. Water stress and climate change are increasingly central long-term risks."
+      },
+      "zh": {
+        "list": [
+          "根深蒂固的行政官僚體制官僚與貪腐積弊，嚴重制約了國家高效率改革的推進速度",
+          "對石油單一財政的高度依賴，導致國家經濟抗禦國際原油價格波動的風險能力脆弱",
+          "氣候暖化與鄰國截流引發底格里斯、幼發拉底兩河水量銳減，帶來深遠的「水安全」危機",
+          "多方大國地緣勢力在境內的影子博弈，對國家全面落實絕對主權帶來微妙的外交考驗"
+        ],
+        "text": "伊拉克在穩步邁向繁榮的進程中，依然需要揮別歷史留下的多重枷鎖。首要的內部挑戰在於如何透過法治手段，將極具誘惑力的石油美元轉化為全民共享的現代基建，並徹底根除公共部門的貪腐頑疾。在外部層面，環境科學界正高度警惕兩河流域面臨的枯水危机，這不僅威脅到沿岸萬頃良田的灌溉，更有可能引發新一輪的鄉村人口被迫大外移。\n\n此外，如何在宿敵美國與強鄰伊朗的夾縫中，長袖善舞地維持獨立自主的涉外中立路線，避免再度淪為大國角力的戰場，是伊拉克通往巴爾幹與中東和平大國之路上必須時刻保持警惕的長遠考驗。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Baghdad — capital and historic cultural center",
+          "Basra — key southern port and oil city",
+          "Mosul — major northern historic city",
+          "Babylon — iconic archaeological heritage site"
+        ],
+        "text": "Babylon symbolizes the Mesopotamian heritage, while Basra remains a critical modern gateway for energy exports. Baghdad continues to be Iraq’s most important administrative and cultural center."
+      },
+      "zh": {
+        "list": [
+          "巴格達（Baghdad）—— 千年傳奇古都，自由廣場的宏偉浮雕與薩瓦河畔的繁華交相輝映",
+          "巴斯拉（Basra）—— 「東方威尼斯」與國家經濟咽喉，扼守波斯灣的超級石油輸出港與海運門戶",
+          "摩蘇爾（Mosul）—— 北部歷史文化重鎮，歷經戰火摧殘的古老老城正全面迎來聯合國主持的史詩級重生",
+          "巴比倫古城（Babylon）—— 聯合國世界文化遺產，空中花園傳奇所在，人類早期城市文明的終極豐碑"
+        ],
+        "text": "坐落於巴格達以南約 85 公里處的巴比倫古城（Babylon），是美索不達米亞文明最耀眼的歷史徽章。漫步於這片巨大的考古遺址中，儘管當年的「空中花園」已湮沒在歷史塵埃中，但重建的伊什塔爾城門（Ishtar Gate）複製品、厚重的泥磚城牆以及威武的巴比倫之獅石雕，依舊散發著令人肅然起敬的帝國威嚴。而在北部，摩蘇爾（Mosul）老城的重建則是現代奇蹟，聯合國教科文組織主導的「振興摩蘇爾精神」計畫正全面修復標誌性的努里大清真寺及其傾斜宣禮塔，使其成為伊拉克戰後走向和平與跨宗教和解的全球新地標。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "A major energy state in the Middle East",
+          "Complex long-term relationship with the United States",
+          "Strong regional influence from neighboring politics",
+          "Close and consequential interactions with Iran"
+        ],
+        "text": "Iraq sits at a geopolitical crossroads where relationships with Iran, the United States, and Arab states all shape regional outcomes. Energy resources remain central to Iraq’s international profile."
+      },
+      "zh": {
+        "list": [
+          "全球能源版圖的終極核心棋手之一，其產量政策直接左右著國際原油大宗商品的價格走勢",
+          "與美國（United States）維持著高度複雜、從全面戰爭轉向反恐防務與經濟投資的深度關係",
+          "因地理與宗教血緣天然而緊密地與伊朗（Iran）保持著極具地緣分量的全方位戰略互動",
+          "積極主導舉辦多次多邊區域峰會，力圖將自身重新定位為中東阿拉伯與波斯兩大陣營的「金牌調解人」"
+        ],
+        "text": "伊拉克（Iraq）當前在涉外外交舞台上正展現出前所未有的「主動平衡者」姿態。在歷史上經歷了漫長的動盪後，巴格達決策層深刻意識到穩定外交環境的極致價值。它與鄰國伊朗在安全、經貿與什葉派宗教朝聖上深度捆綁，同時又與美國維持著戰略防務合作架構，並大舉吸引海灣阿拉伯國家（如沙烏地、阿聯酋）的千億級資本跨國注資。\n\n近年來，伊拉克成功主導了多輪旨在調和沙烏地與伊朗矛盾的秘密與公開談判，這表明伊拉克已成功從地緣衝突的「風暴眼」，蛻變為當前中東多極化局勢中不可或缺的橋樑與穩定器。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Limited official interaction",
+          "Small-scale energy and trade ties",
+          "Relatively few bilateral exchanges",
+          "Some potential cooperation space via Middle East markets"
+        ],
+        "text": "Iraq and Taiwan have no formal diplomatic relations. Interactions are mainly limited to small-scale trade and non-official contacts."
+      },
+      "zh": {
+        "list": [
+          "受限於宏觀地緣政治制約，雙邊目前無官方直接接觸，涉外互動保持高度審慎與低調",
+          "台灣（Taiwan）每年維持著自伊拉克進口原油的務實商務接觸，能源貿易構成雙邊往來主軸",
+          "雙邊經貿多透過海灣轉運中心（如杜拜）進行，以台灣的五金工具機、電子零組件與塑膠製品為主",
+          "隨着伊拉克大舉重啟基建，其龐大的重建工程與工業升級正成為台商挖掘中東市場的全新潛力點"
+        ],
+        "text": "伊拉克與台灣之間目前主要維持著純民間、非官方的實質商務經貿往來。儘管兩國在涉外政治層面上缺乏直接連結，但在大宗商品領域，台灣的國營與民間能源企業長期將伊拉克（特別是巴士拉原油）列為原油進口多元化戰略的重要來源之一。在非能源領域，隨著伊拉克國內局勢的大幅穩定與城市建設的井噴式需求，台灣生產的高品質自動化機械、建築五金、安防監控系統以及汽配零件，正透過杜拜等第三地貿易商源源不斷地輸入兩河流域，兩國民間在未來智慧都市升級與工業技術互補上，依然蘊含著不小的務實拓展空間。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "Core region of ancient Mesopotamian civilization",
+          "One of the world’s major oil exporters",
+          "Baghdad was a leading center of scholarship",
+          "Religiously and ethnically diverse society",
+          "Strategic country in Middle Eastern geopolitics"
+        ],
+        "text": "Iraq’s profile combines extraordinary civilizational heritage with modern strategic importance driven by rivers, resources, and geopolitics."
+      },
+      "zh": {
+        "list": [
+          "無可震撼的古代美索不達米亞兩河文明正統圖騰，整部人類早期發展史的實物載體",
+          "世界原油供應與歐佩克減產談判中動輒得咎的重量級巨頭，地下黑金財富不可估量",
+          "巴格達歷史學術精神與阿拉伯古典文學底蘊深厚，當代藝術與先鋒設計代代有人才出",
+          "什葉派、遜尼派穆斯林與不屈不撓的高山庫德族共同交織而成的多元聯邦型社會結構",
+          "融合了古老史詩悲壯感、頂級資源支配力與全新地緣平衡智慧的西亞（Western Asia）完全體核心大國"
+        ],
+        "text": "從庫德斯坦高山上終年呼嘯的清冽山風、巴格達薩瓦河畔徹夜吟唱的阿拉伯古典長詩，到巴比倫古城殘陽下屹立不倒的千年泥磚，以及在國際原油市場上足以左右全球通膨走勢的巨量原油輸出，伊拉克（Iraq）以其冠絕人類歷史的兩河文明遺產、得天獨厚的地下黑金寶藏，以及在美、伊、沙多方大國博弈間展現出的全新地緣外交平衡智慧，共同向世界展現出一個正在全面跨越戰火陰霾、昂首重返中東地緣政治與商務舞台中央的西亞完全體核心大國姿態。"
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": "Iraqi Dinar (IQD)"
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "Arabic, Kurdish",
+        "zh": "阿拉伯語、庫德語"
+      }
+    },
+    {
+      "label": "Time zone",
+      "value": "UTC+3"
+    },
+    {
+      "label": "Calling code",
+      "value": "+964"
+    },
+    {
+      "label": "ISO code",
+      "value": "IQ / IRQ"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🏛️",
+      "text": {
+        "en": "Mesopotamia — one of the world’s earliest civilization heartlands between the great rivers",
+        "zh": "美索不達米亞文明（Mesopotamia）—— 人類文明史上最神聖的起跑線。這片介於底格里斯河與幼發拉底河之間的肥沃新月地帶，率先誕生了蘇美、巴比倫、亞述等史詩級古文明，發明了人類最早的文字（楔形文字）與城市，其燦爛遺產至今仍深深烙印在現代世界的曆法、數學與法律骨架之中"
+      }
+    },
+    {
+      "icon": "🛢️",
+      "text": {
+        "en": "Oil resources — among the world’s most significant oil reserve and export bases",
+        "zh": "石油王國底氣（Oil resources）—— 全球當之無愧的「能源巨擘」。伊拉克地下蘊藏著超過 1,450 億桶、極其易於開採的高品質原油，儲量穩居世界前列。作為歐佩克（OPEC）內舉足輕重的第二大產油國，其每日數百萬桶的出口量不僅是本國戰後重建的無盡資金引擎，更是足以左右全球大宗商品市場的黑金命脈"
+      }
+    },
+    {
+      "icon": "🕌",
+      "text": {
+        "en": "Baghdad — historic cultural center of the Abbasid era and a modern national capital",
+        "zh": "千年傳奇巴格達（Baghdad）—— 曾經名冠世界的「和平之城」。在阿拔斯王朝全盛時期，這座圓形都市作為伊斯蘭黃金時代的絕對核心，憑藉「智慧宮」匯聚了全人類最頂尖的科學家與思想家；現代巴格達則在洗盡烽火硝煙後，正以蓬勃的姿態全面重塑其作為中東政治、前衛藝術與文學社交中心的宏偉大氣象"
+      }
+    },
+    {
+      "icon": "🏜️",
+      "text": {
+        "en": "Two-river plains — the Tigris and Euphrates river system that shaped early urban civilization",
+        "zh": "雙河萬頃平原（Two-river plains）—— 縱貫國土的「生命之源」。底格里斯河與幼發拉底河如兩條閃亮的藍色緞帶，從西北向東南橫穿整片乾燥的土地，兩岸沖積出的肥沃黑土地不僅孕育了傳奇的南部沼澤文化，至今依然是國家賴以生存的農業基石與生態命脈"
+      }
+    },
+    {
+      "icon": "⚔️",
+      "text": {
+        "en": "Conflict and rebuilding — modern history deeply shaped by war, instability, and reconstruction",
+        "zh": "浴火重生新紀元（Conflict and rebuilding）—— 現代伊拉克最堅韌的歷史勳章。雖然近代國史經歷了劇烈的戰爭、制裁與反恐風暴，但當前的伊拉克已全面走出陰霾，治安與社會穩定度取得歷史性大跨越，正大舉推進劃時代的跨國基建「發展之路」，以開放與商務的新姿態向全球展示兩河兒女的鋼鐵風骨"
+      }
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/304934",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=38.8%2C29.0%2C48.8%2C37.6&layer=mapnik"
+}

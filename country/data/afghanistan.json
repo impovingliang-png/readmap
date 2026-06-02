@@ -1,0 +1,357 @@
+{
+  "name": {
+    "en": "Afghanistan",
+    "zh": "阿富汗"
+  },
+  "nativeName": "افغانستان",
+  "capital": {
+    "en": "Kabul",
+    "zh": "喀布爾"
+  },
+  "population": "40.0M",
+  "area": "652,230 km²",
+  "density": "61/km²",
+  "continent": "Asia",
+  "flagEmoji": "🇦🇫",
+  "dataEstYear": 2026,
+  "description": {
+    "en": "Afghanistan is a strategically pivotal landlocked country positioned at the geographic crossroads of Central and South Asia. It is bordered by Pakistan to the east and south, Iran to the west, Turkmenistan, Uzbekistan, and Tajikistan to the north, and has a narrow, rugged frontier with China via the Wakhan Corridor in the far northeast. Dominated by the formidable glaciated massifs of the Hindu Kush mountain system, the country's highly fractured physiography has historically insulated regional populations, fostering deep-seated tribal autonomy and resisting external centralization. For centuries a vital golden hub of the ancient Silk Road facilitating the synthesis of Persian, Hellenistic, Buddhist, and nomadic civilizations, contemporary Afghanistan bears the profound socioeconomic scars of consecutive foreign military interventions and protracted internal conflicts. Following the geopolitical transition in 2021, the country is governed under a highly conservative Islamic theocracy led by the Taliban, navigating severe international diplomatic isolation, stringent global financial sanctions, asset freezes, and an acute humanitarian crisis while seeking rudimentary macroeconomic stabilization through regional natural resource diplomacy.",
+    "zh": "Afghanistan是高懸於中亞（Central Asia）、南亞（South Asia）與西亞（West Asia）地緣核心交界處的「亞洲心臟（Heart of Asia）」。該國東部與南部緊鄰巴基斯坦（Pakistan），西接伊朗（Iran），北部與中亞的土庫曼（Turkmenistan）、烏茲別克（Uzbekistan）及塔吉克（Tajikistan）三國接壤，東北端則藉由地勢險峻的狹長地帶——瓦罕走廊（Wakhan Corridor）與中國（China）疆域生死相依。這片土地歷史上被公認為不屈的「帝國墳場（Graveyard of Empires）」與古代絲綢之路（Silk Road）的黃金大動脈，其國運長期與全球地緣政治海嘯緊密交織。境內萬山之祖興都庫什（Hindu Kush）山脈如巨龍般斜貫全境，不僅鑄就了其孤絕的高原防務屏障，更天然地形隔離出強悍的部族自治與榮譽傳統。首都喀布爾（Kabul）長期作為全美政治、經濟與人口流動的核心樞紐。自 2021 年阿富汗塔利班（Taliban）再度全面奪取政權並建立「阿富汗伊斯蘭酋長國（Islamic Emirate of Afghanistan）」以來，國家在國際外交社會集體邊緣化、美元資產遭严厉凍結、聯合國（United Nations）金融制裁以及極其嚴峻的全民人道主義物資危機中，正艱難在區域資源貿易與底層秩序重組間，尋求民生經濟與中央集權體制的破局重生點。"
+  },
+  "seoText": {
+    "en": "Access comprehensive demographic and socioeconomic statistics for Afghanistan. Review precise multi-ethnic population data covering Pashtuns, Tajiks, Hazaras, and Uzbeks, alongside geographical metrics of the Hindu Kush range. Analyze current infrastructure constraints, regional trade networks with China, Pakistan, and Iran, post-2021 macroeconomic adjustments under the Taliban administration, and international humanitarian frameworks managed by the United Nations.",
+    "zh": "深入掌握阿富汗（Afghanistan）最新、最權威的基本資料庫：包含 4000 萬總人口精密族裔比例分布、國土總面積、高原首都喀布爾（Kabul）與全方位宏觀地緣概述。帶您深度探索興都庫什（Hindu Kush）山脈天然防務屏障、絲路古城赫拉特（Herat）、由普什圖族（Pashtuns）、塔吉克族（Tajiks）、哈扎拉族（Hazaras）與烏茲別克族（Uzbeks）構成的精細多民族人口統計結構、阿富汗塔利班（Taliban）政權的內政外交戰略走向，以及全球高度關切的女性受教育權、聯合國（United Nations）人道救援機制、台海地緣對比與戰後地下未開發上兆美元鋰銅礦產資源開發的長遠格局。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Strategic landlocked sovereign corridor commanding the continental crossroads of Central, South, and West Asia",
+          "Fractured, mountain-dominated topography dominated by the Hindu Kush, heavily segmenting regional populations",
+          "Historic civilization melting pot preserving legacies of the Silk Road, Persian Empires, and Hellenistic art",
+          "Modern political landscape defined by acute regime transitions, international sanctions, and theocratic governance"
+        ],
+        "text": "Afghanistan’s sovereign space is defined by its historically critical yet volatile geographic placement, operating as a continental landbridge and a frequent theater for great power competition. The country's extreme physical geography creates profound regional cleavages in economic adaptation, climate resilience, and tribal organization. Decades of unremitting conflict have systemically dismantled the nation's formal industrial matrix, leaving public infrastructure heavily fractured and dependent on fragmented external interfaces. Under the post-2021 Taliban authorities, the state is undergoing an intense structural realignment, attempting to pivot toward regional infrastructure corridors and localized resource extraction to counteract Western-led financial containment."
+      },
+      "zh": {
+        "list": [
+          "扼守中亞（Central Asia）與南亞（South Asia）交界的戰略十字路口，自古被視為兵家必爭的「亞洲心臟（Heart of Asia）」",
+          "萬山之脊興都庫什（Hindu Kush）山脈橫貫東西，陡峭崎嶇的高山地形天然形塑出強烈的地方部族割據與高度自治特徵",
+          "歷史上作為絲綢之路（Silk Road）的黃金中轉站，完美融合波斯（Persian）、希臘化（Hellenistic）、印度與遊牧文明的璀璨精髓",
+          "近代深陷大國地緣博弈與連年戰火陰鵲，當前由阿富汗塔利班（Taliban）主導一套高度中央集權且保守的伊斯蘭教法神權體制"
+        ],
+        "text": "阿富汗（Afghanistan）是一部書寫在崇山峻嶺與戈壁沙洲間的史詩。這片土地西鄰伊朗（Iran），東嵌巴基斯坦（Pakistan），北方與烏茲別克（Uzbekistan）、土庫曼（Turkmenistan）、塔吉克（Tajikistan）緊密相接，更在東北端伸出一條神祕狹長的瓦罕走廊（Wakhan Corridor）直抵中國（China）新疆邊境，特殊的地理位置使其歷來是全球大國地緣賽局的最前線。\n\n首都喀布爾（Kabul）既是舉國政令發布的核心，也是人口最稠密、現代化烙印最深的都市。當代阿富汗在歷經十九世紀英國（United Kingdom）多次武裝入侵、冷戰時期蘇聯（Soviet Union）阿富汗戰爭、跨世紀美國（United States）二十年反恐戰爭以及 2021 年政權大驚天更迭後，正處於歷史發展的關鍵十字路口。全新掌權的塔利班臨時政府，面臨著如何在國際社會承認全面封凍、海外央行資產遭凍結、非正規經濟轉型受阻以及極端貧困大面積氾濫的極限生存考驗下，維繫其內部派系平衡、遏制極端組織擴張並維持國家最基本日常運轉的嚴峻命題。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Landlocked Eurasian territory covering 652,230 square kilometers with zero direct maritime access",
+          "Highly elevated terrain matrix where mountains and rugged plateaus comprise over 80% of total area",
+          "The Hindu Kush spine serves as a massive macro-geographic barrier dividing north and south watersheds",
+          "Extreme physiographic isolation drastically increases the capital costs of national transport and governance networks"
+        ],
+        "text": "Spanning an area of approximately 652,230 square kilometers, Afghanistan's physical geography is a harsh combination of towering alpine systems, desiccated basins, and peripheral river oases. The Hindu Kush mountain range functions as the structural core of the country, with numerous peaks scaling altitudes well above 6,000 meters. These permanent glaciated massifs act as critical natural water towers, feeding vital river systems such as the Helmand River and the Amu Darya, which provide the sole source of hydration for otherwise infertile desert lowlands. Beyond the mountain valleys, the northern plains fade into steppe, while the southern and western quadrants collapse into the sweeping, stone-and-sand wastes of the Registan and Dasht-e Margo deserts, structurally reinforcing the nation's severe internal geographic fragmentation."
+      },
+      "zh": {
+        "list": [
+          "典型的大型內陸高山國家，完全被鄰國陸地死死環繞，缺乏任何直接與間接的出海口",
+          "國土空間極度破碎崎嶇，高山與乾燥高原佔據總面積 80% 以上，平均海拔高度位居世界前列",
+          "萬山之脊興都庫什（Hindu Kush）山脈自東北向西南斜貫全境，將國家撕裂為南北兩大截然不同的地理板塊",
+          "惡劣險峻的地形地貌極大地拉高了現代公路與鐵路基建的鋪設成本，使得中央集權治理面臨巨大物理障礙"
+        ],
+        "text": "阿富汗國土總面積約 65.2 萬平方公里。其宏觀地理特徵可用「萬山聳立、盆地荒涼、通道幽深、綠洲點綴」來概括。興都庫什（Hindu Kush）山脈是這個國家的脊樑，其眾多延伸支脈海拔動輒超越 6000 公尺，山頂終年白雪皚皚，這些高山冰川融雪形成了赫爾曼德河（Helmand River）、阿姆河（Amu Darya）與哈里河（Hari Rud），成為滋養乾涸荒原與沿岸綠洲農業的珍貴生命水源。\n\n然而，在群山合圍之外，北部是緊鄰中亞的廣袤平原，南部和西部則退化為廣袤乾燥、夾雜著黑色礫石與流沙的列吉斯坦（Registan）與馬爾戈（Dasht-e Margo）等死寂荒漠盆地。這種因無數大山與深谷阻隔而天然形成的破碎地形，導致歷史上喀布爾（Kabul）中央政府的政令與軍隊極難高效下達至偏遠的地方村落，這也是阿富汗地方部族主義興盛、游擊戰術歷經千年而不衰、外來帝國軍隊屢屢折戟的根本地理根源。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Dominantly classified under an unforgiving arid to semi-arid continental atmospheric model",
+          "Summers are defined by intense parching heat with lowland temperatures exceeding 45 degrees Celsius",
+          "Winters are characterized by severe sub-zero thermal plunges and heavy high-altitude blizzards",
+          "Extremely deficient annual precipitation arrays render the entire country vulnerable to multi-year droughts"
+        ],
+        "text": "The climatic profile of Afghanistan imposes severe ecological constraints on human settlement and agricultural output. Driven by its landlocked position and extreme altitudinal variances, the territory experiences vast diurnal and seasonal thermal fluctuations. During the summer months, the lowlands are swept by the relentless 'Wind of 120 Days' (Bad-i-Sad-o-Bist), a severe northwesterly atmospheric current that generates widespread, choking dust storms across the western plains. Conversely, winter transforms the central highlands into an inaccessible alpine tundra, with heavy snowfall choking vital mountain passes for months. In recent years, climate-induced anomalies have caused a marked reduction in winter snowpack and accelerated glacial retreat, triggering a destabilizing decline in spring meltwater volume and severely impacting traditional agrarian cycles."
+      },
+      "zh": {
+        "list": [
+          "全境多屬極端乾旱至半乾旱的典型溫帶大陸性氣候，四季分明，晝夜與季節溫差堪稱巨大",
+          "夏季氣候極度乾燥炎熱，南部與西部低地盆地的午後極端高溫可輕鬆突破 45°C 以上",
+          "冬季氣候嚴寒酷烈，中部山區與高海拔城鎮（如巴米揚）最低溫常跌破 -20°C，且伴隨罕見埋人暴風雪",
+          "全國年平均降雨量極度匱乏，春夏季農業高度依賴冬季高山積雪融水，長年面臨週期性特大乾旱威脅"
+        ],
+        "text": "阿富汗的自然氣候環境對人類的生存與定居提出了極高的生理與心理挑戰。由於深居內陸、遠離海洋，且外圍有重重高山阻隔，來自印度洋（Indian Ocean）的季風幾乎無法潤澤這片土地。夏季時，全國大部區域晴空萬里、烈日灼人，西面平原更伴隨著從 5 月颳到 9 月、惡名昭彰的「120天強風」（Bad-i-Sad-o-Bist），常常引發漫天飛沙的破壞性沙塵暴，將空氣濕度降至冰點。\n\n與之截然相反，冬季的中部高原與高山谷地則會瞬間變身為冰雪世界，厚重的積雪封鎖山路動輒長達數月，徹底切斷偏遠山村與喀布爾（Kabul）等中心城市的一切陸路物資聯繫。近年來，受全球氣候變遷（Climate Change）波及，暖冬現象頻發導致高山冰川異常加速消融，冬季關鍵積雪量出現斷崖式下跌，這直接引發了隨後春季灌溉水源的嚴重枯竭，令本就極度脆弱、缺乏現代水利設施的傳統農業與畜牧業生計陷入惡性循環。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Total sovereign population estimated at approximately 40.0 million citizens, maintaining high historical fertility indices",
+          "Demographic matrix exhibits an extremely hyper-young configuration with over 40% under the age of 15",
+          "Ethnographic landscape operates as a complex societal mosaic heavily partitioned along lineage and ethno-linguistic lines",
+          "Urbanization remains profoundly restricted with nearly 74% of the population adhering to agrarian rural settlement patterns"
+        ],
+        "text": "The demographic structure of Afghanistan is a highly complex, polycentric ethnic mosaic defined by the interplay of kinship, tribal custom, and sectarian alignment. According to comprehensive demographic analysis, the ethnic breakdown of the state is structured as follows: the Pashtuns, a Sunni Islamic, Eastern Iranian-speaking group who have traditionally held political dominance, comprise approximately 42.0% of the total population and are predominantly concentrated in the southern and eastern provinces along the Pakistan border. The Tajiks, a Dari-speaking (Persian variant) sedentary population of Iranian origin, form the second-largest ethnolinguistic bloc at roughly 27.0%, centering their presence in Kabul, Herat, and the northern valleys. The Hazaras, an ethnic group of Turkic-Mongol descent predominantly practicing Shia Islam, account for an estimated 9.0% and occupy the rugged central highlands of the Hazarajat, having historically faced intense socio-political marginalization. The Uzbeks, a Turkic-speaking group situated along the northern frontiers, constitute approximately 9.0%. Smaller foundational minorities include the Turkmen (3.0%), the nomadic Baloch (2.0%), the Nuristanis, Aimaks, and Pashais. Adherence to Islam stands at a near-universal 99.0%, with Sunni Muslims representing between 85.0% and 90.0% of the citizenry, while Shia Muslims comprise approximately 10.0% to 15.0%. This profound decentralization, paired with an exceptionally low urbanization rate of roughly 26.0%, underpins the persistent challenges facing centralized statehood and modern national integration."
+      },
+      "zh": {
+        "list": [
+          "2026 年最新估算全國總人口已攀升至約 4,000 萬人，在長期戰亂與高生育率並存的特殊背景下持續增長",
+          "人口年齡結構呈現極端的年輕化與高金字塔特徵，15歲以下人口高達總數的 40% 以上，潛在人口紅利亟待開發",
+          "民族馬賽克結構極其複雜：主導國家歷史法統的普什圖族（Pashtuns）約佔 42.0%，主要操普什圖語",
+          "第二大民族為塔吉克族（Tajiks）約佔 27.0%，哈扎拉族（Hazaras）約佔 9.0%，烏茲別克族（Uzbeks）則佔約 9.0%"
+        ],
+        "text": "阿富汗的人口結構是一幅由血緣部族、語言變體與伊斯蘭教派交織而成的複雜政治地理圖譜。根據權威人口普查結構指標，不列顛群島之外這片高山社會的族群比例具體分布如下：\n\n普什圖族（Pashtuns）群體共計占總人口的 42.0%，是歷史上掌握政權時間最長的統治主體，主要分布於南部與東部，他們奉行極其嚴格、強調血親復仇與好客的部族法典（Pashtunwali）。\n\n亞洲或西亞板塊中第二大族群為塔吉克族（Tajiks），占比達 27.0%。他們主要使用達利語（Dari，一種波斯語變體），聚居於北部、西部及首都喀布爾（Kabul）等大都市，在傳統工商業、手工業與知識分子階層中比例極高。\n\n居住在中部高海拔山谷、長相酷似東亞人的哈扎拉族（Hazaras）約占總人口的 9.0%，他們是阿富汗極少數的伊斯蘭教什葉派（Shia）穆斯林，在歷史上長期面臨遜尼派多數群體的邊緣化與教派擠壓。\n\n緊鄰中亞邊境的烏茲別克族（Uzbeks）同樣占總人口的 9.0%，主要以農業和游擊騎兵傳統聞名。其餘少數群體包括土庫曼族（Turkmen）占 3.0%、俾路支人（Baloch）占 2.0%，以及努里斯坦人、艾馬克人等其餘小部族佔約 8.0%。\n\n宗教信仰方面，全國高達 99.0% 的居民為穆斯林。這其中以伊斯蘭教遜尼派（Sunni）為絕對主導，占總人口的 85.0% 至 90.0%；什葉派穆斯林（以哈扎拉人為主）則占約 10.0% 至 15.0%。目前全國城市化率僅維持在 26.0% 左右，高達 74.0% 的絕大多數人口依舊散落在與世隔絕的偏遠農村河谷與沙漠綠洲中。這種極低的都會化城鎮率與根深蒂固的部族本位色彩，構成了阿富汗現代國家認同（National Identity）構建過程中最大的結構性挑戰。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "Classified among the world's most underdeveloped, fragile economies with formal industrial output near zero",
+          "Agrarian agrarian backbone where over 60% of the active domestic labor force is tied to subsistence farming and livestock",
+          "Historically dependent on foreign civilian subsidies which previously constituted up to 75% of public budgetary expenditure",
+          "Possesses unmined mineral vaults valued at over $1 trillion in copper, iron ore, lithium, and rare earth elements"
+        ],
+        "text": "The contemporary macroeconomic landscape of Afghanistan is profoundly dysfunctional, heavily isolated from international clearing channels, and marked by structural capital starvation. Following the geopolitical transformation of 2021, the United States Federal Reserve and European institutions unilaterally froze approximately $7 billion of the Da Afghanistan Bank's sovereign foreign exchange reserves. Concurrently, the cessation of regular World Bank and International Monetary Fund (IMF) development programmatic financing induced an acute liquidity contraction and monetary shock. To circumvent this comprehensive Western economic blockade, the active Taliban administration has shifted its economic doctrine toward aggressive regional primary-resource commercialization. Kabul is currently fast-tracking large-scale concessions with regional powers, most notably China and Central Asian neighbors, prioritizing the extraction of the Aynak copper reserves, the exploitation of the Amu Darya oil basin, and the state-funded construction of the massive 280-kilometer Qosh Tepa irrigation canal, attempting to construct an independent regional fiscal and food security framework."
+      },
+      "zh": {
+        "list": [
+          "聯合國（United Nations）定義下全球最不發達的經濟體之一，現代正規工業體系幾近一片空白",
+          "典型的傳統落後農業國，全美與全境超過 60.0% 的勞動力直接依賴種植小麥、水果、棉花與藏紅花維生",
+          "戰前曾高達 75.0% 的政府公共預算完全依賴西方國家援助，2021年後遭遇全球金融休克與資產凍結",
+          "雖然地底坐擁預估價值上兆美元的優質銅、鐵、未開發大鋰礦與稀土（Rare Earth），但因極度缺乏基建而難以變現"
+        ],
+        "text": "阿富汗的現代經濟體系不僅極其脆弱，且在長期戰火下呈現嚴重的畸形與非正規化。長達四十年的高強度武裝衝突摧毀了國家本就薄弱的電網、鐵路樞紐與基本跨國物流體系。自 2021 年塔利班（Taliban）重新執掌喀布爾（Kabul）以來，美國（United States）聯邦準備銀行迅速封鎖了阿富汗中央銀行海外高達約 70 億美元的外匯存底，加之西方主導的國際金融體系全面切斷其 SWIFT 清算渠道，直接導致阿富汗國內陷入嚴重的現金荒與惡性通貨緊縮。\n\n為了謀求政權財政的生死突圍，目前的塔利班政權正極力將政策重心轉向「實物資源開發（Resource Exploitation）」，大舉向周邊大國（特別是中國與中亞諸國）釋放利多。他們正強力推動諸如艾娜克（Aynak）世界級大型銅礦的開採權對接、阿姆河（Amu Darya）盆地原油商業化採掘，以及動用全國人力修築全長 280 公里的庫什特帕（Qosh Tepa）戰略大運河灌溉計畫，試圖繞過西方的金融絞殺，藉由跨國資源易貨貿易與自主水利基建來維持政權最基本的財政收入與國家糧食安全底線。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Defined by acute institutional instability, recurrent coup d'états, and violent regime substitutions",
+          "Governed since August 2021 under the absolute non-constitutional mandate of the Taliban movement",
+          "De jure international diplomatic recognition remains universally withheld, leaving UN representation unresolved",
+          "Dual-layered authority system split between Kandahar's supreme religious council and Kabul's executive bureaucracy"
+        ],
+        "text": "The sovereign governance model of Afghanistan operates outside the paradigms of Western constitutional democracy, structured as a highly centralized Islamic emirate. Supreme legislative, executive, and judicial authority is concentrated in the hands of the Amir al-Mu'minin, Hibatullah Akhundzada, who issues binding edicts from the movement's ideological capital of Kandahar. While an administrative cabinet functions in Kabul to manage day-to-day ministerial operations and bureaucratic stabilization, its policy trajectory remains strictly subordinate to the Kandahari clerical leadership. The legal architecture has been systemically replaced with an orthodox implementation of Sharia law, rendering all secular legislative frameworks null. Despite the near-complete lack of formal external recognition, the regime has achieved a high level of domestic territorial control, suppressing significant corruption and containing localized insurgent elements such as the National Resistance Front (NRF)."
+      },
+      "zh": {
+        "list": [
+          "近代政局經歷了走馬燈式的政權更迭與殘酷內戰，國家政治合法性的更替成本極其高昂",
+          "塔利班（Taliban）自 2021 年 8 月以武裝力量奪取喀布爾後，建立了排除世俗選舉的「阿富汗伊斯蘭酋長國」",
+          "外交上面臨全球性的主權承認死結，聯合國（United Nations）正式席位依舊懸而未決，處於地緣政治真空",
+          "權力結構帶有濃厚的雙核心特色，南部坎大哈（Kandahar）最高宗教元老層與首都行政內閣體制並存制衡"
+        ],
+        "text": "阿富汗的近代政治史是一部外來意識形態強加與本土極端宗教民粹強烈反彈的拉鋸史。在歷經蘇聯扶持的共產政權、上世紀九十年代的初代塔利班神權體制、以及美國（United States）耗資上兆美元精心扶持二十年的「阿富汗伊斯蘭共和國」世俗民選政府後，2021 年美軍的倉促撤離導致親西方舊政府如多米諾骨牌般瞬間潰敗。\n\n當前，國家的最終決策權牢牢掌握在塔利班最高領袖海巴圖拉·阿洪扎達（Hibatullah Akhundzada）手中。他自塔利班發源地、南部大本營坎大哈（Kandahar）實施最終的最高宗教教令統治，廢除一切世俗憲法，改採嚴格的沙利亞（Sharia）伊斯蘭教法。雖然喀布爾（Kabul）的臨時內閣行政官員正努力實現文官體制的常態化運作，並在打擊地方官僚腐敗、強力壓制境內殘餘反抗勢力（如潘傑希爾谷地的全國抵抗陣線 NRF）上展現了超出外界預期的社會控制力，但其神權體制的強烈排他性與反現代化色彩，依舊令其在國際多邊涉外舞台上步履維艱。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Public healthcare, sanitation, and education infrastructure remain profoundly deficient across rural sectors",
+          "Systemic de jure suppression of women's liberties, restricting access to secondary education and formal employment",
+          "Widespread, structural absolute poverty engulfing more than 90% of the aggregate population under global margins",
+          "Critical dependence on United Nations and non-governmental agency food supply corridors to prevent systemic famine"
+        ],
+        "text": "Modern Afghan society is undergoing a severe structural regression, characterized by a sharp divergence between rural tribal traditionalism and fractured urban aspirations. Since assuming power, the theocratic government has promulgated a series of intensely restrictive social decrees that have effectively erased women from the public sphere. These mandates include the absolute closure of secondary educational institutions and universities to female students, a comprehensive ban on women working for local and international non-governmental organizations, strict limits on female freedom of movement without a mahram (male relative chaperone), and the mandatory enforcement of the full-body burqa in public spaces. These measures have isolated Kabul from global civil society. Simultaneously, the profound macroeconomic contraction has triggered a domestic cascading poverty spiral, leaving the vast majority of households experiencing severe food insecurity and forcing the United Nations Office for the Coordination of Humanitarian Affairs (OCHA) to execute permanent emergency food and medicine drops to mitigate catastrophic human mortality during the winter seasons."
+      },
+      "zh": {
+        "list": [
+          "基礎現代教育與基本醫療衛生網絡在廣大農村大面積斷裂，嬰兒死亡率與產婦死亡率高居世界前列",
+          "女性權利遭受神權體制系統性的嚴厲剝奪，全面禁止女性接受中等與高等教育及進入多數公共行業工作",
+          "絕對貧困問題席捲全國，超過 90.0% 的不列顛外高山人口生活在聯合國規定的貧困線以下，物資極度匱乏",
+          "國際人道主義救援物資（糧食、疫苗與基本藥品）構成維繫上千萬邊緣人群生存底線的最後生命線"
+        ],
+        "text": "現代阿富汗社會正面臨著文明前進步伐與保守原教旨主義勢力歷史上最為慘烈的拉鋸與倒退。自 2021 年政權全面易主以來，坎大哈（Kandahar）宗教核心層逐步頒布了一系列極其嚴厲的社會控制法令：全面關閉全國所有女子中學與大學、無限期禁止女性為任何聯合國（United Nations）及跨國非政府組織工作、限制女性在沒有男性直系親屬（Mahram）陪同下遠距離出行，並強制要求在公共場合必須穿著嚴密的全身罩袍（Burqa）。這些嚴重開歷史倒車的特殊政策，引發了全球國際社會的強烈譴責，也實質切斷了國際社會對其進行常態化發展援助的可能。\n\n與此同時，由於正規經濟體系失血過多，社會底層民生陷入螺旋式下降。大批失去工作的城鎮家庭被迫依賴變賣僅有的家當甚至典當幼女維生，聯合國人道主義事務協調廳（OCHA）每年不得不發起高達數十億美元的全球緊急募資計畫，以防止阿富汗在酷寒嚴冬中爆發大面積的嚴重飢荒與全面性的人道主義災難。整個阿富汗社會在極端教法控制與飢餓生存底線之間，正承受著難以想像的歷史重壓。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "Intense fusion of fundamentalist Islamic jurisprudence with localized, ancestral tribal codifications",
+          "Rich linguistic and literary heritage rooted deeply in classical Persian poetic traditions and Pashto folklore",
+          "World-renowned hand-knotted Afghan carpet weaving weaving utilizes organic vegetable dyes and historic geometric motifs",
+          "Deeply entrenched patriarchal kinship systems where the Council of Elders (Loya Jirga) remains the ultimate dispute resolution forum"
+        ],
+        "text": "Despite structural political volatility and structural poverty, Afghan culture retains a highly resilient, sophisticated core that has survived decades of continuous geopolitical violence. The territory was historically an intellectual center for classical Persian literature, serving as the birthplace and spiritual crucible for monumental cultural figures such as the mystical poet Rumi. In contemporary daily life, poetry recitation assemblies, known as Mushairas, remain immensely popular across all socio-economic strata, acting as a vital oral preservation of cultural history. A foundational tenet of the societal fabric is the absolute adherence to 'Melmastia'—the sacred code of hospitality dictated by the Pashtunwali, which compels individuals to offer unconditional protection and shelter to any guest who crosses their threshold, regardless of political affiliation. Furthermore, traditional rugged pastimes, such as the northern equestrian sport of Buzkashi (goat-grabbing), serve as powerful cultural symbols of the enduring martial spirit and physical endurance intrinsic to the Afghan national character."
+      },
+      "zh": {
+        "list": [
+          "伊斯蘭原教旨主義與地方千年部族法典深度交融，保守、崇尚血親榮譽與極致慷慨好客是核心文化密碼",
+          "各民族文化在壓制中殘存，北部的突厥語系歌舞與南部的普什圖古典詩歌傳統皆具備悠久的歷史厚度",
+          "名震全球的阿富汗純手工羊毛地毯工藝，其繁複細緻的八角幾何圖案與天然植物染料堪稱世界頂級藝術珍品",
+          "擁有強烈的地方大家族本位與部族榮譽感，歷史悠久的長老會議（Loya Jirga）為解決重大爭端的地方基石"
+        ],
+        "text": "儘管現代政局和社會局勢動盪不堪、滿目瘡痍，阿富汗的人文傳統卻在歲月洗禮中保留著一種無與倫比的純粹、孤傲與尊嚴。這片高原土地曾是波斯古典文學的重要搖籃，偉大的伊斯蘭神秘主義詩人、蘇菲派大師魯米（Rumi）便誕生於這片古老的巴克特里亞故地。在民間，詩歌朗誦會（Mushaira）至今仍是上至達官顯貴、下至販夫走卒最為熱衷的日常社交活動，人們在燭光下吟誦詩句，以此作為逃避現實苦難的精神避難所。\n\n阿富汗人的骨子裡流淌著對部族法典中「客道（Melmastia）」的極致尊崇，任何踏入其帳篷或家門的客人，無論其政見、信仰或出身與主人多麼敵對，都會受到傾其所有的熱情款待與誓死護衛。此外，北方廣袤平原上盛行的傳統馬背叼羊運動（Buzkashi）更是展現了這個游擊遊牧民族無與倫比的剽悍、騎術與力量賽局。這種在嚴酷大自然、大山阻隔與漫長戰火中淬煉出的強大文化凝聚力，構成了阿富汗民族性格中最為堅硬、任何外來軍隊都無法粉碎的鋼鐵內核。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "The severe impasse of formal international recognition intertwined with frozen central banking equity",
+          "Pervasive macroeconomic dysfunction under sanctions driving critical unemployment and massive hyper-brain drain",
+          "Continuous systemic denial of fundamental human rights and institutional secondary schooling for the female demographic",
+          "The complex suppression of illicit narcotics economies matched with multi-million transnational refugee displacement"
+        ],
+        "text": "The operational challenges facing modern Afghanistan constitute one of the most intractable, interconnected policy impasses in contemporary geopolitical governance. Foremost among these is the structural gridlock surrounding women's human rights; Western capitals and international financial institutions have firmly designated the reversal of anti-female decrees as an absolute, non-negotiable prerequisite for diplomatic normalization and the release of sovereign monetary assets. However, the conservative clerical core in Kandahar views these conditions as unacceptable foreign interference in theological sovereignty, ensuring a permanent diplomatic stalemate. In the domestic security domain, while the Taliban's internal security apparatus has aggressively contained the kinetic expansion of the Islamic State Khorasan Province (ISIS-K), sporadic, highly destructive suicide bombings target civilian infrastructure and foreign entities, undermining critical infrastructure investment. Simultaneously, although the state's total ban on Papaver somniferum (opium poppy) cultivation has successfully reduced illicit agricultural output by up to 95%, the complete absence of sustainable alternative crop financing threatens to completely collapse the rural economy, driving millions more into regional smuggling networks or forced migration toward Iran and Europe."
+      },
+      "zh": {
+        "list": [
+          "神權統治的合法性與如何突破全球外交圍堵、解凍央行資產的「先蛋先雞」死結在短期內完全難解",
+          "嚴厲制裁高壓下正規金融清算渠道全面阻斷，失業率居高不下，引發極其嚴重的高素質人才跨境流失",
+          "女性受教育權與基本社會參與權的系統性剝奪，成為國家政權全面重返國際多邊舞台的最大絆腳石",
+          "雖然罌粟全面禁種成效顯著，但龐大的跨境非法毒品黑市殘餘與數百萬滯留鄰國的難民安置問題深度交織"
+        ],
+        "text": "當前阿富汗所面臨的結構性困境，是人類現代地緣政治與國際治理中最為複雜、也最令人無力的死結之一。首當其衝的便是「女性權利爭議（Women's Rights Controversy）」，這已成為喀布爾（Kabul）臨時政府與西方世界（Western World）開展任何實質性政治談判、重開常態化經貿往來、解凍國家資產的絕對先決條件；然而，坎大哈（Kandahar）最高宗教核心層對此展現出了極強的保守意識形態堅持，將其視為抵抗西方文化侵略的意識形態防線，使得僵局在短期內幾無任何妥協破解的可能。\n\n在國家安全與反恐領域，雖然塔利班動用強硬手段全力壓制了極端恐怖組織「伊斯蘭國呼羅珊分支（ISIS-K）」的大規模領土擴張，但該組織針對少數教派、外國大使館及中資酒店的零星自殺式恐怖襲擊依舊頻發，對外資進駐基建、長期開採大宗礦產構成實質性的安全威脅。同時，儘管當局近年下達了極其嚴厲的罌粟（Poppy）全境種植禁令並取得了驚人的剷除成效，但如何為數百萬失去經濟來源的貧苦農民尋找合適的替代作物（如藏紅花、小麥），防止其因生計斷絕而再度遁入跨境軍火走私或沦為湧向鄰國與歐盟的難民潮，是一道直接關乎塔利班政權底層統治生死存亡的民生硬考題。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Kabul Basin Node — The ancient high-altitude metropolis commanding the historic geographic entries to India",
+          "Herat Citadel — The magnificent Timurid architectural fortress embodying the zenith of Western Silk Road trading wealth",
+          "Mazar-i-Sharif Shrine — The breathtaking, tile-encrusted turquoise sanctuary serving as the northern religious epicenter",
+          "Band-e Amir — A spectacular natural cascade of six deep-blue travertine terraced lakes positioned within the high central canyons"
+        ],
+        "text": "The landmark profile of Afghanistan contains profound archaeological and natural assets that stand in sharp contrast to its fractured contemporary history. In the northern province of Balkh, the Great Blue Mosque of Mazar-i-Sharif remains a masterpiece of Islamic architecture, covered entirely in intricate, hand-fired Persian faience tiles that glimmer under the high-altitude sun. In the central highlands of Bamyan, the vacant niches of the destroyed 6th-century colossal Buddhas remain a somber global monument to cultural heritage vulnerability. Farther west, the historic city of Herat preserves its vast 14th-century citadel and the towering Minaret of Jam, testifying to the region's historical role as the core node of the Timurid Renaissance. These structural treasures are complemented by Band-e Amir National Park, where a natural formation of mineral-rich dams has created a sequence of crystalline, intensely blue alpine lakes cutting through arid limestone canyons, capturing the sublime, isolated natural beauty of the country."
+      },
+      "zh": {
+        "list": [
+          "喀布爾（Kabul）歷史城區 —— 坐落於高山谷地中的千年咽喉古城，見證了近代各大帝國爭霸的無數血雨腥風",
+          "赫拉特城堡（Herat Citadel）—— 阿富汗的「西域明珠」，宏偉的賈米清真寺與十四世紀貼面古堡彰顯蒂穆爾文藝復興底蘊",
+          "馬扎里沙里夫藍色清真寺（Blue Mosque）—— 北部宗教聖城，精美絕倫的釉面瓷磚在陽光下閃耀著綠松石般的夢幻光芒",
+          "班達米爾國家公園（Band-e Amir）—— 奇蹟般的高山國家公園，六個如深邃藍寶石般純淨的天然階梯湖泊嵌於荒山深谷"
+        ],
+        "text": "位於阿富汗北部巴爾赫省的馬扎里沙里夫「藍色清真寺（Blue Mosque）」，是整片中東、中亞與南亞交界處最具視覺震撼力與心靈洗禮感的伊斯蘭建築地標杰作之一。傳說這裡安葬著伊斯蘭教第四任哈里發阿里（Ali），整座聖殿表面覆蓋著成千上萬塊手工燒製、幾何圖案極其繁複的波斯（Persian）藍色釉面瓷磚，成群的純白鴿子在巨大的不规则庭院上空盤旋，營造出與外部世界動盪局勢截然相反的肅穆、祥和與神聖空靈感。\n\n而在中部巴米揚省（Bamyan）的班達米爾國家公園（Band-e Amir），大自然則在寸草不生的石灰岩斷崖深谷中，鬼斧神工般創造出一連串由富含碳酸鈣礦物質的地下泉水匯聚而成的天然高山階梯湖泊。那深邃到令人窒息、宛如固態藍寶石的湛藍色湖水，與周邊無垠荒涼、赤紅如火的斷崖峭壁形成強烈到極致的視覺反差。儘管不遠處留下了巴米揚大佛（Buddhas of Bamyan）遭塔利班炸毀後令人心碎的巨大空洞石窟，這些遺世獨立的自然與人文建築地標，依舊無聲地向世界宣告著阿富汗這片悲情土地所蘊含的、不可抹殺的文明高度與大自然鬼斧神工。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "Strategic geo-positioning operating as the natural landbridge linking Central Asian energy with South Asian consumer bases",
+          "Volatile bilateral security alignments with Pakistan driven by long-standing disputes over the Durand Line border",
+          "Active implementation of pragmatically aligned external relations with China, Russia, and Central Asian neighbors",
+          "Comprehensive geopolitical freeze with Western nations enforcing aggressive economic sanctions and political decoupling"
+        ],
+        "text": "The foreign policy matrix of Afghanistan is currently characterized by a distinct split: absolute exclusion from the Western international sub-system paired with steady, pragmatic diplomatic integration across the pan-Eurasian continental space. Driven by urgent shared counter-terrorism requirements, systemic drug trafficking suppression, and the construction of regional logistics corridors, neighboring states have adopted a highly flexible 'de facto engagement without de jure recognition' paradigm. China has emerged as a key actor, becoming the first nation to officially appoint a credentialed ambassador to Kabul and formally accept Taliban diplomats in Beijing, directly anchoring massive investment structures in northern oil and mining concessions. Conversely, relations with Pakistan remain severely strained due to persistent cross-border skirmishes involving the Tehrik-i-Taliban Pakistan (TTP) and Islamabad's systematic mass deportation of Afghan refugees, forcing Kabul to permanently orient its strategic focus toward the geopolitical mechanisms of the Shanghai Cooperation Organisation (SCO) neighborhood."
+      },
+      "zh": {
+        "list": [
+          "地理上作為連接中亞（Central Asia）豐富油氣資源與南亞（South Asia）龐大人口市場的天然「陸路橋樑」與地緣過道",
+          "與巴基斯坦（Pakistan）因杜蘭線（Durand Line）歷史邊界爭議與跨境武裝避難問題，雙邊安全關係長期摩擦不斷",
+          "極力深化與中國（China）、俄羅斯（Russia）及中亞鄰國的務實反恐與經貿對接，推動本地區多邊政治新平衡",
+          "與西方歐美陣營關係陷入絕對冰封，長期面臨單邊高壓經濟制裁、國際金融剔除與強烈涉外政治隔絕"
+        ],
+        "text": "阿富汗（Afghanistan）當前的涉外外交格局呈現出鮮明的「西方世界寒冬冰封、周邊鄰國務實破冰」之區域特色。基於反恐防務安全底線、遏制毒品跨境走私、防止難民大規模外湧以及開拓泛中亞鐵路與管線物流通道的共同現實利益，塔利班政權正大舉務實推進與泛歐亞大陸鄰國的接觸。中國（China）率先向喀布爾（Kabul）正式派駐全權大使，並接受塔利班外交官進駐北京，中資企業正深度參與阿富汗阿姆河（Amu Darya）盆地原油與大型銅礦的開採。\n\n同時，俄羅斯（Russia）與中亞諸國也紛紛採取「實質常態化接觸、暫不給予正式承認」的靈活外交策略，將塔利班從恐怖組織名單中除名，大舉舉辦多次阿富汗問題多邊峰會，實質將其納入地區安全圈。相比之下，阿富汗與宿怨深厚的巴基斯坦（Pakistan）則因杜蘭線（Durand Line）邊界劃分部族越境襲擊，以及伊斯蘭馬巴德當局強制遣返上百萬阿富汗難民等問題，近年頻頻爆發邊境正規軍武裝交火；而西方歐美陣營則依舊死守女性權利、建立包容性多黨政府的政治底線，維持全方位的金融與外交制裁。這使得阿富汗的外交與地緣經貿路線正在 2026 年發生全面、不可逆的「向東看」轉向，深度融入周邊大國構築的泛歐亞大陸地緣圈新軌道。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Complete absence of official administrative contact or institutional diplomatic interactions under systemic geopolitical constraints",
+          "Negligible formal bilateral trade indices limited to indirect, small-scale mercantile transshipment via third-party Gulf hubs",
+          "Taiwanese civil non-governmental institutions historically participate in localized disaster relief and humanitarian supply networks",
+          "Severe domestic financial blockades and acute operational instability completely discourage active Taiwanese corporate investment"
+        ],
+        "text": "The relationship between Afghanistan and Taiwan remains profoundly limited, structurally restricted by overarching international diplomatic barriers, vast geographic distance, and deep systemic governance divergence. The two territories share zero administrative or semi-official liaison offices, with bilateral consular affairs remaining entirely unaddressed. In commercial analytics, direct trade volume is statistically negligible; any movement of commodities is restricted to private, small-scale Taiwanese importers procuring niche Afghan heritage items—such as high-grade hand-knotted wool rugs, pine nuts, and dried saffron—via secondary wholesale markets in Dubai or Karachi. However, within the framework of transnational civil society and humanitarian assistance, Taiwanese non-governmental organizations and faith-based charitable foundations have historically established localized footprints, funding emergency medical relief and temporary shelter assemblies through multilateral channels during catastrophic seismic events in Herat and Bamyan, maintaining a thin but highly resilient line of universal humanitarian affinity."
+      },
+      "zh": {
+        "list": [
+          "受限於宏觀全球地緣政治屏障與巨大政經體制差異，雙邊目前完全無任何官方直接往來，涉外層面零接觸",
+          "雙邊直接經貿總額極其微小，多透過巴基斯坦（Pakistan）或杜拜（Dubai）進行非直接、小規模的民間零星商品轉口貿易",
+          "台灣（Taiwan）民間非政府組織與宗教慈善團體，在歷史上多次透過國際救援網絡參與其災後緊急人道援助",
+          "阿富汗當前嚴厲的金融管制與高度不穩定的營商環境，使台商在短期內缺乏實質投資與商業開拓之誘因"
+        ],
+        "text": "阿富汗與台灣之間從歷史至今主要維持著極其有限、純民間人道主義與跨國慈善層面的間接接觸。由於兩地相隔關山萬里，加之阿富汗長期處於高強度戰亂、西方全面金融制裁與特殊的伊斯蘭神權體制治理下，雙方從未建立過任何形式的官方或半官方代辦機構。在海關經貿數據上，雙邊直接大宗進出口貿易幾近為零，僅有極少數台灣本地的利基型民間貿易商透過阿拉伯聯合大公國（UAE）杜拜或巴基斯坦喀拉蚩等中轉批發市場，零星引入少量的阿富汗頂級手工羊毛地毯、高檔松子、大宗藏紅花以及乾燥堅果至台灣市場進行高端零售。\n\n然而，在國際人道救援與無國界慈善領域，台灣的民間社會力量在阿富汗的苦難歷史中並未缺席。在歷史上巴米揚省或赫拉特省（Herat）發生芮氏規模 6 級以上強烈地震等重大自然災害時，台灣的多個知名非政府組織（NGO）與民間醫療志工團體，均曾透過聯合國兒童基金會、國際紅十字會等跨國多邊管道，慷慨捐助數百萬台幣的緊急醫療物資、搭建防寒臨時避難帳篷，為身處極端困境中的阿富汗基層平民送去純粹的溫暖。隨着阿富汗內部治安形勢走向相對的高壓穩定，雙方未來在古文明佛教遺蹟數字化修復、國際遠距醫療援助等邊緣非政治性議題上，依然保有一絲純務實民間學者接觸與學術交流的潛在沙盤推演空間。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "An iconic geological and historical corridor where imperial ambitions, Silk Road wealth, and alpine isolates permanently intersect",
+          "The quintessential high-altitude mountain redoubt, where extreme landscape physical isolation historically forged an iron-willed ethnic character",
+          "A meticulously partitioned ethno-linguistic structure maintaining unstable equilibria across Pashtun, Tajik, Hazara, and Uzbek heartlands",
+          "Modern political trajectory operates as a tragic testament to the destructive cyclical impacts of great power proxy interventions",
+          "A complex West Asian actor caught in the systemic tension between fundamentalist historical traditionalism and contemporary survival pressures"
+        ],
+        "text": "The long-term socio-political narrative of Afghanistan remains inexorably bound to its physical layout—a land defined entirely by its mountains and corridors. From the permanent alpine snows of the Hindu Kush and the turquoise architectural geometry of Mazar-i-Sharif to the massive infrastructure layout of the Qosh Tepa canal, the nation continues to navigate the intense friction between orthodox traditionalism and the existential demands of modern fiscal survival. As the state reorientates its trade dependencies toward the Eurasian continental system, the dual challenges of domestic ethnic integration, fundamental human liberties, and structural economic stabilization will ultimately determine whether this strategic 'Heart of Asia' can finally transcend its century-long history of conflict and emerge as a stable, sovereign hub of trans-continental commerce."
+      },
+      "zh": {
+        "list": [
+          "無可震撼的古代絲綢之路樞紐地緣圖騰，融合東西方、希臘化與佛教藝術的傳奇文明十字路口",
+          "地表最具代表性的孤絕山地部族國家，嚴酷的地理屏障天然孕育出誓死捍衛家園、永不妥協的鋼鐵民族性格",
+          "普什圖、塔吉克、哈扎拉與烏茲別克等民族錯綜交織，達利語與普什圖語雙軌運作的精細多元社會結構",
+          "近代國史是一部大國相繼入侵、本土武裝浴血反抗與激進意識形態劇烈更迭的悲壯史詩，歷史包袱無比沉重",
+          "融合了高原雪山的蒼茫美、兆豐地底礦藏的巨大誘惑力與極端神權政治走向的西亞（Western Asia）完全體核心棋手"
+        ],
+        "text": "從興都庫什（Hindu Kush）山脈上終年呼嘯、夾雜著風雪的冷冽強風，馬扎里沙里夫藍色瓷磚下白鴿掠過的神聖光影，到巴米揚大佛殘存巨大石窟前無聲訴說的絲路千年文明滄桑，以及在國際嚴厲金融海嘯封鎖下依舊大舉動員人力修築戰略運河、開採地底黑金的高傲風骨，阿富汗（Afghanistan）以其冠絕亞洲大陸的「地緣十字路口」定位、得天獨厚的上兆美元未開發礦業寶藏，以及在伊斯蘭神權保守傳統與現代底層生存壓力激烈碰撞間展現出的頑強民生生機，共同向世界勾勒出一個正在全面跨越漫長戰火舊秩序、在極端地緣孤立中頑強摸索前路，並試圖重塑亞洲心臟地緣軸心功能的西亞（Western Asia）完全體巨擘輪廓。"
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": "Afghan Afghani (AFN / Currently managed under intensive exchange controls and regional bartering frameworks by the central authority)"
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "Dari (Persian variant serving as the primary lingua franca of governance and inter-ethnic commerce), Pashto (Co-official national language predominantly utilized across the southern and eastern Pashtun tribal belts)",
+        "zh": "達利語（Dari，事實上的全國行政與跨民族商業通用語，屬波斯語變體）；普什圖語（Pashto，法定官方語言，普什圖族核心主體聚居區之主要母語）"
+      }
+    },
+    {
+      "label": "GDP (nom.)",
+      "value": "$14B+"
+    },
+    {
+      "label": "Time zone",
+      "value": "UTC+04:30 "
+    },
+    {
+      "label": "Calling code",
+      "value": "+93"
+    },
+    {
+      "label": "ISO code",
+      "value": "AF / AFG"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "⛰️",
+      "text": {
+        "en": "Hindu Kush Mountain Spine — The massive glaciated alpine barrier running southwest across the sovereign territory, comprehensively dictating national weather patterns, rural isolation, and tribal defensive geography",
+        "zh": "萬山之脊興都庫什（Hindu Kush）山脈 —— 橫亙阿富汗全境的巨型地理骨架。這條平均海拔極高的巍峨冰川山脈體系，不僅以高山積雪融水孕育了阿富汗盆地全境的河流綠洲生命線，更作為天然的軍事防禦與地理障壁，深刻形塑了千百年來各地方部族獨立發展、誓死不屈的強悍抗爭性格"
+      }
+    },
+    {
+      "icon": "🕌",
+      "text": {
+        "en": "Kabul Oasis Capital — Positioned in a high-altitude river valley at 1,800 meters, this millennium-old geopolitical epicenter serves as the administrative nucleus and diverse multi-ethnic melting pot of the state",
+        "zh": "高原盆地首都喀布爾（Kabul） —— 見證無數歷史世紀風雲興衰的亞洲心臟中樞都市。坐落於海拔約 1,800 公尺的高山谷地戰略要衝，喀布爾既是舉國政治、經濟命脈與多元民族大融合的交匯中心，也是近代從冷戰大國武裝干涉到當前塔利班政權全面推行高壓常態化治理的最核心地緣舞台"
+      }
+    },
+    {
+      "icon": "🐎",
+      "text": {
+        "en": "Silk Road Civilizational Crossroads — The historic continental trading bridge where Persian governance, Hellenistic Greco-Buddhist art, and Islamic scholarship synthesized, leaving monumental tile architecture and globally renowned carpet craft legacies",
+        "zh": "千年絲綢之路（Silk Road）歷史圖騰 —— 東西方古文明交融碰撞的史詩級實體見證。作為歷史上連接中亞油氣、南亞人口與西亞波斯帝國的金牌地緣過道，阿富汗名震全球的手工羊毛地毯工藝、古巴克特里亞金銀器以及遺留的希臘化（Hellenistic）佛教藝術殘存，皆深刻彰顯了這片土地海納百川的文化底蘊"
+      }
+    },
+    {
+      "icon": "⚔️",
+      "text": {
+        "en": "The 'Graveyard of Empires' Attrition Matrix — A modern national history defined by successful indigenous armed resistance against consecutive global superpowers, producing intense societal trauma but cementing an unyielding national psychology",
+        "zh": "帝國墳場之百煉鋼鐵（Prolonged Conflict） —— 現代國史最為沉重且悲壯的民族集體勳章。近代阿富汗在接連歷經大英帝國、蘇聯與美國三大全球超級大國的武裝軍事干涉、慘烈全面內戰與高強度政權更迭後，雖然社會物質基建遭受系統性破壞，卻也磨礪出阿富汗人民在任何極限制裁下依舊絕地求生的生命韌性"
+      }
+    },
+    {
+      "icon": "🧕",
+      "text": { 
+        "en": "The Tribal Ethno-Linguistic Mosaic — A highly decentralized social matrix intricately woven from Pashtun, Tajik, Hazara, and Uzbek sub-populations, governed extensively via local customary codes and strict patriarchal lineage traditions",
+        "zh": "民族部族馬賽克社會（Multi-ethnic Society） —— 由普什圖族（Pashtuns）、塔吉克族（Tajiks）、哈扎拉族（Hazaras）與烏茲別克族（Uzbeks）四大核心族群共同交織而成的複雜聯邦型社會底色。各民族獨特的達利波斯語方言口音、具備極高約束力的基層部族法典以及深層的多元教派信仰，共同建構了阿富汗底層社會運作千百年不散的精細地方自治架構"
+      }
+}
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/303427",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=60.4%2C29.3%2C74.9%2C38.5&layer=mapnik"
+}

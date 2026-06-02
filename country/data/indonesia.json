@@ -1,0 +1,355 @@
+{
+  "name": {
+    "en": "Indonesia",
+    "zh": "印尼"
+  },
+  "nativeName": "Indonesia",
+  "capital": {
+    "en": "Jakarta",
+    "zh": "雅加達"
+  },
+  "population": "280M",
+  "area": "1,904,569 km²",
+  "density": "147/km²",
+  "continent": "Asia",
+  "flagEmoji": "🇮🇩",
+  "dataEstYear": 2025,
+  "description": {
+    "en": "Indonesia is an archipelagic country situated at the crossroads of Southeast Asia and Oceania, consisting of more than 17,000 islands. It is the world's largest archipelagic state and home to the world's largest Muslim population. Boasting abundant natural resources, diverse ethnic cultures, and a highly important maritime strategic location, Indonesia is one of the most influential nations in Southeast Asia.",
+    "zh": "Indonesia是位於東南亞與大洋洲交界的群島國家，由超過一萬七千座島嶼組成，是世界最大的群島國與穆斯林人口最多的國家。印尼擁有豐富自然資源、多元民族文化與重要海上戰略位置，是東南亞最具影響力的國家之一。"
+  },
+  "seoText": {
+    "en": "Explore quick facts about Indonesia — population, land area, capital city, and a short overview. Learn about Indonesia's equatorial geography, Borobudur, Bali, Mount Bromo active volcano, and its major role as a G20 member and regional resource hub.",
+    "zh": "快速了解印尼的基本資料：人口、面積、首都與簡短概述。探索印尼橫跨赤道的萬島地貌、世界最大的佛教遺跡婆羅浮屠、峇里島觀光、火山資源以及新首都努山塔拉發展。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Archipelagic nation spanning Southeast Asia and Oceania",
+          "The largest archipelagic country in the world",
+          "Home to the world's largest Muslim population",
+          "A major economic and maritime power in Southeast Asia"
+        ],
+        "text": "Throughout history, Indonesia's development has been profoundly influenced by Indian culture, Islamic civilization, and European colonization, with the Dutch East Indies period playing a pivotal role in shaping the modern nation. Since declaring independence in 1945, Indonesia has steadily risen to become a demographic and economic titan in Southeast Asia.\n\nToday, Indonesia is rapidly expanding across energy, mineral exploitation, agriculture, manufacturing, and the digital economy, while serving as a cornerstone member of ASEAN."
+      },
+      "zh": {
+        "list": [
+          "位於東南亞的群島國家",
+          "世界最大群島國",
+          "全球穆斯林人口最多國家",
+          "東南亞重要經濟與海洋國家"
+        ],
+        "text": "印尼歷史長期受印度文化、伊斯蘭文明與歐洲殖民影響，其中荷屬東印度（Dutch East Indies）時期對現代國家形成具有深遠影響。1945年獨立後，印尼逐步發展為東南亞人口與經濟大國。\n\n今日印尼在能源、礦產、農業、製造業與數位經濟領域快速發展，同時也是東南亞國家協會（ASEAN）的核心成員之一。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Consists of more than 17,000 diverse islands",
+          "Spans directly across the equatorial region",
+          "Frequent volcanic and seismic activity",
+          "Abundant and diverse marine resources"
+        ],
+        "text": "Covering approximately 1.9 million square kilometers of land area, Indonesia is comprised of five main islands: Java, Sumatra, Kalimantan, Sulawesi, and Papua.\n\nPositioned on the Pacific Ring of Fire, Indonesia is characterized by highly active volcanism and frequent earthquakes, which have blessed the nation with extremely fertile volcanic soil and rich biodiversity."
+      },
+      "zh": {
+        "list": [
+          "由超過17,000座島嶼組成",
+          "橫跨赤道地區",
+          "火山與地震活動頻繁",
+          "海洋資源豐富"
+        ],
+        "text": "印尼國土面積約 190 萬平方公里，主要島嶼包括爪哇島（Java）、蘇門答臘島（Sumatra）、加里曼丹島（Kalimantan）、蘇拉威西島（Sulawesi）與巴布亞島（Papua）。\n\n由於位於環太平洋火山帶，印尼擁有大量活火山與頻繁地震活動，這雖然帶來天災挑戰，但也孕育出極其肥沃的火山土壤與豐富的生物多樣性資源。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Dominated primarily by a tropical rainforest climate",
+          "Hot, humid, and wet conditions year-round",
+          "Distinct rainy and dry seasons",
+          "Noticeable climate differences in coastal and highland areas"
+        ],
+        "text": "Situated directly on the equator, Indonesia maintains consistently warm temperatures and high humidity year-round.\n\nThe rainy season typically spans from November to March under monsoon influences, while highland regions enjoy cooler climates. Extensive tropical forests and maritime air masses shape the unique ecological landscape and agricultural patterns."
+      },
+      "zh": {
+        "list": [
+          "熱帶雨林氣候為主",
+          "全年高溫潮濕",
+          "雨季與乾季分明",
+          "沿海與高地氣候差異明顯"
+        ],
+        "text": "印尼位於赤道附近，全年氣溫普遍偏高且濕度高。\n\n受季風影響，雨季通常集中於11月至3月，而部分山區高地則氣候較涼爽。廣袤的熱帶雨林與海洋氣團深刻影響著當地的農業形態與獨特的生態環境。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Population exceeding 280 million",
+          "The fourth most populous nation in the world",
+          "Extremely diverse ethnic and linguistic landscape",
+          "High population concentration on Java island"
+        ],
+        "text": "Indonesia is home to over 280 million people, making it the world's fourth most populous country. A vast majority of the population resides on Java island, particularly within the Jakarta metropolitan sprawl.\n\nThe country is home to hundreds of distinct ethnic groups and languages, with Bahasa Indonesia serving as the unifying official language. Islam is the primary religion, alongside recognized Christian, Hindu, and Buddhist communities."
+      },
+      "zh": {
+        "list": [
+          "人口超過 2.8 億",
+          "世界第四大人口國",
+          "民族與語言極度多元",
+          "人口集中於Java島"
+        ],
+        "text": "印尼人口主要集中於爪哇島（Java），尤其是首都雅加達（Jakarta）與周邊龐大的都會圈。全國擁有數百個不同的民族與語言，其中印尼語（Bahasa Indonesia）為統一的官方語言。伊斯蘭教為主要宗教，但憲法亦保障並承認基督教、天主教、印度教與佛教社群的合法地位。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "The largest and most powerful economy in Southeast Asia",
+          "Strong balance of natural resources and manufacturing",
+          "Rapidly expanding digital economy and tech sector",
+          "Abundant global exporter of nickel and energy resources"
+        ],
+        "text": "Indonesia represents a key emerging economy, serving as a leading global exporter of coal, palm oil, and nickel. \n\nIts industrial pillars span manufacturing, resource processing, agriculture, and services. In recent years, the digital economy and e-commerce sector have boomed, positioning Jakarta as a premier start-up ecosystem in Southeast Asia."
+      },
+      "zh": {
+        "list": [
+          "東南亞最大經濟體",
+          "資源與製造業並重",
+          "數位經濟快速成長",
+          "鎳礦與能源資源豐富"
+        ],
+        "text": "印尼是東南亞最大的經濟體與重要新興市場，也是全球主要的棕櫚油、煤炭與鎳礦出口國。其經濟支柱涵蓋製造業、資源加工、傳統農業與服務業。近年來，數位經濟與電子商務領域迎來爆發式成長，使雅加達（Jakarta）成為東南亞最受矚目的新創生態系之一。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Constitutional presidential representative democratic republic",
+          "The President serves as head of state and government",
+          "Decentralized system with increased regional autonomy",
+          "Capital planned to transition to Nusantara"
+        ],
+        "text": "Indonesia is a presidential democracy where the president holds executive power. \n\nWhile Jakarta remains the historical administrative and financial capital, the government is actively developing a new purpose-built capital, Nusantara, in East Kalimantan. This historic transition aims to relieve intense ecological and demographic pressures on Jakarta."
+      },
+      "zh": {
+        "list": [
+          "共和制國家",
+          "總統制民主制度",
+          "地方自治程度提高",
+          "首都將遷移至Nusantara"
+        ],
+        "text": "印尼採行總統制民主政體，由總統兼任國家元首與政府領導人。雖然雅加達（Jakarta）長期作為歷史行政與金融中心，但政府目前正全力在東加里曼丹省打造全新首都努山塔拉（Nusantara），這項歷史性的遷都計畫旨在減輕雅加達所面臨的地層下陷、人口壅塞與環境壓力。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Profound emphasis on religious values and family ties",
+          "Rapid and ongoing urbanization across major regions",
+          "Noticeable urban traffic and infrastructural congestion",
+          "Highly favorable and energetic youth demographic"
+        ],
+        "text": "Indonesian society is deeply collectivist, prioritizing strong community bonds ('gotong royong'), family ties, and religious devotion.\n\nWhile megacities like Jakarta experience spectacular modern development, they also face environmental challenges such as traffic gridlocks and sinking land. The energetic, young population serves as a crucial engine for future digital and economic growth."
+      },
+      "zh": {
+        "list": [
+          "宗教與家庭文化重要",
+          "都市化快速進行",
+          "交通壅塞問題明顯",
+          "青年人口比例高"
+        ],
+        "text": "印尼社會具有強烈的群體主義傾向，高度重視社區互助（gotong royong）、家庭紐帶與宗教信仰。雖然像雅加達（Jakarta）這樣的巨型城市展現了現代化發展，但也面臨严峻的交通 gridlock 與基礎建設瓶頸。結構年輕且充滿活力的勞動力人口，正成為印尼未來數位經濟轉型的重要引擎。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "Remarkably rich and diverse ethnic culture",
+          "Deep Islamic heritage integrated with local traditions",
+          "Vibrant and ornate traditional performing arts",
+          "World-renowned unique Hindu heritage of Bali"
+        ],
+        "text": "Indonesia's culture is a stunning tapestry combining indigenous animism, Hindu-Buddhist history, and Islamic traditions, creating unique local arts, textiles (Batik), and music (Gamelan).\n\nThe monumental Borobudur temple stands as the world's largest Buddhist archaeological marvel, while Bali is internationally celebrated for its spectacular Hindu architecture, vibrant dance rituals, and pristine island landscapes."
+      },
+      "zh": {
+        "list": [
+          "民族文化極度多元",
+          "伊斯蘭文化影響深厚",
+          "傳統舞蹈與音樂豐富",
+          "峇里島文化世界知名"
+        ],
+        "text": "印尼文化是一幅融合了本土萬物有靈信仰、印度教與佛教歷史以及伊斯蘭傳統的絢麗織錦，孕育出獨特的傳統蠟染（Batik）與甘美朗（Gamelan）音樂。宏偉的婆羅浮屠（Borobudur）是世界最大的佛教寺廟遺跡，而峇里島（Bali）則以獨存的印度教文化、華麗的祭祀舞蹈與海島風光聞名全球。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Deforestation and complex environmental conservation challenges",
+          "Severe traffic congestion and infrastructure strain in urban hubs",
+          "Socio-economic gaps between central and outer islands",
+          "Maintaining balance across a highly diverse multi-faith society"
+        ],
+        "text": "Rapid industrialization and agricultural expansion have brought environmental concerns such as tropical deforestation, haze, and the loss of pristine rainforest habitats.\n\nDue to its unique archipelagic geography, distributing infrastructure investments and economic development evenly across outer provinces remains a core long-term challenge."
+      },
+      "zh": {
+        "list": [
+          "森林砍伐與環境問題",
+          "交通與都市壓力",
+          "區域發展不均",
+          "宗教與社會多元平衡"
+        ],
+        "text": "快速的工業化與農業擴張給印尼帶來了熱帶雨林過度開發、霾害與生物棲地流失等環境挑戰。此外，由於獨特的群島地理限制，如何將基礎建設資金與經濟红利均勻分配至爪哇島以外的邊遠省分，是政府長期的政策難題。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Jakarta — Dynamic mega-capital and economic center",
+          "Surabaya — Second largest city and key shipping hub",
+          "Bandung — Educational, creative, and technological hub",
+          "Borobudur — Monumental ancient Buddhist architectural wonder"
+        ],
+        "text": "Jakarta stands as one of the most bustling, populous urban centers in Southeast Asia, serving as the absolute financial, cultural, and political core of the nation.\n\nBorobudur, a magnificent 9th-century UNESCO World Heritage site situated in Central Java, stands as a breathtaking monument displaying the scale of ancient Indonesian art and civilization."
+      },
+      "zh": {
+        "list": [
+          "Jakarta —— 首都與經濟核心",
+          "Surabaya —— 第二大城市與港口中心",
+          "Bandung —— 教育與科技城市",
+          "Borobudur —— 世界知名佛教遺址"
+        ],
+        "text": "雅加達（Jakarta）是東南亞最繁忙且人口密集的巨型都市之一，作為全國絕對的金融、文化與政治核心。而坐落於中爪哇的婆羅浮屠（Borobudur）建於9世紀，是聯合國教科文組織認定的世界文化遺產，也是展現古代印尼藝術與文明規模的宏偉里程碑。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "Proactive cornerstone and co-founding member of ASEAN",
+          "The only Southeast Asian member of the G20",
+          "Strategically controls vital maritime transport straits",
+          "Active partnerships with the US, China, and Japan"
+        ],
+        "text": "Indonesia is a primary leader within ASEAN and has long championed a 'free and active' independent foreign policy, maintaining balanced partnerships across major global powers.\n\nControlling strategic global maritime straits such as the Malacca and Sunda Straits, Indonesia holds a pivotal geopolitical position in the Indo-Pacific region."
+      },
+      "zh": {
+        "list": [
+          "ASEAN 核心成員",
+          "G20 成員國",
+          "全球海洋戰略重要國家",
+          "與中國、美國、日本互動密切"
+        ],
+        "text": "印尼在東南亞國家協會（ASEAN）中扮演領頭羊角色，長期奉行「獨立自主、積極外交」的不結盟政策，在大國之間維持平衡關係。由於扼守馬六甲海峽（Strait of Malacca）與巽他海峽（Sunda Strait）等國際海運咽喉，印尼在印太區域戰略中擁有舉足輕重的地位。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Heavy bilateral trade and labor exchanges",
+          "Home to a massive Indonesian community in Taiwan",
+          "Expanding investments in high-tech and manufacturing",
+          "Active tourist, educational, and cultural cooperation"
+        ],
+        "text": "Indonesia and Taiwan maintain robust commercial and community exchanges, with Taiwan hosting over 250,000 Indonesian workers and students.\n\nBilateral partnerships have steadily expanded across technology sectors, electronics assembly, agricultural tech, and maritime logistics, supported by growing investments from Taiwanese firms."
+      },
+      "zh": {
+        "list": [
+          "經貿與勞工交流密切",
+          "印尼移工人口眾多",
+          "台商投資持續增加",
+          "教育與觀光互動穩定"
+        ],
+        "text": "印尼與台灣之間維持著密不可分的非官方交流關係。台灣目前是超過25萬名印尼移工與留學生的第二故鄉；同時，隨著台商投資擴大，雙方在電子製造、半導體組裝、農業科技與海運物流等領域的合作也日益緊密。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "The world's premier largest archipelagic state",
+          "Home to the world's most populous Muslim community",
+          "Endowed with a spectacular collection of active volcanoes",
+          "Bali serves as a legendary world-class travel destination",
+          "Global strategic powerhouse in nickel and green transition resources"
+        ]
+      },
+      "zh": {
+        "list": [
+          "世界最大群島國",
+          "全球穆斯林人口最多國家",
+          "擁有大量活火山",
+          "峇里島為世界級旅遊勝地",
+          "鎳礦資源全球重要"
+        ]
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": "Indonesian Rupiah (Rp)"
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "Indonesian",
+        "zh": "印尼語"
+      }
+    },
+    {
+      "label": "GDP (nom.)",
+      "value": "$1.37T"
+    },
+    {
+      "label": "Time zone",
+      "value": "UTC+7 to UTC+9"
+    },
+    {
+      "label": "Calling code",
+      "value": "+62"
+    },
+    {
+      "label": "ISO code",
+      "value": "ID / IDN"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🛕",
+      "text": {
+        "en": "Borobudur — The monumental 9th-century Buddhist temple and magnificent world cultural heritage site",
+        "zh": "婆羅浮屠——宏偉的9世紀佛教寺廟建築群，是舉世聞名的世界文化遺產奇蹟"
+      }
+    },
+    {
+      "icon": "🏝️",
+      "text": {
+        "en": "Bali Island — Globally celebrated island paradise famous for its unique Hindu culture, beaches, and arts",
+        "zh": "峇里島——全球知名的熱帶度假天堂，以獨特的印度教文化、陽光沙灘與傳統藝術聞名"
+      }
+    },
+    {
+      "icon": "🌋",
+      "text": {
+        "en": "Mount Bromo — A breathtaking active volcano set inside a surreal, spectacular volcanic caldera",
+        "zh": "布羅莫火山（Mount Bromo）——令人屏息的活火山，坐落於超現實且無比壯觀的巨型沙海火山口中"
+      }
+    },
+    {
+      "icon": "🦎",
+      "text": {
+        "en": "Komodo Dragon — The world's largest living species of lizard endemic to pristine Indonesian islands",
+        "zh": "科摩多巨蜥——現存體型最大的巨蜥物種，為印尼特有且受保護的史前遺存野生動物"
+      }
+    },
+    {
+      "icon": "🍱",
+      "text": {
+        "en": "Nasi Goreng — Internationally acclaimed aromatic fried rice representing the signature dish of Indonesia",
+        "zh": "印尼炒飯（Nasi Goreng）——享譽國際的香料風味炒飯，是印尼最具代表性的國民美食"
+      }
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/304751",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=95.0%2C-11.0%2C141.0%2C6.0&layer=mapnik"
+}

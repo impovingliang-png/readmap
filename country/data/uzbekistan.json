@@ -1,0 +1,356 @@
+{
+  "name": {
+    "en": "Uzbekistan",
+    "zh": "烏茲別克"
+  },
+  "nativeName": "Oʻzbekiston",
+  "capital": {
+    "en": "Tashkent",
+    "zh": "塔什干"
+  },
+  "population": "37.0M",
+  "area": "448,978 km²",
+  "density": "82/km²",
+  "continent": "Asia",
+  "flagEmoji": "🇺🇿",
+  "dataEstYear": 2026,
+  "description": {
+    "en": "Uzbekistan is a landlocked country in the core of Central Asia. It borders Kazakhstan to the north, Kyrgyzstan and Tajikistan to the east, Afghanistan to the south, and Turkmenistan to the southwest. As one of the Silk Road’s most important hubs, Uzbekistan is famed for Samarkand and Bukhara—historic cities of Islamic architecture and the Timurid era. Today, Soviet-era industrial legacies and a new wave of reform and openness shape a country with deep history and rising regional influence.",
+    "zh": "烏茲別克（Uzbekistan）是位於中亞（Central Asia）核心地帶的內陸國家。北接哈薩克（Kazakhstan），東鄰吉爾吉斯（Kyrgyzstan）與塔吉克（Tajikistan），南接阿富汗（Afghanistan），西南則與土庫曼（Turkmenistan）相連。作為古代絲綢之路（Silk Road）最核心的文明樞紐之一，烏茲別克（Uzbekistan）以撒馬爾罕（Samarkand）、布哈拉（Bukhara）等千年古城聞名於世，被譽為中亞伊斯蘭文明與帖木兒帝國（Timurid Empire）的歷史心臟。從藍色圓頂清真寺閃耀的絲路古都，到蘇聯（Soviet）時代遺留下的工業體系與現代化改革浪潮，這個國家展現出濃厚的歷史深度與地緣戰略重要性。"
+  },
+  "seoText": {
+    "en": "Discover key facts about Uzbekistan — population, area, capital Tashkent, and a detailed profile. Explore Samarkand and Registan Square, Bukhara’s preserved old city, the Timurid legacy, the Fergana Valley, and the Aral Sea water-environment crisis shaping Central Asia.",
+    "zh": "深入了解烏茲別克（Uzbekistan）的核心事實：人口、國土面積、首都塔什干（Tashkent）與完整國家概述。探索撒馬爾罕雷吉斯坦廣場（Registan Square）、布哈拉（Bukhara）與希瓦（Khiva）古城、帖木兒帝國（Timurid Empire）遺產、費爾干納盆地（Fergana Valley），以及鹹海（Aral Sea）水資源與環境危機。"
+  },
+  "highlights": [
+    {
+      "icon": "🕌",
+      "text": {
+        "en": "Samarkand — the blue-domed jewel of the Silk Road, anchored by Registan Square",
+        "zh": "撒馬爾罕（Samarkand）—— 絲綢之路（Silk Road）最璀璨的藍色古都，雷吉斯坦廣場（Registan Square）為代表性伊斯蘭建築地標"
+      }
+    },
+    {
+      "icon": "🐪",
+      "text": {
+        "en": "Silk Road hub — a core crossroads for trade, religion, and empires across Eurasia",
+        "zh": "古代絲綢之路（Silk Road）核心 —— 東西方商旅、宗教與歐亞大陸文明交流的重要地緣樞紐"
+      }
+    },
+    {
+      "icon": "🏛️",
+      "text": {
+        "en": "Timurid legacy — monumental Islamic architecture from the era of Timur (Tamerlane)",
+        "zh": "帖木兒帝國（Timurid Empire）遺產 —— 以一代梟雄帖木兒（Timur）之名席捲中亞的壯麗伊斯蘭建築與文明巔峰"
+      }
+    },
+    {
+      "icon": "🌾",
+      "text": {
+        "en": "Agriculture and resources — cotton, wheat, gas, and gold remain core economic pillars",
+        "zh": "中亞（Central Asia）人口與農業大國 —— 棉花（Cotton）、小麥、天然氣（Natural Gas）與黃金（Gold）長期支撐經濟，歷史上被稱為「白金之國」"
+      }
+    },
+    {
+      "icon": "🚄",
+      "text": {
+        "en": "Modernization wave — rail, urban renewal, and reforms are reshaping a historic heartland",
+        "zh": "快速現代化中的中亞（Central Asia）核心國家 —— 高速鐵路（High-Speed Rail）、都市更新與全方位自由化改革正在重塑這片歷史心臟地帶"
+      }
+    }
+  ],
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Central Asian cultural and demographic heavyweight with a large domestic market",
+          "One of the Silk Road’s most important historical nodes and urban-civilizational cores",
+          "The most populous country in Central Asia; influence is rising regionally",
+          "Recent years have seen a stronger push for reform, openness, and investment"
+        ],
+        "text": "After independence in 1991, Uzbekistan spent decades under a highly centralized political model. In more recent years, a new reform agenda has emphasized improving regional diplomacy, attracting investment, and modernizing market institutions. With its population size, strategic location, and historical prestige, Uzbekistan is increasingly positioned as a key regional actor in Central Asia."
+      },
+      "zh": {
+        "list": [
+          "位於中亞（Central Asia）腹地的核心地帶，屬於不容忽視的區域人口與突厥文化大國",
+          "古代絲綢之路（Silk Road）上最具歷史分量的城市文明節點與綠洲經濟核心",
+          "中亞（Central Asia）內部人口基數最龐大的國家，地緣戰略與區域影響力快速上升",
+          "近年來新政府積極推動大刀闊斧的市場化經濟開放、外資招商與結構現代化改革"
+        ],
+        "text": "烏茲別克（Uzbekistan）自 1991 年脫離蘇聯（Soviet）解體獨立後，歷經了數十年高度集中的威權政治治理模式。然而，近年在現任領導層的鐵腕改革與新政推動下，國家正逐步打破過往的孤立枷鎖，積極推動行政現代化、外匯貨幣自由化，並極力改善與鄰國長期緊繃的外交關係。憑藉其龐大的人口紅利、逐步擴張的國內消費市場規模，以及傲視中亞的絲路歷史文化聲望，烏茲別克（Uzbekistan）正加速轉型為中亞（Central Asia）地區最具經濟活力與地緣戰略潛力的新興強權之一。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Area ~449,000 km²; a rare \"double landlocked\" country",
+          "Landscape includes deserts, steppe, and irrigated oasis basins",
+          "Fergana Valley concentrates population and intensive agriculture",
+          "Amu Darya and Syr Darya define hydrology and water politics"
+        ],
+        "text": "Uzbekistan sits at the heart of Central Asia and is among the few countries in the world that are double landlocked—surrounded only by landlocked neighbors. The Kyzylkum Desert dominates parts of the west, while the east and southeast host more fertile basins shaped by mountains and rivers. Heavy irrigation for cotton and farming has historically contributed to the Aral Sea catastrophe, making water security a central domestic and regional issue."
+      },
+      "zh": {
+        "list": [
+          "國土總面積約 44.8 萬平方公里，地處中亞（Central Asia）地理中心點",
+          "屬於全球極為罕見的「雙重內陸國（Double Landlocked Country）」，與世界海洋徹底隔絕",
+          "地形地貌極具多樣性，融合了西部的浩瀚荒漠、中部的遼闊草原與東部的肥沃綠洲盆地",
+          "三面環山的費爾干納盆地（Fergana Valley）是全國人口最稠密、高強度灌溉農業最發達的精華核心"
+        ],
+        "text": "烏茲別克（Uzbekistan）在地緣空間上最著名的特徵是其全球唯二的「雙重內陸國」身份——這意味著該國不僅本身沒有任何出海口，其周邊的所有鄰國（哈薩克、吉爾吉斯、塔吉克、阿富汗、土庫曼）也全都是內陸國家。廣袤的克孜勒庫姆沙漠（Kyzylkum Desert）無情地吞噬了西部的大片國土，呈現乾旱荒涼的惡劣地貌；相比之下，東部與東南部則在天山山脈與帕米爾高原的庇護下，形成了由融雪河流滋養的肥沃綠洲。阿姆河（Amu Darya）與錫爾河（Syr Darya）這兩大中亞生命線貫穿其間，建構了當地的水文脈絡。然而，前蘇聯時期為了擴大棉花（Cotton）種植而推行的瘋狂人工灌溉政策，強行截斷了注入鹹海（Aral Sea）的水源，最終釀成了人類歷史上最嚴重的生態浩劫之一——鹹海（Aral Sea）大面積乾涸與鹽塵暴。這項歷史包袱使當前的水資源分配與水外交（Water Politics），成為烏茲別克（Uzbekistan）乃至整個中亞地區最敏感的國家安全與跨界政治焦點。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Dry continental climate with hot summers and cold winters",
+          "Low rainfall; agriculture relies heavily on irrigation systems",
+          "Large diurnal and seasonal temperature swings",
+          "Climate change and glacier retreat threaten long-run water stability"
+        ],
+        "text": "Uzbekistan’s climate reflects its inland Central Asian setting: summers can exceed 40°C in some regions, while winters can drop below freezing. Limited precipitation and strong temperature swings make water infrastructure and transboundary river management strategic. As climate change affects upstream snow and glacier dynamics, water competition is likely to remain a defining regional challenge."
+      },
+      "zh": {
+        "list": [
+          "屬於典型的極端乾燥大陸性氣候（Arid Continental Climate）",
+          "夏季漫長、酷熱且極度乾燥，部分乾旱盆地與沙漠氣溫可輕易飆破 40°C",
+          "冬季受到西伯利亞寒流南侵影響顯得寒冷刺骨，且季節與日夜溫差極大",
+          "全國年平均降雨量普遍偏低，使得水利基礎設施與人工灌溉網絡成為國家運作基礎"
+        ],
+        "text": "烏茲別克（Uzbekistan）的氣候完全受控於其遠離海洋的深內陸地理。這裡的夏季炎熱炙人，熱浪席捲整個克孜勒庫姆沙漠，而春秋兩季則極為短暫。到了冬季，由於缺乏足夠的高山屏障阻擋北方寒冷氣團，氣溫常會急劇跌破冰點。在這樣一個高蒸發量、低降雨量的環境中，大自然對水源的設限非常殘酷。不論是保障民生的萬頃良田，還是支撐經濟的工業聚落，都必須依賴精密的人工引水網路。更令人憂心的是，全球氣候變遷（Climate Change）正加速周邊天山山脈高山冰川的退縮，這對高度依賴境外融雪補充河流上游水源的烏茲別克（Uzbekistan）而言，無疑是個長期的地緣隱憂，也讓跨界河流的跨國談判與氣候韌性建設上升至空前的戰略高度。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Population over 37 million — the largest in Central Asia",
+          "Young age structure and large labor force potential",
+          "Ethnic majority Uzbek with sizable minorities in specific regions",
+          "Urbanization rising rapidly with Tashkent as a core hub"
+        ],
+        "text": "Uzbekistan has the largest population and one of the biggest consumer markets in Central Asia. Demographic momentum offers labor-force advantages, but job creation and productivity upgrades remain crucial. Labor migration—especially toward Russia—has historically played a role in household income via remittances. Uzbek is the official language, while Russian remains influential in parts of business and technical administration."
+      },
+      "zh": {
+        "list": [
+          "總人口數已正式突破 3,700 萬大關，穩坐中亞（Central Asia）人口規模龍頭",
+          "人口結構極其年輕化，具備極其龐大的青年勞動力紅利與內需擴張潛力",
+          "以烏茲別克族（Uzbek）為主體民族，並在特定地緣邊境交織少數民族聚落",
+          "都市化進程（Urbanization）發展迅猛，首都塔什干（Tashkent）為區域人口吸納核心"
+        ],
+        "text": "根據最新人口結構統計查證，烏茲別克（Uzbekistan）的族群組成中，主體民族烏茲別克族（Uzbek）佔絕對優勢的 83.8%，其次為塔吉克族（Tajik）佔 4.8%、哈薩克族（Kazakh）佔 2.5%、俄羅斯族（Russian）佔 2.3%，而在西部自治共和國則有卡拉卡爾帕克族（Karakalpak）佔 2.2%。由於出生率長期維持高檔，全國呈現結構健康的金字塔型人口紅利，這為其推動製造業與勞度密集型經濟轉型提供了不竭的勞動力。然而，國內私營部門的職缺增長速度仍難以完全消化每年湧入勞動市場的青年大軍，導致大批跨境勞工長年遠赴俄羅斯（Russia）等國務工，其海外親屬匯款（Remittances）一度成為支撐許多底層家庭的重要經濟支柱。在語系政策上，官方定烏茲別克語（Uzbek）為唯一的法定官方語言（屬突厥語族），近年更全面推行由基里爾字母（Cyrillic）轉向拉丁字母（Latin）的拼寫改革；不過，俄語（Russian）在現代商業洽談、科學技術以及跨國行政事務中，依然扮演著難以替代的關鍵功能語言角色。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "One of Central Asia’s most promising emerging markets by scale",
+          "Natural gas, gold, and cotton are core export pillars",
+          "Market reforms and investment openness have accelerated in recent years",
+          "Manufacturing and infrastructure development are expanding"
+        ],
+        "text": "Uzbekistan’s economy has long depended on gas, cotton, and gold—gold output is among the world’s leading levels. The legacy of Soviet planning shaped institutions for decades, but recent reforms have pushed currency liberalization, privatization steps, and improved investment conditions. Tashkent is evolving as a regional transport and services node, while partnerships with China, Russia, Turkey, and South Korea remain especially significant."
+      },
+      "zh": {
+        "list": [
+          "憑藉龐大市場人口基數，被譽為中亞（Central Asia）最具經濟爆發力的新興市場",
+          "以天然氣（Natural Gas）、黃金（Gold）與棉花（Cotton）作為支撐財政的三大傳統外匯支柱",
+          "全面揚棄舊有的封閉計畫經濟（Planned Economy），瘋狂加速國營企業私有化與招商引資",
+          "汽車製造、紡織加工與軌道基礎建設等多元化工業實力正在中亞拔地而起"
+        ],
+        "text": "烏茲別克（Uzbekistan）的經濟正處於一場波瀾壯闊的市場化大洗牌之中。這片土地天然資源極度富饒，擁有世界頂級的露天金礦——穆倫套金礦（Muruntau Gold Mine），使該國黃金產量長年高居全球前列。儘管過去數十年因承襲蘇聯式的官僚僵化體制、實行極端的外匯管制而導致外資卻步，但自 2016 年新政上台後，官方實施了震撼性的貨幣自由兌換改革、大幅減免跨國企業稅賦，並積極鋪設覆蓋全國的高速鐵路網路（Afrosiyob）。這使得首都塔什干（Tashkent）不僅是一個政治心臟，更一躍成為中亞首屈一指的商務金融與物流樞紐。在國際經貿版圖上，中國（China）已超越俄羅斯成為其第一大貿易夥伴，大批中資湧入當地的綠色能源、智慧城市基礎建設以及汽車產業鏈（如比亞迪 BYD 與當地的合資設廠生產），而南韓（South Korea）、土耳其（Turkey）與歐洲各國也正加速搶進，尋求將烏茲別克（Uzbekistan）打造成輻射整個中亞的製造基地。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Presidential system with a long history of strong executive dominance",
+          "Recent years: limited reforms and image-building alongside continuing constraints",
+          "Media freedom and judicial independence remain contested areas",
+          "Central authority remains strong in local governance"
+        ],
+        "text": "After independence, Uzbekistan’s political system was dominated for decades by President Islam Karimov, with a strong authoritarian character. A newer reform period has focused on administrative modernization and opening the economy, but political pluralism and independent media space remain limited. The country is widely viewed as navigating a transition stage—reform-oriented yet still strongly centralized."
+      },
+      "zh": {
+        "list": [
+          "架構上屬於總統制（Presidential System），但歷史上行政權力高度依賴政治強人集權",
+          "首任總統伊斯蘭·卡里莫夫（Islam Karimov）鐵腕執政長達 27 年，建立高度封閉的威權體制",
+          "第二任總統沙夫卡特·米爾濟約耶夫（Shavkat Mirziyoyev）上台後，開啟了「有限度體制改革與新政開放」時代",
+          "儘管經濟自由度大幅跳躍，但核心地方治理與高層政治角力仍維持強烈的中央集權色彩"
+        ],
+        "text": "烏茲別克（Uzbekistan）的政治演進是一部典型的中亞強人治國史。在鐵腕前總統卡里莫夫（Islam Karimov）統治時期，該國政治空氣極度凝重，情報機構勢力龐大，民間社會與輿論流通受到嚴厲壓制。然而自 2016 年現任總統米爾濟約耶夫（Shavkat Mirziyoyev）接掌大權後，官方推出了一系列旨在改善國際形象、解凍社會自由度的革新舉措，包括釋放部分政治犯、廢除強制採摘棉花的勞役制度，並允許一定程度的網路與媒體輿論空間。國際觀察家普遍將現階段的烏茲別克（Uzbekistan）定義為一個「進步改革型的開明威權國家」——政府在全力向世界展示開放、親商、去官僚化形象的同時，核心的政黨競爭空間與司法獨立性依賴受到實質的中央控管，以確保在經濟飛速轉型的過程中，國家政權與社會大局能夠維持絕對的穩定。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Family and tradition remain influential social foundations",
+          "Education attainment is relatively strong by regional standards",
+          "Modern urban life in Tashkent contrasts with more conservative rural contexts",
+          "Younger generations are engaging more with global education and entrepreneurship"
+        ],
+        "text": "Uzbek society blends Islamic cultural heritage with a Soviet-influenced secular education legacy. Urban centers—especially Tashkent—have seen faster modernization, retail development, and youth culture growth, while rural areas retain stronger traditional social structures. Growing connectivity and openness are expanding external exposure, shaping new aspirations in study, travel, and business."
+      },
+      "zh": {
+        "list": [
+          "家族觀念、傳統習俗與「馬哈拉（Mahalla）」地方互助社區對社會基層具備深遠影響力",
+          "承襲前蘇聯（Soviet）時期的世俗化教育基礎，全民基本教育普及率與識字率傲視周邊",
+          "首都塔什干（Tashkent）高度西化、時尚前衛的都市生活，與偏遠農村的保守宗教氛圍並存",
+          "網路世代與數位浪潮全面覺醒，青年階層展現出極其強烈的跨國留學、科技創業與全球接軌渴望"
+        ],
+        "text": "烏茲別克（Uzbekistan）社會最迷人之處，在於其完美融合了古老伊斯蘭（Islam）信仰人文、前蘇聯（Soviet）留下的高度世俗化科學教育體系，以及現代全球化通訊浪潮。在基層社會中，傳統的鄰里社區組織「馬哈拉（Mahalla）」依舊扮演著不可或缺的行政與道德紐帶角色。走在首都塔什干（Tashkent）的街道上，四處可見歐式咖啡廳、新興科技園區與熱衷國際時尚的年輕男女；然而一旦深入費爾干納盆地（Fergana Valley）的傳統鄉村，保守的家族秩序與宗教規範依然是生活的最高準則。隨著智慧型手機與行動網路在全國的爆炸性普及，當代的烏茲別克（Uzbekistan）青年正以前所未有的速度撕掉老舊的內陸封閉標籤，他們積極創辦電商、爭取赴歐美、中國與南韓（South Korea）留學的機會，成為推動這個古老國度邁向數位現代化的核心引擎。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "One of the strongest cultural inheritors of the Silk Road in Central Asia",
+          "Iconic Islamic architecture with blue-tile artistry",
+          "Plov (pilaf), bread, and tea culture are everyday staples",
+          "Traditional crafts and ceramic-tile aesthetics remain globally recognizable"
+        ],
+        "text": "Uzbekistan’s culture reflects layered influences from Persianate, Turkic, Islamic, and Mongol histories. The blue-domed mosques and madrasas of Samarkand and Bukhara are widely seen as architectural peaks of the region. In daily life, plov is a signature national dish, while flatbread and tea anchor social routine and hospitality."
+      },
+      "zh": {
+        "list": [
+          "作為古代絲綢之路（Silk Road）的最強歷史繼承者，坐擁中亞（Central Asia）最為輝煌的文化遺產",
+          "以繁複細緻的藍色馬賽克磁磚與雙層圓頂清真寺，構築了舉世公認的伊斯蘭建築藝術巔峰",
+          "「抓飯（Plov）」被奉為至高無上的國民美食與待客之道，並與傳統烤餅（Non）及綠茶（Chai）交織成日常餐桌風景",
+          "傳統手工絲綢（Ikats）、精細密畫與列入世界文化遺產的蘇扎尼刺繡（Suzani）享譽全球"
+        ],
+        "text": "烏茲別克（Uzbekistan）的文化是一幅由波斯細膩美學、突厥（Turkic）悍勇遊牧精神、伊斯蘭（Islam）經院哲學以及蒙古征服歷史深度揉合而成的壯麗織錦。在撒馬爾罕（Samarkand）、布哈拉（Bukhara）與希瓦（Khiva），那些高聳入雲的宣禮塔與經學院，表面貼滿了由鈷藍、松石綠與純白交織而成的幾何幾何瓷磚，在黃沙與烈日下閃耀著夢幻般的「絲路藍」，其建築工藝的藝術成就堪稱中亞之巔。在日常飲食中，抓飯（Plov）不僅僅是一道料理，更是融入了其民族集體記憶的文化符號——以羊肉、黃蘿蔔、香料與稻米在高溫鐵鍋中交融出的油脂香氣，是任何婚喪嫁娶與重要節慶的絕對主角；而圓形、表面壓印精美花紋的傳統烤餅（Non），則必須用手撕開分食，象徵著對食物的尊重與對賓客無保留的熱情款待。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Balancing economic reform with political opening and stability",
+          "Employment creation pressure under rapid population growth",
+          "Long-running Aral Sea water-environment crisis",
+          "Reducing over-reliance on Russia for labor markets and external demand"
+        ],
+        "text": "Uzbekistan’s key challenge is sustaining reform momentum while maintaining stability. A young and growing population brings potential, but also demands faster job creation and productivity gains. Water and environmental stress—especially the Aral Sea legacy—remains a structural constraint. Geopolitical shocks in the broader region have also encouraged more diversified economic and diplomatic partnerships."
+      },
+      "zh": {
+        "list": [
+          "在激進的市場經濟體制改革、政治體制適度開放與維持大局穩定之間尋找鋼索上的平衡",
+          "面對爆炸性增長的年輕人口基數，就業市場面臨巨大的優質職缺創造與產能升級壓力",
+          "鹹海（Aral Sea）生態災難留下的土地嚴重沙漠化、鹽鹼化與環境污染等長期結構性危機",
+          "俄烏戰爭爆發引發的地緣震盪下，如何加速分散海外勞工市場，逐步降低對俄羅斯（Russia）經濟、金融與勞務渠道的過度依賴"
+        ],
+        "text": "儘管近年來的改革開放讓烏茲別克（Uzbekistan）贏得國際讚譽，但這艘中亞巨輪前方仍橫亙著諸多險灘。首要的結構性難題，在於如何讓狂飆的經濟增長紅利均勻地惠及底層大眾，如果製造業與私營經濟的轉型速度趕不上年輕人口的暴增速度，居高不下的青年隱性失業率隨時可能轉化為社會動盪的導火線。環境層面的隱憂則更加迫在眉睫，鹹海（Aral Sea）乾涸導致的「鹽沙暴」至今仍在侵蝕周邊農田，而全球暖化引發的源頭水源枯竭，正在讓這個雙重內陸國面臨愈發殘酷的水資源分配角力。此外，在外交與經濟布局上，俄烏戰爭（Russia-Ukraine War）全面重塑了後蘇聯空間的地緣關係，過去極度依賴俄羅斯的烏茲別克（Uzbekistan），正面臨必須在國際制裁風險與維持傳統盟友利益之間、在美俄中三大強權的戰略擠壓之下，極其謹慎地推動多元化外交與新興供應鏈避險（Supply Chain Diversification）的世紀考驗。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Tashkent — modern capital and regional transport hub",
+          "Samarkand — legendary Silk Road city anchored by Registan",
+          "Bukhara — one of the best-preserved Islamic old cities in the region",
+          "Khiva — a desert oasis city resembling an open-air museum"
+        ],
+        "text": "Samarkand’s Registan Square is often cited among the world’s most spectacular Islamic architectural ensembles. Bukhara preserves a dense historic core of mosques, minarets, and caravanserai heritage. Khiva’s walled old city, in particular, offers a distinctive time-capsule atmosphere that reflects the Silk Road era."
+      },
+      "zh": {
+        "list": [
+          "塔什干（Tashkent）—— 中亞（Central Asia）唯一的現代化超大都市，兼具前蘇聯（Soviet）宏偉地鐵、前衛高樓與綠意盎然的區域交通心臟",
+          "撒馬爾罕（Samarkand）—— 絲綢之路（Silk Road）上最具神話色彩的璀璨明珠，雷吉斯坦廣場（Registan Square）三大經學院並立的視覺震撼",
+          "布哈拉（Bukhara）—— 擁有超過兩千年歷史且保存近乎完美的伊斯蘭古城核心，隨處可見中世紀圓頂巴札與商旅驛站遺蹟",
+          "希瓦（Khiva）—— 其內城「伊欽·卡拉（Itchan Kala）」被黃土城牆完美包裹，宛如一座時間凍結於中世紀的露天時空膠囊博物館"
+        ],
+        "text": "烏茲別克（Uzbekistan）的景觀線就像是一條實體化的時空隧道。首都塔什干（Tashkent）曾在 1966 年歷經毀滅性大地震，隨後由蘇聯（Soviet）動員全國力量重建，因而擁有極其寬闊的史達林式林蔭大道、宛如地下藝術宮殿的塔什干地鐵，以及如今雨後春筍般拔地而起的現代化商務摩天大樓。然而，一旦踏上撒馬爾罕（Samarkand），傳奇帝王帖木兒（Timur）的野心便在此展露無遺——雷吉斯坦廣場（Registan Square）由三座歷史悠久、裝飾極致奢華的伊斯蘭經學院（Madrasahs）成 U 字型將您環抱，其壯麗的幾何和對稱美學被公認為世界穆斯林建築的至高傑作。布哈拉（Bukhara）則像是一個活生生的中世紀城市標本，高聳的卡揚宣禮塔（Kalyan Minaret）曾令成吉思汗駐足震撼而下令免於摧毀；而最西邊的希瓦古城（Khiva），整座城池被宏偉的泥磚城牆與迷宮般的小巷完全保留，當夕陽灑在那些翡翠綠的宣禮塔尖時，商旅駝隊彷彿下一秒就會從漫天黃沙中再次款款走來。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "A core geopolitical actor in Central Asia by size and location",
+          "Maintains important cooperation with Russia and China",
+          "Actively improving ties with neighbors on borders and water issues",
+          "Seeking a more balanced diplomacy with Turkey, South Korea, the U.S., and Europe"
+        ],
+        "text": "Uzbekistan has increasingly promoted a \"Central Asia cooperation\" diplomacy, easing past frictions with neighbors and elevating regional connectivity. Russia remains significant for security and labor migration channels, while China’s role in infrastructure and investment continues to grow. At the same time, Uzbekistan has sought more diversified partnerships across Turkey, South Korea, the United States, and Europe."
+      },
+      "zh": {
+        "list": [
+          "地處五國交界的核心樞紐，天然具備主導中亞（Central Asia）地緣政治天平的戰略分量",
+          "採取不偏不倚的務實多邊外交，與北方傳統大國俄羅斯（Russia）維持關鍵的經濟與安全戰略對話",
+          "堅定落實「中亞第一」外交方針，全面解凍與周邊鄰國在邊界劃定與跨境水資源使用上的歷史摩擦",
+          "積極向外尋求戰略再平衡（Rebalancing），全方位深化與中國（China）、土耳其（Turkey）、南韓（South Korea）、美國（United States）及歐洲聯盟（EU）的夥伴關係"
+        ],
+        "text": "烏茲別克（Uzbekistan）在國際外交舞台上的強勢崛起，是近年中亞（Central Asia）地緣政治最顯著的變數。新政府徹底改變了過去卡里莫夫時代消極、排外的孤立戰略，轉而以極其主動的姿態倡導「中亞區域命運共同體」，透過頻繁的元首峰會，與哈薩克、吉爾吉斯等鄰國達成了歷史性的邊境和解與互聯互通協議，展現出強烈的區域領頭羊實力。在面對大國博弈時，烏茲別克（Uzbekistan）長袖善舞——它深知俄羅斯（Russia）在地緣安全與北約東擴議題上的敏感神經，因而維持緊密的傳統戰略對話；同時，它全面張開雙臂擁抱中國（China）的「一帶一路」倡議，將跨中吉烏鐵路（China–Kyrgyzstan–Uzbekistan Railway）視為打通出海口瓶頸、直抵中東與歐洲的世紀戰略工程。此外，透過頻繁出訪歐美、深化與突厥國家組織（Organization of Turkic States）的緊密同盟，烏茲別克（Uzbekistan）正在地緣政治的鋼索上精準舞動，藉由高超的多向平衡（Multi-vector Diplomacy），將自身的地緣戰略價值轉化為國家發展的源源紅利。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "No formal diplomatic relations",
+          "Trade and education exchange are growing gradually from a low base",
+          "Potential cooperation in supply chains, textiles, and electronics-related niches",
+          "Public familiarity in Taiwan remains limited"
+        ],
+        "text": "Uzbekistan and Taiwan do not have official diplomatic relations, and the overall interaction scale remains modest. In recent years, however, education, textiles, and selected industrial segments have shown emerging cooperation opportunities. As Taiwanese firms pay more attention to Central Asian markets, Uzbekistan’s position as the region’s largest population market may attract further practical exploration."
+      },
+      "zh": {
+        "list": [
+          "中華民國/台灣（Taiwan）與烏茲別克之間目前並無建立正式的官方外交關係",
+          "雙方民間經貿、商務簽證往來與高等教育交流正處於從低基期逐步摸索爬升的起步階段",
+          "在台灣（Taiwan）具備全球優勢的半導體電子科技、智慧農業灌溉、綠能供應鏈以及高階紡織加工技術中，具備極高互補潛力",
+          "受限於歷史地緣阻隔與長期資訊封閉，台灣（Taiwan）社會大眾對該國市場及文化認識度目前仍相對有限"
+        ],
+        "text": "烏茲別克與台灣之間的實質互動雖然仍受制於缺乏官方代表處等外交現狀，但兩國在產業光譜上表現出的巨大互補性，正逐漸引起民間商業協會與學術智庫的密切注意。烏茲別克（Uzbekistan）作為中亞地區當之無愧的第一大內陸消費市場，其飛速發展的汽車製造、電子組裝與都市化軟硬體升級需求，正與台灣（Taiwan）企業在電子資通訊（ICT）、自動化生產線規劃以及工業管理上的核心優勢不謀而合。近年來，已有部分台灣（Taiwan）紡織機械、化學塑料與精密工具機廠商開始組團跨海考察塔什干（Tashkent），且雙方在高等教育、絲路考古學術合作以及中亞穆斯林利基觀光（Niche Tourism）市場的開發上，也正逐步展露出打破僵局、由淺入深開展務實非政治經貿務實合作的全新契機。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "A core historical inheritor of Silk Road urban civilization",
+          "Central Asia’s most populous and fastest-growing market by demographics",
+          "Blue-tile architecture and Timurid heritage are globally recognized",
+          "Gas, gold, and cotton remain central export and revenue pillars",
+          "A reform-oriented trajectory is reshaping regional power balance"
+        ],
+        "text": "Uzbekistan combines exceptional historical depth with modern strategic weight: a large, youthful population; a pivotal location; and a reform agenda that has increased regional connectivity. Its future trajectory will be defined by water security, job creation, and the balance between economic opening and political governance evolution."
+      },
+      "zh": {
+        "list": [
+          "橫跨數千年歲月、作為歐亞大陸絲綢之路（Silk Road）城市文明最正統且光輝燦爛的歷史繼承者",
+          "整個中亞（Central Asia）內部人口結構最年輕、勞動力最充沛且內需成長動能最澎湃的領頭羊市場",
+          "以無可匹敵的「絲路藍」清真寺穹頂、不朽的帖木兒帝國（Timurid Empire）遺產，構築了享譽全球的文化圖騰",
+          "地下富饒的天然氣、露天純金礦藏與地上無邊的白金棉田，共同交織出其傳統豐厚的資源詛咒財政雙刃劍",
+          "這場由內而外、從封閉集權走向全面改革與地緣再平衡的轉型史詩，正在深刻重塑中亞多極化力量結構"
+        ],
+        "text": "烏茲別克（Uzbekistan）的國家命運，是一場將無比璀璨的歷史深度與迫在眉睫的現代戰略分量完美揉合的壯麗史詩。這是一個由千年絲路風沙吹拂而過，如今卻在工廠機器轟鳴與高速鐵路飛馳中猛然覺醒的古老心臟。它身處中亞的地理十字路口，手握龐大的青年人口紅利，正以令世界側目的改革速度向全球資本敞開大門。在未來的發展長河中，烏茲別克（Uzbekistan）能否成功擊碎水資源匱乏的生態枷鎖、能否為源源不斷的青年世代創造高附加價值的在地職缺，並在激進的經濟自由化開放與核心的政治穩健治理之間跳出完美的政治探戈，將徹底決定這顆璀璨的「絲路之珠」，能否實至名歸地蛻變為引領整個中亞走向二十一世紀繁榮與復興的首席區域超級強權。"
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": {
+        "en": "Uzbekistani soʻm (UZS)",
+        "zh": "烏茲別克索姆（Uzbekistan Soʻm / UZS）"
+      }
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "Uzbek",
+        "zh": "烏茲別克語（Uzbek）"
+      }
+    },
+    {
+      "label": "Time zone",
+      "value": "UTC+5"
+    },
+    {
+      "label": "Calling code",
+      "value": "+998"
+    },
+    {
+      "label": "ISO code",
+      "value": "UZ / UZB"
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/196240",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=56.0%2C37.2%2C73.2%2C45.6&layer=mapnik"
+}

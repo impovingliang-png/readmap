@@ -1,0 +1,356 @@
+{
+  "name": {
+    "en": "Serbia",
+    "zh": "塞爾維亞"
+  },
+  "nativeName": "Србија",
+  "capital": {
+    "en": "Belgrade",
+    "zh": "貝爾格勒"
+  },
+  "population": "6.6M",
+  "area": "88,361 km²",
+  "density": "75/km²",
+  "continent": "Europe",
+  "flagEmoji": "🇷🇸",
+  "dataEstYear": 2025,
+  "description": {
+    "en": "Serbia is a landlocked country in Southeastern Europe at the heart of the Balkans. It borders Hungary to the north, Bosnia and Herzegovina and Croatia to the west, and North Macedonia to the south. Historically positioned at a crossroads between East and West, Serbia has been shaped by Slavic heritage, Orthodox Christianity, and the legacy of the Ottoman era. Belgrade is one of Southeast Europe’s oldest cities and remains the nation’s political, economic, and cultural center.",
+    "zh": "Serbia是位於東南歐巴爾幹半島（Balkans）內陸腹地的核心國家，北接匈牙利（Hungary），西鄰波士尼亞與赫塞哥維納（Bosnia and Herzegovina）與克羅埃西亞（Croatia），南接北馬其頓（North Macedonia）。塞爾維亞在歷史上長期處於東西方文明交界、帝國更迭的鋒刃之上，深受拜占庭東正教信仰、鄂圖曼土耳其數百年統治以及剛毅斯拉夫民族文化的共同洗禮。首都貝爾格勒（Belgrade）雄踞多瑙河與薩瓦河交匯處，是東南歐歷史最悠久的宏偉名城之一，至今仍是整個巴爾幹地區無可替代的政治、經濟與先鋒文化中心。"
+  },
+  "seoText": {
+    "en": "Explore quick facts about Serbia — population, area, capital city, and a short overview. Discover Belgrade and Novi Sad, the Danube and Sava rivers, Serbia’s Orthodox heritage, growing IT sector, and its role as a Balkan transport hub.",
+    "zh": "快速解鎖巴爾幹核心塞爾維亞（Serbia）的最新基本資料：包含總人口數、國土面積、千年首都貝爾格勒（Belgrade）與深度國家概述。帶您深入探索白色之城貝爾格勒、文化之都諾維薩德（Novi Sad）、多瑙河（Danube）與薩瓦河（Sava）壯麗雙河交會奇景、宏偉的聖薩瓦教堂東正教古蹟、快速崛起的現代 IT 科技產業，以及塞爾維亞作為連接中歐與南歐歐陸交通樞紐的關鍵角色。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Core country in the Balkans (Southeastern Europe)",
+          "Key transport corridor linking Central and Southeast Europe",
+          "Representative Slavic and Orthodox cultural heartland",
+          "A main successor state in the post-Yugoslav space"
+        ],
+        "text": "Serbia’s identity has been shaped by centuries of frontier history between empires and civilizations. Today, it combines a lively urban culture in Belgrade with strong regional traditions, while its economy grows in manufacturing, logistics, and technology services."
+      },
+      "zh": {
+        "list": [
+          "雄踞巴爾幹半島正中央，掌握該地區無可替代的地緣核心戰略優勢",
+          "連接中歐富庶地區與東南歐、近東地帶不可或缺的歐陸黃金交通走廊",
+          "巴爾幹半島上最具代表性、歷史底蘊無比深厚的南斯拉夫與東正教文化心臟地帶",
+          "歷史上曾作為前南斯拉夫聯邦（Yugoslavia）最核心、最主要的政治實體繼承國"
+        ],
+        "text": "塞爾維亞（Serbia）是位於東南歐巴爾幹半島內陸的國家，北接匈牙利（Hungary），西鄰波士尼亞與赫塞哥維納（Bosnia and Herzegovina）與克羅埃西亞（Croatia），南接北馬其頓（North Macedonia）。塞爾維亞歷史上長期位於東西方文明交界，深受東正教、鄂圖曼帝國與斯拉夫文化影響。\n\n首都貝爾格勒（Belgrade）歷史悠久，是東南歐最具活力的國際大都市之一。近年來，塞爾維亞在資訊科技、智慧製造與跨國區域物流領域展現出強勁的成長潛力，同時依舊完美保有了濃烈的巴爾幹歷史厚度與鮮明的民族文化特色。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Located in the central Balkans",
+          "Landlocked country with no coastline",
+          "Danube crosses the north and connects to European waterways",
+          "Plains in the north, hills and mountains in the south and west"
+        ],
+        "text": "Northern Serbia lies on the Pannonian Plain and supports strong agriculture, while the south and west are more mountainous. The Danube and Sava rivers meet in Belgrade, reinforcing its long-standing strategic role in regional transport and defense."
+      },
+      "zh": {
+        "list": [
+          "地理位置獨特，坐落於歐洲東南部的巴爾幹半島心臟腹地",
+          "屬於典型的四面環陸、無任何出海海岸線的純內陸國家",
+          "蔚為壯觀的國際多瑙河（Danube）橫貫北部，將其與全歐內河航運網絡緊密相連",
+          "地形結構南高北低，北部為一望無際的肥沃平原，南部與西部則為巍峨綿延的山區"
+        ],
+        "text": "塞爾維亞（Serbia）國土面積約 8.8 萬平方公里。北部伏伊伏丁那（Vojvodina）地區地處開闊平坦的潘諾尼亞平原（Pannonian Plain），土壤極其肥沃，是國家無可替代的「歐洲糧倉」與現代化農業基地；而中南部與西部國土則被迪納拉山脈等多條險峻山系所盤踞，峽谷深邃，林木蔥鬱。\n\n最引人入勝的是，歐洲兩大戰略水系——多瑙河與薩瓦河（Sava River）在首都貝爾格勒（Belgrade）的正下方浩蕩交會，這項大自然的恩賜使其自古以來便成為控制巴爾幹水陸交通、兵家必爭的兵防與貿易核心樞紐。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Temperate continental climate",
+          "Four distinct seasons",
+          "Hot summers",
+          "Cold winters with snow in some regions"
+        ],
+        "text": "Serbia’s climate reflects both Central European and Balkan influences. Lowlands can be very warm in summer, while winter cold and snowfall are more common in higher-elevation areas."
+      },
+      "zh": {
+        "list": [
+          "呈現極具歐陸本土特徵、乾濕季分明的典型溫帶大陸性氣候",
+          "四季更迭鮮明有序，各個季節皆展現出巴爾幹半島獨有的自然風貌",
+          "夏季受到溫暖氣團控制，平原與都會區陽光普照、氣候炎熱",
+          "冬季受到高壓氣團影響普遍寒冷，中南部高山景區常迎來豐沛積雪"
+        ],
+        "text": "塞爾維亞氣候受中歐氣候與巴爾幹地區地形共同影響。夏季中南部盆地與北部平原氣溫偏高，午後陽光熾熱；冬季時，冷空氣南下往往會帶來劇烈的降溫與普遍的降雪。\n\n南部的高山地帶冬季氣候尤為寒冷，雪季漫長，這也使其擁有數個在東歐頗負盛名的冬季滑雪度假勝地。而北部平原雨熱同季，為大規模機械化農業生產提供了絕佳的自然氣候條件。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Population around 6.6 million",
+          "Ongoing population decline",
+          "Urbanization continues to rise",
+          "Notable aging trend"
+        ],
+        "text": "Population concentrates in Belgrade and other northern urban areas. Low birth rates and outward migration have contributed to long-term population decline. Serbian is the official language and is commonly written in Cyrillic."
+      },
+      "zh": {
+        "list": [
+          "全國總人口維持在約 660 萬人的規模，大都會區人口密度集中",
+          "面臨低生育率與青年人才向西歐外流造成的長期人口結構性縮減挑戰",
+          "鄉村人口加速移居城市，首都圈與北部核心城市的城市化程度高度集中",
+          "社會高齡化趨勢日益明顯，對公共醫療與養老福利體制帶來長遠考驗"
+        ],
+        "text": "塞爾維亞（Serbia）人口主要高度集中於首都貝爾格勒（Belgrade）以及北部文化重鎮諾維薩德。族群結構方面，主體民族塞爾維亞人（Serbs）佔總人口的 83% 以上，展現強烈的民族自豪感，其餘則包含分佈於北部的匈牙利族（Hungarians，約 3.5%）以及羅姆人等少數民族。\n\n官方語言塞爾維亞語（Serbian）隸屬斯拉夫語族，是世界上極少數可完全兼容並同時使用「西里爾字母（Cyrillic）」與「拉丁字母（Latin）」進行書寫的雙文字語言，然而在官方正式公文與歷史文獻中，仍以充滿古典東正教色彩的西里爾字母為主體。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "Manufacturing and agriculture remain important",
+          "Fast growth in IT and software services",
+          "Increasing foreign direct investment",
+          "An emerging logistics hub in Southeast Europe"
+        ],
+        "text": "Serbia’s economy has expanded across automotive components, metal processing, agriculture, and energy. The IT and outsourcing sector is growing quickly, with Belgrade increasingly recognized as a regional startup and technology center."
+      },
+      "zh": {
+        "list": [
+          "傳統鋼鐵金屬加工、汽車零組件製造與現代化黑土農業底子紮實，實力不俗",
+          "高階軟體開發與資訊科技外包服務業爆發式成長，成為全歐不容忽視的 IT 新星",
+          "憑藉優渥的營商環境與地理優勢，近年成功吸引大量多元化跨國外資直接投資",
+          "積極擴建現代高鐵與高速公路，全力打造東南歐最核心的陸運物流樞紐中心"
+        ],
+        "text": "塞爾維亞經濟近年逐步成長，汽車零件、金屬加工、農產品與能源產業占有重要地位。\n\n資訊科技與軟體外包產業成長快速，首都貝爾格勒（Belgrade）憑藉著優質的工程師人才池與高性價比的營運成本，正逐漸蛻變為東南歐最具活力的科技新創中心之一。此外，作為連接中國「一帶一路」倡議與歐洲內陸的關鍵歐陸節點，塞爾維亞近年大舉推進與多國合作的現代基礎建設，包括多條跨國高速公路與正在全面升級的巴爾幹高鐵網絡，地緣物流樞紐價值與日俱增。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Republic with a parliamentary democratic system",
+          "Not an EU member state",
+          "Maintains ties with both Europe and Russia",
+          "EU accession talks remain a major policy track"
+        ],
+        "text": "Following the dissolution of Yugoslavia, Serbia built a modern political system and continues negotiations toward EU accession. At the same time, historical and religious links and energy considerations contribute to a foreign policy that seeks balance across major partners."
+      },
+      "zh": {
+        "list": [
+          "採行代議制共和政體，由總理總攬行政大權，國會實行多黨民主協商制度",
+          "目前非歐盟（EU）正式成員國，但身為該區域最核心的入盟候選國之一",
+          "在歷史血緣、東正教信仰與國家能源供應上，與俄羅斯維持長久深厚的傳統維繫",
+          "靈活開展多元平衡外交，將加入歐盟談判進程與維護本國核心戰略利益並重"
+        ],
+        "text": "塞爾維亞（Serbia）於南斯拉夫解體後逐步建立現代政治制度，目前正積極且持續推動加入歐盟（EU）的官方談判進程，全面修改法律以符合歐洲主流標準。然而在外交戰略上，塞爾維亞展現出獨具巴爾幹特色的平衡藝術：它既致力於歐洲經濟一體化，同時在政治、文化與天然氣等關鍵能源供應上面，與俄羅斯（Russia）維持著特殊的傳統夥伴關係。近年來，塞爾維亞更顯著加深了與中國等新興經濟體的經貿與基建戰略合作，在多方大國勢力博弈之間，靈活尋求國家利益的最大化。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Lower living costs than much of Europe",
+          "Vibrant nightlife and café culture",
+          "High education participation",
+          "Urban–rural development gaps persist"
+        ],
+        "text": "Serbia’s lower costs have attracted some digital nomads and foreign workers. Belgrade is especially known for nightlife and coffee culture, while rural regions can face stronger infrastructure and demographic pressures."
+      },
+      "zh": {
+        "list": [
+          "生活步調與日常消費物價相較西歐顯得極其低廉親民，宜居吸引力十足",
+          "都市文化活躍狂熱，以享譽全歐的不夜城夜生活與極具深度的咖啡館社交聞名",
+          "國民普遍受教育程度極高，精通英語及多國語言的年輕高素質人才比例居高",
+          "都市與落後內陸山區之間的現代基礎建設與人均所得差距，仍是待解的社會議題"
+        ],
+        "text": "塞爾維亞整體生活成本在歐洲屬較低水準，近年憑藉超高性價比、高速網路基建以及對多國免簽的便利政策，一躍成為全球數位遊牧（Digital Nomads）與跨國遠端工作者的新興避風港。首都貝爾格勒（Belgrade）的休閒氛圍極其濃厚，林立的個性咖啡館與停泊在多瑙河、薩瓦河畔的漂浮夜店船（Splavovi）交織成其舉世聞名的不夜城文化。然而，伴隨都會區的快速發展，部分偏遠鄉村地區依然面臨著基礎建設老化、人口外流及人口老化等嚴峻的社會現實問題。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "Strong Slavic and Orthodox cultural heritage",
+          "Traditional music and festivals remain vibrant",
+          "Sports culture has deep influence",
+          "War memory and history remain visible"
+        ],
+        "text": "Orthodox Christianity has shaped many aspects of Serbian culture, from monasteries to rituals and calendar traditions. Sports are highly prominent, with tennis, basketball, and football especially popular; Novak Djokovic is Serbia’s most internationally recognized athlete."
+      },
+      "zh": {
+        "list": [
+          "東正教（Orthodox Christianity）信仰底蘊深厚，古典拜占庭聖像與建築藝術保留完好",
+          "傳統巴爾幹銅管樂、狂歡音樂節與民間歌舞在當代社會中依旧展現蓬勃的生命力",
+          "舉國全民狂熱的體育文化，在球類與競技運動上展現出恐怖的頂級世界統治力",
+          "歷經世紀帝國交鋒與近現代烽火洗禮，城市與國民心中留有深刻的歷史記憶"
+        ],
+        "text": "塞爾維亞文化深受東正教與斯拉夫傳統影響，境內星羅棋布的中世紀古老修道院保存了精美絕倫的拜占庭濕壁畫，是國家無價的精神瑰寶。在體育世界，塞爾維亞是不折不扣的「超級體育強國」，在網球、籃球、水球與足球等高強度項目上名將輩出。其中，締造無數歷史紀錄的網球傳奇巨星喬科維奇（Novak Djokovic）更被奉為塞爾維亞的國家英雄與最具國際影響力的文化大使。此外，獨特的巴爾幹傳統銅管樂（如古查音樂節）與當代前衛的電子音樂節完美共存，形塑出其狂放、熱情且堅韌的獨特文化靈魂。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Emigration and low birth rates",
+          "Kosovo issue remains unresolved",
+          "Slow progress in EU accession negotiations",
+          "Energy and foreign-policy balancing pressures"
+        ],
+        "text": "Serbia faces long-term demographic challenges alongside economic transition. Kosovo’s status continues to shape domestic politics and foreign relations, while Serbia’s position between major powers keeps diplomacy and energy policy under constant pressure."
+      },
+      "zh": {
+        "list": [
+          "高素質年輕菁英人口嚴重外流與超低生育率重疊，引發「腦力流失」的社會危機",
+          "科索沃（Kosovo）主權爭議與歷史地位懸而未決，仍是國家最敏感的核心外交與政治僵局",
+          "受制於複雜的地緣地緣博弈與內部法制改革，加入歐盟的正式談判進程進展相對緩慢",
+          "在西方制裁浪潮與俄羅斯傳統能源依賴之間，面臨著日益嚴峻的國際政治平衡壓力"
+        ],
+        "text": "在國家穩步發展的同時，塞爾維亞（Serbia）依然被幾項深層次的地緣歷史包袱所制約。最核心的政治議題莫過於科索沃（Kosovo）的主權爭議，這一歷史傷痕不僅是引發國內民族主義波動的焦點，更是其邁向歐盟全面整合道路上最巨大的地緣政治障礙。此外，隨着國際地緣局勢日益對立，塞爾維亞長久以來在歐洲、俄羅斯與中國之間長袖善舞的「多邊平衡外交」策略，正遭遇到來自西方世界越來越強烈的表態壓力。如何在確保能源供應安全、捍衛民族尊嚴與擁抱歐洲主流市場之間尋求最佳平衡，是歷屆政府面臨的重大考驗。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Belgrade — capital and largest city",
+          "Novi Sad — culture city known for major music festivals",
+          "Kalemegdan Fortress — key Belgrade historic landmark",
+          "Đerdap National Park — Danube gorge landscapes"
+        ],
+        "text": "Novi Sad is widely known for the EXIT festival, while Kalemegdan Fortress symbolizes Belgrade’s long military and urban history. Along the Danube, Đerdap National Park showcases dramatic gorge scenery."
+      },
+      "zh": {
+        "list": [
+          "貝爾格勒（Belgrade）—— 傲視巴爾幹的千年古都，多瑙河與薩瓦河在此浩蕩交匯",
+          "諾維薩德（Novi Sad）—— 塞爾維亞文化與藝術之都，名揚全歐的 EXIT 先鋒音樂節大本營",
+          "卡萊梅格丹城堡（Kalemegdan Fortress）—— 貝爾格勒最具標誌性的歷史要塞，見證數十場帝國血戰",
+          " 德道普國家公園（Đerdap National Park）—— 壯麗無雙的多瑙河鐵門大峽谷，大自然鬼斧神工的生態名片"
+        ],
+        "text": "坐落於兩河交匯處山丘上的卡萊梅格丹城堡（Kalemegdan Fortress）是貝爾格勒最不容錯過的歷史豐碑。這座城堡由古羅馬、拜占庭、奧地利與鄂圖曼土耳其帝國反覆爭奪、修築，厚重的石頭城牆下埋藏著兩千年的烽火歲月，如今已化為市民攜手看夕陽、俯瞰雙河交匯奇景的浪漫公園。而在多瑙河下游、與羅馬尼亞交界處的德道普國家公園（Đerdap National Park），則擁有著名的「鐵門峽谷（Iron Gates）」，多瑙河在此處被高聳的懸崖峭壁驟然收窄，巨浪滔滔、山水相連，構成了東南歐最震撼人心的自然史詩景觀。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "One of the key countries in the Balkans",
+          "Historically close ties with Russia",
+          "Actively pursues EU accession",
+          "Cooperation with China has increased"
+        ],
+        "text": "Serbia continues to pursue economic integration with the EU while maintaining cooperation with Russia and China. Its geography makes it an important corridor for transport and diplomacy between Central Europe and the Balkans."
+      },
+      "zh": {
+        "list": [
+          "當之無愧的巴爾幹半島核心政治力量，區域局勢牽一髮而動全身的指標性國家",
+          "與俄羅斯（Russia）在斯拉夫血脈、東正教文化與能源戰略上維持密不可分的深厚關係",
+          "堅定不移地將「加入歐盟（EU）」列為國家核心的經濟轉型與涉外戰略長遠目標",
+          "近年大幅深化與中國（China）在高速鐵路、基礎設施與工業產能上的全方位戰略合作"
+        ],
+        "text": "塞爾維亞（Serbia）近年來在歐陸地緣政治與東西方外交博弈中佔據了極其特殊的樞紐地位。它一方面將歐盟視為第一大貿易夥伴和長遠歸宿，積極推動一體化進程；另一方面，其地緣位置使其成為中東歐大通道的咽喉。這讓塞爾維亞成為多方外資競相爭奪的戰略要地，特別是與中國、俄羅斯的緊密外交合作，使其在國際舞台上往往能發揮超越其國土規模的獨特地緣政治影響力。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Limited scale of exchanges",
+          "Gradually increasing trade contacts",
+          "Technology and education links remain limited",
+          "Potential cooperation point for Balkan markets"
+        ],
+        "text": "Serbia and Taiwan maintain non-official exchanges. Bilateral trade remains modest, but there has been gradual increase in contacts around technology and electronics-related business."
+      },
+      "zh": {
+        "list": [
+          "受地緣政治因素制約，雙邊目前仍缺乏官方直接接觸，交流規模相對有限",
+          "雙邊民間商務經貿往來近年呈現出逐步摸索、緩步增長的溫和發展態勢",
+          "在資通訊高科技研發與高等學術領域的直接連結與合作規模仍有極大開拓空間",
+          "隨着巴爾幹鐵路物流網的完工，其被視為台商未來開拓新興南歐與巴爾幹市場的潛在橋頭堡"
+        ],
+        "text": "塞爾維亞與台灣目前主要維持著純民間與非官方的務實經貿往來。雖然兩國在外交與政治維度上的接觸因塞國堅定的多邊外交立場而顯得相對審慎，但在資通訊零組件、電子機械及日常消費品貿易等純商業領域，雙方企業近年正透過歐盟等第三方管道逐步展開溫和的接觸。隨著塞爾維亞自身 IT 產業與製造業實力的快速抬頭，未來在軟體研發與高階供應鏈互補上，兩國民間市場仍蘊含著不少值得挖掘的潛在合作機會。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "One of the core post-Yugoslav states",
+          "Orthodox heritage remains highly visible",
+          "Danube river-basin country with strategic corridors",
+          "Strong tennis and basketball traditions",
+          "A key Balkan transport junction"
+        ],
+        "text": "Serbia’s modern profile is defined by geography and corridors, a distinct Orthodox-Slavic cultural legacy, and a growing services and technology sector centered on Belgrade."
+      },
+      "zh": {
+        "list": [
+          "當之無愧的前南斯拉夫聯邦大格局的政經核心繼承國，歷史厚重感無與倫比",
+          "神聖宏偉的東正教古老修道院與信仰習俗完好嵌入現代社會，文化辨識度極高",
+          "獨佔多瑙河流域中段與薩瓦河黃金要衝，天然坐擁歐陸最核心的十字路口交通走廊",
+          "舉世震驚的網球與籃球強權之國，以堅韌不拔、遇強則強的斯拉夫體育靈魂名震全球",
+          "牢牢扼守巴爾幹半島海陸聯運大通道的咽喉，是東西方文明、貿易交融繁衍的永恆驛站"
+        ],
+        "text": "從北部平原滾滾向東的多瑙河浪花、卡萊梅格丹城堡上俯瞰的兩河交會落日，到聖薩瓦大教堂那直插雲霄的金色十字架，以及格林威治綠茵場與網球場上流淌著剛毅鐵血的塞爾維亞運動員，塞爾維亞（Serbia）以其獨一無二的樞紐地理位置、歷經無數次戰火卻愈發堅韌的斯拉夫東正教文化底蘊，以及近年在貝爾格勒全面爆發的現代 IT 科技浪潮，共同向世界勾勒出一個既充滿史詩滄桑感、又充滿現代前衛活力的巴爾幹半島（Balkan）完全體核心大國輪廓。"
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": "Serbian Dinar (RSD)"
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "Serbian",
+        "zh": "塞爾維亞語"
+      }
+    },
+    {
+      "label": "Time zone",
+      "value": {
+        "en": "UTC+1 / UTC+2 (DST)",
+        "zh": "UTC+1 / UTC+2（夏令時間）"
+      }
+    },
+    {
+      "label": "Calling code",
+      "value": "+381"
+    },
+    {
+      "label": "ISO code",
+      "value": "RS / SRB"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🏰",
+      "text": {
+        "en": "Kalemegdan Fortress — major historic landmark overlooking the Danube–Sava confluence in Belgrade",
+        "zh": "卡萊梅格丹城堡（Kalemegdan Fortress）—— 雄踞於首都貝爾格勒（Belgrade）山丘之上的歷史巨構。這座巨大的軍事要塞傲然俯瞰著多瑙河與薩瓦河浩瀚交匯的世紀奇景，歷經羅馬、拜占庭、奧匈與鄂圖曼土耳其帝國的千百次血戰摧殘與反覆重建，城牆的每一塊石頭都銘刻著巴爾幹半島「東西方十字路口」的滄桑史詩"
+      }
+    },
+    {
+      "icon": "🎾",
+      "text": {
+        "en": "Novak Djokovic — world-renowned tennis icon and a defining sports figure for Serbia",
+        "zh": "傳奇巨星喬科維奇（Novak Djokovic）—— 譽滿全球的網球歷史第一人（GOAT），更是塞爾維亞永恆的國家精神象徵。他憑藉著在逆境中絕不低頭的鋼鐵意志與無懈可擊的球技，在世界網壇締造了前無古人的大滿貫紀錄，隻身一人將塞爾維亞堅韌不拔、遇強則強的狂飆民族靈魂完美展現給全世界"
+      }
+    },
+    {
+      "icon": "⛪",
+      "text": {
+        "en": "Orthodox heritage — a central pillar shaping Serbian society, history, and architecture",
+        "zh": "聖薩瓦大教堂與東正教底蘊（Orthodox heritage）—— 塞爾維亞社會與靈魂的精神巨柱。坐落於貝爾格勒的聖薩瓦大教堂（Church of Saint Sava）是全世界規模最大的東正教建築之一，其雄偉的白色大理石穹頂與耀眼的金色十字架直插雲霄，內部鋪設著令人屏息的巨幅馬賽克壁畫，彰顯了斯拉夫拜占庭文化的極致輝煌"
+      }
+    },
+    {
+      "icon": "🌉",
+      "text": {
+        "en": "Danube — an international river crossing the country and connecting Serbia to wider European waterways",
+        "zh": "多瑙河黃金水系（Danube）—— 縱貫塞爾維亞北部的命脈之河，更是將該國與整個歐洲內陸水運網絡緊密相連的「藍色大動脈」。多瑙河流經塞國境內時，既孕育了肥沃的農業平原，又在下游切穿高山、形成了震撼人心的德道普（Đerdap）鐵門大峽谷，生態與航運價值無可估量"
+      }
+    },
+    {
+      "icon": "🎺",
+      "text": {
+        "en": "Guča Trumpet Festival — one of the Balkans’ best-known traditional music celebrations",
+        "zh": "古查狂歡喇叭音樂節（Guča Trumpet Festival）—— 巴爾幹半島最具本土靈魂、最為瘋狂的狂熱傳統音樂盛事。每年夏天，數以十萬計的全球樂迷會湧入古查小鎮，在排山倒海、高亢激昂的塞爾維亞傳統吉普賽銅管樂與瘋狂的民間舞蹈中徹夜痛飲狂歡，將巴爾幹民族骨子裡的豪邁、熱烈與野性釋放得淋漓盡致"
+      }
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/1741311",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=18.8%2C42.2%2C23.0%2C46.2&layer=mapnik"
+}

@@ -1,0 +1,353 @@
+{
+  "name": {
+    "en": "Colombia",
+    "zh": "哥倫比亞（Colombia）"
+  },
+  "nativeName": "República de Colombia",
+  "capital": {
+    "en": "Bogotá",
+    "zh": "波哥大（Bogotá）"
+  },
+  "population": "53M",
+  "area": "1,141,748 km²",
+  "density": "46/km²",
+  "continent": "Americas",
+  "flagEmoji": "🇨🇴",
+  "dataEstYear": 2025,
+  "description": {
+    "en": "Colombia, officially the Republic of Colombia, is a highly diverse sovereign nation located in northwestern South America. Bordered by the Caribbean Sea to the north and the Pacific Ocean to the west, it shares land boundaries with Venezuela and Brazil to the east, and Peru and Ecuador to the south. Renowned for its unparalleled ecological wealth, legendary mild Arabica coffee, vibrant musical heritage, and magic realist literature, Colombia is one of Latin America's most dynamic and culturally rich societies.",
+    "zh": "Colombia（哥倫比亞（正式國名為哥倫比亞共和國（Republic of Colombia））是高居南美洲西北部戰略門戶、具備無與倫比地緣與文化多樣性的主權國家。其北臨遼闊的加勒比海，西接浩瀚的太平洋，東鄰委內瑞拉（Venezuela）與巴西（Brazil），南接秘魯（Peru）與厄瓜多（Ecuador）。哥倫比亞是南美洲大陸上唯一同時坐擁太平洋與加勒比海雙海岸線的國家，憑藉其高居全球第二的超級生態多樣性天堂、世界頂級的溫和阿拉比卡（Arabica）咖啡、充滿活力的音樂舞蹈遺產，以及魔幻寫實主義文學，成為拉丁美洲最具動態活力與地緣戰略底蘊的領頭羊經濟體之一。"
+  },
+  "seoText": {
+    "en": "Read quick facts about Colombia — population, land area, capital city, and short overview. Discover Bogotá high-altitude center, Medellín innovation hubs, Cartagena Caribbean fortifications, Gabriel García Márquez literature, and Arabica coffee farms.",
+    "zh": "一鍵深度解鎖南美西北門戶哥倫比亞（Colombia）的核心基本資料：全面涵蓋最新常住人口總量、遼闊國土面積、高海拔首都波哥大（Bogotá）精闢解析與宏觀國家全貌。探索其安地斯山脈垂直地理環境、麥德林（Medellín）的全球智慧創新城市轉型、世界文化遺產卡塔赫納（Cartagena）的加勒比海防禦古城、加西亞·馬奎斯（Gabriel García Márquez）不朽的魔幻寫實文學，以及頂級溫和阿拉比卡咖啡莊園的永續生態。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Sovereign republic resting at the vital northwestern gateway of South America",
+          "One of only a few nations bordering both Caribbean and Pacific ocean waters",
+          "Renowned global exporter of high-grade mild Arabica coffee beans",
+          "Ranks among the absolute top megadiverse countries in global biodiversity"
+        ],
+        "text": "Divided by three massive parallel branches of the Andes Mountains and opening into the wild tropical thickets of the Amazon, Colombia is a nation of incredible landscape variety. Home to over 53 million citizens, the society has formed a vibrant cultural blend of European, indigenous, and African heritages. Spanish is the official language, spoken with a wide range of regional accents from the Andes plateaus to the coastal ports.\n\nFrom the bustling high-altitude museums of Bogotá to the historic Spanish stone fortifications of Cartagena, Colombia stands as an exceptionally colorful cultural heartland of South America."
+      },
+      "zh": {
+        "list": [
+          "雄踞南美洲西北部地緣咽喉，連接中美洲地峽與南美大陸的戰略樞紐主權國家",
+          "南美大陸唯一同時坐擁加勒比海與太平洋漫長海岸線的國家，具備絕佳海洋經貿優勢",
+          "全球高端溫和阿拉比卡咖啡豆的絕對代名詞，大宗農業、礦產與洁净能源的出口強國",
+          "高居全球「超級生物多樣性國家」第二位，擁有橫跨高山與熱帶雨林的天然生態聖殿"
+        ],
+        "text": "國土被三條並行、巍峨高聳的安地斯山脈支脈橫貫切割，並向東綿延入奧里諾科與亞馬遜（Amazon）原始熱帶雨林的深處，哥倫比亞（Colombia）是一座擁有不可思議地貌與生態奇觀的國家。這座擁有超過 5,300 萬居民的動態共和國，在歷史演進中將歐洲、美洲原住民以及非洲裔血統完美交融，形塑了極具爆發力的多元社會與斑斕文化結構。西班牙語為官方語言，從高海拔的安地斯高原到熱情的沿海港口，展現出豐富且極具地方特色的區域方言。從首都波哥大（Bogotá）熙攘繁華的高原博物館群與金融中心，到歷史悠久、抵禦海盜的卡塔赫納（Cartagena）西班牙石造軍事堡壘，哥倫比亞實至名歸地成為整個拉丁美洲大陸上色彩最為斑斕絢麗、軟實力底蘊深厚的文化心臟。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Highly diverse topography with three branches of the northern Andes mountains",
+          "Simultaneous coastlines on the Pacific Ocean and the Caribbean Sea",
+          "Broad eastern plains feed into the Orinoco and Amazon river networks",
+          "Ranks second globally in the total number of indigenous plant and animal species"
+        ],
+        "text": "Covering approximately 1.14 million square kilometers, Colombia's terrain is exceptionally varied. The Andes mountains split into three distinct ranges (Western, Central, and Eastern Cordilleras), creating deep, fertile valleys and high plateaus.\n\nThe eastern half of the country is covered by the flat savannas of the Llanos and the thick tropical canopy of the Amazon Rainforest, forming a sanctuary for countless wild species."
+      },
+      "zh": {
+        "list": [
+          "安地斯山脈在境內三分天险，形成西、中、東三條平行交織的宏偉科迪勒拉山脈",
+          "擁有舉世罕見的雙海洋地理優勢，北瀕加勒比海，西臨浩瀚的大西洋太平洋水域",
+          "國境東半部地勢平坦開闊，由東部稀樹草原（Llanos）與南部的亞馬遜熱帶雨林構成",
+          "國土跨越豐富的垂直氣候帶，其鳥類、植物與蝴蝶等特定物種多樣性高居全球最前列"
+        ],
+        "text": "哥倫比亞（Colombia）國土面積約 114 萬平方公里，其地形地貌的多樣性高居全球最前列。安地斯（Andes）山脈在境內碎裂、分化為三條平行交織的宏偉山脈（西科迪勒拉山脈、中科迪勒拉山脈與東科迪勒拉山脈），在縱橫交錯間開鑿出極其深邃肥沃的馬格達萊納河與考卡河谷，並孕育了氣候涼爽的高原盆地，這裏聚集了全國的大部分核心人口。國境東半部則由大片未受污染的處女地組成，包含了流入奧里諾科河流域、水草豐美的東部平原，與覆蓋著茂密熱帶蒼穹、象徵「地球之肺」的亞馬遜熱帶雨林（Amazon Rainforest），匯聚成地表上無數特有珍稀野生動植物物種的天然聖殿。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Predominantly tropical weather with distinct zones defined by elevation",
+          "Lowland plains and coastal beaches experience hot, humid conditions",
+          "High Andean plateaus enjoy a cool, comfortable eternal-spring climate",
+          "Rainfall patterns shape rich cloud forests and dense rainforest basins"
+        ],
+        "text": "Since it lies near the equator, Colombia experiences very small temperature changes throughout the year. Instead, temperatures are determined by altitude, ranging from hot coastal lowlands to cold alpine peaks (páramos).\n\nBogotá, resting at 2,640 meters, enjoys a refreshing and cool climate year-round, while coastal Cartagena is warm and tropical, cooled by Caribbean sea breezes."
+      },
+      "zh": {
+        "list": [
+          "國境緊鄰赤道，基本免受全球傳統冷熱四季變化之苦，全年溫差波動極小",
+          "氣候特徵由海拔高度（Altitudinal Zones）決定，從熱帶低地完美遞變為高山寒帶",
+          "太平洋沿岸與加勒比海平原長年呈現高溫潮濕、艷陽高照的典型熱帶海洋氣候",
+          "海拔 2,000 公尺以上的高原都會區，終年享受如「永恆春天」般涼爽宜人的氣候"
+        ],
+        "text": "由於地理位置緊鄰赤道，哥倫比亞（Colombia）全境的全年季節性氣溫波動極小。相反地，其氣候帶完全由海拔高度層層遞變決定，這在地理學上被劃分為四個經典的垂直氣候帶：地勢低平、溫熱潮濕的「熱帶熱帶（Tierra Caliente）」，盛產香蕉與可可；向上過渡至氣候溫和、雨水充沛的「溫帶（Tierra Templada）」，這裡是頂級阿拉比卡咖啡的黃金生長帶；再向上則是「寒帶（Tierra Fría）」，坐落於海拔 2,640 公尺山脈盆地上的首都波哥大（Bogotá）便位於此處，終年平均氣溫維持在 14°C 左右，空氣清新爽朗，宛如四季如春；而在最高處則是寒冷刺骨、霧氣繚繞的高山荒原（Páramos），生態極其獨特。這種豐富的垂直氣候組合，為哥倫比亞帶來了全天候、多樣化的農業發展可能。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Dynamic population of approximately 53 million energetic residents",
+          "Highly urbanized population centered in mountain and coastal cities",
+          "Rich ethnic mix of European, indigenous, and Afro-Colombian ancestry",
+          "Spanish is the primary language, alongside dozens of native dialects"
+        ],
+        "text": "Colombia has a population of 53 million, making it the third-most populous nation in Latin America. It is highly urbanized, with the majority of residents living in Andean mountain cities like Bogotá, Medellín, and Cali.\n\nThe population is ethnically diverse, blending Spanish colonial settlers, indigenous groups, and African communities on the coasts, resulting in a rich cultural heritage."
+      },
+      "zh": {
+        "list": [
+          "常住總人口穩定增長至約 5,300 萬人，高居整個拉丁美洲第三大人口大國",
+          "人口分布呈現高度都市化與「多中心」特徵，密集聚居於安地斯山脈的三大都會圈",
+          "族群光譜展現出全球典範級的「融合與多元」，完美糅合了歐、非與美洲原住民血統",
+          "官方與通用語言為西班牙語（Spanish），其發音清晰純正，被公認為西語世界的典範"
+        ],
+        "text": "哥倫比亞總人口約為 5,300 萬人，是拉丁美洲第三大人口大國。其人口結構高度都市化（超過 81% 居住於城市），且與其他拉美大國不同，其人口並未完全向單一首都傾斜，而是分布在波哥大、麥德林、卡利及巴蘭幾亞等多個核心城市。在歷史演進與基因交融中，哥倫比亞形成了極具特色的族群光譜：印歐混血的梅斯蒂索人（Mestizos）與白人（主要為西班牙殖民者後裔）高佔總人口的 87.6%（約 4,642 萬人），是全國最主要的政經與都會主體；擁有強大音樂、體育與舞蹈天賦的非裔哥倫比亞人（Afro-Colombians，包含黑人、穆拉托人及拉利薩爾人）約佔 9.34%（約 495 萬人），主要分布於太平洋與加勒比海的沿海港郡，為哥倫比亞注入了濃郁的加勒比風情；而歷史悠久的美洲原住民（Indigenous）部落則約佔 4.4%（約 233 萬人），他們在瓦希拉半島及亞馬遜深處保留了 60 多種古老語言與編織工藝文化。這種跨越膚色的多元人口基石，建構了哥倫比亞兼具歐洲優雅、非洲律動與印第安堅韌的社會面貌。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "Major South American economy driven by petroleum, coal, and coffee",
+          "Global symbol for premium Arabica coffee beans grown in the volcanic soil",
+          "Vibrant agricultural export sector led by beautiful cut flowers and bananas",
+          "Expanding tech hubs, service sectors, and green tourism markets"
+        ],
+        "text": "Colombia possesses one of the largest economies in South America, traditionally supported by oil, coal, and mineral exports. It is the world's leading producer of premium mild Arabica coffee, grown across the volcanic slopes of the Coffee Triangle (Eje Cafetero).\n\nAdditionally, the country is a massive exporter of cut flowers (especially to North America) and is developing strong software and tech industries in major cities."
+      },
+      "zh": {
+        "list": [
+          "穩居南美洲第四大、最具經濟韌性的核心經濟體之一，實行全面開放的自由市場體制",
+          "大宗原油、高品質低硫原煤與稀有寶石（盛產全球 60% 以上的頂級綠寶石）的出口強國",
+          "全球溫和阿拉比卡（Arabica）水洗咖啡豆的無冕之王，農業技術與產量威震全球",
+          "精緻園藝花卉外銷體系龐大，鮮切花出口量高居全球第二位，僅次於花卉王國荷蘭"
+        ],
+        "text": "哥倫比亞是南美洲舉足輕重的核心經濟體之一，傳統上其財政與外匯高度仰賴原油、化石能源以及各類高價值礦產的出口。然而，哥倫比亞最為全球市場所熟知的仍是其不可動搖的農業王牌——它是全球高品質水洗阿拉比卡咖啡豆的第一大出產國，這類高品質咖啡豆廣泛種植於安地斯山脈肥沃火山灰覆蓋的「咖啡三角地帶（Eje Cafetero）」，全靠手工採摘。此外，哥倫比亞的現代化服務業轉型進展驚人，麥德林與波哥大等大型城市近年來積極全面推動軟體資訊外包（IT Outsourcing）、數位科技新創、電子支付以及綠色生態觀光產業，成功擺脫了對傳統資源型經濟的過度依賴，經濟結構日益多元健全。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Democratic presidential republic with a central administration system",
+          "President serves as head of state and leads the national cabinet",
+          "Ongoing national focus on peace treaties and reducing armed conflict",
+          "Strong diplomatic presence in the Andean and Caribbean trading zones"
+        ],
+        "text": "Colombia is a presidential republic. The President is elected by popular vote to serve as both head of state and head of government. \n\nFollowing the historic 2016 peace agreement, the country has focused on national reconciliation, political inclusion, and expanding state infrastructure to rural areas that were previously affected by armed conflict."
+      },
+      "zh": {
+        "list": [
+          "實行成熟、依法平穩運行的三權分立民主總統共和制政體，憲政歷史悠久",
+          "總統為民選最高國家元首暨中央政府首腦，統率國家武裝力量與內閣部會",
+          "自 2016 年和平協議簽署以來，內政全面聚焦於民族和解、偏遠農村基礎建設與法治擴展",
+          "拉美外交的重要博弈者，與中美洲、加勒比海共同體及安地斯國家維持深厚條約聯盟"
+        ],
+        "text": "哥倫比亞（Colombia）是拉丁美洲民主憲政傳統最為悠久的國家之一，其實行三權分立的民主總統共和制體制。最高行政權力由全民直選的總統總攬，每屆任期 4 年，不得連任。立法權則歸屬於由參議院與眾議院構成的哥倫比亞國民議會（Congress）。在經歷了長達半個世紀的內部武裝衝突陰霾後，自 2016 年中央政府與前左翼武裝游擊隊（FARC）簽署具有劃時代意義的歷史性和平協議以來，現階段哥倫比亞的政治核心全力轉向社會全面和解、政治體制包容性擴大，並積極將現代化公共水電、道路與教育等基礎建設，深入推廣延伸至過去深受衝突影響的偏遠農村與雨林大區，展現出強韌的民主憲政自我修正能力。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Rapidly modernizing urban life alongside historic rural farming communities",
+          "Medellín serves as a globally recognized model for smart urban renewal",
+          "Continuing efforts to reduce poverty and upgrade schools in mountain areas",
+          "Highly energetic young population driving local tech startups and arts"
+        ],
+        "text": "Colombian society is defined by resilience, warmth, and a strong sense of community. Major cities like Medellín have transformed into clean, innovative centers, using public cable cars and parks to integrate poorer neighborhoods.\n\nWhile urban centers thrive with modern businesses, the government is working to improve roads, healthcare, and schools in remote farming districts."
+      },
+      "zh": {
+        "list": [
+          "都會區科技繁榮、前衛時尚，與保留著西班牙與印第安古老農耕傳統的鄉村交相輝映",
+          "第二大城麥德林（Medellín）成功實現史詩級轉型，高居全球永續智慧都市更新的教科書範典",
+          "社會政策與國際資本全面合作，旨在消弭歷史遺留的貧富差距，普及山區公共教育與醫療",
+          "年輕人口結構極具動態優勢，為文創、當代藝術與數位經濟科技新創注入源源不絕的靈魂"
+        ],
+        "text": "哥倫比亞社會展現出極強的生命韌性（Resilience）、熱情好客以及深厚的集體凝聚力。過去不光彩的歷史標籤早已被當今生機蓬勃的現代化社會所撕下。其大型城市近年經歷了脫胎換骨的更新改造，例如第二大城麥德林（Medellín）透過興建高空大眾公共纜車系統（Metrocable）、建置扶梯公園與大型社區圖書館，成功打破了地理與社會階層的隔離，將昔日貧困的山城邊緣社區與中心商業區緊密連結，榮獲聯合國與國際社會推崇的永續都市更新典範。儘管都市圈商業繁榮、中產階層迅速壯大，但政府部門目前仍全力透過各類社會福利轉移支付，翻修偏遠山區農業帶的交通、普及基礎醫療與雙語公共學校，以期逐步收窄城鄉發展的天平差距。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "Heartland of salsa, vallenato, reggaeton, and Latin pop rhythms",
+          "Birthplace of Nobel laureate Gabriel García Márquez and magic realism",
+          "Colorful traditions centered around regional carnivals and flower parades",
+          "Deep coffee appreciation integrated into daily social gatherings"
+        ],
+        "text": "Colombia has a remarkably rich cultural footprint. In literature, Gabriel García Márquez's masterpiece 'One Hundred Years of Solitude' introduced magic realism to the world. \n\nIn music, the country is a global powerhouse of Latin rhythms like Cumbia, Vallenato, and Salsa, while cities like Barranquilla host spectacular yearly carnivals that showcase Afro-Colombian dance and costume."
+      },
+      "zh": {
+        "list": [
+          "拉丁美洲當之無愧的流行與傳統文化發電廠，擁有無與倫比的音樂與文學軟實力輸出",
+          "不朽文豪加西亞·馬奎斯的故鄉，開創了風靡全球文壇、震撼人類心靈的魔幻寫實主義文學",
+          "拉美節奏的超級核心，孕育了昆比亞（Cumbia）、瓦亞納托（Vallenato）並引領當代薩爾薩潮流",
+          "北部巴蘭幾亞狂歡節高居聯合國非物質文化遺產，將非洲裔舞動、西班牙宗教與本土美學熔於一爐"
+        ],
+        "text": "哥倫比亞的文化渲染力在全球文壇與樂壇皆擁有舉足輕重的黃金地位。在文學範疇，諾貝爾文學獎得主加布列·加西亞·馬奎斯（Gabriel García Márquez）的跨時代神作《百年孤寂》，完美將這片土地的歷史血淚、內戰回憶與家族傳奇融入魔幻寫實主義，讓名為「馬貢多」的村落成為人類精神地標；在音樂層面，該國是拉美流行節奏的絕對心臟，不僅傳統的昆比亞（Cumbia）和瓦亞納托（Vallenato）手風琴旋律扣人心弦，卡利（Cali）更被譽為「世界薩爾薩舞之都」。當代流行音樂領域同樣巨星雲集（如夏奇拉、J Balvin、馬路馬等），全面制霸全球樂壇。每年在北方舉辦的巴蘭幾亞狂歡節（Barranquilla Carnival），街頭萬人空巷、鼓聲震天，盡顯非洲裔與原住民交織的文化狂熱，向世界展示著哥倫比亞斑斕的文化面孔。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Eliminating illicit drug trafficking networks and rural security issues",
+          "Reducing historical income inequality and regional development gaps",
+          "Protecting the Amazon Rainforest from illegal logging and farming",
+          "Managing migration and border flows in the northern corridor"
+        ],
+        "text": "Colombia's primary challenges include combatting illegal drug trafficking and ensuring security in remote rural areas. \n\nEnvironmental protection is also a major focus, as the government works to halt deforestation in the Amazon basin, while implementing social programs to reduce poverty and narrow the wealth gap between cities and the countryside."
+      },
+      "zh": {
+        "list": [
+          "徹底根除偏遠山區與雨林邊境的非法毒品走私網絡，全面鞏固國家長治久安的公共安全治理",
+          "持續消弭歷史遺留的結構性貧富差距，加大對安地斯山區及農村的基礎建設與教育資本投入",
+          "落實綠色生態主權，嚴厲打擊亞馬遜盆地深處的非法砍伐、非法金礦開採與過度農牧擴張",
+          "承擔鄰國人道主義危機引發的數百萬跨國移民湧入壓力，全面調度公共醫療與邊境管理財政"
+        ],
+        "text": "哥倫比亞在邁向現代化長治久安的進程中，仍需克服深刻的歷史與結構性難題。儘管整體國家安全與各大都會區治安在過去二十年間已得到史詩級的改善，但如何徹底消滅偏遠、法律邊緣地帶的非法毒品販運網絡與武裝犯罪集團，依然是中央政府國防安全的重大考驗。在生態方面，作為全球氣候談判的綠色先鋒，如何有效遏止亞馬遜盆地（Amazon basin）深處的非法林木砍伐，並引導當地農民轉向永續農業，是政府的核心方針；此外，近年來因鄰國政經危機導致的數百萬跨國移民湧入，也為哥倫比亞的公共醫療、教育體系與財政赤字帶來了長期的調度與融合挑戰。這頭安地斯巨象正透過體制改革，在動態博弈中穩步前進。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Bogotá — Capital metropolis featuring historic churches and gold museums",
+          "Medellín — Innovative valley city famous for clean transport and spring climate",
+          "Cartagena — Beautiful Caribbean port enclosed by colonial stone walls",
+          "Tayrona — Coastal reserve where jungle slopes meet sandy Caribbean bays"
+        ],
+        "text": "Bogotá boasts the historic La Candelaria district and the famous Gold Museum (Museo del Oro). Cartagena is a UNESCO gem, preserving massive stone walls built to defend against pirates.\n\nMedellín is known as the 'City of Eternal Spring', while Tayrona National Natural Park features beautiful beaches surrounded by wild coastal jungles."
+      },
+      "zh": {
+        "list": [
+          "波哥大（Bogotá）—— 歷史坎德拉里亞老城與世界第一黃金博物館交織的高原政治文化心臟",
+          "麥德林（Medellín）—— 坐落於群山谷地中的「永恆春城」，以創新大眾纜車與現代科技園區聞名全球",
+          "卡塔赫納（Cartagena）—— 聯合國教科文組織世界文化遺產，完好保留西班牙帝國防禦海盜的宏偉石牆古城",
+          "泰羅納國家公園（Tayrona）—— 內華達聖山翠綠叢林直接切入湛藍加勒比海黃金沙灘的原始生態奇蹟"
+        ],
+        "text": "哥倫比亞的景觀與地標是自然鬼斧神工與豐富歷史層積的極致交響。海濱都城卡塔赫納（Cartagena）是一座名列聯合國教科文組織（UNESCO）世界遺產的加勒比海明珠，完好保留了高大雄偉的西班牙帝國防禦石牆與聖費利佩城堡，城內盡是鋪滿鮮花的斑斕殖民式木窗陽台與鵝卵石廣場，散發著浓郁的《愛在瘟疫蔓延時》文學氣息；首都波哥大（Bogotá）的黃金博物館（Museo del Oro）則珍藏著數萬件精美絕倫的前哥倫比亞時期原住民黃金工藝品與神聖的穆伊斯卡黃金筏。若深入自然，北方的泰羅納國家自然公園（Tayrona）則展現了安地斯山岳叢林斜坡直接切入湛藍加勒比海沙灘的原始震撼生態；而安地斯山谷中的鹽大教堂（Salt Cathedral of Zipaquirá）更是一座在地下 200 公尺深岩鹽礦坑中雕刻出的宏偉地下教堂，開創了人類工程與宗教美學的奇蹟。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "Major diplomatic voice in South America and the Caribbean basin",
+          "Maintains close strategic security and trade relations with the US",
+          "Key member of the Andean Community and Pacific Alliance networks",
+          "Advocate for global climate action and biodiversity protection"
+        ],
+        "text": "Colombia plays a central diplomatic role in Latin America. It maintains strong security and trade ties with the United States and was the first Latin American country to become a NATO Global Partner.\n\nIt is also a key member of the Pacific Alliance and the Andean Community, promoting open trade and regional climate initiatives."
+      },
+      "zh": {
+        "list": [
+          "南美洲與加勒比海盆地無可替代的外交中樞博弈者，堅定支持全球多邊治理主義與和平外交",
+          "與美國維持著極其深厚、跨越數十年的「全方位戰略安全夥伴關係」與反毒反恐同盟",
+          "拉丁美洲第一個、也是唯一一個榮獲北大西洋公約組織（NATO）官方認證的「全球合作夥伴（Global Partner）」",
+          "安地斯共同體（Andean Community）與太平洋聯盟（Pacific Alliance）的創始中流砥柱，極力推動市場自由化"
+        ],
+        "text": "哥倫比亞（Colombia）在南美洲與加勒比海地緣政治版圖上扮演著核心外交樞紐角色。其外交部以專業、溫和且恪守國際法體系而享有盛譽。它是美國在南美大陸最堅實的戰略盟友，雙方簽署了高層級的自由貿易協定（FTA），並在長期合作中全面升級了哥倫比亞的國防現代化體系。更具指標性的是，它是拉美首個與北約（NATO）締結全球合作夥伴關係的主權國家。在區域整合層面，哥倫比亞積極與墨西哥、秘魯、智利聯手推動太平洋聯盟（Pacific Alliance）的商品與資本高效互通，並在全球氣候變遷大會、聯合國生物多樣性大會中，憑藉自身的亞馬遜與高山荒原生態主權，發揮著關鍵的「綠色外交」號召力與全球南方領導力。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Bilateral trade centered on Taiwanese electronics and Colombian coffee",
+          "Taipei Economic Office in Bogotá supports local business relations",
+          "Growing imports of high-quality Colombian coffee beans to Taiwan",
+          "Academic and cultural scholarships for Colombian university students"
+        ],
+        "text": "Taiwan and Colombia maintain active non-official trade relations. Taiwan exports electronics, auto parts, and machinery to Colombia, while importing premium Colombian coffee, petrochemicals, and coal.\n\nBilateral relations are supported by the Taipei Commercial Office in Bogotá, alongside academic exchanges and growing interest in Colombian coffee culture in Taiwan."
+      },
+      "zh": {
+        "list": [
+          "雙邊經貿與大宗商品貿易關係基礎穩固且結構高度互補，在半導體與高端農業領域密切對接",
+          "台灣是哥倫比亞優質化石原煤、化學工業原料以及頂級單一產區阿拉比卡咖啡豆的核心進口市場",
+          "台灣製造的半導體資通訊電子產品、高階汽車零組件與自動化工具機，高比例暢銷哥國都會市場",
+          "透過互設的非官方商務辦事處緊密推動實質商務考察、教育獎學金互換及魔幻寫實文創產業交流"
+        ],
+        "text": "哥倫比亞與台灣之間維持著長期穩定、務實互利且高度互補的非官方實質經貿與文化教育夥伴關係。哥倫比亞是台灣精品級阿拉比卡咖啡豆、高級化學工業原料以及工業優質原煤的重要供應國；而台灣則向哥倫比亞市場大量外銷精密半導體資通訊產品、高階汽車零組件、自動化工具機與電子零件。兩國透過設立於首都的「駐哥倫比亞台北商務辦事處」緊密對接兩國企業的商務考察與雙邊投資對話。此外，台灣政府與學術界長年提供高等教育獎學金，吸引優秀哥倫比亞青年學子赴台研習半導體科技、智慧農業與中文；隨著台灣人對第三波精品咖啡文化與中南美洲魔幻寫實文史的熱愛，前往波哥大老城、咖啡三角帶與麥德林觀光與商務考察的台灣旅客正逐年穩定成長，民間互動展現出強韌的動態活力。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "A globally celebrated producer of high-grade mild Arabica coffee",
+          "One of the planet's absolute leaders in biological and plant diversity",
+          "Simultaneous coastlines on the Pacific Ocean and Caribbean Sea",
+          "The birthplace of magic realism and Nobel laureate Gabriel García Márquez"
+        ]
+      },
+      "zh": {
+        "list": [
+          "世界首屈一指的高端溫和水洗阿拉比卡咖啡生產與標準形塑國，手工採摘品質卓越",
+          "高居全球第二的「超級生物多樣性」生態大國，鳥類與蘭花品種總量冠絕地表",
+          "南美大陸極其罕見同時坐擁大西洋加勒比海與太平洋蔚藍雙海岸線的戰略海洋國家",
+          "世界文學不朽圖騰魔幻寫實主義的誕生聖地，孕育了偉大文豪加西亞·馬奎斯"
+        ]
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": "哥倫比亞披索（Colombian Peso / COP / $，拉丁美洲最具金融防禦力、匯率政策健全且流動性良好的新興市場骨幹貨幣之一）"
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "Spanish",
+        "zh": "西班牙語（Spanish，哥倫比亞西班牙語以其發音清晰、語速適中且用詞典雅著稱，被譽為全球學習西語的最佳典範區域方言）"
+      }
+    },
+    {
+      "label": "GDP (nom.)",
+      "value": "$360B"
+    },
+    {
+      "label": "Time zone",
+      "value": "UTC-5（全國上下全年實行單一標準時間，無日光節約時間調整，與美東標準時間 EST 完全同步）"
+    },
+    {
+      "label": "Calling code",
+      "value": "+57"
+    },
+    {
+      "label": "ISO code",
+      "value": "CO / COL"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🇨🇴",
+      "text": {
+        "en": "The Tricolor Flag — The yellow, blue, and red flag, where the double-width yellow stripe represents gold, justice, and the sovereignty of the nation",
+        "zh": "三色國旗——黃、藍、紅的三橫條旗，其中最上方雙倍寬度的黃色象徵豐饒黃金、國家主權與正義，藍色代表兩大洋與晴空，紅色象徵爭取獨立灑下的烈士熱血"
+      }
+    },
+    {
+      "icon": "☕",
+      "text": {
+        "en": "Arabica Coffee Triangle — The volcanic mountain farms producing exceptionally mild Arabica beans, harvested by hand across the misty Andes slopes",
+        "zh": "哥倫比亞安地斯咖啡——座落於安地斯高海拔火山山麓的咖啡三角地帶（Eje Cafetero），出產世界最頂級、風味溫和的水洗阿拉比卡咖啡豆，全靠手工採摘，獲歐盟地理標誌保護"
+      }
+    },
+    {
+      "icon": "🦋",
+      "text": {
+        "en": "Megadiverse Ecology — Home to more bird and orchid species than any other country, spanning tropical rain forests and high mountain cloud forests",
+        "zh": "全球生物多樣性天堂——地表上生物多樣性最富饒的超級核心國之一，其鳥類（近 2,000 種）與蘭花品種數量穩居世界第一位，跨越亞馬遜、太平洋及安地斯垂直生態圈"
+      }
+    },
+    {
+      "icon": "📖",
+      "text": {
+        "en": "Magic Realism Birthplace — Inspiring Gabriel García Márquez's literary classic One Hundred Years of Solitude, deeply rooted in local history",
+        "zh": "魔幻寫實文學發源地——這片充滿傳奇的土地孕育了諾貝爾文學獎得主馬奎斯（Gabriel García Márquez），其名著《百年孤寂》將本土歷史血淚幻化為風靡全球的「魔幻寫實主義」"
+      }
+    },
+    {
+      "icon": "🏰",
+      "text": {
+        "en": "Cartagena Colonial Forts — The beautiful 16th-century Caribbean walled city, featuring massive stone ramparts and colorful colonial plazas",
+        "zh": "加勒比海港口城堡防線——聯合國教科文組織世界文化遺產卡塔赫納（Cartagena），保留了16世紀西班牙帝國為抵禦海盜修築的宏偉石牆與古堡，是美洲保存最完好的殖民古城"
+      }
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/120004",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=-79.0%2C-4.5%2C-67.0%2C13.0&layer=mapnik"
+}

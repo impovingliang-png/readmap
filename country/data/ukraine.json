@@ -1,0 +1,353 @@
+{
+  "name": {
+    "en": "Ukraine",
+    "zh": "烏克蘭"
+  },
+  "nativeName": "Україна",
+  "capital": {
+    "en": "Kyiv",
+    "zh": "基輔"
+  },
+  "population": "33M",
+  "area": "603,628 km²",
+  "density": "55/km²",
+  "continent": "Europe",
+  "flagEmoji": "🇺🇦",
+  "dataEstYear": 2025,
+  "description": {
+    "en": "Ukraine is a large country situated in Eastern Europe, bordered by Poland, Slovakia, and Romania to the west, Russia to the east, and facing the Black Sea to the south. Renowned for its vast plains, crucial agricultural production capabilities, and deep Eastern European history and culture, Ukraine has also drawn intense global attention due to recent war and geopolitical conflicts.",
+    "zh": "Ukraine是位於東歐的大型國家，西接波蘭（Poland）、斯洛伐克（Slovakia）與羅馬尼亞（Romania），東鄰俄羅斯（Russia），南方面向黑海（Black Sea）。烏克蘭以廣袤無垠的平原、舉足輕重的全球農業生產能力以及深厚的東歐歷史文化底蘊聞名，近年亦因地緣政治衝突與戰火波及而受到全球的高度關注。"
+  },
+  "seoText": {
+    "en": "Explore quick facts about Ukraine — population, land area, capital city, and a short overview. Learn about Ukraine's black soils, the Carpathian Mountains, Kyiv Pechersk Lavra, European integration, and agricultural supply chain impact.",
+    "zh": "快速了解烏克蘭的基本資料：人口、面積、首都與簡短概述。探索烏克蘭肥沃的黑土地、歐洲糧倉地位、基輔聖索菲亞大教堂、西方外交與歐盟整合進程以及近年戰爭與重建議題。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Strategically positioned at a pivotal geopolitical crossroad in Eastern Europe",
+          "One of the largest sovereign countries by land area within Europe",
+          "A major agricultural powerhouse exporting grain to the global market",
+          "Ongoing conflict with Russia profoundly reshaping international relations"
+        ],
+        "text": "Ukraine has a long history heavily influenced by surrounding regional powers, including the Russian Empire, the Polish-Lithuanian Commonwealth, and the Ottoman Empire. In 1991, following the collapse of the Soviet Union, Ukraine achieved formal independence and progressively established its sovereign democratic framework.\n\nIn recent years, the full-scale conflict with Russia has dramatically transformed its national security, economy, and foreign diplomacy, while firmly anchoring its integration with the European Union and Western democratic alliances."
+      },
+      "zh": {
+        "list": [
+          "位於東歐的重要戰略位置",
+          "歐洲面積最大的主權國家之一",
+          "全球重要糧食出口國",
+          "與Russia衝突持續影響國際局勢"
+        ],
+        "text": "烏克蘭擁有漫長的歷史，長年受到周邊區域強權的深刻交織影響，包含俄羅斯帝國、波蘭立陶宛聯邦（Polish-Lithuanian Commonwealth）與鄂圖曼帝國（Ottoman Empire）。1991 年隨著蘇聯解體，烏克蘭（Ukraine）正式宣布獨立，並逐步確立其主權民主國家的體制。近年來，與俄羅斯（Russia）爆發的全面性衝突劇烈地改變了其國家安全、經濟體系與外交方針，同時也讓烏克蘭更堅定地深化與歐洲聯盟（European Union）及西方民主陣營（Western countries）的全面整合與戰略合作。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Landscape predominantly characterized by sprawling fertile plains",
+          "Home to exceptionally rich agricultural black soils (Chernozem)",
+          "Flanked by the strategic shores of the Black Sea to the south",
+          "Donbas industrial region holds historical manufacturing significance"
+        ],
+        "text": "Covering approximately 600,000 square kilometers, Ukraine stands as one of the largest sovereign states by land area in Europe (excluding Russia). \n\nThe geography is dominated by the sprawling East European Plain, possessing highly fertile Chernozem (black soil), which has earned Ukraine the global title of the 'Breadbasket of Europe'. The Carpathian Mountains define its western border, while the eastern Donbas historically serves as a crucial mining and industrial base. The Dnipro River flows through Kyiv, bisecting the country's heartland."
+      },
+      "zh": {
+        "list": [
+          "地形以平原為主",
+          "黑土地資源豐富",
+          "南部臨Black Sea",
+          "東部工業區歷史重要"
+        ],
+        "text": "烏克蘭國土面積約 60 萬平方公里，若不將俄羅斯（Russia）納入計算，是全歐洲土地面積最大的主權國家。其地理景觀由無邊無際的東歐大平原所主導，境內富含極其肥沃的黑鈣土層（Chernozem），因而為其贏得了「歐洲糧倉」的全球美譽。喀爾巴阡山脈（Carpathian Mountains）勾勒出其西部邊疆，而東部的頓巴斯（Donbas）地區在歷史上則是至關重要的煤礦與鋼鐵重工業基地。浩瀚的第聶伯河（Dnieper River）流經首都基輔（Kyiv），由北向南將烏克蘭的心臟地帶一分為二。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Primarily classified as a temperate continental climate",
+          "Cold, snow-laden winter seasons",
+          "Warm, sun-filled summer seasons",
+          "Milder and highly favorable maritime conditions along the southern coast"
+        ],
+        "text": "Ukraine features a distinct continental climate, where winters are cold with consistent snowfall in the north and east, and summers are warm and sunny. \n\nThe southern Black Sea coastal regions enjoy milder winter temperatures and longer agricultural growing windows. These optimal seasonal conditions make Ukraine a premier global producer of wheat, barley, maize, and sunflower seeds."
+      },
+      "zh": {
+        "list": [
+          "屬溫帶大陸性氣候",
+          "冬季寒冷",
+          "夏季溫暖",
+          "南部沿海較溫和"
+        ],
+        "text": "烏克蘭氣候屬於典型的溫帶大陸性氣候，四季分明。北部與東部地區的冬季寒冷且常伴隨持續的暴雪，夏季則相對溫暖且陽光普照。與此同時，南方的黑海（Black Sea）沿岸地區享有較為溫和的海洋性調節，冬季氣候適意且擁有更長的農作物生長週期。這些優渥的季節與日照條件，使烏克蘭成為全球小麥、大麥、玉米以及葵花籽油的頂尖生產與出口國。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Population of approximately 30+ million",
+          "Vast demographic displacement and outward migration due to conflict",
+          "Highly urbanized concentration across metropolitan networks",
+          "Predominantly ethnic Ukrainian majority population"
+        ],
+        "text": "Prior to the war, Ukraine's population exceeded 40 million, but recent conflicts have forced massive numbers of citizens to seek refuge abroad, triggering deep population drops.\n\nEthnic Ukrainians comprise the vast majority, with Ukrainian serving as the official language. The primary metropolitan corridors include Kyiv, Kharkiv, Dnipro, and the major southern port of Odesa."
+      },
+      "zh": {
+        "list": [
+          "人口約 3,000 多萬",
+          "戰爭造成大量人口外移",
+          "城市化程度高",
+          "民族以烏克蘭人為主"
+        ],
+        "text": "在衝突爆發前，烏克蘭全國人口超過 4,000 萬，但近年來因地緣政治戰火導致大規模的國際難民外移與境內流離失所，常住人口下降至約 3,300 萬人。在族群構成方面，烏克蘭族（Ukrainians）佔絕對多數，比例約為 77.8%；境內最大的少數族群為俄羅斯族（Russians），約佔總人口的 17.3%（多數集中在東部與南部沿海地區）；其餘少數民族合計約佔 4.9%，包含白俄羅斯族（0.6%）、摩爾多瓦族（0.5%）、克里米亞韃靼人（0.5%）以及保加利亞、匈牙利和波蘭裔等邊境少數群體。官方語言為烏克蘭語（Ukrainian）。人口高度集中於發達的都會區，其中首都基輔（Kyiv）、哈爾科夫（Kharkiv）、第聶伯羅（Dnipro）以及南部最大第一港埠敖德薩（Odesa）組成了全國最重要的核心城市網路。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "Tremendous agricultural export capacity in grains and oils",
+          "Substantial industrial manufacturing and heavy metallurgical bases",
+          "Highly competitive IT outsourcing and digital service growth",
+          "Economic framework heavily disrupted and impacted by ongoing war"
+        ],
+        "text": "Ukraine's economy is highly dependent on agricultural exports, leading global markets in wheat, barley, corn, and sunflower oil. The eastern districts historically hosted extensive coal mining and heavy metallurgical plants, though these have suffered severe war damage.\n\nEncouragingly, its highly educated IT outsourcing and tech services sectors have grown rapidly, representing a major new economic bright spot. The country currently relies heavily on international aid and reconstruction planning to revive industrial networks."
+      },
+      "zh": {
+        "list": [
+          "農業出口能力強",
+          "工業與能源產業重要",
+          "IT與科技服務快速成長",
+          "戰爭對經濟造成巨大衝擊"
+        ],
+        "text": "烏克蘭的經濟命脈高度仰賴發達的農業出口，其小麥、玉米、大麥與葵花籽油在全球大宗物資市場擁有舉足輕重的定價影響力。歷史上，東部各州坐擁龐大的煤礦與鋼鐵重工業冶煉基地，但在近年戰火中承受了極為嚴重的毀滅性破壞。令人振奮的是，其擁有高教育水準的 IT 外包服務與數位科技產業近年異軍突起、成長極為迅猛，成為國家新興的經濟亮點。目前該國高度仰賴國際社會的財政財政與復原援助，並已全面啟動中長期的國家重建規劃，期盼逐步復原全國的產業與交通基礎網路。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Governed under a semi-presidential representative democratic system",
+          "Dynamic multi-party legislative democracy",
+          "Divided administratively into provinces (Oblasts)",
+          "Strong national focus toward European integration"
+        ],
+        "text": "Ukraine operates under a semi-presidential republic, where administrative power is shared between the President and the Prime Minister. Legislative authority is held by the unicameral parliament, the Verkhovna Rada.\n\nSince 2014, the state has actively accelerated political, judicial, and anti-corruption reforms, aligning its legal standards to qualify for membership in the European Union (EU) and North Atlantic Treaty Organization (NATO)."
+      },
+      "zh": {
+        "list": [
+          "半總統制共和國",
+          "採多黨民主制度",
+          "分為多個州與自治區",
+          "歐洲整合方向明顯"
+        ],
+        "text": "烏克蘭政治體制採行半總統制共和國，行政權力由經全民直選的總統與總理內閣共同分掌。國家最高立法機關為一院制的烏克蘭國會——最高拉達（Verkhovna Rada）。自 2014 年尊嚴革命後，國家體制加速朝西方靠攏，大刀闊斧推動了政治、司法與反貪腐法制改革，致力對齊國際法治標準，以期能正式取得歐洲聯盟（EU）與北約（NATO）的成員國席位。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Exceedingly high basic literacy and educational achievements",
+          "Rich pool of highly skilled tech and engineering graduates",
+          "Daily life heavily affected by wartime displacement and disruptions",
+          "Remarkable surge in national identity and civic cohesion"
+        ],
+        "text": "Ukraine possesses strong traditions in science, engineering, and computer science. The challenges of wartime have deeply affected daily life, causing power grid damages, heating issues, and massive internally displaced movements.\n\nIn spite of these hardships, the crisis has profoundly unified Ukrainian society, fostering an unprecedented surge in national pride, voluntary defense initiatives, and civic solidarity."
+      },
+      "zh": {
+        "list": [
+          "教育普及率高",
+          "科技與工程人才眾多",
+          "戰爭深刻改變社會生活",
+          "民族認同感近年明顯提升"
+        ],
+        "text": "烏克蘭繼承了深厚的科學、高等工程與計算機科學的理工培育傳統。戰火的考驗對全體國民的日常生活帶來了巨大的衝擊，如電網受損導致的輪流斷電、冬季供暖中斷以及數百萬人在國內顛沛流離。然而，在這段艱難歲月中，空前的危機反而空前地凝聚了整個烏克蘭社會，激發出了前所未有的強烈愛國情操、志願防衛軍事行動以及民間互助的堅韌公民團結力。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "Distinctive representative of Eastern Slavic traditions",
+          "Profoundly rich heritage in classical literature and music",
+          "Strong influence of Eastern Orthodox Christianity",
+          "Bright traditional embroidery and folklore symbols"
+        ],
+        "text": "Ukraine's cultural heritage blends traditional Eastern Slavic customs with Western European architectural and literary styles. The classic embroidered tunic, Vyshyvanka, is cherished as a vibrant symbol of national identity.\n\nEastern Orthodox Christianity is the dominant spiritual force, shaping national holidays, folklore rituals, and historical architectural marvels like Kyiv's historic cathedrals."
+      },
+      "zh": {
+        "list": [
+          "東歐斯拉夫文化代表之一",
+          "文學與音樂傳統深厚",
+          "東正教文化影響明顯",
+          "民族服飾與民俗特色鮮明"
+        ],
+        "text": "烏克蘭文化底蘊悠久，完美將古典東斯拉夫的傳統習俗與西歐的建築、文學美學風格融為一體。其經典的手工刺繡傳統服飾「Vyshyvanka」，不僅圖騰精美細緻，更被舉國視為國家主權與民族文化認同的驕傲徽章。在精神信仰上，東正教（Eastern Orthodox Christianity）是最主流的社會力量，深深形塑了國定假日、民俗儀式，並催生了如基輔境內眾多宏偉、帶有金色圓頂的歷史大教堂建築奇蹟。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Ongoing defense of sovereignty in the Russia-Ukraine War",
+          "Restoring territorial integrity and national borders",
+          "Monumental logistical and infrastructural reconstruction requirements",
+          "Securing formal integration into the EU and NATO"
+        ],
+        "text": "Since the 2014 annexation of Crimea and the full-scale conflict starting in 2022, defending territorial sovereignty remains the country's absolute focus.\n\nRebuilding heavily damaged highways, electrical grids, schools, and cities requires vast global investments. Accelerating integration and accession timelines with the European Union and NATO are central topics in current international diplomatic discussions."
+      },
+      "zh": {
+        "list": [
+          "Russia–Ukraine戰爭持續",
+          "國土與安全問題",
+          "基礎建設重建需求龐大",
+          "加入EU與NATO議題"
+        ],
+        "text": "自 2014 年克里米亞（Crimea）遭單方面吞併以及 2022 年爆發全面衝突以來，捍衛領土主權與恢復法定國家邊界，始終是烏克蘭（Ukraine）舉國上下的絕對焦點。當前，重建大面積受損的交通公路、國家骨幹電網、學校與城鎮，需要全球規模的龐大資本投資。如何加速推進加入歐洲聯盟（EU）與北約（NATO）的實質審查時程，則是現今國際外交地緣政治舞台上最核心的角力議題。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Kyiv — Historic capital adorned with ancient orthodox architecture",
+          "Kharkiv — Major eastern center of manufacturing and universities",
+          "Odesa — Leading historic port city on the Black Sea",
+          "Lviv — Charming western cultural capital filled with European aesthetics"
+        ],
+        "text": "Kyiv is home to UNESCO World Heritage treasures like Saint Sophia Cathedral and the Kyiv Pechersk Lavra cave monastery. Odesa acts as a legendary harbor gateway and maritime commercial trade hub.\n\nThe western city of Lviv stands as a beautiful cultural gem, boasting remarkably preserved Central European architecture, cobblestone alleys, and a legendary, historic coffee house culture."
+      },
+      "zh": {
+        "list": [
+          "Kyiv——首都與歷史中心",
+          "Kharkiv——東部重要工業城市",
+          "Odesa——Black Sea重要港口",
+          "Lviv——西部文化古城"
+        ],
+        "text": "首都基輔（Kyiv）建城超過千年，是東歐文明的搖籃，坐擁聖索菲亞大教堂（Saint Sophia Cathedral）與基輔洞窟修道院（Kyiv Pechersk Lavra）等名列聯合國教科文組織（UNESCO）世界遺產的宗教建築瑰寶。南方的敖德薩（Odesa）則是黑海（Black Sea）沿岸傳奇的港口樞紐與海上商業貿易大門。而位於西部的利維夫（Lviv）則是一座如詩如畫的文化明珠，完美留存了大量融合文藝復興與巴洛克風格的中歐經典建築，縱橫交錯的鵝卵石小巷與其底蘊深厚的百年咖啡館文化，令其享譽歐洲。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "Rapidly deepening security and economic integration with Western allies",
+          "Recipient of historic scales of global defensive and humanitarian aid",
+          "Complete adversarial confrontation with the Russian Federation",
+          "Acts as a central focus of contemporary European security"
+        ],
+        "text": "Ukraine's geopolitical relationship has profoundly shifted, solidifying extremely close defensive and economic alignments with the United States, United Kingdom, and the European Union.\n\nIt is the recipient of unprecedented economic and humanitarian aid. Relations with Russia remain completely severed, with the outcome of the war serving as a core factor in future security architectures in Europe."
+      },
+      "zh": {
+        "list": [
+          "與Western countries合作深化",
+          "接受大量國際援助",
+          "與Russia關係敵對",
+          "歐洲安全核心議題之一"
+        ],
+        "text": "烏克蘭（Ukraine）的國際地緣關係已發生了顛覆性的結構轉變，牢固地與美國（United States）、英國及歐洲聯盟（European Union）結成了極為緊密的國防防務與經濟同盟。作為世紀安全焦點，它持續接受著歷史規模的軍事、財政與人道主義援助。與俄羅斯之間的關係目前處於全面決裂與對抗狀態，這場衝突的最終走向，將直接決定整個歐洲（Europe）未來數十年國防架構的安全藍圖。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Stable non-official relations based on democratic solidarity",
+          "Active humanitarian support and NGO aid projects",
+          "Expanding public sympathy and voluntary cultural exchanges",
+          "Steady growth in academic and civic discussions"
+        ],
+        "text": "Although Ukraine and Taiwan do not share official diplomatic ties, their relations have grown warm through shared democratic values and resilience.\n\nTaiwan's government and civic NGOs have dispatched substantial medical, reconstruction, and fiscal donations to Ukrainian cities. Academic dialogue, civic interactions, and mutual tech startup discussions continue to increase quietly."
+      },
+      "zh": {
+        "list": [
+          "雙方無正式外交關係",
+          "經貿與人道交流存在",
+          "台灣提供部分援助",
+          "科技與教育交流有限增加"
+        ],
+        "text": "烏克蘭與台灣之間雖然並無正式的外交關係，但基於對民主自由價值的共同堅守與面對地緣威脅時展現的強大社會韌性，雙方的民間實質情誼與非官方互動正迅速升溫。台灣政府與眾多民間非政府組織（NGOs）在衝突期間，已向烏克蘭多座城市與醫療前線提供了大量急需的醫療物資、基礎建設復原金流與民生援助；與此同時，兩國大專院校間的學術對話、公民社會的互訪以及高科技新創產業的合作探討，也在低調中穩健前行。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "Universally celebrated as the 'Breadbasket of Europe'",
+          "One of the world's absolute leading exporters of sunflower seed oil",
+          "Key geopolitical anchor nation in Eastern European security",
+          "Wartime disruptions profoundly impact global grain supply chains"
+        ]
+      },
+      "zh": {
+        "list": [
+          "有「歐洲糧倉」之稱",
+          "全球重要葵花油出口國",
+          "東歐地緣政治核心國家",
+          "戰爭對全球能源與糧食市場影響巨大"
+        ]
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": "Ukrainian Hryvnia (₴)"
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "Ukrainian",
+        "zh": "烏克蘭語"
+      }
+    },
+    {
+      "label": "GDP (nom.)",
+      "value": "$180B"
+    },
+    {
+      "label": "Time zone",
+      "value": "UTC+2 / UTC+3（夏令時間）"
+    },
+    {
+      "label": "Calling code",
+      "value": "+380"
+    },
+    {
+      "label": "ISO code",
+      "value": "UA / UKR"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "⛪",
+      "text": {
+        "en": "Saint Sophia Cathedral — The magnificent 11th-century Byzantine cathedral in Kyiv standing as a legendary UNESCO heritage",
+        "zh": "聖索菲亞大教堂——位於首都基輔的11世紀拜占庭風格傑作，擁有極其精美的古老壁畫，為登錄世界文化遺產的國寶"
+      }
+    },
+    {
+      "icon": "🌻",
+      "text": {
+        "en": "Sprawling Sunflower Fields — Sprawling golden fields representing Ukraine's national flower and world-leading oil exports",
+        "zh": "向日葵花田——綿延無際的金色花海，向日葵為烏克蘭的國花，其葵花籽油出口量居全球絕對領先地位"
+      }
+    },
+    {
+      "icon": "🧥",
+      "text": {
+        "en": "Vyshyvanka — The vibrant traditional Ukrainian embroidered linen tunic carrying profound cultural identity and pride",
+        "zh": "傳統刺繡衫（Vyshyvanka）——烏克蘭經典的手工刺繡傳統服飾，細緻花紋象徵護佑，為國家主權與民族文化認同的驕傲圖騰"
+      }
+    },
+    {
+      "icon": "☕",
+      "text": {
+        "en": "Lviv Historic Center — Charming Western European city renowned for cobble streets and legendary cafe cultures",
+        "zh": "利維夫歷史中心——西部文化重鎮，完整保存文藝復興與巴洛克式古城街區，並以深厚獨特的歐式咖啡文化享譽國際"
+      }
+    },
+    {
+      "icon": "🍲",
+      "text": {
+        "en": "Traditional Borscht — The iconic beetroot sour soup loaded with vegetables and meat defining the soul of Ukrainian food",
+        "zh": "烏克蘭紅甜菜湯（Borscht）——以甜菜根為主料，加入多種蔬菜與肉類慢火燉煮的紅湯，被列入聯合國非物質文化遺產的代表美食"
+      }
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/60199",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=22.0%2C44.0%2C40.2%2C52.5&layer=mapnik"
+}

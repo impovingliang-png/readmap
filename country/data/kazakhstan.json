@@ -1,0 +1,356 @@
+{
+  "name": {
+    "en": "Kazakhstan",
+    "zh": "哈薩克"
+  },
+  "nativeName": "Қазақстан",
+  "capital": {
+    "en": "Astana",
+    "zh": "阿斯塔納"
+  },
+  "population": "20.0M",
+  "area": "2,724,900 km²",
+  "density": "7/km²",
+  "continent": "Asia",
+  "flagEmoji": "🇰🇿",
+  "dataEstYear": 2025,
+  "description": {
+    "en": "Kazakhstan is a landlocked country in Central Asia, bordering Russia to the north, China to the east, and Uzbekistan and Kyrgyzstan to the south, with shores on the Caspian Sea to the west. It is the world’s largest landlocked country and the largest by area in Central Asia. With vast steppes and deserts, major oil, gas, and mineral resources, and a strategic position linking Europe and Asia, Kazakhstan plays an important role in Eurasian trade and geopolitics. Astana is the capital, while Almaty is the largest city and a major economic and cultural center.",
+    "zh": "Kazakhstan是橫跨歐亞兩洲、雄踞中亞核心的頭號地緣巨擘，西瀕裏海（Caspian Sea），北與俄羅斯（Russia）擁有一線相連的漫長邊界，東臨中國（China），南接烏茲別克（Uzbekistan）與吉爾吉斯（Kyrgyzstan）。作為全球面積最大的內陸國家，哈薩克以廣袤無垠的黃金草原、深厚底蘊的突厥遊牧文明，以及富甲天下的石油、天然氣與稀有金屬礦藏聞名於世。首都阿斯塔納（Astana）展現了未來主義的城市天際線，最大城市阿拉木圖（Almaty）則是跨國金融與多元文化的精華中樞。憑藉其得天獨厚的歐亞新陸橋咽喉定位，哈薩克在國際能源供應鏈、多邊外交博弈與跨境物流網絡中均扮演著舉足輕重的核心角色。"
+  },
+  "seoText": {
+    "en": "Explore quick facts about Kazakhstan — population, area, capital city, and a short overview. Discover Astana and Almaty, Caspian shores, steppe landscapes, major oil, gas, and uranium resources, Baikonur Cosmodrome, and Kazakhstan’s Eurasian transport role.",
+    "zh": "快速解鎖中東歐亞門戶哈薩克（Kazakhstan）最新基本資料：包含 2000 萬總人口數、國土面積、未來感首都阿斯塔納（Astana）與全方位深度國家概述。帶您深入探索最大金融中心阿拉木圖（Almaty）、裏海沿岸深水港、橫跨千里的廣袤草原地形、高居全球前列的石油天然氣與戰略鈾礦資源、歷史性的拜科努爾太空發射場（Baikonur Cosmodrome），以及哈薩克作為中歐班列新絲路陸運核心物流樞紐的全新地緣格局。"
+  },
+  "sections": {
+    "overview": {
+      "en": {
+        "list": [
+          "Core state of Central Asia and a key Eurasian bridge",
+          "The world’s largest landlocked country by area",
+          "Rich oil, gas, uranium, and mineral resources",
+          "Strategic corridor for rail and logistics between Europe and China"
+        ],
+        "text": "Kazakhstan’s scale and geography are defined by open steppe, arid zones, and long continental distances. Its resource base and transport corridors have helped make it a central player in Eurasian energy and trade networks."
+      },
+      "zh": {
+        "list": [
+          "中亞第一地緣強國，扼守歐亞大陸橋與現代陸路物流網絡的黃金十字路口",
+          "傲視全球的頂級內陸國家，以無與倫比的國土縱深構築起橫跨歐亞的戰略緩衝帶",
+          "地底蘊藏著驚人的黑金與戰略資源，是全球能源與核工業原材料供應鏈的壓艙石",
+          "歷史上大月氏、突厥等草原汗國的馳騁舞台，當代多元民族文化並存的世俗化典範"
+        ],
+        "text": "哈薩克（Kazakhstan）是中亞地區在經濟與政治層面最具主導地位的實力大國。這片遼闊的土地在地理上橫跨亞洲與東歐，將廣袤的西伯利亞大平原與乾燥的中亞盆地完美連接。歷史上的哈薩克曾是絲綢之路北線上遊牧民族遷徙與商貿交通的黃金過道，留下了底蘊深厚的突厥汗國印記。\n\n獨立以來，哈薩克成功跳脫了蘇聯時期的計劃經濟桎梏，依託龐大的資源红利實現了國力躍升。新舊首都阿斯塔納與阿拉木圖雙星閃耀，不僅是現代高科技與前衛建築的展示窗，更象徵著國家全面推進世俗化發展、推動產業高階轉型並深度融入全球多極化政治格局的堅定決心。"
+      }
+    },
+    "geography": {
+      "en": {
+        "list": [
+          "Located between Central Asia and Eastern Europe with Caspian shores",
+          "9th largest country in the world by area",
+          "Vast steppe and desert landscapes",
+          "Mountain regions in the southeast near Tian Shan and Altai"
+        ],
+        "text": "Kazakhstan spans enormous distances across Eurasian plains and semi-arid regions. The southeast approaches the Tian Shan and Altai ranges, while the north connects toward the broader West Siberian lowlands, reflecting a classic steppe-country geography."
+      },
+      "zh": {
+        "list": [
+          "橫跨歐亞兩大洲，西起裏海之濱，東抵阿爾泰山麓，國土橫跨長達數千公里",
+          "穩居全球第九大領土大國，廣袤的國土面積賦予其無可比擬的地緣戰略縱深",
+          "地形以極具代表性的歐亞大草原為主體，中部與南部點綴著乾旱的半沙漠與荒漠盆地",
+          "東部與東南部群山環抱，天山山脈與阿爾泰山脈直插雲霄，構築起天然的生態屏障"
+        ],
+        "text": "哈薩克國土面積高達 272.5 萬平方公里。其地貌特徵呈現出極具震撼力的「大草原、大荒漠、大高山」之視覺格局。佔國土面積超過三分之一的哈薩克大草原（Kazakh Steppe），是全球面積最大的乾草原區域，地勢平坦開闊，向北緩緩融入西伯利亞低地。而越過中部的哈薩克丘陵向南，地形則逐漸退化為突蘭低地與克孜勒庫姆沙漠（Kyzylkum Desert）。\n\n大自然在東部邊境展現了截然不同的鬼斧神工，雄偉的天山山脈（Tian Shan）與阿爾泰山脈（Altai）在這裡高高聳立，主峰終年冰川覆蓋，融雪孕育了額爾齊斯河、伊犁河等重要水系，並在山麓地帶沖積出土壤肥沃、氣候宜人的綠洲。西部則坐擁綿長的裏海海岸線，卡拉吉耶窪地更低於海平面 132 公尺，多樣化的地理構造使其成為歐亞大陸上無可替代的生態與地理坐標。"
+      }
+    },
+    "climate": {
+      "en": {
+        "list": [
+          "Strong continental climate",
+          "Long, cold winters",
+          "Hot, dry summers",
+          "Large annual temperature ranges"
+        ],
+        "text": "Far from oceans, Kazakhstan experiences pronounced continental seasonality. Winters can be severe, while summer heat and dryness are common across steppe and desert zones."
+      },
+      "zh": {
+        "list": [
+          "深居內陸腹地，屬於極其典型、層次分明的強烈大陸性氣候，極度乾燥",
+          "冬季漫長、酷寒且狂風大作，北部與首都阿斯塔納極端低溫時常逼近 -40°C",
+          "夏季短暫、晴朗且炎熱乾燥，南部草原與荒漠地帶午後高溫可輕鬆突破 40°C",
+          "氣溫年較差與日較差均高居世界前列，四季更迭迅速，降雨量普遍偏少"
+        ],
+        "text": "哈薩克由於遠離任何海洋的滋潤，大西洋與太平洋的濕潤氣流被崇山峻嶺層層阻隔，使其氣候帶有鮮明的「冷熱分明、乾旱少雨」特徵。冬季時，來自西伯利亞的強烈冷氣團毫無阻擋地席捲全國，使阿斯塔納成為全球僅次於烏蘭巴托的第二寒冷首都，降雪期長達數月，暴風雪（Buran）常令草原交通陷入癱瘓。\n\n然而到了夏季， continental 效應又使氣溫急劇攀升，陽光強烈，蒸發量極大。降雨量在地理分布上極不均衡，北部草原年雨量僅約 300 毫米，南部沙漠地區更銳減至 100 毫米以下，唯有東南部山地迎風坡能獲得較為充沛的雨雪滋潤。這種極端的溫差與乾燥環境，淬煉出了哈薩克動植物及傳統遊牧民族極強的環境適應力。"
+      }
+    },
+    "demographics": {
+      "en": {
+        "list": [
+          "Population around 20 million",
+          "Very low population density",
+          "Multi-ethnic society",
+          "Urbanization continues to rise"
+        ],
+        "text": "Population concentrates in northern and southeastern urban regions, including Almaty and Astana. Ethnic Kazakhs form the largest group, with a significant Russian minority and other Central Asian communities. Kazakh is the state language, while Russian remains widely used."
+      },
+      "zh": {
+        "list": [
+          "總人口順利突破 2,000 萬大關，在政府鼓勵生育與移民回流政策下保持健康增長",
+          "每平方公里僅約 7 人的極低人口密度，呈現典型的「國大民稀、城鎮集中」分布格局",
+          "極具代表性的多民族熔爐社會：哈薩克族約佔 70.4%，俄羅斯族約佔 15.5%",
+          "另有烏茲別克族（3.2%）、烏克蘭族（1.9%）、維吾爾族（1.5%）等百餘個民族和睦共處"
+        ],
+        "text": "哈薩克的人口分布與族群構造是一幅兼具突厥血統與前蘇聯移民歷史的精緻馬賽克。在民族結構上，作為主體民族的哈薩克族（Kazakhs）人口佔比已穩步攀升至 70.4% 的主導地位；歷史上因沙俄殖民與蘇聯時期「處女地運動」大量遷入的俄羅斯族（Russians）目前約佔 15.5%，主要集中在北部邊境省份及大型工業城市。宗教信仰呈現雙元格局，約 69% 的人口信奉伊斯蘭教（多為溫和的遜尼派哈納菲學派），約 26% 的人口信奉基督教（主要為俄羅斯東正教），各教派世俗化程度極高，社會關係極為和諧。\n\n在語言使用上，哈薩克語（Kazakh）作為國語，近年在公共教育與官方文件中的地位得到戰略性強化，並正穩步推進向拉丁字母的拼寫轉型；而俄語（Russian）則作為憲法明定的「官方機構與地方自治組織通用語言」，在商務、跨國科技交流與城市日常交往中依舊扮演著不可或缺的跨民族溝通橋樑。目前全國城市化率已超越 62%，人口正加速向阿拉木圖、阿斯塔納及奇姆肯特等三大都市圈集聚。"
+      }
+    },
+    "economy": {
+      "en": {
+        "list": [
+          "Energy exports are a central pillar",
+          "Extensive mineral and uranium resources",
+          "One of Central Asia’s largest economies",
+          "Growing logistics role between China and Europe"
+        ],
+        "text": "Kazakhstan’s resource base includes oil, natural gas, uranium, and metals, making it a major exporter of energy and raw materials. Its position between China and Europe has also driven investment in rail links and logistics corridors for Eurasian trade."
+      },
+      "zh": {
+        "list": [
+          "穩坐中亞第一大經濟體寶座，GDP 規模高居中亞五國總和的三分之二以上",
+          "油氣資源富甲天下，以裏海沿岸的田吉茲、卡沙甘等巨型油田為國家財政支柱",
+          "戰略礦產傲視全球，是全球第一大鈾礦生產與出口國，鉻、鋅、銅儲量名列前茅",
+          "深度對接中國「一帶一路」倡議，霍爾果斯東門無水港構築起跨歐亞的黃金物流咽喉"
+        ],
+        "text": "哈薩克的經濟實力在中亞區域內處於絕對領先的斷層級地位。國家經濟繁榮的核心引擎源自其驚人的資源稟賦。作為全球主要的石油生產國之一，哈薩克已探明石油儲量高居全球前十二，每天源源不斷地透過裏海管線財團（CPC）等跨境管道輸往全球市場。同時，在清潔能源轉型時代，哈薩克掌控著全球 40% 以上的鈾礦供應量，對全球核電產業具有決定性的市場話語權。\n\n為了擺脫單一「資源詛咒」，哈薩克政府正大力實施「光明大道（Nurly Zhol）」新經濟政策，利用其連接中國與歐洲的天然陸路優勢，大舉投資現代化鐵路、霍爾果斯東門（Khorgos Gateway）無水港以及裏海阿克套港（Aktau）的基礎建設。如今，成千上萬列中歐班列橫穿哈薩克草原，將其從一個「陸鎖國」成功蛻變為引領歐亞大陸過境轉口貿易的「陸聯國」。"
+      }
+    },
+    "politics": {
+      "en": {
+        "list": [
+          "Presidential republic",
+          "High degree of political centralization",
+          "Former Soviet republic, independent since 1991",
+          "Maintains a multi-vector foreign policy"
+        ],
+        "text": "Since independence, Kazakhstan has pursued state-building, modernization, and economic reforms while maintaining a balancing approach toward major partners including Russia, China, and Western countries."
+      },
+      "zh": {
+        "list": [
+          "實行強大總統制的共和國，中央政府在國家治理與戰略決策中擁有高度主導權",
+          "順利完成從首任總統納扎爾巴耶夫到現任總統托卡葉夫的權力交接，步入「新哈薩克」時代",
+          "內政上積極推動系統性政治現代化，逐步精簡行政體系並適度擴大議會與地方權限",
+          "外交上奉行精妙的「多方向（Multi-vector）」戰略，在各大強權夾縫中游刃有餘"
+        ],
+        "text": "哈薩克的政治架構兼具威權穩健性與務實改革色彩。自 1991 年獨立至 2019 年，國家在首任總統努爾蘇丹·納扎爾巴耶夫的掌舵下，建立了高度集中的政治體制，確保了國家轉型期的穩定。現任總統卡西姆若馬爾特·托卡葉夫（Kassym-Jomart Tokayev）上台後，特別是在歷經 2022 年「一月事件」的洗禮後，大力破除家族壟斷，提出建設「新哈薩克（New Kazakhstan）」的宏偉藍圖。\n\n政府透過修憲限制總統任期為單一 7 年且不得連任，並引入了更多聽取民意的諮商機制。在涉外外交上，哈薩克堪稱地緣平衡的藝術大師。它既是俄羅斯主導的集體安全條約組織（CSTO）與歐亞經濟聯盟（EAEU）的核心成員，又是中國「一帶一路」最堅定的戰略夥伴，同時與美國、歐盟保持著緊密的能源與投資合作，完美維護了國家的主權獨立與地緣安全。"
+      }
+    },
+    "society": {
+      "en": {
+        "list": [
+          "Rapid urban modernization in major cities",
+          "High education participation",
+          "Relatively moderate living costs",
+          "Persistent urban–rural service gaps"
+        ],
+        "text": "Almaty and Astana have modernized quickly with visible high-rise and infrastructure development. More remote regions can face constraints in healthcare access, transport connectivity, and public services."
+      },
+      "zh": {
+        "list": [
+          "現代化都市風貌發展神速，大都會區居民享有高水準的數字化生活與現代化便利",
+          "得益於「博拉沙克（Bolashak）」等國家獎學金計畫，擁有一大批具備國際視野的高素質青年才俊",
+          "得益於豐富的本土農牧業與廉價的天然氣能源供應，城鎮日常民生生活成本相對溫和",
+          "經濟快速增長背後，發達的現代化大都市與廣袤偏遠草原村鎮之間的基礎差距依舊明顯"
+        ],
+        "text": "哈薩克當前正處於社會全面轉型與階層結構優化的關鍵期。依託穩健的經濟收益，政府對公共教育與公共衛生進行了持續投入，成人識字率高居 99.8% 以上。纳扎尔巴耶夫大学等本土名校的崛起，配合長期資助優秀學子赴歐美留學的國家戰略，為國家培育出了一個規模龐大、精通哈俄英三語的現代中產階級和技術官僚群體。\n\n在城市社會中，行動支付、電子政務（eGov）的普及率名列中亞前茅。然而，如何縮小城鄉之間的公共服務差距依然是政府的施政重心。偏遠草原和舊工業城鎮在冬季供暖基礎修復、高產值就業機會創造以及優質醫療資源分配上，仍與阿拉木圖、阿斯塔納等核心城市存在不小落差，政府目前正透過加大地方基礎設施財政轉移支付力圖破局。"
+      }
+    },
+    "culture": {
+      "en": {
+        "list": [
+          "Deep steppe nomadic traditions",
+          "Islamic and Russian cultural layers coexist",
+          "Horse culture and traditional music are prominent",
+          "A multi-ethnic cultural blend across regions"
+        ],
+        "text": "Kazakh culture is rooted in Turkic steppe heritage, with strong traditions in horsemanship, music, and oral storytelling. Soviet-era legacies also shaped language use and cultural life in many urban areas."
+      },
+      "zh": {
+        "list": [
+          "以無與倫比的「草原遊牧靈魂」為根基，尊崇自然、熱愛自由與慷慨好客根植於民族血脈",
+          "人與馬背的終極文化圖騰，馴馬、賽馬以及精湛的獵鷹捕獵技術至今仍是民族自豪感的象徵",
+          "傳統音樂藝術源遠流長，雙弦撥弦樂器冬不拉（Dombra）的悠揚琴聲是哈薩克精神的化身",
+          "突厥伊斯蘭教傳統與蘇聯歐式古典美學、現代西式流行文化在都市中交融，別具一格"
+        ],
+        "text": "哈薩克的文化是一首在無垠草原上傳唱了千年的金色史詩。遊牧民族的遺傳因子深深形塑了哈薩克人的行為準則——對長者的極致尊崇、對遠方來客傾其所有的熱情款待（Konakasy）。每年春季的「納吾肉孜節（Nauryz）」，人們聚集在傳統的白氈房（Yurt）周圍，分享由七種原料熬製的哈薩克傳統粥，舉行驚險刺激的馬背叼羊（Kokpar）比賽，慶祝萬物復甦。\n\n冬不拉（Dombra）是哈薩克文化無可爭議的標誌，這種看似簡單的樂器能夠模擬出萬馬奔騰或是草原風呼嘯的震撼音效。在文學領域，十九世紀偉大的思想家與詩人阿拜·庫南巴耶夫（Abai Qunanbaiuly）的作品奠定了現代哈薩克文學的基石。今日的哈薩克文化在保留這份驕傲遊牧根基的同時，也大舉接納現代芭蕾、歌劇與國際流行文化，展現出高度的文化自信與包容度。"
+      }
+    },
+    "issues": {
+      "en": {
+        "list": [
+          "Reducing overreliance on energy exports",
+          "Governance reform and social openness debates",
+          "Regional security considerations",
+          "Water and environmental challenges"
+        ],
+        "text": "Kazakhstan has promoted diversification beyond hydrocarbons, while also addressing environmental pressures and the need to modernize governance and employment pathways for younger generations."
+      },
+      "zh": {
+        "list": [
+          "經濟結構的「油氣依賴症」依然顯著，極易受到國際大宗商品價格劇烈波動的衝擊",
+          "如何在維護地緣大局穩定的前提下，穩妥、有序地深化政治體制改革並擴大公民社會參與",
+          "地緣大變局下如何妥善處理複雜敏感的對俄、對華關係，確保國家安全的絕對獨立自主",
+          "蘇聯時期留下的鹹海乾涸生態悲劇、塞米巴拉金斯克核試驗場遺留污染及普遍的水資源短缺"
+        ],
+        "text": "哈薩克在前進的道路上面臨著一系列深層次的結構性與環境挑戰。首當其衝的是轉型發展挑戰，儘管高科技與物流業發展神速，但原油與礦產出口仍佔據外匯收入的大半壁江山，迫切需要培育非資源型製造業與現代服務業。在環境領域，歷史包袱沉重，蘇聯時期過度引水灌溉導致南部的鹹海（Aral Sea）大面積萎縮乾涸，引發嚴重的鹽塵暴；而東北部的塞米巴拉金斯克（Semipalatinsk）曾是蘇聯核心核試驗場，其遺留的放射性土壤修復與周邊居民健康保障仍需長期的國家投入。\n\n此外，中亞地區普遍面臨的跨國「水資源危機」也日益緊迫。哈薩克境內多條主要河流（如伊犁河、額爾齊斯河）均發源於境外，如何在複雜的區域多邊框架下，與上游鄰國協調確保公平、穩定的水資源配額，直接關係到哈薩克南部與東部核心農業區的生死存亡。"
+      }
+    },
+    "landmarks": {
+      "en": {
+        "list": [
+          "Astana — capital and administrative modern center",
+          "Almaty — largest city and finance-cultural hub",
+          "Baikonur Cosmodrome — historic space launch site",
+          "Charyn Canyon — notable natural landscape"
+        ],
+        "text": "Almaty remains a major commercial and education center in the region, while Baikonur is a globally recognized symbol in spaceflight history. Charyn Canyon represents Kazakhstan’s dramatic steppe-and-canyon nature landscapes."
+      },
+      "zh": {
+        "list": [
+          "阿斯塔納（Astana）—— 未來主義與魔幻建築交織的現代首都，巴伊傑列克觀景塔直插雲霄",
+          "阿拉木圖（Almaty）—— 掩映在天山雪山背景下的花園古都，中亞無可爭議的時尚與金融風向標",
+          "拜科努爾航天發射場（Baikonur Cosmodrome）—— 人類探索太空的殿堂起點，加加林升空歷史聖地",
+          "恰倫大峽谷（Charyn Canyon）—— 草原深處的紅色奇蹟，奇峰異石與陡峭斷崖媲美美國科羅拉多"
+        ],
+        "text": "哈薩克的景觀完美融合了人造奇蹟與大自然的壯麗。矗立於首都心臟的巴伊傑列克觀景塔（Bayterek Tower），其設計靈感源自哈薩克神話中神鳥薩姆魯克在生命之樹上產下金蛋的傳說，是國家獨立與欣欣向榮的圖騰符號。而位於廣袤荒原中的拜科努爾航天發射場（Baikonur Cosmodrome），則是人類航天史上不朽的聖地。1957 年人類第一顆人造衛星斯普特尼克一號、1961 年尤里·加加林搭乘東方一號飛向太空的歷史壯舉均在此完成，至今仍是全球頂尖航天發射任務的核心基地。\n\n在自然界，位於阿拉木圖東南的恰倫大峽谷（Charyn Canyon）則展現了時間的刀斧。恰倫河千萬年的沖刷在紅色砂岩上雕刻出長達 90 公里的深邃峽谷，其中的「城堡谷」奇石林立，在夕陽照射下散發著魔幻的赤紅光芒，與遠處天山山脈的皚皚白雪交相輝映，堪稱歐亞內陸的自然視覺極致。"
+      }
+    },
+    "international": {
+      "en": {
+        "list": [
+          "One of the key powers in Central Asia",
+          "Close ties with Russia",
+          "Major node for China’s overland connectivity projects",
+          "Active participation in multilateral diplomacy"
+        ],
+        "text": "Kazakhstan balances relationships with Russia, China, and Western partners while leveraging its geography to position itself as an energy and logistics bridge across Eurasia."
+      },
+      "zh": {
+        "list": [
+          "中亞地緣政治無可爭議的「領頭羊」，在上合組織（SCO）與突厥國家組織中舉足輕重",
+          "與俄羅斯維持長達數千公里邊界的安全依賴，但在主權原則問題上保持高度清醒與獨立",
+          "作為中國「一帶一路」戰略首倡之地，雙方建立起全天候的全面戰略夥伴關係，經貿熱絡",
+          "大力開闢「中間走廊（Middle Corridor）」跨裏海物流線，深化與歐盟及海灣國家的務實對接"
+        ],
+        "text": "哈薩克（Kazakhstan）在國際涉外政治舞台上堪稱大國平衡戰略的教科書。面對北方強鄰俄羅斯，雙方在傳統安全與歷史文化上保持著深厚的歷史同盟關係；與此同時，哈薩克緊緊抓住與中國的經濟合作機遇，作為陸路中歐班列最核心的過境通道，實質性分享了全球第二大經濟體帶來的強勁產業红利。近年來，哈薩克更是積極推動「突厥國家組織（Organization of Turkic States）」的深化合作，力圖在傳統大國夾縫中開闢出一條由突厥民族文化認同引領的第三外交空間。\n\n此外，面對當前變幻莫測的地緣變局，大馬士革般的平衡技巧再次顯現，哈薩克正全力牽頭打造繞開俄羅斯的「跨裏海國際運輸通道（TITR，即中間走廊）」，將中國與中亞的商品透過裏海、高加索直接送抵歐洲。這種高度務實、不選邊站的「多向量外交」，使其成為西方各國、中、俄在歐亞腹地均大力爭取與拉攏的戰略定海神針。"
+      }
+    },
+    "taiwan": {
+      "en": {
+        "list": [
+          "Limited bilateral trade",
+          "Cooperation potential in energy and minerals",
+          "Growing education and cultural exchanges",
+          "A practical node for Central Asian market engagement"
+        ],
+        "text": "Kazakhstan and Taiwan maintain non-official exchanges. Interaction is modest but includes potential cooperation areas in resources, technology, and education."
+      },
+      "zh": {
+        "list": [
+          "雙邊涉外層面無官方直接往來，主要透過台北莫斯科經濟文化協調委員會等渠道間接輻射相關事務",
+          "經貿往來具有鮮明的互補性，台灣（Taiwan）長期從哈薩克進口高純度鉻、鐵等金屬原材料與精煉銅",
+          "台商高科技電子、資通訊基礎零組件與工業自動化設備，近年正積極尋求進入其現代化城市市場",
+          "學術與民間體育、文化交流穩步增加，哈薩克常派出高水準運動代表團赴台參加各類國際錦標賽"
+        ],
+        "text": "哈薩克與台灣之間目前保持著互利互補、純民間非官方的務實經貿與文化往來。在貿易結構上，哈薩克極具優勢的基礎金屬礦產是台灣工業不可或缺的原材料來源，台灣長期穩定向其採購精煉銅、鉻合金及各類工業原材料；而台灣實力雄厚的資通訊（ICT）品牌、工業自動化控制系統、高精密工具機以及醫療器材，也正隨著哈薩克城鎮的現代化建設逐步擴大其在阿斯塔納與阿拉木圖的市場份額。\n\n在民間學術與文教交流領域，雙方互動可圈可點。台灣多所頂尖大學與哈薩克國立大學在語言學、中亞地緣政治研究及新能源技術領域建立了長期的學者互訪與交換學生機制。此外，哈薩克在排球、舉重、拳擊等體育項目上實力超群，其國家代表隊常年赴台參與國際體育賽事，哈薩克選手在台憑藉出眾的運動技能與陽光形象常引發台灣媒體的廣泛正面報導。隨著中亞市場對高科技數位轉型需求的與日俱增，雙方在綠色能源開發、智慧城市系統鋪設等非政治性領域，依然擁有廣闊的民間務實合作沙盤推演空間。"
+      }
+    },
+    "further": {
+      "en": {
+        "list": [
+          "The world’s largest landlocked country",
+          "One of Central Asia’s largest economies",
+          "A leading uranium producer globally",
+          "Home to a historically significant space launch base",
+          "A representative Eurasian steppe cultural landscape"
+        ],
+        "text": "Kazakhstan’s modern identity is shaped by scale, steppe geography, natural resources, and an increasingly important role as a bridge in Eurasian transport and energy systems."
+      },
+      "zh": {
+        "list": [
+          "地表無可撼動的「第一內陸巨人」，將歐亞大陸政治與物流走廊牢牢凝聚的戰略樞紐",
+          "中亞絕無僅有的經濟超級火車頭，以一國之力扛起區域過半以上經濟產值的資源巨擘",
+          "手握全球四成以上的戰略鈾礦產量，在核能新時代擁有不可替代的全球供應鏈話語權",
+          "拜科努爾太空基地的星際圖騰，與阿斯塔納前衛天天際線共同交織出面向未來的民族雄心",
+          "融合了金色草原的遊牧風骨、兆豐地底的黑金紅利與大國平衡外交互補的西亞中亞完全體旗艦大國"
+        ],
+        "text": "從阿爾泰山上直插雲霄、積雪終年不化的神聖雪峰、阿斯塔納璀璨夜空下未來主義建築折射的幻彩光芒，到拜科努爾發射場內火箭升空時震撼大地的轟鳴，以及在嚴酷氣候與地緣大變局夾縫中始終保持世俗化、多邊和睦共處的草原胸懷，哈薩克（Kazakhstan）以其傲視群雄的遼闊領土、富甲天下的戰略資源寶庫，以及在俄、中、美、歐之間揮灑自如的平衡外交藝術，共同向世界勾勒出一個成功跨越轉型期陣痛、以陸路物流新絲路引領歐亞一體化進程並昂首屹立於中亞（Central Asia）最巔峰的完全體旗艦大國輪廓。"
+      }
+    }
+  },
+  "quickFacts": [
+    {
+      "label": "Currency",
+      "value": "Kazakhstani Tenge (KZT)"
+    },
+    {
+      "label": "Language",
+      "value": {
+        "en": "Kazakh, Russian",
+        "zh": "哈薩克語、俄語"
+      }
+    },
+    {
+      "label": "Time zones",
+      "value": {
+        "en": "UTC+5 – UTC+6",
+        "zh": "UTC+5 – UTC+6（跨多個時區）"
+      }
+    },
+    {
+      "label": "Calling code",
+      "value": "+7"
+    },
+    {
+      "label": "ISO code",
+      "value": "KZ / KAZ"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🏔️",
+      "text": {
+        "en": "Tian Shan — major mountain scenery in the southeast shaping landscapes and tourism",
+        "zh": "巍峨雪脊天山山脈（Tian Shan）—— 東南部無與倫比的高山自然景觀。這條雄偉的跨國山系在哈薩克東南邊境綿延，以終年不化的現代冰川、幽深的針葉林峽谷與高山明珠大阿拉木圖湖，構築起國家最頂級的戶外運動、冬季滑雪與生態觀光天堂"
+      }
+    },
+    {
+      "icon": "🛢️",
+      "text": {
+        "en": "Oil & natural gas — a major energy exporter in Central Asia",
+        "zh": "地底黑金與鈾元素寶庫（Oil & Minerals）—— 全球頂級能源出口大國。哈薩克憑藉裏海大盆地儲量驚人的特大型油氣田（如田吉茲油田），以及長年高居全球第一、份額超越 40% 的戰略鈾礦開採實力，成為世界多國多元化能源與核電安全供應鏈中最核心的合作基石"
+      }
+    },
+    {
+      "icon": "🚀",
+      "text": {
+        "en": "Baikonur Cosmodrome — the world’s first major space launch facility",
+        "zh": "航天殿堂拜科努爾（Baikonur Cosmodrome）—— 人類星際探索的終極歷史坐標。作為全球首座且規模最大的現代太空發射基地，這片位於哈薩克荒原之中的聖地，親自見證了第一顆人造衛星升空與加加林飛向宇宙的不朽傳奇，至今依然在國際商業航天領域扮演著舉足輕重的要角色"
+      }
+    },
+    {
+      "icon": "🐎",
+      "text": {
+        "en": "Steppe heritage — deep nomadic traditions and horse culture",
+        "zh": "金色大草原遊牧風骨（Steppe heritage）—— 深入靈魂的手工與馬背文化。萬里開闊的哈薩克大草原孕育了突厥民族源遠流長的駿馬馴化、馴鷹捕獵以及悠揚的冬不拉琴聲，白色的氈房與慷慨好客的草原法典，至今仍是都市與鄉野最引以為傲的精神徽章"
+      }
+    },
+    {
+      "icon": "🌍",
+      "text": {
+        "en": "Eurasian corridor — a key overland hub linking China and Europe",
+        "zh": "新絲路陸運核心咽喉（Eurasian corridor）—— 中歐陸路物流大通道的定海神針。哈薩克依託其橫跨歐亞的無敵地理縱深，將國家戰略與中國「一帶一路」完美對接，透過霍爾果斯東門無水港與跨境鐵路大動脈，成功將傳統內陸國蛻變為撬動整個歐亞轉口貿易的黃金物流樞紐"
+      }
+    }
+  ],
+  "mapOpenUrl": "https://www.openstreetmap.org/relation/214665",
+  "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=46.5%2C40.5%2C87.3%2C55.5&layer=mapnik"
+}
