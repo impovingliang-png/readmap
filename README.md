@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://readmap.idv.tw/">🌐 立刻線上體驗 ReadMap</a> | 
-  <a href="https://readmap.idv.tw/">🤖 立刻查看國家詳細頁</a>
+  <a href="https://readmap.idv.tw/">🤖 立刻查看國家詳細頁</a>| 
   <a href="https://readmap.idv.tw/map/">🤖 立刻體驗互動地圖</a>
 </p>
 
