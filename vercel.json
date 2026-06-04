@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/map/map.html(.*)",
+      "destination": "/map/$1",
+      "permanent": true
+    }
+  ]
+}
